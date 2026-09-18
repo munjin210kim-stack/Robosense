@@ -1,0 +1,12 @@
+{
+  "name": "robosense-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ROBOSENSE - 로보틱스 마켓 인텔리전스 대시보드 (JARVIS 챗봇, Gemini API 연동)",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
