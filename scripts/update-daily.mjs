@@ -45,12 +45,21 @@ const weekday = ['일', '월', '화', '수', '목', '금', '토'][kst.getUTCDay(
 const FALLBACK_CAT = '시장';
 const CATS = ['시장', '경쟁', '기술', '정책'];
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 // ---------- 1. Real news via GNews ----------
-async function fetchGNews(query, lang, max) {
+async function fetchGNews(query, lang, max, attempt = 1) {
   const url =
     'https://gnews.io/api/v4/search?q=' + encodeURIComponent(query) +
     '&lang=' + lang + '&max=' + max + '&sortby=publishedAt&apikey=' + GNEWS_API_KEY;
   const res = await fetch(url);
+  if (res.status === 429 && attempt < 3) {
+    console.warn(`GNews 429(요청 과다), ${attempt}차 재시도 전 대기...`);
+    await sleep(4000 * attempt);
+    return fetchGNews(query, lang, max, attempt + 1);
+  }
   if (!res.ok) {
     const body = await res.text().catch(() => '');
     throw new Error('GNews API 오류 (' + lang + '): ' + res.status + ' ' + body.slice(0, 300));
@@ -154,11 +163,10 @@ function defaultBriefing(krItems, globalItems) {
 }
 
 async function main() {
-  const [krItems, globalItems, fxRate] = await Promise.all([
-    fetchGNews('로봇 OR 로보틱스 OR 협동로봇 OR 휴머노이드', 'ko', 10),
-    fetchGNews('robotics OR "humanoid robot" OR "industrial robot"', 'en', 10),
-    fetchUsdKrw()
-  ]);
+  const krItems = await fetchGNews('로봇 OR 로보틱스 OR 협동로봇 OR 휴머노이드', 'ko', 10);
+  await sleep(2000); // GNews 무료 플랜은 초당 요청 수 제한이 있어 한 박자 쉬고 다음 요청
+  const globalItems = await fetchGNews('robotics OR "humanoid robot" OR "industrial robot"', 'en', 10);
+  const fxRate = await fetchUsdKrw(); // 다른 호스트라 GNews 제한과 무관, 바로 호출
 
   if (krItems.length === 0 && globalItems.length === 0) {
     console.error('GNews에서 기사를 하나도 가져오지 못했습니다. 쿼리나 API 키 상태를 확인해주세요.');
