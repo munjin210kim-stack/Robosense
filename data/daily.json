@@ -1,171 +1,80 @@
 {
-  "asOfDate": "2026.09.18",
+  "asOfDate": "2026.09.19",
   "fx": {
-    "usdkrw": 1470
+    "usdkrw": 1388
   },
   "briefing": {
-    "dateLabel": "2026.09.18 (금)",
-    "headline": "휴머노이드 양산 경쟁 본격화… 물류 자동화 수요는 견조",
-    "summary": "Tesla·Boston Dynamics·Figure AI가 휴머노이드 양산 로드맵을 잇달아 공개하며 피지컬 AI 경쟁이 가속화되는 가운데, 국내는 물류센터 AMR 도입 확대가 시장 성장을 견인하고 있다.",
+    "dateLabel": "2026.09.19 (토)",
+    "headline": "휴머노이드 양산 체제 돌입과 빅테크의 파격적 인재 확보전으로 로보틱스 상용화 가속",
+    "summary": "중국 UBTech의 연 1만 대 생산 공장 가동과 테슬라의 공급망 점검 등 양산 경쟁이 본격화되는 가운데, OpenAI의 고액 연봉 스카우트와 실생활 로봇 서비스 도입이 시장 성장을 이끌고 있습니다.",
     "points": [
-      "Tesla, Optimus Gen3 프리몬트 파일럿 라인 가동… 2026년 내 내부 배치 목표 재확인",
-      "국내 AMR 도입 1년새 40% 증가, 쿠팡·CJ대한통운 등 물류 대기업이 주도",
-      "두산로보틱스, 美 ONExia 인수 효과로 분기 흑자 전환… 협동로봇 반등 신호"
+      "UBTech의 세계 최초 휴머노이드 전용 공장 가동 및 테슬라의 옵티머스 양산 전 공급망 점검 등 제조/양산 경쟁 본격화",
+      "OpenAI의 최대 50만 달러 수준 로보틱스 엔지니어 파격 채용 등 글로벌 AI 빅테크의 로봇 소프트웨어 인재 확보 경쟁 격화",
+      "원격 제어 홈 클리닝 휴머노이드 서비스, $3,000대 반려 AI 로봇, 토요타의 공장 자동화 대규모 투자 등 서비스 및 산업 현장 적용 다변화"
     ]
   },
   "news": {
-    "kr": [
-      {
-        "date": "2026-09-17",
-        "cat": "경쟁",
-        "title": "두산로보틱스, 美 SI 기업 ONExia 인수 후 북미 매출 첫 흑자 전환"
-      },
-      {
-        "date": "2026-09-15",
-        "cat": "정책",
-        "title": "산업부, 로봇산업 국가전략기술 R&D 예산 6조원대로 확대 편성"
-      },
-      {
-        "date": "2026-09-12",
-        "cat": "시장",
-        "title": "국내 물류로봇(AMR) 도입 1년새 40% 증가…쿠팡·CJ대한통운 주도"
-      },
-      {
-        "date": "2026-09-10",
-        "cat": "기술",
-        "title": "레인보우로보틱스, 양팔 협동로봇 신모델 공개…AI 파지 정확도 개선"
-      },
-      {
-        "date": "2026-09-08",
-        "cat": "경쟁",
-        "title": "HD현대로보틱스-한화로보틱스, 협동로봇 시장서 정면 경쟁 심화"
-      },
-      {
-        "date": "2026-09-05",
-        "cat": "시장",
-        "title": "국내 로봇산업 상반기 수출 15% 증가…휴머노이드 부품 수요 견인"
-      },
-      {
-        "date": "2026-08-29",
-        "cat": "기술",
-        "title": "레인보우로보틱스-삼성전자, 휴머노이드 양산형 시제품 로드맵 공개"
-      },
-      {
-        "date": "2026-08-22",
-        "cat": "정책",
-        "title": "스마트공장 보급사업, 로봇 SI 통합 솔루션 지원 예산 신설"
-      },
-      {
-        "date": "2026-08-15",
-        "cat": "경쟁",
-        "title": "두산로보틱스, 유럽 법인 확대…독일 SI 파트너십 체결"
-      },
-      {
-        "date": "2026-08-05",
-        "cat": "시장",
-        "title": "국내 협동로봇 판매량 분기 최대치…자동차 부품사 중심 도입 확산"
-      },
-      {
-        "date": "2026-07-28",
-        "cat": "기술",
-        "title": "클로봇, 이기종 로봇 통합관제(ACS) 플랫폼 고도화 발표"
-      },
-      {
-        "date": "2026-07-14",
-        "cat": "경쟁",
-        "title": "삼성전자 DS부문, 반도체 팹 내 AMR 물류 자동화 확대 적용"
-      },
-      {
-        "date": "2026-07-02",
-        "cat": "시장",
-        "title": "뉴로메카, 협동로봇 라인업 확장…중소 제조업체向 저가형 출시"
-      },
-      {
-        "date": "2026-06-25",
-        "cat": "정책",
-        "title": "고용노동부, 로봇-인간 협업 안전기준 개정안 발표"
-      },
-      {
-        "date": "2026-06-19",
-        "cat": "기술",
-        "title": "로보티즈, 실내 배송 서비스로봇 3세대 모델 양산 착수"
-      }
-    ],
+    "kr": [],
     "global": [
       {
+        "date": "2026-09-18",
+        "title": "Startup Funding News Today, September 18, 2026: Arcos, Crusoe, dtcpay, EVAS Intelligence, Ryft & More",
+        "url": "https://techstartups.com/2026/09/18/startup-funding-news-today-september-18-2026-arcos-crusoe-dtcpay-evas-intelligence-ryft-more/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-18",
+        "title": "OpenAI’s highest robotics salary is $500,000, and it is not for building robots",
+        "url": "https://thenextweb.com/news/openai-robotics-engineer-salaries-500000",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-09-18",
+        "title": "Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources",
+        "url": "https://www.scmp.com/business/companies/article/3368053/tesla-auditing-chinese-suppliers-ahead-optimus-roll-out-sources",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-09-18",
+        "title": "News from the Baton Rouge area community",
+        "url": "https://www.theadvocate.com/baton_rouge/entertainment_life/hope-group-west-baton-rouge-garden-civic-club-denham-springs-robotics-team/article_cf911d3e-ac79-4f5f-8586-ab6a05fc05d1.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-18",
+        "title": "Humanoid robot kicks remote from engineer’s hand during China test",
+        "url": "https://www.moneycontrol.com/news/trends/humanoid-robot-kicks-remote-from-engineer-s-hand-during-china-test-14033008.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-18",
+        "title": "San Francisco startup sends humanoid robots to clean homes for $30 an hour, but humans still control the machines remotely",
+        "url": "https://timesofindia.indiatimes.com/world/us/san-francisco-startup-sends-humanoid-robots-to-clean-homes-for-30-an-hour-but-humans-still-control-the-machines-remotely/articleshow/134329002.cms",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-18",
+        "title": "OpenAI Is Offering Robotics Engineers up to $500,000 in Salary",
+        "url": "https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-09-18",
+        "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
+        "url": "https://www.reuters.com/business/autos-transportation/toyota-estimates-factory-automation-could-cost-64-billion-per-year-2028-2026-09-18/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-18",
+        "title": "China’s UBTech opens world-first factory that builds a humanoid robot every ten minutes — 14,000 square meter plant will deliver army of 10,000 robots a year",
+        "url": "https://www.techradar.com/tech/chinas-ubtech-opens-world-first-factory-that-builds-a-humanoid-robot-every-ten-minutes-14-000-square-meter-plant-will-deliver-army-of-10-000-robots-a-year",
+        "cat": "경쟁"
+      },
+      {
         "date": "2026-09-17",
-        "cat": "기술",
-        "title": "Tesla, Optimus Gen3 프리몬트 공장 파일럿 라인 가동 개시"
-      },
-      {
-        "date": "2026-09-16",
-        "cat": "경쟁",
-        "title": "Figure AI, 대규모 추가 투자 유치…기업가치 400억달러 돌파"
-      },
-      {
-        "date": "2026-09-14",
-        "cat": "기술",
-        "title": "Boston Dynamics, Atlas 상용 배치 확대…물류센터 파일럿 진행"
-      },
-      {
-        "date": "2026-09-11",
-        "cat": "시장",
-        "title": "IFR, \"2026년 산업용 로봇 설치대수 전년比 두 자릿수 증가\" 전망"
-      },
-      {
-        "date": "2026-09-09",
-        "cat": "경쟁",
-        "title": "UBTECH, 중국 제조사 대상 휴머노이드 공급계약 대거 체결"
-      },
-      {
-        "date": "2026-09-06",
-        "cat": "정책",
-        "title": "美, 로봇·자동화 핵심부품 대중(對中) 수출통제 강화 검토"
-      },
-      {
-        "date": "2026-08-30",
-        "cat": "시장",
-        "title": "아마존, 풀필먼트센터 로봇 도입률 75% 돌파…인력구조 재편"
-      },
-      {
-        "date": "2026-08-24",
-        "cat": "기술",
-        "title": "Physical Intelligence, 범용 로봇 파운데이션 모델 신버전 공개"
-      },
-      {
-        "date": "2026-08-18",
-        "cat": "경쟁",
-        "title": "Agility Robotics, 물류센터向 Digit 로봇 유럽 첫 배치"
-      },
-      {
-        "date": "2026-08-10",
-        "cat": "시장",
-        "title": "유럽 협동로봇 시장 성장 둔화…중국산 저가 공세 영향"
-      },
-      {
-        "date": "2026-08-02",
-        "cat": "기술",
-        "title": "NVIDIA, 로봇 파운데이션모델 학습용 신규 시뮬레이션 플랫폼 공개"
-      },
-      {
-        "date": "2026-07-26",
-        "cat": "정책",
-        "title": "EU, AI 로봇 안전·인증 규제안 최종 표결 앞둬"
-      },
-      {
-        "date": "2026-07-19",
-        "cat": "경쟁",
-        "title": "중국 Unitree, 휴머노이드 3천달러대 모델로 가격 파괴"
-      },
-      {
-        "date": "2026-07-09",
-        "cat": "시장",
-        "title": "맥킨지, \"2030년 물류자동화 시장 2배 성장\" 보고서 발표"
-      },
-      {
-        "date": "2026-06-28",
-        "cat": "기술",
-        "title": "현대차-Boston Dynamics, Atlas 차세대 손 그리퍼 공개"
+        "title": "Vbot Launched SuperDog, a $3,000 AI Robot Companion, in Europe at IFA 2026",
+        "url": "https://www.ubergizmo.com/2026/09/vbot-launches-superdog-a-3000-ai-robot-companion-in-europe-at-ifa-2026/",
+        "cat": "시장"
       }
     ]
   }
