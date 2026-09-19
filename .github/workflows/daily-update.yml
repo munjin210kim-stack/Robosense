@@ -21,9 +21,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run Gemini-powered update script
+      - name: Run daily update script (GNews + Gemini)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         run: node scripts/update-daily.mjs
 
       - name: Commit and push if data changed
