@@ -1,21 +1,45 @@
 {
-  "asOfDate": "2026.09.19",
+  "asOfDate": "2026.09.20",
   "fx": {
     "usdkrw": 1388
   },
   "briefing": {
-    "dateLabel": "2026.09.19 (토)",
-    "headline": "글로벌 테크 기업들의 인재 확보전 속 휴머노이드 로봇 대량 양산 및 상용화 경쟁 가속화",
-    "summary": "OpenAI의 파격적인 인재 영입과 테슬라·유비텍의 양산 체제 구축 등 휴머노이드 로봇 상용화를 향한 산업 전반의 경쟁이 본격적으로 격화되고 있습니다.",
+    "dateLabel": "2026.09.20 (일)",
+    "headline": "테슬라의 옵티머스 공급망 점검과 원격 제어 휴머노이드 상용화 시도가 로보틱스 시장의 핵심 화두로 떠올랐습니다.",
+    "summary": "휴머노이드 로봇의 본격적인 양산 준비와 가정·서비스 분야 적용이 구체화되는 한편, 빅테크의 인재 확보 경쟁과 로봇-인간 상호작용 이슈도 함께 주목받고 있습니다.",
     "points": [
-      "OpenAI가 로보틱스 엔지니어에게 최대 50만 달러의 연봉을 제시하는 등 핵심 인재 확보 경쟁 과열",
-      "중국 유비텍의 연 1만 대 규모 휴머노이드 전용 공장 가동 및 테슬라의 옵티머스 출시 전 공급망 점검 등 양산 경쟁 본격화",
-      "도요타의 공장 자동화 대규모 투자 전망 및 원격 제어 청소 로봇, AI 반려 로봇 등 실생활 적용 사례 확대"
+      "테슬라, 휴머노이드 로봇 '옵티머스' 양산을 앞두고 핵심 부품 조달을 위해 중국 공급망 대상 감사 진행",
+      "샌프란시스코 스타트업, 인간의 원격 조종 기반으로 시간당 30달러에 제공되는 가정용 청소 휴머노이드 서비스 가동",
+      "OpenAI의 50만 달러 상당 로보틱스 인재 채용 등 경쟁 심화와 함께 도로 배송·매장 안내 로봇 등 실생활 접점 확대"
     ]
   },
   "news": {
     "kr": [],
     "global": [
+      {
+        "date": "2026-09-19",
+        "title": "Delivery robots swarm Chicago sidewalk in viral video",
+        "url": "https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "Nirmitee Robotics adopts FY26 accounts, regularizes director appointment at 10th AGM",
+        "url": "https://scanx.trade/stock-market-news/companies/nirmitee-robotics-adopts-fy26-accounts-regularizes-director/51355681",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "Russian store robot ‘kicks’ customer who shoved it",
+        "url": "https://www.thenews.com.pk/latest/1416806-russian-store-robot-kicks-customer-who-shoved-it",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "Bothaus Coffee - Sudo Developer Center / HCCH Studio",
+        "url": "https://www.archdaily.com/1185091/bothaus-coffee-sudo-developer-center-hcch-studio",
+        "cat": "시장"
+      },
       {
         "date": "2026-09-18",
         "title": "Startup Funding News Today, September 18, 2026: Arcos, Crusoe, dtcpay, EVAS Intelligence, Ryft & More",
@@ -50,30 +74,6 @@
         "date": "2026-09-18",
         "title": "San Francisco startup sends humanoid robots to clean homes for $30 an hour, but humans still control the machines remotely",
         "url": "https://timesofindia.indiatimes.com/world/us/san-francisco-startup-sends-humanoid-robots-to-clean-homes-for-30-an-hour-but-humans-still-control-the-machines-remotely/articleshow/134329002.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-18",
-        "title": "OpenAI Is Offering Robotics Engineers up to $500,000 in Salary",
-        "url": "https://www.businessinsider.com/openai-is-offering-robotics-engineers-up-to-500-000-in-salary-2026-9",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-18",
-        "title": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
-        "url": "https://www.reuters.com/business/autos-transportation/toyota-estimates-factory-automation-could-cost-64-billion-per-year-2028-2026-09-18/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-18",
-        "title": "China’s UBTech opens world-first factory that builds a humanoid robot every ten minutes — 14,000 square meter plant will deliver army of 10,000 robots a year",
-        "url": "https://www.techradar.com/tech/chinas-ubtech-opens-world-first-factory-that-builds-a-humanoid-robot-every-ten-minutes-14-000-square-meter-plant-will-deliver-army-of-10-000-robots-a-year",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-17",
-        "title": "Vbot Launched SuperDog, a $3,000 AI Robot Companion, in Europe at IFA 2026",
-        "url": "https://www.ubergizmo.com/2026/09/vbot-launches-superdog-a-3000-ai-robot-companion-in-europe-at-ifa-2026/",
         "cat": "기술"
       }
     ]
