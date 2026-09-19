@@ -1227,13 +1227,27 @@ async function sendMessage(rawText){
 }
 
 /* ============================= INIT ============================= */
-document.addEventListener('DOMContentLoaded', function(){
+function boot(){
   renderAll();
   wireEvents();
   document.getElementById('btnNewsMore') && document.getElementById('btnNewsMore').addEventListener('click', function(e){
     e.stopPropagation();
     openNewsDetail();
   });
+}
+document.addEventListener('DOMContentLoaded', function(){
+  fetch('data/daily.json', {cache:'no-store'})
+    .then(function(r){ return r.ok ? r.json() : null; })
+    .catch(function(){ return null; })
+    .then(function(d){
+      if(d && typeof d === 'object'){
+        if(d.asOfDate) DATA.asOfDate = d.asOfDate;
+        if(d.fx) DATA.fx = d.fx;
+        if(d.briefing) DATA.briefing = d.briefing;
+        if(d.news && Array.isArray(d.news.kr) && Array.isArray(d.news.global)) DATA.news = d.news;
+      }
+      boot();
+    });
 });
 
 })();

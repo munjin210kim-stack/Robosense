@@ -5,7 +5,7 @@
 // Required environment variable (set in Vercel Project Settings -> Environment Variables):
 //   GEMINI_API_KEY = <your Gemini API key from https://aistudio.google.com/apikey>
 // Optional:
-//   GEMINI_MODEL   = gemini-2.5-flash (default) | gemini-2.5-flash-lite | gemini-2.5-pro | ...
+//   GEMINI_MODEL   = gemini-3.6-flash (default) | gemini-2.5-flash | gemini-3.1-flash-lite | ...
 
 module.exports = async function handler(req, res) {
   if (req.method !== 'POST') {
