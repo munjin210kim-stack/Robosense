@@ -41,7 +41,7 @@ module.exports = async function handler(req, res) {
       },
       body: JSON.stringify({
         contents: [{ role: 'user', parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.7, maxOutputTokens: 640 }
+        generationConfig: { temperature: 0.7, maxOutputTokens: 2048 }
       })
     });
 
