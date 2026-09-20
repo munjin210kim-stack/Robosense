@@ -66,12 +66,23 @@ async function fetchGNews(query, lang, max, attempt = 1) {
   }
   const data = await res.json();
   const articles = Array.isArray(data.articles) ? data.articles : [];
+  console.log(`GNews[${lang}] "${query}" -> ${articles.length}건`);
   return articles.map((a) => ({
     date: (a.publishedAt || '').slice(0, 10) || todayIsoFallback(),
     title: (a.title || '').trim(),
     url: a.url || '',
     cat: FALLBACK_CAT
   })).filter((a) => a.title);
+}
+
+// 복잡한 OR 쿼리가 특정 언어에서 0건을 반환하는 경우가 있어, 더 단순한 쿼리로 순차 재시도
+async function fetchGNewsWithFallback(queries, lang, max) {
+  for (let i = 0; i < queries.length; i++) {
+    if (i > 0) await sleep(1500);
+    const items = await fetchGNews(queries[i], lang, max);
+    if (items.length > 0) return items;
+  }
+  return [];
 }
 function todayIsoFallback() {
   return `${y}-${m}-${d}`;
@@ -163,9 +174,15 @@ function defaultBriefing(krItems, globalItems) {
 }
 
 async function main() {
-  const krItems = await fetchGNews('로봇 OR 로보틱스 OR 협동로봇 OR 휴머노이드', 'ko', 10);
+  const krItems = await fetchGNewsWithFallback(
+    ['로봇 OR 로보틱스 OR 협동로봇 OR 휴머노이드', '로보틱스', '로봇'],
+    'ko', 10
+  );
   await sleep(2000); // GNews 무료 플랜은 초당 요청 수 제한이 있어 한 박자 쉬고 다음 요청
-  const globalItems = await fetchGNews('robotics OR "humanoid robot" OR "industrial robot"', 'en', 10);
+  const globalItems = await fetchGNewsWithFallback(
+    ['robotics OR "humanoid robot" OR "industrial robot"', 'robotics', 'robot'],
+    'en', 10
+  );
   const fxRate = await fetchUsdKrw(); // 다른 호스트라 GNews 제한과 무관, 바로 호출
 
   if (krItems.length === 0 && globalItems.length === 0) {
