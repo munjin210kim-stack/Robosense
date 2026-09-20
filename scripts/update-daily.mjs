@@ -116,7 +116,7 @@ async function categorizeAndBrief(krItems, globalItems) {
   const listText = (items, label) =>
     label + ':\n' + items.map((it, i) => `${i + 1}. (${it.date}) ${it.title}`).join('\n');
 
-  const prompt = `다음은 방금 실제 뉴스 API로 가져온 로보틱스 산업 관련 기사 목록입니다. 제목/날짜는 이미 확정된 실제 데이터이므로 절대 새로 만들거나 바꾸지 마세요.
+  const prompt = `다음은 방금 실제 뉴스 API로 가져온 로보틱스 산업 관련 기사 목록입니다. 날짜와 원문 제목은 이미 확정된 실제 데이터이므로 사실관계를 새로 만들거나 바꾸지 마세요. [한국 기사] 목록은 한국 지역 소스에서 가져왔지만 원문이 영어인 경우가 섞여 있습니다.
 
 ${listText(krItems, '[한국 기사]')}
 
@@ -124,14 +124,16 @@ ${listText(globalItems, '[해외 기사]')}
 
 작업:
 1. 각 기사를 "시장" | "경쟁" | "기술" | "정책" 중 하나로 분류 (기사 순서를 그대로 유지한 배열로)
-2. 위 기사들 전체를 참고해서 오늘(${todayDot}, ${weekday}요일)의 로보틱스 시장 브리핑을 작성:
+2. [한국 기사] 목록의 각 제목을 자연스러운 한국어로 번역/의역 (이미 한국어면 그대로, 영어면 의미를 살려 한국어 헤드라인으로 번역 — 기사 순서를 그대로 유지한 배열로, 사실관계는 바꾸지 말 것)
+3. 오늘(${todayDot}, ${weekday}요일)의 로보틱스 시장 브리핑을 **전부 한국어로만** 작성 (영어 문장 포함 금지):
    - headline: 오늘의 핵심 헤드라인 한 문장
    - summary: 로보틱스 시장 현황 요약 한 문장
-   - points: 핵심 뉴스/트렌드 3개 (배열)
+   - points: 핵심 뉴스/트렌드 정확히 3개 — [한국 기사] 중 2개, [해외 기사] 중 1개를 골라 각각 한국어 한 문장으로 요약 (해외 기사도 반드시 한국어로 번역/요약할 것, 영어 원문 그대로 쓰지 말 것)
 
 다른 설명 없이 아래 JSON 형식으로만 출력하세요:
 {
   "krCats": ["시장", "기술", ...],
+  "krTitlesKo": ["한국어로 번역된 한국기사 제목1", "..."],
   "globalCats": ["경쟁", "정책", ...],
   "briefing": {
     "headline": "...",
@@ -193,6 +195,11 @@ function applyCats(items, cats) {
   return items.map((it, i) => ({ ...it, cat: CATS.includes(cats[i]) ? cats[i] : FALLBACK_CAT }));
 }
 
+function applyKoTitles(items, titlesKo) {
+  if (!Array.isArray(titlesKo) || titlesKo.length !== items.length) return items;
+  return items.map((it, i) => (titlesKo[i] ? { ...it, title: titlesKo[i] } : it));
+}
+
 function defaultBriefing(krItems, globalItems) {
   return {
     headline: '로보틱스 산업 최신 동향',
@@ -232,7 +239,7 @@ async function main() {
 
   const enrichment = await categorizeAndBrief(krItems, globalItems);
 
-  const finalKr = enrichment ? applyCats(krItems, enrichment.krCats) : krItems;
+  const finalKr = enrichment ? applyKoTitles(applyCats(krItems, enrichment.krCats), enrichment.krTitlesKo) : krItems;
   const finalGlobal = enrichment ? applyCats(globalItems, enrichment.globalCats) : globalItems;
   const briefing = enrichment && enrichment.briefing
     ? enrichment.briefing
