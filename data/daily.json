@@ -6,13 +6,76 @@
   "briefing": {
     "dateLabel": "2026.09.21 (월)",
     "headline": "로보틱스 산업 최신 동향",
-    "summary": "2026.09.21 기준 국내외 로보틱스 업계 주요 뉴스 10건을 정리했습니다.",
+    "summary": "2026.09.21 기준 국내외 로보틱스 업계 주요 뉴스 20건을 정리했습니다.",
     "points": [
-      "BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology"
+      "Faraday Future Launches Four Industry Productivity Solutions, Nine New EAI Devices at Its 919 Event, Building Its “One-Brain Multi-Form Multi-Capability” FF EAI Robot World 2.0; All-New Futurist Now o",
+      "BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology",
+      "China's autonomous 'bionic robot' fish looks just like the real one, perfect for covert military operations — Robocean BG5 could also be used to track poachers"
     ]
   },
   "news": {
-    "kr": [],
+    "kr": [
+      {
+        "date": "2026-09-20",
+        "title": "Faraday Future Launches Four Industry Productivity Solutions, Nine New EAI Devices at Its 919 Event, Building Its “One-Brain Multi-Form Multi-Capability” FF EAI Robot World 2.0; All-New Futurist Now o",
+        "url": "https://www.wallstreet-online.de/nachricht/21403950-faraday-future-launches-four-industry-productivity-solutions-nine-new-eai-devices-at-its-919-event-building-its-one-brain-multi-form-multi-capability-ff-eai-robot-world-2-0-all-new-futurist-now-on-sale-and-master-mini-starts-at-9-990",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "China's autonomous 'bionic robot' fish looks just like the real one, perfect for covert military operations — Robocean BG5 could also be used to track poachers",
+        "url": "https://www.techradar.com/pro/chinas-autonomous-bionic-robot-fish-looks-just-like-the-real-one-perfect-for-covert-military-operations-robocean-bg5-could-also-be-used-to-track-poachers",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "Ready Cities Put a New Price Tag on Korea’s Physical AI Ambitions",
+        "url": "https://www.europesays.com/3260928/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "El gadget del sábado: DJI ROMO P2, el robot que limpia como si tuviera ojos y brazos",
+        "url": "https://www.larazon.es/tecnologia/gadget-sabado-dji-romo-robot-que-limpia-como-tuviera-ojos-brazos_202609196aaefae1842478155a40e674.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "China is readying the world's first giant submarine UAV carrier — built with a 1115ft dock, the unnamed mothership could be longer (and bigger) than WW2 light aircraft carriers and carry 148ft underwa",
+        "url": "https://www.techradar.com/pro/china-is-readying-the-worlds-first-giant-submarine-uav-carrier-built-with-a-1115ft-dock-the-unnamed-mothership-could-be-longer-and-bigger-than-ww2-light-aircraft-carriers-and-carry-148ft-underwater-drones",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "Adieu la corvée des vitres, ce robot laveur s'occupe de tout pour moins de 170 €",
+        "url": "https://www.20minutes.fr/guide-achat/guide-maison/4246298-20260919-adieu-corvee-vitres-robot-laveur-occupe-tout-moins-170",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "Après plusieurs mois d’hésitation, je suis enfin passée à l’aspirateur robot : Voici mon verdict",
+        "url": "https://www.20minutes.fr/guide-achat/guide-achat-bon-plan-cdiscount/4246236-20260919-apres-plusieurs-mois-hesitation-enfin-passee-aspirateur-robot-voici-verdict",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "Scientists Sent a Robot 3 Miles Below the Ocean-What It Found Is a Warning",
+        "url": "https://www.newsweek.com/scientists-sent-a-robot-3-miles-below-the-oceanwhat-it-found-is-a-warning-12448232",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "ISS Receives Control System For Russia’s Future Space Humanoid Robot",
+        "url": "https://sputnikglobe.com/20260919/iss-receives-control-system-for-russias-future-space-humanoid-robot-1124762568.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-19",
+        "title": "इंसानों की नहीं, अब रोबोट्स की सेहत का रखेगी ख्याल, जापान में तैयार हुई खास एंबुलेंस",
+        "url": "https://navbharatlive.com/technology/special-ambulance-developed-in-japan-will-now-look-after-the-health-of-robots-srs13",
+        "cat": "시장"
+      }
+    ],
     "global": [
       {
         "date": "2026-09-20",
