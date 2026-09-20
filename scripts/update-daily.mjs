@@ -24,6 +24,7 @@ import path from 'node:path';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const GNEWS_API_KEY = process.env.GNEWS_API_KEY;
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
+const GEMINI_MODEL_FALLBACK = process.env.GEMINI_MODEL_FALLBACK || 'gemini-3.1-flash-lite';
 
 if (!GEMINI_API_KEY) {
   console.error('GEMINI_API_KEY 환경변수가 없습니다. (GitHub 저장소 Settings > Secrets and variables > Actions)');
@@ -139,24 +140,33 @@ ${listText(globalItems, '[해외 기사]')}
   }
 }`;
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
-  let res;
-  for (let attempt = 1; attempt <= 3; attempt++) {
-    res = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'x-goog-api-key': GEMINI_API_KEY },
-      body: JSON.stringify({
-        contents: [{ role: 'user', parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0.4, maxOutputTokens: 2048 }
-      })
-    });
-    if (res.ok) break;
-    if ((res.status === 503 || res.status === 429) && attempt < 3) {
-      console.warn(`Gemini ${res.status}(일시적 오류), ${attempt}차 재시도 전 대기...`);
-      await sleep(3000 * attempt);
-      continue;
+  const callModel = async (model) => {
+    let r;
+    for (let attempt = 1; attempt <= 3; attempt++) {
+      r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'x-goog-api-key': GEMINI_API_KEY },
+        body: JSON.stringify({
+          contents: [{ role: 'user', parts: [{ text: prompt }] }],
+          generationConfig: { temperature: 0.4, maxOutputTokens: 2048 }
+        })
+      });
+      if (r.ok) return r;
+      if ((r.status === 503 || r.status === 429) && attempt < 3) {
+        console.warn(`Gemini[${model}] ${r.status}(일시적 오류), ${attempt}차 재시도 전 대기...`);
+        await sleep(3000 * attempt);
+        continue;
+      }
+      break;
     }
-    break;
+    return r;
+  };
+
+  let res = await callModel(GEMINI_MODEL);
+  if (!res.ok && GEMINI_MODEL !== GEMINI_MODEL_FALLBACK) {
+    console.warn(`Gemini[${GEMINI_MODEL}] 계속 실패(${res.status}), 대체 모델(${GEMINI_MODEL_FALLBACK})로 재시도...`);
+    await sleep(1000);
+    res = await callModel(GEMINI_MODEL_FALLBACK);
   }
 
   if (!res.ok) {
