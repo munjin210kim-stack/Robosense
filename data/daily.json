@@ -1,80 +1,78 @@
 {
-  "asOfDate": "2026.09.20",
+  "asOfDate": "2026.09.21",
   "fx": {
     "usdkrw": 1388
   },
   "briefing": {
-    "dateLabel": "2026.09.20 (일)",
-    "headline": "테슬라의 옵티머스 공급망 점검과 원격 제어 휴머노이드 상용화 시도가 로보틱스 시장의 핵심 화두로 떠올랐습니다.",
-    "summary": "휴머노이드 로봇의 본격적인 양산 준비와 가정·서비스 분야 적용이 구체화되는 한편, 빅테크의 인재 확보 경쟁과 로봇-인간 상호작용 이슈도 함께 주목받고 있습니다.",
+    "dateLabel": "2026.09.21 (월)",
+    "headline": "로보틱스 산업 최신 동향",
+    "summary": "2026.09.21 기준 국내외 로보틱스 업계 주요 뉴스 10건을 정리했습니다.",
     "points": [
-      "테슬라, 휴머노이드 로봇 '옵티머스' 양산을 앞두고 핵심 부품 조달을 위해 중국 공급망 대상 감사 진행",
-      "샌프란시스코 스타트업, 인간의 원격 조종 기반으로 시간당 30달러에 제공되는 가정용 청소 휴머노이드 서비스 가동",
-      "OpenAI의 50만 달러 상당 로보틱스 인재 채용 등 경쟁 심화와 함께 도로 배송·매장 안내 로봇 등 실생활 접점 확대"
+      "BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology"
     ]
   },
   "news": {
     "kr": [],
     "global": [
       {
-        "date": "2026-09-19",
-        "title": "Delivery robots swarm Chicago sidewalk in viral video",
-        "url": "https://www.foxnews.com/tech/delivery-robots-swarm-chicago-sidewalk-viral-video",
+        "date": "2026-09-20",
+        "title": "BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/bsnl-deputy-general-manager-urges-engineering-students-to-embrace-ai-robotics-and-quantum-technology/article71484459.ece",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "Egocentric training's gig workers are helping robots learn how to do your dishes",
+        "url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "Faraday Future Launches Four Industry Productivity Solutions, Nine New EAI Devices at Its 919 Event, Building Its “One-Brain Multi-Form Multi-Capability” FF EAI Robot World 2.0; All-New Futurist Now o",
+        "url": "https://www.wallstreet-online.de/nachricht/21403950-faraday-future-launches-four-industry-productivity-solutions-nine-new-eai-devices-at-its-919-event-building-its-one-brain-multi-form-multi-capability-ff-eai-robot-world-2-0-all-new-futurist-now-on-sale-and-master-mini-starts-at-9-990",
         "cat": "시장"
       },
       {
         "date": "2026-09-19",
-        "title": "Nirmitee Robotics adopts FY26 accounts, regularizes director appointment at 10th AGM",
-        "url": "https://scanx.trade/stock-market-news/companies/nirmitee-robotics-adopts-fy26-accounts-regularizes-director/51355681",
+        "title": "Students display innovation at Bihar Robotics Competition",
+        "url": "https://timesofindia.indiatimes.com/city/patna/students-display-innovation-at-bihar-robotics-competition/articleshow/134357892.cms",
         "cat": "시장"
       },
       {
         "date": "2026-09-19",
-        "title": "Russian store robot ‘kicks’ customer who shoved it",
-        "url": "https://www.thenews.com.pk/latest/1416806-russian-store-robot-kicks-customer-who-shoved-it",
-        "cat": "기술"
+        "title": "Creative minds exhibit engineering skills at graVITas’ 26 at VIT",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/creative-minds-exhibit-engineering-skills-at-gravitas-26-at-vit/article71484528.ece",
+        "cat": "시장"
       },
       {
         "date": "2026-09-19",
-        "title": "Bothaus Coffee - Sudo Developer Center / HCCH Studio",
-        "url": "https://www.archdaily.com/1185091/bothaus-coffee-sudo-developer-center-hcch-studio",
+        "title": "AI Tracker: From smart packaging to AI travel agents",
+        "url": "https://www.financialexpress.com/life/technology/ai-tracker-from-smart-packaging-to-ai-travel-agents/4343059/",
         "cat": "시장"
       },
       {
-        "date": "2026-09-18",
-        "title": "Startup Funding News Today, September 18, 2026: Arcos, Crusoe, dtcpay, EVAS Intelligence, Ryft & More",
-        "url": "https://techstartups.com/2026/09/18/startup-funding-news-today-september-18-2026-arcos-crusoe-dtcpay-evas-intelligence-ryft-more/",
+        "date": "2026-09-19",
+        "title": "ISS Receives Control System For Russia’s Future Space Humanoid Robot",
+        "url": "https://sputnikglobe.com/20260919/iss-receives-control-system-for-russias-future-space-humanoid-robot-1124762568.html",
         "cat": "시장"
       },
       {
-        "date": "2026-09-18",
-        "title": "OpenAI’s highest robotics salary is $500,000, and it is not for building robots",
-        "url": "https://thenextweb.com/news/openai-robotics-engineer-salaries-500000",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-18",
-        "title": "Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources",
-        "url": "https://www.scmp.com/business/companies/article/3368053/tesla-auditing-chinese-suppliers-ahead-optimus-roll-out-sources",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-18",
-        "title": "News from the Baton Rouge area community",
-        "url": "https://www.theadvocate.com/baton_rouge/entertainment_life/hope-group-west-baton-rouge-garden-civic-club-denham-springs-robotics-team/article_cf911d3e-ac79-4f5f-8586-ab6a05fc05d1.html",
+        "date": "2026-09-19",
+        "title": "Russian Scientists Develop Smart Fluid That Switches From Soft to Hard",
+        "url": "https://sputnikglobe.com/20260919/russian-scientists-develop-smart-fluid-that-switches-from-soft-to-hard-1124762416.html",
         "cat": "시장"
       },
       {
-        "date": "2026-09-18",
-        "title": "Humanoid robot kicks remote from engineer’s hand during China test",
-        "url": "https://www.moneycontrol.com/news/trends/humanoid-robot-kicks-remote-from-engineer-s-hand-during-china-test-14033008.html",
-        "cat": "기술"
+        "date": "2026-09-19",
+        "title": "Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI",
+        "url": "https://www.tribuneindia.com/news/business/xinhua-finance-robotics-contest-highlights-chongqing-districts-push-into-embodied-ai/",
+        "cat": "시장"
       },
       {
-        "date": "2026-09-18",
-        "title": "San Francisco startup sends humanoid robots to clean homes for $30 an hour, but humans still control the machines remotely",
-        "url": "https://timesofindia.indiatimes.com/world/us/san-francisco-startup-sends-humanoid-robots-to-clean-homes-for-30-an-hour-but-humans-still-control-the-machines-remotely/articleshow/134329002.cms",
-        "cat": "기술"
+        "date": "2026-09-19",
+        "title": "Genrobotics signs MoU with South Africa’s Armscor for defence, space robotics collaboration",
+        "url": "https://theprint.in/india/genrobotics-signs-mou-with-south-africas-armscor-for-defence-space-robotics-collaboration/3047423/",
+        "cat": "시장"
       }
     ]
   }
