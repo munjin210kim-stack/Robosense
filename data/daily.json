@@ -5,73 +5,73 @@
   },
   "briefing": {
     "dateLabel": "2026.09.21 (월)",
-    "headline": "로보틱스 산업 최신 동향",
-    "summary": "2026.09.21 기준 국내외 로보틱스 업계 주요 뉴스 20건을 정리했습니다.",
+    "headline": "글로벌 로보틱스 산업, 산업용 EAI 솔루션부터 특수 목적 로봇까지 다각화 가속",
+    "summary": "산업 현장의 생산성 향상을 위한 EAI 로봇 도입과 국방 및 우주 분야의 특수 로봇 개발이 로보틱스 시장의 주요 흐름을 주도하고 있습니다.",
     "points": [
-      "Faraday Future Launches Four Industry Productivity Solutions, Nine New EAI Devices at Its 919 Event, Building Its “One-Brain Multi-Form Multi-Capability” FF EAI Robot World 2.0; All-New Futurist Now o",
-      "BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology",
-      "China's autonomous 'bionic robot' fish looks just like the real one, perfect for covert military operations — Robocean BG5 could also be used to track poachers"
+      "패러데이 퓨처가 919 행사를 통해 산업 생산성 솔루션과 9종의 새로운 EAI 로봇을 공개하며 로봇 생태계 확장에 나섰습니다.",
+      "중국이 실제 물고기와 구분이 어려운 생체 모방 로봇 물고기를 개발하여 군사 작전 및 밀렵 감시 등 다양한 분야에 활용할 전망입니다.",
+      "인도의 젠로보틱스가 남아프리카공화국의 암스코어와 국방 및 우주 로봇 분야 협력을 위한 양해각서를 체결하며 글로벌 기술 협력을 강화하고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
         "date": "2026-09-20",
-        "title": "Faraday Future Launches Four Industry Productivity Solutions, Nine New EAI Devices at Its 919 Event, Building Its “One-Brain Multi-Form Multi-Capability” FF EAI Robot World 2.0; All-New Futurist Now o",
+        "title": "패러데이 퓨처, 919 행사서 4대 산업 생산성 솔루션 및 9종의 EAI 로봇 신제품 공개",
         "url": "https://www.wallstreet-online.de/nachricht/21403950-faraday-future-launches-four-industry-productivity-solutions-nine-new-eai-devices-at-its-919-event-building-its-one-brain-multi-form-multi-capability-ff-eai-robot-world-2-0-all-new-futurist-now-on-sale-and-master-mini-starts-at-9-990",
         "cat": "시장"
       },
       {
         "date": "2026-09-20",
-        "title": "China's autonomous 'bionic robot' fish looks just like the real one, perfect for covert military operations — Robocean BG5 could also be used to track poachers",
+        "title": "중국의 자율형 '생체 모방 로봇' 물고기, 실제와 흡사해 은밀한 군사 작전 및 밀렵꾼 추적에 활용 가능",
         "url": "https://www.techradar.com/pro/chinas-autonomous-bionic-robot-fish-looks-just-like-the-real-one-perfect-for-covert-military-operations-robocean-bg5-could-also-be-used-to-track-poachers",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-09-19",
-        "title": "Ready Cities Put a New Price Tag on Korea’s Physical AI Ambitions",
+        "title": "한국의 물리적 AI 야망에 새로운 가격표를 매기는 준비된 도시들",
         "url": "https://www.europesays.com/3260928/",
-        "cat": "시장"
+        "cat": "정책"
       },
       {
         "date": "2026-09-19",
-        "title": "El gadget del sábado: DJI ROMO P2, el robot que limpia como si tuviera ojos y brazos",
+        "title": "토요일의 가젯: 눈과 팔이 달린 것처럼 청소하는 로봇, DJI ROMO P2",
         "url": "https://www.larazon.es/tecnologia/gadget-sabado-dji-romo-robot-que-limpia-como-tuviera-ojos-brazos_202609196aaefae1842478155a40e674.html",
         "cat": "시장"
       },
       {
         "date": "2026-09-19",
-        "title": "China is readying the world's first giant submarine UAV carrier — built with a 1115ft dock, the unnamed mothership could be longer (and bigger) than WW2 light aircraft carriers and carry 148ft underwa",
+        "title": "중국, 세계 최초의 거대 잠수함 무인기 모함 건조 중: 1,115피트 도크와 148피트 수중 드론 탑재 가능",
         "url": "https://www.techradar.com/pro/china-is-readying-the-worlds-first-giant-submarine-uav-carrier-built-with-a-1115ft-dock-the-unnamed-mothership-could-be-longer-and-bigger-than-ww2-light-aircraft-carriers-and-carry-148ft-underwater-drones",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-09-19",
-        "title": "Adieu la corvée des vitres, ce robot laveur s'occupe de tout pour moins de 170 €",
+        "title": "창문 닦기 노동으로부터의 해방, 170유로 미만의 로봇 창문 청소기",
         "url": "https://www.20minutes.fr/guide-achat/guide-maison/4246298-20260919-adieu-corvee-vitres-robot-laveur-occupe-tout-moins-170",
         "cat": "시장"
       },
       {
         "date": "2026-09-19",
-        "title": "Après plusieurs mois d’hésitation, je suis enfin passée à l’aspirateur robot : Voici mon verdict",
+        "title": "수개월간의 고민 끝에 드디어 로봇 청소기를 구매했습니다: 사용 후기",
         "url": "https://www.20minutes.fr/guide-achat/guide-achat-bon-plan-cdiscount/4246236-20260919-apres-plusieurs-mois-hesitation-enfin-passee-aspirateur-robot-voici-verdict",
         "cat": "시장"
       },
       {
         "date": "2026-09-19",
-        "title": "Scientists Sent a Robot 3 Miles Below the Ocean-What It Found Is a Warning",
+        "title": "과학자들이 심해 3마일 아래로 로봇을 보냈고, 그곳에서 발견한 것은 경고였다",
         "url": "https://www.newsweek.com/scientists-sent-a-robot-3-miles-below-the-oceanwhat-it-found-is-a-warning-12448232",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-09-19",
-        "title": "ISS Receives Control System For Russia’s Future Space Humanoid Robot",
+        "title": "국제우주정거장(ISS), 러시아의 미래 우주 휴머노이드 로봇 제어 시스템 수령",
         "url": "https://sputnikglobe.com/20260919/iss-receives-control-system-for-russias-future-space-humanoid-robot-1124762568.html",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-09-19",
-        "title": "इंसानों की नहीं, अब रोबोट्स की सेहत का रखेगी ख्याल, जापान में तैयार हुई खास एंबुलेंस",
+        "title": "이제 사람이 아닌 로봇이 건강을 돌본다, 일본에서 개발된 특수 구급차",
         "url": "https://navbharatlive.com/technology/special-ambulance-developed-in-japan-will-now-look-after-the-health-of-robots-srs13",
         "cat": "시장"
       }
@@ -87,7 +87,7 @@
         "date": "2026-09-20",
         "title": "Egocentric training's gig workers are helping robots learn how to do your dishes",
         "url": "https://www.abc.net.au/news/2026-09-20/egocentric-training-gig-workers-helping-robots-learn-tasks/107135216",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-09-20",
@@ -117,13 +117,13 @@
         "date": "2026-09-19",
         "title": "ISS Receives Control System For Russia’s Future Space Humanoid Robot",
         "url": "https://sputnikglobe.com/20260919/iss-receives-control-system-for-russias-future-space-humanoid-robot-1124762568.html",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-09-19",
         "title": "Russian Scientists Develop Smart Fluid That Switches From Soft to Hard",
         "url": "https://sputnikglobe.com/20260919/russian-scientists-develop-smart-fluid-that-switches-from-soft-to-hard-1124762416.html",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-09-19",
@@ -135,7 +135,7 @@
         "date": "2026-09-19",
         "title": "Genrobotics signs MoU with South Africa’s Armscor for defence, space robotics collaboration",
         "url": "https://theprint.in/india/genrobotics-signs-mou-with-south-africas-armscor-for-defence-space-robotics-collaboration/3047423/",
-        "cat": "시장"
+        "cat": "경쟁"
       }
     ]
   }
