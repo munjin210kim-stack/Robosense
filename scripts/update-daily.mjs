@@ -50,23 +50,30 @@ function sleep(ms) {
 }
 
 // ---------- 1. Real news via GNews ----------
-async function fetchGNews(query, lang, max, attempt = 1) {
-  const url =
-    'https://gnews.io/api/v4/search?q=' + encodeURIComponent(query) +
-    '&lang=' + lang + '&max=' + max + '&sortby=publishedAt&apikey=' + GNEWS_API_KEY;
+async function fetchGNews(query, params, max, attempt = 1) {
+  const qs = new URLSearchParams();
+  qs.set('q', query);
+  if (params.lang) qs.set('lang', params.lang);
+  if (params.country) qs.set('country', params.country);
+  qs.set('max', String(max));
+  qs.set('sortby', 'publishedAt');
+  qs.set('apikey', GNEWS_API_KEY);
+  const url = 'https://gnews.io/api/v4/search?' + qs.toString();
+
   const res = await fetch(url);
+  const tag = (params.lang ? 'lang=' + params.lang : '') + (params.country ? ' country=' + params.country : '');
   if (res.status === 429 && attempt < 3) {
     console.warn(`GNews 429(요청 과다), ${attempt}차 재시도 전 대기...`);
     await sleep(4000 * attempt);
-    return fetchGNews(query, lang, max, attempt + 1);
+    return fetchGNews(query, params, max, attempt + 1);
   }
   if (!res.ok) {
     const body = await res.text().catch(() => '');
-    throw new Error('GNews API 오류 (' + lang + '): ' + res.status + ' ' + body.slice(0, 300));
+    throw new Error('GNews API 오류 (' + tag + '): ' + res.status + ' ' + body.slice(0, 300));
   }
   const data = await res.json();
   const articles = Array.isArray(data.articles) ? data.articles : [];
-  console.log(`GNews[${lang}] "${query}" -> ${articles.length}건`);
+  console.log(`GNews[${tag}] "${query}" -> ${articles.length}건`);
   return articles.map((a) => ({
     date: (a.publishedAt || '').slice(0, 10) || todayIsoFallback(),
     title: (a.title || '').trim(),
@@ -75,11 +82,12 @@ async function fetchGNews(query, lang, max, attempt = 1) {
   })).filter((a) => a.title);
 }
 
-// 복잡한 OR 쿼리가 특정 언어에서 0건을 반환하는 경우가 있어, 더 단순한 쿼리로 순차 재시도
-async function fetchGNewsWithFallback(queries, lang, max) {
-  for (let i = 0; i < queries.length; i++) {
+// 특정 lang/country 조합이 0건을 반환하는 경우가 있어, attempts 목록을 순서대로 재시도
+// attempts: [{query, params: {lang?, country?}}, ...]
+async function fetchGNewsWithFallback(attempts, max) {
+  for (let i = 0; i < attempts.length; i++) {
     if (i > 0) await sleep(1500);
-    const items = await fetchGNews(queries[i], lang, max);
+    const items = await fetchGNews(attempts[i].query, attempts[i].params, max);
     if (items.length > 0) return items;
   }
   return [];
@@ -132,14 +140,24 @@ ${listText(globalItems, '[해외 기사]')}
 }`;
 
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', 'x-goog-api-key': GEMINI_API_KEY },
-    body: JSON.stringify({
-      contents: [{ role: 'user', parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.4, maxOutputTokens: 2048 }
-    })
-  });
+  let res;
+  for (let attempt = 1; attempt <= 3; attempt++) {
+    res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'x-goog-api-key': GEMINI_API_KEY },
+      body: JSON.stringify({
+        contents: [{ role: 'user', parts: [{ text: prompt }] }],
+        generationConfig: { temperature: 0.4, maxOutputTokens: 2048 }
+      })
+    });
+    if (res.ok) break;
+    if ((res.status === 503 || res.status === 429) && attempt < 3) {
+      console.warn(`Gemini ${res.status}(일시적 오류), ${attempt}차 재시도 전 대기...`);
+      await sleep(3000 * attempt);
+      continue;
+    }
+    break;
+  }
 
   if (!res.ok) {
     console.warn('Gemini 카테고리/브리핑 생성 실패 (' + res.status + '), 기본값으로 진행합니다.');
@@ -175,13 +193,25 @@ function defaultBriefing(krItems, globalItems) {
 
 async function main() {
   const krItems = await fetchGNewsWithFallback(
-    ['로봇 OR 로보틱스 OR 협동로봇 OR 휴머노이드', '로보틱스', '로봇'],
-    'ko', 10
+    [
+      { query: '로봇 OR 로보틱스 OR 협동로봇 OR 휴머노이드', params: { lang: 'ko' } },
+      { query: '로보틱스', params: { lang: 'ko' } },
+      { query: '로봇', params: { lang: 'ko' } },
+      // lang=ko가 0건일 때가 있어, 한국 지역(country) 기준으로도 재시도
+      { query: '로봇 OR 로보틱스 OR 휴머노이드', params: { country: 'kr' } },
+      { query: '로봇', params: { country: 'kr' } },
+      { query: 'robot', params: { country: 'kr' } }
+    ],
+    10
   );
   await sleep(2000); // GNews 무료 플랜은 초당 요청 수 제한이 있어 한 박자 쉬고 다음 요청
   const globalItems = await fetchGNewsWithFallback(
-    ['robotics OR "humanoid robot" OR "industrial robot"', 'robotics', 'robot'],
-    'en', 10
+    [
+      { query: 'robotics OR "humanoid robot" OR "industrial robot"', params: { lang: 'en' } },
+      { query: 'robotics', params: { lang: 'en' } },
+      { query: 'robot', params: { lang: 'en' } }
+    ],
+    10
   );
   const fxRate = await fetchUsdKrw(); // 다른 호스트라 GNews 제한과 무관, 바로 호출
 
