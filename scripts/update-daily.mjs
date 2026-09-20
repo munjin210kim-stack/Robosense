@@ -150,7 +150,7 @@ ${listText(globalItems, '[해외 기사]')}
         headers: { 'Content-Type': 'application/json', 'x-goog-api-key': GEMINI_API_KEY },
         body: JSON.stringify({
           contents: [{ role: 'user', parts: [{ text: prompt }] }],
-          generationConfig: { temperature: 0.4, maxOutputTokens: 2048 }
+          generationConfig: { temperature: 0.4, maxOutputTokens: 6144 }
         })
       });
       if (r.ok) return r;
