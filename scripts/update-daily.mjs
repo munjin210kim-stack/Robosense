@@ -74,13 +74,30 @@ async function fetchGNews(query, params, max, attempt = 1) {
   }
   const data = await res.json();
   const articles = Array.isArray(data.articles) ? data.articles : [];
-  console.log(`GNews[${tag}] "${query}" -> ${articles.length}건`);
-  return articles.map((a) => ({
+  const mapped = articles.map((a) => ({
     date: (a.publishedAt || '').slice(0, 10) || todayIsoFallback(),
     title: (a.title || '').trim(),
     url: a.url || '',
     cat: FALLBACK_CAT
   })).filter((a) => a.title && a.url);
+  const deduped = dedupe(mapped);
+  console.log(`GNews[${tag}] "${query}" -> 원본 ${articles.length}건 / 중복제거 후 ${deduped.length}건`);
+  return deduped;
+}
+
+// GNews가 같은 기사(또는 동일 보도자료를 재배포한 기사)를 URL/제목만 다르게 여러 번 주는 경우가 있어 중복 제거
+function dedupe(items) {
+  const seenUrl = new Set();
+  const seenTitle = new Set();
+  const out = [];
+  for (const it of items) {
+    const titleKey = it.title.trim().toLowerCase();
+    if (seenUrl.has(it.url) || seenTitle.has(titleKey)) continue;
+    seenUrl.add(it.url);
+    seenTitle.add(titleKey);
+    out.push(it);
+  }
+  return out;
 }
 
 // 특정 lang/country 조합이 0건을 반환하는 경우가 있어, attempts 목록을 순서대로 재시도
