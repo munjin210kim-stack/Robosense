@@ -775,7 +775,7 @@ function renderBriefing(){
 
 /* ============================= RENDER: NEWS COMPACT ============================= */
 function newsRow(n){
-  return '<a class="news-row" href="' + googleNewsUrl(n.title) + '" target="_blank" rel="noopener">' +
+  return '<a class="news-row" href="' + escapeHtml(n.url || googleNewsUrl(n.title)) + '" target="_blank" rel="noopener">' +
     '<span class="news-date">' + shortDate(n.date) + '</span>' +
     '<span class="news-title">' + escapeHtml(n.title) + '</span>' +
     '<span class="news-cat">' + n.cat + '</span></a>';
@@ -794,7 +794,7 @@ function renderNewsCompact(){
 
 /* ============================= RENDER: NEWS DETAIL ============================= */
 function detailRow(n){
-  return '<a class="detail-row" href="' + googleNewsUrl(n.title) + '" target="_blank" rel="noopener">' +
+  return '<a class="detail-row" href="' + escapeHtml(n.url || googleNewsUrl(n.title)) + '" target="_blank" rel="noopener">' +
     '<span class="detail-date">' + dotDate(n.date) + '</span>' +
     '<span class="detail-title">' + escapeHtml(n.title) + '</span>' +
     '<span class="tag">' + n.cat + '</span></a>';
