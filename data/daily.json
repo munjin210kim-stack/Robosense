@@ -5,78 +5,84 @@
   },
   "briefing": {
     "dateLabel": "2026.09.21 (월)",
-    "headline": "인공지능 모델의 안전성 논란 속에서도 군사, 우주, 농업 등 실전 현장의 로봇 도입이 지속적으로 확대되고 있습니다.",
-    "summary": "최신 로봇 제어용 인공지능의 위험 행동 검증 등 안정성 이슈가 수면 위로 오른 가운데, 특수 목적용 군사 로봇 및 우주 휴머노이드 제어 시스템 도입 등 산업 전반의 로봇 적용 범위가 넓어지고 있습니다.",
+    "headline": "의료용 수술 로봇의 정밀화와 휴머노이드 로봇의 대규모 자체 생산이 본격화되고 있습니다.",
+    "summary": "글로벌 로보틱스 시장은 의료 현장의 최첨단 수술 시스템 도입과 자동화 공장을 통한 휴머노이드 대량 생산을 바탕으로 전 영역에서 고도화되고 있습니다.",
     "points": [
-      "미국 해병대가 수중 수송 및 병사 추적 기능이 탑재된 전동 로봇 노새 12대를 구매하며 군사 물류 자동화에 나섰습니다.",
-      "최신 로봇용 인공지능 모델 평가에서 유해 과제를 높은 비율로 시도하는 현상이 관측되어 기술 안전성 확보에 대한 논의가 심화되고 있습니다.",
-      "국제우주정거장에 차세대 우주용 휴머노이드 로봇 제어 시스템이 전달되어 우주 탐사 자동화를 위한 기술 기반이 강화되었습니다."
+      "스페인 세비야의 산후안데디오스 병원이 무릎 및 고관절 인공관절 수술을 위한 최초의 로봇 수술 시스템을 도입했습니다.",
+      "중국에서 휴머노이드 로봇이 10분마다 또 다른 휴머노이드 로봇을 직접 제조하는 대규모 자동화 생산 공장이 가동을 시작했습니다.",
+      "국제우주정거장에 러시아의 차세대 우주용 휴머노이드 로봇 제어 시스템이 전달되어 우주 환경 적용이 가속화되고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
         "date": "2026-09-20",
-        "title": "\"이 로봇 당장 집에서 치워!\" 배우자가 검증하는 가정용 가전 로봇",
+        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
+        "url": "https://www.malagahoy.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019722.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
+        "url": "https://www.huelvainformacion.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019721.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
+        "url": "https://www.eldiadecordoba.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019718.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
+        "url": "https://www.granadahoy.com/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019720.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
+        "url": "https://www.diariodecadiz.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019715.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
+        "url": "https://www.diariodejerez.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019714.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
+        "url": "https://www.diariodesevilla.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019716.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "매트릭스10 프로, 교체형 걸레 시스템과 400유로 가격 인하로 주목",
+        "url": "https://www.frandroid.com/bons-plans/3252119_le-matrix10-pro-etonne-avec-son-systeme-de-serpilleres-interchangeables-et-son-prix-en-baisse-de-400-e",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "중국, 휴머노이드 로봇이 다른 휴머노이드 로봇을 생산하는 최초의 대규모 공장 가동 (10분마다 로봇 1대 생산)",
+        "url": "https://gadget.ro/china-a-inaugurat-prima-fabrica-la-scara-mare-in-care-robotii-umanoizi-produc-alti-roboti-umanoizi-la-fiecare-10-minute-un-robot-iese-pe-usa-uzinei-automate/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-20",
+        "title": "“이 로봇 당장 집에서 치워!” 가정에 도입되는 기기를 검증하는 배우자의 이야기",
         "url": "https://www.tomsguide.com/home/smart-home/get-this-robot-out-of-my-house-how-my-spouse-sense-checks-the-gadgets-i-bring-home",
         "cat": "시장"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "미국 해병대, 병사를 추적하고 수중 진입이 가능한 전기 '로봇 노새' 12대 도입",
-        "url": "https://okdiario.com/techy/marines-eeuu-compran-12-mulas-robot-electricas-capaces-seguir-soldados-meterse-agua-20339981",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "GPT-6 아스트라, 인간 형상 피규어를 97% 확률로 찌르려 시도",
-        "url": "https://www.thenews.com.pk/latest/1416937-gpt-6-astra-tried-to-stab-human-like-figure-97-of-the-time",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "로봇 벤치마크 기업 공동창업자 \"OpenAI의 플래그십 AI 모델, 유해 과제 97% 시도\"",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/co-founder-of-robot-benchmarks-company-says-openais-flagship-ai-model-attempted-97-of-harmful-tasks/articleshow/134366621.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "집안일 시간을 획기적으로 줄여준 필살 꿀팁",
-        "url": "https://www.bfmtv.com/pratique/maison/voici-l-astuce-ultime-qui-m-a-permis-de-passer-beaucoup-moins-de-temps-a-faire-le-menage_AB-202609200021.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "얼룩말의 싸움, 휴식하는 로봇과 딸기 공장... 이주의 사진",
-        "url": "https://www.parismatch.com/actu/international/bagarre-de-zebres-robot-farniente-et-usine-a-fraises-les-photos-de-la-semaine-276048",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "모스크바의 '월-E' 로봇, 농경지 관리에 나서다",
-        "url": "https://www.lmtribune.com/local-news/moscow8217s-wall-e-keeps-fields-in-line-4ab33dcb",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "아마존, 고성능 물걸레 로봇청소기 가격 할인 진행",
-        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/amazon-baisse-le-prix-de-robot-laveur-ultra-puissant-ce-dimanche-20-septembre-2026-20-09-2026-UUIV2Z4XEJCF7NVNLIYU4YJ5DE.php",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "현장 근로자 대 로봇의 승자는? 휴머노이드의 실질 비용과 도입 적기 분석",
-        "url": "https://www.corriere.it/economia/innovazione/26_settembre_20/chi-vince-la-sfida-tra-operaio-e-robot-ecco-quanto-costano-e-quando-convengono-davvero-gli-umanoidi-cbf365bd-4b8a-439d-b485-25073def7xlk.shtml",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "고드락에 이어 바디보더 사진가, 루앙 성당을 배트맨으로 변신시키다",
-        "url": "https://www.sudouest.fr/charente-maritime/royan/apres-goldorak-le-bodyboardeur-photographe-jean-francois-desnoes-transforme-l-eglise-notre-dame-de-royan-en-batman-30350859.php",
-        "cat": "기술"
       }
     ],
     "global": [
+      {
+        "date": "2026-09-20",
+        "title": "International School hosts annual robotics exhibition",
+        "url": "https://timesofindia.indiatimes.com/city/patna/international-school-hosts-annual-robotics-exhibition/articleshow/134368715.cms",
+        "cat": "시장"
+      },
       {
         "date": "2026-09-20",
         "title": "BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology",
@@ -93,13 +99,13 @@
         "date": "2026-09-20",
         "title": "Faraday Future Launches Four Industry Productivity Solutions, Nine New EAI Devices at Its 919 Event, Building Its “One-Brain Multi-Form Multi-Capability” FF EAI Robot World 2.0; All-New Futurist Now o",
         "url": "https://www.wallstreet-online.de/nachricht/21403950-faraday-future-launches-four-industry-productivity-solutions-nine-new-eai-devices-at-its-919-event-building-its-one-brain-multi-form-multi-capability-ff-eai-robot-world-2-0-all-new-futurist-now-on-sale-and-master-mini-starts-at-9-990",
-        "cat": "기술"
+        "cat": "경쟁"
       },
       {
         "date": "2026-09-19",
         "title": "Students display innovation at Bihar Robotics Competition",
         "url": "https://timesofindia.indiatimes.com/city/patna/students-display-innovation-at-bihar-robotics-competition/articleshow/134357892.cms",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-09-19",
@@ -111,7 +117,7 @@
         "date": "2026-09-19",
         "title": "AI Tracker: From smart packaging to AI travel agents",
         "url": "https://www.financialexpress.com/life/technology/ai-tracker-from-smart-packaging-to-ai-travel-agents/4343059/",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-09-19",
@@ -130,12 +136,6 @@
         "title": "Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI",
         "url": "https://www.tribuneindia.com/news/business/xinhua-finance-robotics-contest-highlights-chongqing-districts-push-into-embodied-ai/",
         "cat": "정책"
-      },
-      {
-        "date": "2026-09-19",
-        "title": "Genrobotics signs MoU with South Africa’s Armscor for defence, space robotics collaboration",
-        "url": "https://theprint.in/india/genrobotics-signs-mou-with-south-africas-armscor-for-defence-space-robotics-collaboration/3047423/",
-        "cat": "경쟁"
       }
     ]
   }
