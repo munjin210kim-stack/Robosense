@@ -80,7 +80,7 @@ async function fetchGNews(query, params, max, attempt = 1) {
     title: (a.title || '').trim(),
     url: a.url || '',
     cat: FALLBACK_CAT
-  })).filter((a) => a.title);
+  })).filter((a) => a.title && a.url);
 }
 
 // 특정 lang/country 조합이 0건을 반환하는 경우가 있어, attempts 목록을 순서대로 재시도
