@@ -5,73 +5,37 @@
   },
   "briefing": {
     "dateLabel": "2026.09.21 (월)",
-    "headline": "의료용 수술 로봇의 정밀화와 휴머노이드 로봇의 대규모 자체 생산이 본격화되고 있습니다.",
-    "summary": "글로벌 로보틱스 시장은 의료 현장의 최첨단 수술 시스템 도입과 자동화 공장을 통한 휴머노이드 대량 생산을 바탕으로 전 영역에서 고도화되고 있습니다.",
+    "headline": "휴머노이드 로봇 대량 생산 시대 개막과 로봇 기술의 일상화 가속",
+    "summary": "의료, 가전, 제조 등 산업 전반에서 로봇 도입이 활발해지는 가운데, 휴머노이드 로봇의 대량 생산 체계가 구축되며 시장의 패러다임이 변화하고 있습니다.",
     "points": [
-      "스페인 세비야의 산후안데디오스 병원이 무릎 및 고관절 인공관절 수술을 위한 최초의 로봇 수술 시스템을 도입했습니다.",
-      "중국에서 휴머노이드 로봇이 10분마다 또 다른 휴머노이드 로봇을 직접 제조하는 대규모 자동화 생산 공장이 가동을 시작했습니다.",
-      "국제우주정거장에 러시아의 차세대 우주용 휴머노이드 로봇 제어 시스템이 전달되어 우주 환경 적용이 가속화되고 있습니다."
+      "중국에서 10분마다 휴머노이드 로봇이 생산되는 세계 최초의 대규모 자동화 공장이 가동을 시작했습니다.",
+      "스페인의 산 후안 데 디오스 병원이 세비야 지역 최초로 무릎 및 고관절 수술용 로봇 시스템을 도입했습니다.",
+      "러시아 과학자들이 부드러운 상태와 딱딱한 상태를 자유롭게 전환할 수 있는 스마트 유체 기술을 개발했습니다."
     ]
   },
   "news": {
     "kr": [
       {
         "date": "2026-09-20",
-        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
+        "title": "산 후안 데 디오스 병원, 세비야 최초의 무릎 및 고관절 인공관절 수술 로봇 시스템 도입",
         "url": "https://www.malagahoy.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019722.html",
         "cat": "기술"
       },
       {
         "date": "2026-09-20",
-        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
-        "url": "https://www.huelvainformacion.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019721.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
-        "url": "https://www.eldiadecordoba.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019718.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
-        "url": "https://www.granadahoy.com/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019720.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
-        "url": "https://www.diariodecadiz.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019715.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
-        "url": "https://www.diariodejerez.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019714.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "산후안데디오스 병원, 세비야 최초로 무릎 및 고관절 인공관절 로봇 수술 시스템 도입",
-        "url": "https://www.diariodesevilla.es/salud/investigacion-tecnologia/hospital-san-juan-dios-incorpora_0_2008019716.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-20",
-        "title": "매트릭스10 프로, 교체형 걸레 시스템과 400유로 가격 인하로 주목",
+        "title": "매트릭스10 프로, 교체형 걸레 시스템과 400유로 인하된 가격으로 주목",
         "url": "https://www.frandroid.com/bons-plans/3252119_le-matrix10-pro-etonne-avec-son-systeme-de-serpilleres-interchangeables-et-son-prix-en-baisse-de-400-e",
         "cat": "시장"
       },
       {
         "date": "2026-09-20",
-        "title": "중국, 휴머노이드 로봇이 다른 휴머노이드 로봇을 생산하는 최초의 대규모 공장 가동 (10분마다 로봇 1대 생산)",
+        "title": "중국, 10분마다 휴머노이드 로봇이 생산되는 세계 최초의 대규모 자동화 공장 가동",
         "url": "https://gadget.ro/china-a-inaugurat-prima-fabrica-la-scara-mare-in-care-robotii-umanoizi-produc-alti-roboti-umanoizi-la-fiecare-10-minute-un-robot-iese-pe-usa-uzinei-automate/",
         "cat": "기술"
       },
       {
         "date": "2026-09-20",
-        "title": "“이 로봇 당장 집에서 치워!” 가정에 도입되는 기기를 검증하는 배우자의 이야기",
+        "title": "“당장 이 로봇 치워!” 배우자가 가전제품 구매를 검증하는 방식에 대하여",
         "url": "https://www.tomsguide.com/home/smart-home/get-this-robot-out-of-my-house-how-my-spouse-sense-checks-the-gadgets-i-bring-home",
         "cat": "시장"
       }
@@ -105,13 +69,13 @@
         "date": "2026-09-19",
         "title": "Students display innovation at Bihar Robotics Competition",
         "url": "https://timesofindia.indiatimes.com/city/patna/students-display-innovation-at-bihar-robotics-competition/articleshow/134357892.cms",
-        "cat": "기술"
+        "cat": "시장"
       },
       {
         "date": "2026-09-19",
         "title": "Creative minds exhibit engineering skills at graVITas’ 26 at VIT",
         "url": "https://www.thehindu.com/news/national/tamil-nadu/creative-minds-exhibit-engineering-skills-at-gravitas-26-at-vit/article71484528.ece",
-        "cat": "기술"
+        "cat": "시장"
       },
       {
         "date": "2026-09-19",
@@ -135,7 +99,7 @@
         "date": "2026-09-19",
         "title": "Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI",
         "url": "https://www.tribuneindia.com/news/business/xinhua-finance-robotics-contest-highlights-chongqing-districts-push-into-embodied-ai/",
-        "cat": "정책"
+        "cat": "시장"
       }
     ]
   }
