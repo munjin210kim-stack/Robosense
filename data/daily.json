@@ -1,123 +1,123 @@
 {
-  "asOfDate": "2026.09.22",
+  "asOfDate": "2026.09.23",
   "fx": {
-    "usdkrw": 1372
+    "usdkrw": 1356
   },
   "briefing": {
-    "dateLabel": "2026.09.22 (화)",
-    "headline": "휴머노이드 로봇의 상업적 논란과 기술적 진보가 공존하는 로보틱스 시장",
-    "summary": "최근 로보틱스 업계는 휴머노이드 로봇의 실전 활용에 대한 기대와 우려가 교차하는 가운데, 가전 및 건설 분야의 상용화가 가속화되고 있습니다.",
+    "dateLabel": "2026.09.23 (수)",
+    "headline": "로보틱스 기술의 산업적 확장과 인간과의 상호작용이 화두로 떠오른 하루",
+    "summary": "로봇의 MMA 격투 등 엔터테인먼트 분야의 화제성과 함께 건설, 반도체 등 산업 현장에서의 로봇 도입 및 시장 성장이 가속화되고 있습니다.",
     "points": [
-      "미국 인플루언서가 6피트 높이의 휴머노이드 로봇과 격투를 벌이는 영상이 공개되면서 로봇의 안전성과 규제에 대한 논란이 확산되고 있습니다.",
-      "드리미 테크놀로지가 인도 시장에 스팀 청소 기능을 갖춘 플래그십 로봇 청소기 X60 울트라를 출시하며 스마트 홈 가전 경쟁력을 강화했습니다.",
-      "중국 당국이 휴머노이드 로봇 기업들의 기업공개(IPO) 과정에서 과도한 기업 가치 평가와 상업적 실효성을 엄격하게 검증하기 시작했습니다."
+      "터미네이터를 모티브로 한 로봇이 인간과 MMA 격투를 벌이는 영상이 공개되며 로봇의 신체적 능력에 대한 대중적 관심이 급증했습니다.",
+      "드리미가 새로운 로봇청소기 모델인 X60 울트라를 인도 시장에 출시하며 가전 로봇 시장의 경쟁이 더욱 치열해졌습니다.",
+      "인도 공과대학교 마드라스 캠퍼스가 벡텔 인도와 협력하여 건설 로보틱스 연구소를 설립하며 관련 기술 연구에 박차를 가하고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-09-21",
-        "title": "드리미, 스페인에서 스팀 청소 가능한 로봇 청소기 출시",
-        "url": "https://www.lasexta.com/tecnologia-tecnoxplora/gadgets/dreame-lanza-espana-robot-aspirador-capaz-fregar-vapor_202609216ab118f36bc8551547ee2f5a.html",
-        "cat": "기술"
+        "date": "2026-09-22",
+        "title": "인간과 터미네이터 로봇의 충격적인 MMA 대결: \"조금 무섭다\"",
+        "url": "https://www.infobae.com/deportes/2026/09/22/la-impactante-pelea-de-mma-entre-un-humano-y-un-robot-caracterizado-como-terminator-un-poco-aterrador/",
+        "cat": "경쟁"
       },
       {
-        "date": "2026-09-21",
-        "title": "인간 대 터미네이터: 6피트 로봇과 인간의 격투 영상 화제",
-        "url": "https://www.eenadu.net/telugu-news/world/us-influencer-fights-6-foot-robot-in-worlds-first-human-vs-terminator-match/0801/126170791",
-        "cat": "기술"
+        "date": "2026-09-22",
+        "title": "\"인간과 로봇의 전쟁이 시작되었다\"",
+        "url": "https://www.diariosur.es/sociedad/batalla-humanos-robots-comenzado-20260922132531-ntrc.html",
+        "cat": "경쟁"
       },
       {
-        "date": "2026-09-21",
-        "title": "인간 대 6피트 로봇: 미국 인플루언서, 세계 최초 '터미네이터' 격투 도전",
-        "url": "https://www.newsx.com/tech-and-auto/human-vs-6-foot-robot-us-influencer-steps-into-worlds-first-terminator-fight-274253/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-21",
-        "title": "로봇 대 인간: 휴머노이드 로봇, 케이지 안에서 인플루언서에게 펀치와 킥 날려",
-        "url": "https://timesofindia.indiatimes.com/world/us/robot-vs-human-humanoid-robot-throws-punches-kicks-influencer-across-cage-video/articleshow/134388124.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-21",
-        "title": "드리미 테크놀로지, 인도에서 플래그십 X60 울트라 컴플리트 로봇 청소기 출시",
-        "url": "https://www.tribuneindia.com/news/business/dreame-technology-launches-flagship-x60-ultra-complete-robot-vacuum-in-india-redefining-whole-home-cleaning-with-smarter-intelligence-and-powerful-performance/",
+        "date": "2026-09-22",
+        "title": "드리미 X60 울트라 로봇청소기 13만 4,999루피에 출시: 상세 정보",
+        "url": "https://in.mashable.com/tech/114187/dreame-x60-ultra-complete-robot-vacuum-launched-at-rs-134999-all-details",
         "cat": "시장"
       },
       {
-        "date": "2026-09-21",
-        "title": "드리미 테크놀로지, 인도에서 플래그십 X60 울트라 컴플리트 로봇 청소기 출시",
-        "url": "https://www.aninews.in/news/business/dreame-technology-launches-flagship-x60-ultra-complete-robot-vacuum-in-india-redefining-whole-home-cleaning-with-smarter-intelligence-and-powerful-performance20260921154815/",
+        "date": "2026-09-22",
+        "title": "인간 대 로봇 첫 MMA 대결의 거친 장면: \"잔혹해! 세상에!\"",
+        "url": "https://www.romaniatv.net/scene-lupta-mma-om-robot-video_9814483.html",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-09-22",
+        "title": "결국 올 것이 왔다: 터미네이터 T800을 본뜬 로봇이 MMA 케이지에서 인간과 격투를 벌이다",
+        "url": "https://www.larazon.es/tecnologia-consumo/robots/robot-t800-terminator-combate-mma-humano-frankie-lapenna_202609226ab25a7bf5374e4ae7c3df2e.html",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-09-22",
+        "title": "유엔난민기구",
+        "url": "https://www.europesays.com/3266072/",
         "cat": "시장"
       },
       {
-        "date": "2026-09-21",
-        "title": "드리미, 인도에서 플래그십 X60 울트라 컴플리트 로봇 청소기 출시",
-        "url": "https://timesofindia.indiatimes.com/technology/appliances/dreame-launches-flagship-x60-ultra-complete-robot-vacuum-in-india/articleshow/134386092.cms",
-        "cat": "시장"
+        "date": "2026-09-22",
+        "title": "터키 두루피나르 지층의 '노아의 방주' 현장에서 시추 작업 시작",
+        "url": "https://nypost.com/2026/09/22/lifestyle/drilling-begins-at-noahs-ark-site-as-researchers-probe-turkeys-controversial-durupinar-formation/",
+        "cat": "기술"
       },
       {
-        "date": "2026-09-21",
-        "title": "규제와 안전은 어디에? 터미네이터 로봇이 인간을 공격하다",
-        "url": "https://as.com/meristation/betech/regulaciones-seguridad-aqui-tenemos-a-un-robot-a-lo-terminator-pegando-a-un-humano-f202609-n/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-09-21",
-        "title": "중국, 휴머노이드 로봇 기업 IPO 급증에 따른 거품 및 상업성 검증 강화",
-        "url": "https://www.tribuneindia.com/news/business/china-scrutinises-humanoid-robot-ipos-as-valuations-soar-commercial-demand-questioned-report/",
-        "cat": "정책"
+        "date": "2026-09-22",
+        "title": "\"친구야, 네가 너무 걱정돼!\" : 인플루언서가 MMA 경기 중 로봇에게 박살 나다",
+        "url": "https://www.presse-citron.net/mec-jai-tellement-peur-pour-toi-un-influenceur-se-fait-demolir-par-un-robot-lors-dun-combat-de-mma/",
+        "cat": "경쟁"
       }
     ],
     "global": [
       {
-        "date": "2026-09-21",
-        "title": "Human vs 6-Foot Robot: US Influencer Steps Into World’s First ‘Terminator’ Fight",
-        "url": "https://www.newsx.com/tech-and-auto/human-vs-6-foot-robot-us-influencer-steps-into-worlds-first-terminator-fight-274253/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-21",
-        "title": "Robot vs human: Humanoid robot throws punches, kicks influencer across cage - video",
-        "url": "https://timesofindia.indiatimes.com/world/us/robot-vs-human-humanoid-robot-throws-punches-kicks-influencer-across-cage-video/articleshow/134388124.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-21",
-        "title": "Construction Robotics Gains Commercial Momentum in India as Pace Robotics Scales Deployment",
-        "url": "https://www.tribuneindia.com/news/business/construction-robotics-gains-commercial-momentum-in-india-as-pace-robotics-scales-deployment/",
+        "date": "2026-09-22",
+        "title": "India tops emerging-market agritech funding at $2.1 billion, report says",
+        "url": "https://www.thehindubusinessline.com/economy/agri-business/india-commercial-front-runner-for-agrifood-investment-in-emerging-markets-report/article71494733.ece",
         "cat": "시장"
       },
       {
-        "date": "2026-09-21",
-        "title": "Haier showcases its \"Home of Intelligent Possibilities\" at IFA 2026",
-        "url": "https://www.euronews.com/next/2026/09/21/haier-showcases-its-home-of-intelligent-possibilities-at-ifa-2026",
+        "date": "2026-09-22",
+        "title": "Packaging Machinery Market to Hit USD 98.12 Bn by 2031 with Fully Automatic and Robotics-Integrated Systems Capturing 55.12% Share, Says Mordor Intelligence",
+        "url": "https://www.prnewswire.co.uk/news-releases/packaging-machinery-market-to-hit-usd-98-12-bn-by-2031-with-fully-automatic-and-robotics-integrated-systems-capturing-55-12-share-says-mordor-intelligence-302885997.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-22",
+        "title": "IIT Madras with Bechtel India launches ₹3.30 crore construction robotics lab for students, researchers",
+        "url": "https://www.hindustantimes.com/education/news/iit-madras-with-bechtel-india-launches-rs-3-30-crore-construction-robotics-lab-for-students-researchers-101790072890426.html",
         "cat": "기술"
       },
       {
-        "date": "2026-09-21",
-        "title": "China scrutinises humanoid robot IPOs as valuations soar, commercial demand questioned: Report",
-        "url": "https://www.tribuneindia.com/news/business/china-scrutinises-humanoid-robot-ipos-as-valuations-soar-commercial-demand-questioned-report/",
+        "date": "2026-09-22",
+        "title": "STARTRADER Expands Its Chinese Equity CFD Range with CXMT and Unitree Robotics",
+        "url": "https://www.prnewswire.co.uk/news-releases/startrader-expands-its-chinese-equity-cfd-range-with-cxmt-and-unitree-robotics-302886015.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-22",
+        "title": "China Made Humanoid Robots A National Priority. Now Beijing Is Slowing Their Rush To Go Public.",
+        "url": "https://www.ibtimes.com/china-made-humanoid-robots-national-priority-now-beijing-slowing-their-rush-go-public-3807680",
         "cat": "정책"
       },
       {
-        "date": "2026-09-21",
-        "title": "China slows humanoid robot IPO rush",
-        "url": "https://www.rte.ie/news/business/2026/0921/1592325-china-slows-humanoid-robot-ipo-rush/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-09-21",
-        "title": "Chinese robots dance their way to America’s Got Talent finale with Wu Yufei",
-        "url": "https://www.cnbctv18.com/technology/chinese-robots-dance-their-way-to-americas-got-talent-finale-with-wu-yufei-watch-19994707.htm",
+        "date": "2026-09-22",
+        "title": "IIT Madras inaugurates ₹3.30-crore robotics lab with Bechtel India support",
+        "url": "https://www.hindustantimes.com/cities/iit-madras-inaugurates-rs-3-30-crore-robotics-lab-with-bechtel-india-support-101790069042625.html",
         "cat": "기술"
       },
       {
-        "date": "2026-09-21",
-        "title": "China slows humanoid robot IPO rush as hype outruns reality",
-        "url": "https://www.cnbctv18.com/market/china-slows-humanoid-robot-ipo-rush-as-hype-outruns-reality-19994809.htm",
-        "cat": "정책"
+        "date": "2026-09-22",
+        "title": "Addverb moves beyond warehouses, sees semiconductors as next big robotics opportunity",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/addverb-moves-beyond-warehouses-sees-semiconductors-as-next-big-robotics-opportunity/articleshow/134405878.cms",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-22",
+        "title": "Mitsotakis Goes Inside Tesla: A Close Look at Optimus and the Greek Leading the Humanoid Robot Project",
+        "url": "https://www.pagenews.gr/2026/09/22/english-edition/mitsotakis-goes-inside-tesla-a-close-look-at-optimus-and-the-greek-leading-the-humanoid-robot-project/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-22",
+        "title": "'I watched surgery performed through a patient's belly button - it's a game changer'",
+        "url": "https://www.express.co.uk/life-style/health/2250336/robotic-surgery-endometriosis-hospital-operation",
+        "cat": "기술"
       }
     ]
   }
