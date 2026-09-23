@@ -1,123 +1,135 @@
 {
-  "asOfDate": "2026.09.23",
+  "asOfDate": "2026.09.24",
   "fx": {
-    "usdkrw": 1356
+    "usdkrw": 1365
   },
   "briefing": {
-    "dateLabel": "2026.09.23 (수)",
-    "headline": "로보틱스 기술의 산업적 확장과 인간과의 상호작용이 화두로 떠오른 하루",
-    "summary": "로봇의 MMA 격투 등 엔터테인먼트 분야의 화제성과 함께 건설, 반도체 등 산업 현장에서의 로봇 도입 및 시장 성장이 가속화되고 있습니다.",
+    "dateLabel": "2026.09.24 (목)",
+    "headline": "산업 현장의 작업 자동화와 전문 로봇 연구 시설 확충을 중심으로 글로벌 로보틱스 산업이 빠르게 성장하고 있습니다.",
+    "summary": "휴머노이드 로봇의 현장 투입 준비와 농축산·건설 분야의 자동화 기술 개발이 활발히 추진되는 가운데 각국 정부와 기업의 투자가 이어지고 있습니다.",
     "points": [
-      "터미네이터를 모티브로 한 로봇이 인간과 MMA 격투를 벌이는 영상이 공개되며 로봇의 신체적 능력에 대한 대중적 관심이 급증했습니다.",
-      "드리미가 새로운 로봇청소기 모델인 X60 울트라를 인도 시장에 출시하며 가전 로봇 시장의 경쟁이 더욱 치열해졌습니다.",
-      "인도 공과대학교 마드라스 캠퍼스가 벡텔 인도와 협력하여 건설 로보틱스 연구소를 설립하며 관련 기술 연구에 박차를 가하고 있습니다."
+      "로봇플러스플러스가 국제 전시회에서 하이메이트 시리즈를 선보이며 산업용 유지보수 자동화 기술의 가능성을 입증했습니다.",
+      "이노브스페이스가 축산 농가의 작업 부담을 줄이고 생산성을 높이기 위한 세 가지 핵심 자동화 혁신 기술을 공개했습니다.",
+      "인도 공과대학교 마드라스 캠퍼스가 건설 분야 혁신을 목표로 33억 루피 규모의 전문 로봇 연구 시설을 개설했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-09-22",
-        "title": "인간과 터미네이터 로봇의 충격적인 MMA 대결: \"조금 무섭다\"",
-        "url": "https://www.infobae.com/deportes/2026/09/22/la-impactante-pelea-de-mma-entre-un-humano-y-un-robot-caracterizado-como-terminator-un-poco-aterrador/",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "\"인간과 로봇의 전쟁이 시작되었다\"",
-        "url": "https://www.diariosur.es/sociedad/batalla-humanos-robots-comenzado-20260922132531-ntrc.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "드리미 X60 울트라 로봇청소기 13만 4,999루피에 출시: 상세 정보",
-        "url": "https://in.mashable.com/tech/114187/dreame-x60-ultra-complete-robot-vacuum-launched-at-rs-134999-all-details",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "인간 대 로봇 첫 MMA 대결의 거친 장면: \"잔혹해! 세상에!\"",
-        "url": "https://www.romaniatv.net/scene-lupta-mma-om-robot-video_9814483.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "결국 올 것이 왔다: 터미네이터 T800을 본뜬 로봇이 MMA 케이지에서 인간과 격투를 벌이다",
-        "url": "https://www.larazon.es/tecnologia-consumo/robots/robot-t800-terminator-combate-mma-humano-frankie-lapenna_202609226ab25a7bf5374e4ae7c3df2e.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "유엔난민기구",
-        "url": "https://www.europesays.com/3266072/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "터키 두루피나르 지층의 '노아의 방주' 현장에서 시추 작업 시작",
-        "url": "https://nypost.com/2026/09/22/lifestyle/drilling-begins-at-noahs-ark-site-as-researchers-probe-turkeys-controversial-durupinar-formation/",
+        "date": "2026-09-23",
+        "title": "중국 휴머노이드 로봇 전문 훈련 기관, 첫 졸업 로봇 배출",
+        "url": "https://www.smartworld.it/tecnologia/cina-scuola-robot-umanoidi-diplomato-primi-automi.html",
         "cat": "기술"
       },
       {
-        "date": "2026-09-22",
-        "title": "\"친구야, 네가 너무 걱정돼!\" : 인플루언서가 MMA 경기 중 로봇에게 박살 나다",
-        "url": "https://www.presse-citron.net/mec-jai-tellement-peur-pour-toi-un-influenceur-se-fait-demolir-par-un-robot-lors-dun-combat-de-mma/",
+        "date": "2026-09-23",
+        "title": "로봇플러스플러스, SMM 2026에서 '하이메이트' 시리즈로 산업 유지보수 기술 시연",
+        "url": "https://www.manilatimes.net/2026/09/23/tmt-newswire/globenewswire/robotplusplus-advances-industrial-maintenance-with-highmate-series-demonstrated-at-smm-2026/2431193",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "토요타, 현장 작업자가 직접 ELEY 로봇 학습시켜… 일자리 대체 우려 제기",
+        "url": "https://www.tomshw.it/automotive/toyota-fa-addestrare-i-robot-eley-agli-operai-posti-a-rischio",
         "cat": "경쟁"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "\"AI와 로봇, 문명이 축적해 온 인간의 주요 기술 상실 유발할 것\"",
+        "url": "https://www.parismatch.com/actu/sciences/lia-et-les-robots-vont-nous-desapprendre-la-plupart-des-aptitudes-que-notre-civilisation-nous-a-imposees-276251",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "이노브스페이스, 축산 작업 자동화를 위한 3대 혁신 기술 발표",
+        "url": "https://actu.fr/bretagne/rennes_35238/innovspace-trois-innovations-pour-automatiser-les-taches-delevage_64813920.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "베스트셀러 로봇청소기, 57% 파격 할인으로 역대 최저가 기록",
+        "url": "https://www.smartworld.it/tecnologia/lefant-m210-omni-robot-aspirapolvere-lavapavimenti-minimo-storico.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "산업 현장: 프랑스 시장에서 성과를 거둔 독일의 성공작 '써모믹스'",
+        "url": "https://www.lejdd.fr/economie/industrie-thermomix-le-plus-grand-francais-des-succes-allemands-184194",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "세계 최초 인간 대 로봇 격투기 대회 참가 선수, 신규 영상 공개 후 심경 고백",
+        "url": "https://www.givemesport.com/worlds-first-human-robot-mma-fighter-speaks-out-second-bout-footage-emerges/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "아치 매닝과 홀리 로 논란이 텍사스 쿼터백의 대외 이미지에 미친 영향",
+        "url": "https://www.knoxnews.com/story/sports/ncaaf/2026/09/23/arch-manning-holly-rowe-ai-video-texas-longhorns-football/91873857007/",
+        "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-09-22",
-        "title": "India tops emerging-market agritech funding at $2.1 billion, report says",
-        "url": "https://www.thehindubusinessline.com/economy/agri-business/india-commercial-front-runner-for-agrifood-investment-in-emerging-markets-report/article71494733.ece",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "Packaging Machinery Market to Hit USD 98.12 Bn by 2031 with Fully Automatic and Robotics-Integrated Systems Capturing 55.12% Share, Says Mordor Intelligence",
-        "url": "https://www.prnewswire.co.uk/news-releases/packaging-machinery-market-to-hit-usd-98-12-bn-by-2031-with-fully-automatic-and-robotics-integrated-systems-capturing-55-12-share-says-mordor-intelligence-302885997.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "IIT Madras with Bechtel India launches ₹3.30 crore construction robotics lab for students, researchers",
-        "url": "https://www.hindustantimes.com/education/news/iit-madras-with-bechtel-india-launches-rs-3-30-crore-construction-robotics-lab-for-students-researchers-101790072890426.html",
+        "date": "2026-09-23",
+        "title": "IIT-Madras Opens Rs 3.3 Cr Robotics Lab for Construction Sector",
+        "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/iit-madras-opens-rs-33-cr-robotics-lab-for-construction-sector-1989866",
         "cat": "기술"
       },
       {
-        "date": "2026-09-22",
-        "title": "STARTRADER Expands Its Chinese Equity CFD Range with CXMT and Unitree Robotics",
-        "url": "https://www.prnewswire.co.uk/news-releases/startrader-expands-its-chinese-equity-cfd-range-with-cxmt-and-unitree-robotics-302886015.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "China Made Humanoid Robots A National Priority. Now Beijing Is Slowing Their Rush To Go Public.",
-        "url": "https://www.ibtimes.com/china-made-humanoid-robots-national-priority-now-beijing-slowing-their-rush-go-public-3807680",
+        "date": "2026-09-23",
+        "title": "Anwar courts Chinese industry leaders with eye on investments in chips, AI and robotics",
+        "url": "https://www.malaymail.com/news/malaysia/2026/09/23/anwar-courts-chinese-industry-leaders-with-eye-on-investments-in-chips-ai-and-robotics/236225",
         "cat": "정책"
       },
       {
-        "date": "2026-09-22",
-        "title": "IIT Madras inaugurates ₹3.30-crore robotics lab with Bechtel India support",
-        "url": "https://www.hindustantimes.com/cities/iit-madras-inaugurates-rs-3-30-crore-robotics-lab-with-bechtel-india-support-101790069042625.html",
+        "date": "2026-09-23",
+        "title": "Anwar holds roundtable discussion with leading Chinese companies on AI, robotics",
+        "url": "https://www.thestar.com.my/news/nation/2026/09/23/anwar-holds-roundtable-discussion-with-leading-chinese-companies-on-ai-robotics",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "Aurora Microplates wins Best in Showcase at the 2026 LRIG-NYC Spring Expo for CELLAZIP™",
+        "url": "https://www.news-medical.net/news/20260923/Aurora-Microplates-wins-Best-in-Showcase-at-the-2026-LRIG-NYC-Spring-Expo-for-CELLAZIPe284a2.aspx",
         "cat": "기술"
       },
       {
-        "date": "2026-09-22",
-        "title": "Addverb moves beyond warehouses, sees semiconductors as next big robotics opportunity",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/addverb-moves-beyond-warehouses-sees-semiconductors-as-next-big-robotics-opportunity/articleshow/134405878.cms",
+        "date": "2026-09-23",
+        "title": "IIT Madras launches Rs 3.30-crore construction robotics facility with Bechtel India support",
+        "url": "https://timesofindia.indiatimes.com/education/news/iit-madras-launches-rs-3-30-crore-construction-robotics-facility-with-bechtel-india-support/articleshow/134425571.cms",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-23",
+        "title": "How to Invest in Unitree Robotics Stock: A 2026 Guide",
+        "url": "https://augustafreepress.com/commercial/how-to-invest-in-unitree-robotics-stock-a-2026-guide/",
         "cat": "시장"
       },
       {
         "date": "2026-09-22",
-        "title": "Mitsotakis Goes Inside Tesla: A Close Look at Optimus and the Greek Leading the Humanoid Robot Project",
-        "url": "https://www.pagenews.gr/2026/09/22/english-edition/mitsotakis-goes-inside-tesla-a-close-look-at-optimus-and-the-greek-leading-the-humanoid-robot-project/",
+        "title": "kind cage fight, sends him flying and leaves him with a broken arm",
+        "url": "https://techstartups.com/2026/09/22/chinese-humanoid-robot-t800-takes-on-human-in-first-of-its-kind-cage-fight-sends-him-flying-and-leaves-him-with-a-broken-arm/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-09-22",
+        "title": "China’s robot dancers limber up for America’s Got Talent final",
+        "url": "https://www.straitstimes.com/life/entertainment/chinas-robot-dancers-limber-up-for-americas-got-talent-final",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-22",
+        "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
+        "url": "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai",
         "cat": "기술"
       },
       {
         "date": "2026-09-22",
-        "title": "'I watched surgery performed through a patient's belly button - it's a game changer'",
-        "url": "https://www.express.co.uk/life-style/health/2250336/robotic-surgery-endometriosis-hospital-operation",
-        "cat": "기술"
+        "title": "Capgemini expands presence in Coimbatore with a new office at ELCOT IT Park",
+        "url": "https://www.thehindubusinessline.com/info-tech/capgemini-expands-presence-in-coimbatore-with-a-new-office-at-elcot-it-park/article71495561.ece",
+        "cat": "시장"
       }
     ]
   }
