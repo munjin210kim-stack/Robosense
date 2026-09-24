@@ -1,134 +1,98 @@
 {
-  "asOfDate": "2026.09.24",
+  "asOfDate": "2026.09.25",
   "fx": {
-    "usdkrw": 1365
+    "usdkrw": 1369
   },
   "briefing": {
-    "dateLabel": "2026.09.24 (목)",
-    "headline": "산업 현장의 작업 자동화와 전문 로봇 연구 시설 확충을 중심으로 글로벌 로보틱스 산업이 빠르게 성장하고 있습니다.",
-    "summary": "휴머노이드 로봇의 현장 투입 준비와 농축산·건설 분야의 자동화 기술 개발이 활발히 추진되는 가운데 각국 정부와 기업의 투자가 이어지고 있습니다.",
+    "dateLabel": "2026.09.25 (금)",
+    "headline": "중국 휴머노이드 로봇 산업의 성장세와 글로벌 의료 로봇 기술의 진전이 돋보이는 하루",
+    "summary": "로봇 시장은 휴머노이드 기업의 IPO 전략과 의료용 로봇의 기술적 도약을 중심으로 빠르게 재편되고 있습니다.",
     "points": [
-      "로봇플러스플러스가 국제 전시회에서 하이메이트 시리즈를 선보이며 산업용 유지보수 자동화 기술의 가능성을 입증했습니다.",
-      "이노브스페이스가 축산 농가의 작업 부담을 줄이고 생산성을 높이기 위한 세 가지 핵심 자동화 혁신 기술을 공개했습니다.",
-      "인도 공과대학교 마드라스 캠퍼스가 건설 분야 혁신을 목표로 33억 루피 규모의 전문 로봇 연구 시설을 개설했습니다."
+      "로보락이 프라임 데이를 앞두고 로봇청소기 할인 행사를 시작하며 소비자 시장 공략을 강화하고 있습니다.",
+      "다빈치 5 로봇 수술 시스템이 심장 수술 분야에서 유럽 CE 인증을 획득하며 의료 로봇 기술의 새로운 표준을 제시했습니다.",
+      "중국 휴머노이드 로봇 기업들이 글로벌 시장 확장을 추진하며 기업 공개를 준비하는 등 산업 내 경쟁이 치열해지고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-09-23",
-        "title": "중국 휴머노이드 로봇 전문 훈련 기관, 첫 졸업 로봇 배출",
-        "url": "https://www.smartworld.it/tecnologia/cina-scuola-robot-umanoidi-diplomato-primi-automi.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "로봇플러스플러스, SMM 2026에서 '하이메이트' 시리즈로 산업 유지보수 기술 시연",
-        "url": "https://www.manilatimes.net/2026/09/23/tmt-newswire/globenewswire/robotplusplus-advances-industrial-maintenance-with-highmate-series-demonstrated-at-smm-2026/2431193",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "토요타, 현장 작업자가 직접 ELEY 로봇 학습시켜… 일자리 대체 우려 제기",
-        "url": "https://www.tomshw.it/automotive/toyota-fa-addestrare-i-robot-eley-agli-operai-posti-a-rischio",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "\"AI와 로봇, 문명이 축적해 온 인간의 주요 기술 상실 유발할 것\"",
-        "url": "https://www.parismatch.com/actu/sciences/lia-et-les-robots-vont-nous-desapprendre-la-plupart-des-aptitudes-que-notre-civilisation-nous-a-imposees-276251",
+        "date": "2026-09-24",
+        "title": "로보락 로봇청소기, 프라임 데이 맞이 조기 할인 행사 진행",
+        "url": "https://www.wired.com/story/roborock-early-prime-day-deal-sept-2026/",
         "cat": "시장"
       },
       {
-        "date": "2026-09-23",
-        "title": "이노브스페이스, 축산 작업 자동화를 위한 3대 혁신 기술 발표",
-        "url": "https://actu.fr/bretagne/rennes_35238/innovspace-trois-innovations-pour-automatiser-les-taches-delevage_64813920.html",
+        "date": "2026-09-24",
+        "title": "140년 축구 경험을 가진 안드로이드, 아르헨티나 국가대표 유니폼 입고 그라운드 누벼",
+        "url": "https://actualidad.rt.com/viral/629180-robot-futbolista-140-anos-experiencia-argentina",
         "cat": "기술"
       },
       {
-        "date": "2026-09-23",
-        "title": "베스트셀러 로봇청소기, 57% 파격 할인으로 역대 최저가 기록",
-        "url": "https://www.smartworld.it/tecnologia/lefant-m210-omni-robot-aspirapolvere-lavapavimenti-minimo-storico.html",
-        "cat": "시장"
+        "date": "2026-09-24",
+        "title": "다빈치 5 로봇 수술 시스템, 심장 수술 분야 유럽 CE 인증 획득",
+        "url": "https://www.granadahoy.com/salud/investigacion-tecnologia/sistema-cirugia-asistida-robot-da_0_2008059283.html",
+        "cat": "기술"
       },
       {
-        "date": "2026-09-23",
-        "title": "산업 현장: 프랑스 시장에서 성과를 거둔 독일의 성공작 '써모믹스'",
-        "url": "https://www.lejdd.fr/economie/industrie-thermomix-le-plus-grand-francais-des-succes-allemands-184194",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "세계 최초 인간 대 로봇 격투기 대회 참가 선수, 신규 영상 공개 후 심경 고백",
-        "url": "https://www.givemesport.com/worlds-first-human-robot-mma-fighter-speaks-out-second-bout-footage-emerges/",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "아치 매닝과 홀리 로 논란이 텍사스 쿼터백의 대외 이미지에 미친 영향",
-        "url": "https://www.knoxnews.com/story/sports/ncaaf/2026/09/23/arch-manning-holly-rowe-ai-video-texas-longhorns-football/91873857007/",
+        "date": "2026-09-24",
+        "title": "딜로이트, 중국 휴머노이드 로봇 기업의 IPO 둔화에도 '진정한 강자'는 타격 없을 것",
+        "url": "https://www.scmp.com/business/markets/article/3368647/chinas-humanoid-robot-ipo-slowdown-no-threat-firms-genuine-strength-deloitte",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-09-23",
-        "title": "IIT-Madras Opens Rs 3.3 Cr Robotics Lab for Construction Sector",
-        "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/iit-madras-opens-rs-33-cr-robotics-lab-for-construction-sector-1989866",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "Anwar courts Chinese industry leaders with eye on investments in chips, AI and robotics",
-        "url": "https://www.malaymail.com/news/malaysia/2026/09/23/anwar-courts-chinese-industry-leaders-with-eye-on-investments-in-chips-ai-and-robotics/236225",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "Anwar holds roundtable discussion with leading Chinese companies on AI, robotics",
-        "url": "https://www.thestar.com.my/news/nation/2026/09/23/anwar-holds-roundtable-discussion-with-leading-chinese-companies-on-ai-robotics",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "Aurora Microplates wins Best in Showcase at the 2026 LRIG-NYC Spring Expo for CELLAZIP™",
-        "url": "https://www.news-medical.net/news/20260923/Aurora-Microplates-wins-Best-in-Showcase-at-the-2026-LRIG-NYC-Spring-Expo-for-CELLAZIPe284a2.aspx",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "IIT Madras launches Rs 3.30-crore construction robotics facility with Bechtel India support",
-        "url": "https://timesofindia.indiatimes.com/education/news/iit-madras-launches-rs-3-30-crore-construction-robotics-facility-with-bechtel-india-support/articleshow/134425571.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-23",
-        "title": "How to Invest in Unitree Robotics Stock: A 2026 Guide",
-        "url": "https://augustafreepress.com/commercial/how-to-invest-in-unitree-robotics-stock-a-2026-guide/",
+        "date": "2026-09-24",
+        "title": "SoftBank's growing bets on AI and semiconductor assets",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbanks-growing-bets-on-ai-and-semiconductor-assets/articleshow/134460970.cms",
         "cat": "시장"
       },
       {
-        "date": "2026-09-22",
-        "title": "kind cage fight, sends him flying and leaves him with a broken arm",
-        "url": "https://techstartups.com/2026/09/22/chinese-humanoid-robot-t800-takes-on-human-in-first-of-its-kind-cage-fight-sends-him-flying-and-leaves-him-with-a-broken-arm/",
+        "date": "2026-09-24",
+        "title": "Kent State to host Aeronautics, Engineering Expo Sept. 26",
+        "url": "https://www.akron.com/articles/kent-state-to-host-aeronautics-engineering-expo-sept-26/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-24",
+        "title": "Maharishi University to Host 5th Edition of Maharishi botFiesta 2026",
+        "url": "https://www.tribuneindia.com/news/business/maharishi-university-to-host-5th-edition-of-maharishi-botfiesta-2026/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-24",
+        "title": "Xi-Trump meeting: How US-China AI rivalry is pushing China’s tech industry forward",
+        "url": "https://www.hindustantimes.com/world-news/us-news/xitrump-meeting-how-us-china-ai-rivalry-is-pushing-china-s-tech-industry-forward-101790244360542.html",
         "cat": "경쟁"
       },
       {
-        "date": "2026-09-22",
-        "title": "China’s robot dancers limber up for America’s Got Talent final",
-        "url": "https://www.straitstimes.com/life/entertainment/chinas-robot-dancers-limber-up-for-americas-got-talent-final",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-22",
-        "title": "China’s Hygon moves beyond data centres with embedded processors for robotics, edge AI",
-        "url": "https://www.scmp.com/tech/tech-trends/article/3368417/chinas-hygon-moves-beyond-data-centres-embedded-processors-robotics-edge-ai",
+        "date": "2026-09-24",
+        "title": "AI's Next Bottleneck Could Be Here",
+        "url": "https://seekingalpha.com/article/4949341-ais-next-bottleneck-could-be-here",
         "cat": "기술"
       },
       {
-        "date": "2026-09-22",
-        "title": "Capgemini expands presence in Coimbatore with a new office at ELCOT IT Park",
-        "url": "https://www.thehindubusinessline.com/info-tech/capgemini-expands-presence-in-coimbatore-with-a-new-office-at-elcot-it-park/article71495561.ece",
+        "date": "2026-09-24",
+        "title": "China’s humanoid robot IPO slowdown no threat to firms with ‘genuine strength’: Deloitte",
+        "url": "https://www.scmp.com/business/markets/article/3368647/chinas-humanoid-robot-ipo-slowdown-no-threat-firms-genuine-strength-deloitte",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-24",
+        "title": "AI Moves from Optional to Essential: Canton Fair Service Robots to Showcase Real-World Problem Solving",
+        "url": "https://www.prnewswire.co.uk/news-releases/ai-moves-from-optional-to-essential-canton-fair-service-robots-to-showcase-real-world-problem-solving-302885992.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-24",
+        "title": "Chinese humanoid robotics firm expanding globally and readying for IPO",
+        "url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-24",
+        "title": "Travis Kalanick is back: How Uber's ousted founder went from pariah to Silicon Valley hero",
+        "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/",
         "cat": "시장"
       }
     ]
