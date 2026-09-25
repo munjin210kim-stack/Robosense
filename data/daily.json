@@ -1,99 +1,141 @@
 {
-  "asOfDate": "2026.09.25",
+  "asOfDate": "2026.09.26",
   "fx": {
-    "usdkrw": 1369
+    "usdkrw": 1355
   },
   "briefing": {
-    "dateLabel": "2026.09.25 (금)",
-    "headline": "중국 휴머노이드 로봇 산업의 성장세와 글로벌 의료 로봇 기술의 진전이 돋보이는 하루",
-    "summary": "로봇 시장은 휴머노이드 기업의 IPO 전략과 의료용 로봇의 기술적 도약을 중심으로 빠르게 재편되고 있습니다.",
+    "dateLabel": "2026.09.26 (토)",
+    "headline": "인공지능 기반 생활가전의 고도화와 산업용 로봇 도입 가속화로 로보틱스 시장의 주도권 경쟁이 본격화되고 있습니다.",
+    "summary": "글로벌 스마트 가전 신제품 출시 열풍과 함께 주요국의 자동화 설비 투자가 확대되며 로보틱스 산업 생태계가 점차 확장되는 추세입니다.",
     "points": [
-      "로보락이 프라임 데이를 앞두고 로봇청소기 할인 행사를 시작하며 소비자 시장 공략을 강화하고 있습니다.",
-      "다빈치 5 로봇 수술 시스템이 심장 수술 분야에서 유럽 CE 인증을 획득하며 의료 로봇 기술의 새로운 표준을 제시했습니다.",
-      "중국 휴머노이드 로봇 기업들이 글로벌 시장 확장을 추진하며 기업 공개를 준비하는 등 산업 내 경쟁이 치열해지고 있습니다."
+      "드리미가 인공지능 기반의 고성능 기술을 탑재한 신형 로봇청소기를 인도 시장에 출시하며 글로벌 가전 시장 공략을 확대했습니다.",
+      "사족보행 로봇이 장거리 주행 대결에서 인간의 최고 기록을 크게 앞지르며 제어 및 이동 능력 분야의 기술 발전을 입증했습니다.",
+      "중국이 전 세계 신규 산업용 로봇의 절반 이상을 도입하며 유럽을 제치고 제조업 자동화 전환을 주도하고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-09-24",
-        "title": "로보락 로봇청소기, 프라임 데이 맞이 조기 할인 행사 진행",
-        "url": "https://www.wired.com/story/roborock-early-prime-day-deal-sept-2026/",
+        "date": "2026-09-25",
+        "title": "로보락, 루마니아서 신형 로봇청소기 '큐레보 에지 2 플로우' 및 '큐레보 2 프로' 출시",
+        "url": "https://gadget.ro/roborock-lanseaza-in-romania-noile-aspiratoare-robot-qrevo-edge-2-flow-si-qrevo-2-pro/",
         "cat": "시장"
       },
       {
-        "date": "2026-09-24",
-        "title": "140년 축구 경험을 가진 안드로이드, 아르헨티나 국가대표 유니폼 입고 그라운드 누벼",
-        "url": "https://actualidad.rt.com/viral/629180-robot-futbolista-140-anos-experiencia-argentina",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-24",
-        "title": "다빈치 5 로봇 수술 시스템, 심장 수술 분야 유럽 CE 인증 획득",
-        "url": "https://www.granadahoy.com/salud/investigacion-tecnologia/sistema-cirugia-asistida-robot-da_0_2008059283.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-24",
-        "title": "딜로이트, 중국 휴머노이드 로봇 기업의 IPO 둔화에도 '진정한 강자'는 타격 없을 것",
-        "url": "https://www.scmp.com/business/markets/article/3368647/chinas-humanoid-robot-ipo-slowdown-no-threat-firms-genuine-strength-deloitte",
+        "date": "2026-09-25",
+        "title": "닌자, 12가지 프로그램 탑재 멀티쿠커 할인 판매로 주방 가전 시장 공략",
+        "url": "https://www.leparisien.fr/guide-shopping/maison/cuisine-alimentation/adieu-le-four-airfryer-et-cuiseur-vapeur-cet-appareil-ninja-avec-12-programmes-a-prix-casse-revolutionne-la-cuisine-25-09-2026-6XVM2BJSIVBHPCMSX3OC3QGHX4.php",
         "cat": "시장"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "로보락 사로스 20 플로우 컴플리트, 물걸레 기능 강화된 신형 로봇청소기 선보여",
+        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/roborock-saros-20-flow-complete-ce-nouvel-aspirateur-robot-laveur-met-definitivement-la-serpilliere-traditionnelle-a-la-retraite-25-09-2026-MTYU23MU6FFVZHPUXFDQNRIA7U.php",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "드리미, 인공지능 기능 탑재 'X60 울트라' 로봇청소기 인도 시장 출시",
+        "url": "https://www.timesnownews.com/technology-science/dreame-x60-ultra-robot-vacuum-with-ai-powered-features-now-available-in-india-price-features-article-156223812",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "샤크 닌자, 얼리 프라임 데이 세일 진행 및 주요 할인 상품 공개",
+        "url": "https://www.cnet.com/deals/shark-ninjas-early-prime-day-sale-deals/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "렌 시내 방문객 유입 현황 분석 연구 결과 발표",
+        "url": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/qui-frequente-le-centre-ville-de-rennes-voici-ce-que-revele-cette-etude-7124841.php",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "반다이, 퀸 만사 40주년 기념 '로봇혼' 대형 피규어 2차 예약 개시",
+        "url": "https://www.inside-games.jp/article/2026/09/25/188259.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "'메탈 로봇혼' 강화형 지그재그 건담용 풀 아머 확장 파츠 2차 예약 실시",
+        "url": "https://www.inside-games.jp/article/2026/09/25/188257.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "르판트 M210 프로 옴니 로봇청소기, 가을맞이 최대 77% 할인",
+        "url": "https://actu.fr/guide-achat/maison/c-est-la-promo-de-la-rentree-l-aspirateur-robot-lefant-m210-pro-omni-profite-de-77-de-remise_64831276.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "사족보행 로봇, 4시간 19분 52초 기록으로 마라톤 대결서 인간 뛰어넘어",
+        "url": "https://navbharattimes.indiatimes.com/tech/gadgets-news/robot-dog-completes-42km-marathon-in-4-hours-19-minutes-52-seconds-beat-humans-in-efficiency/articleshow/134478508.cms",
+        "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-09-24",
-        "title": "SoftBank's growing bets on AI and semiconductor assets",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbanks-growing-bets-on-ai-and-semiconductor-assets/articleshow/134460970.cms",
-        "cat": "시장"
+        "date": "2026-09-25",
+        "title": "HDB scales up robotics and automation solutions to increase construction productivity at BTO sites",
+        "url": "https://www.channelnewsasia.com/singapore/hdb-robotics-automation-construction-bto-productivity-timeline-6410356",
+        "cat": "정책"
       },
       {
-        "date": "2026-09-24",
-        "title": "Kent State to host Aeronautics, Engineering Expo Sept. 26",
-        "url": "https://www.akron.com/articles/kent-state-to-host-aeronautics-engineering-expo-sept-26/",
+        "date": "2026-09-25",
+        "title": "Smart tech to be used at more BTO sites from 2027",
+        "url": "https://www.straitstimes.com/singapore/housing/smart-tech-like-robotics-automation-to-be-used-at-more-bto-sites-from-2027-chee-hong-tat",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "Delhi: Cross-border live robotic tele-surgery highlights advancements in medical technology",
+        "url": "https://www.aninews.in/news/national/general-news/delhi-cross-border-live-robotic-tele-surgery-highlights-advancements-in-medical-technology20260925163647/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-25",
+        "title": "XtalPi Submits U.S. FDA IND Application for KQTD-126, a Potential First-in-Class, Gut-Restricted Pan-TRK Inhibitor for Chronic Intestinal Pain",
+        "url": "https://www.manilatimes.net/2026/09/25/tmt-newswire/pr-newswire/xtalpi-submits-us-fda-ind-application-for-kqtd-126-a-potential-first-in-class-gut-restricted-pan-trk-inhibitor-for-chronic-intestinal-pain/2432800",
         "cat": "기술"
       },
       {
         "date": "2026-09-24",
-        "title": "Maharishi University to Host 5th Edition of Maharishi botFiesta 2026",
-        "url": "https://www.tribuneindia.com/news/business/maharishi-university-to-host-5th-edition-of-maharishi-botfiesta-2026/",
+        "title": "Leaked Tesla Optimus Humanoid Robot Gen 3 Cleaner Look",
+        "url": "https://www.ubergizmo.com/2026/09/leaked-tesla-optimus-humanoid-robot-gen-3-cleaner-look/",
         "cat": "기술"
       },
       {
         "date": "2026-09-24",
-        "title": "Xi-Trump meeting: How US-China AI rivalry is pushing China’s tech industry forward",
-        "url": "https://www.hindustantimes.com/world-news/us-news/xitrump-meeting-how-us-china-ai-rivalry-is-pushing-china-s-tech-industry-forward-101790244360542.html",
+        "title": "Mass. lawmakers, robotics executives discuss how to boost investments",
+        "url": "https://www.bostonglobe.com/2026/09/24/business/mass-robotics-ai-startups/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-09-24",
+        "title": "HSVP draws up plan for first state-owned International Baccalaureate school in Gurgaon",
+        "url": "https://timesofindia.indiatimes.com/city/gurgaon/hsvp-draws-up-plan-for-first-state-owned-international-baccalaureate-school-in-gurgaon/articleshow/134469500.cms",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-09-24",
+        "title": "Robot Stryker Mako-4 To Redefine Joint Replacement Surgery",
+        "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/robot-stryker-mako-4-to-redefine-joint-replacement-surgery-1990368",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-24",
+        "title": "Meet Feather, the startup building the 'Android of robotics' for developers",
+        "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-24",
+        "title": "China installs 59% of new factory robots as EU installations fall 11%",
+        "url": "https://thenextweb.com/news/industrial-robots-world-robotics-2026-china-59-eu-falls",
         "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-24",
-        "title": "AI's Next Bottleneck Could Be Here",
-        "url": "https://seekingalpha.com/article/4949341-ais-next-bottleneck-could-be-here",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-24",
-        "title": "China’s humanoid robot IPO slowdown no threat to firms with ‘genuine strength’: Deloitte",
-        "url": "https://www.scmp.com/business/markets/article/3368647/chinas-humanoid-robot-ipo-slowdown-no-threat-firms-genuine-strength-deloitte",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-24",
-        "title": "AI Moves from Optional to Essential: Canton Fair Service Robots to Showcase Real-World Problem Solving",
-        "url": "https://www.prnewswire.co.uk/news-releases/ai-moves-from-optional-to-essential-canton-fair-service-robots-to-showcase-real-world-problem-solving-302885992.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-24",
-        "title": "Chinese humanoid robotics firm expanding globally and readying for IPO",
-        "url": "https://www.cnbc.com/2026/09/24/chinese-humanoid-robotics-firm-expanding-globally-and-readying-for-ipo.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-24",
-        "title": "Travis Kalanick is back: How Uber's ousted founder went from pariah to Silicon Valley hero",
-        "url": "https://fortune.com/2026/09/24/travis-kalanick-uber-comeback-atoms-ai-robotics-cloud-kitchens-silicon-valley/",
-        "cat": "시장"
       }
     ]
   }
