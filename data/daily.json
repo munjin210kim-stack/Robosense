@@ -1,82 +1,112 @@
 {
-  "asOfDate": "2026.09.27",
+  "asOfDate": "2026.09.28",
   "fx": {
     "usdkrw": 1355
   },
   "briefing": {
-    "dateLabel": "2026.09.27 (일)",
-    "headline": "초고효율 사족보행 로봇의 마라톤 완주와 최신 보조 기술 공개로 로보틱스 혁신이 가속화되고 있습니다.",
-    "summary": "에너지 효율을 혁신한 보행 로봇과 차세대 재활 로봇 기술이 잇따라 공개되는 가운데 글로벌 기업들의 휴머노이드 양산 과제도 본격화되고 있습니다.",
+    "dateLabel": "2026.09.28 (월)",
+    "headline": "휴머노이드 대량 생산 시도와 주방 자동화 가전의 상용화 속에 국가별 로봇 산업 육성 정책이 구체화되고 있습니다.",
+    "summary": "휴머노이드 생산 확대 및 가전 분야의 로봇 기술 적용이 가속화되는 가운데, 국내외 산업 전반에서 정부 지원과 함께 시장 수용성에 대한 검증이 계속되고 있습니다.",
     "points": [
-      "사족보행 로봇 라이보2가 배터리 추가 충전 없이 42km 마라톤 전체 코스를 완주하며 압도적인 에너지 효율 기술을 입증했습니다.",
-      "재활 보조 로봇 쿼라 X5가 독일 리하케어 2026 국제 전시회에서 세계 최초로 공개되어 의료 로봇 시장의 주목을 받았습니다.",
-      "테슬라가 차세대 인간형 휴머노이드 로봇 옵티머스의 대규모 양산 체제 구축 과정에서 기술적·생산적 난관에 봉착했습니다."
+      "테슬라가 휴머노이드 로봇 옵티머스의 주당 1천 대 생산 체제 구축에 다가서고 있으나 기본 작업 숙련도 확보가 여전히 주요 과제로 남아있습니다.",
+      "주방용 로봇 가전 및 인공지능 기술의 상용화가 확대되고 있으나 실질적인 활용성에 대한 소비자들의 회의적인 시각도 공존하고 있습니다.",
+      "필리핀 정부가 지역 산업 경쟁력 강화를 목표로 로봇 기술 도입 및 육성 정책 지원을 공식적으로 확대하고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-09-26",
-        "title": "100유로대 가성비 로봇청소기, 문턱 제약 없이 구석구석 청소",
-        "url": "https://www.frandroid.com/bons-plans/3259761_cet-aspirateur-robot-laveur-dreame-en-promo-a-100-e-ne-cale-pas-devant-les-seuils-pour-faire-le-menage-partout",
+        "date": "2026-09-27",
+        "title": "파크사이드 공구 및 정원용품 할인… 리들, '프렌치 데이즈' 프로모션 진행",
+        "url": "https://www.ouest-france.fr/shopping/french-days/french-days-lidl-4-offres-parkside-a-saisir-pour-bricoler-et-jardiner-a-petit-prix-b7ccce0c-b8f9-11f1-8a73-5c5c9f666d13",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-27",
+        "title": "드리미, 주말 맞아 아마존서 인기 로봇청소기 파격 할인 행사",
+        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/dreame-craque-et-propose-des-promotions-exceptionnelles-sur-ses-best-sellers-ce-week-end-sur-amazon-27-09-2026-VOKNZIIC3JBVBH7RAJA42PAMUY.php",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-27",
+        "title": "에어프라이어 넘어선다… 닌자, 12가지 기능 갖춘 신개념 주방가전 선보여",
+        "url": "https://www.leparisien.fr/guide-shopping/maison/cuisine-alimentation/fini-lairfryer-ninja-mise-sur-un-nouvel-appareil-de-cuisine-12-en-1-qui-revolutionne-la-cuisson-27-09-2026-DJ4NOGJ6NVCYHA3AIANE6R6O3M.php",
         "cat": "기술"
       },
       {
-        "date": "2026-09-26",
-        "title": "쿼라 X5, 독일 리하케어 2026에서 세계 최초 공개",
-        "url": "https://www.manilatimes.net/2026/09/26/tmt-newswire/globenewswire/quorra-x5-makes-its-global-debut-at-rehacare-international-2026-in-germany/2433406",
-        "cat": "기술"
+        "date": "2026-09-27",
+        "title": "100유로 미만 가성비 무장… 닌자, 다기능 주방 로봇으로 시장 공략",
+        "url": "https://www.20minutes.fr/guide-achat/4248818-20260927-pourquoi-depenser-plus-robot-multifonction-ninja-moins-100",
+        "cat": "시장"
       },
       {
-        "date": "2026-09-26",
-        "title": "ITS, 인도네시아 신수도 IKN에서 열린 2026 로봇 비행 경진대회 종합 우승",
-        "url": "https://www.detik.com/edu/edutainment/d-8680276/top-its-juara-umum-kompetisi-robot-terbang-indonesia-2026-di-ikn",
+        "date": "2026-09-27",
+        "title": "주방으로 온 인공지능… 연구 결과 여전히 많은 소비자는 회의적",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/09/27/ai-in-the-kitchenresearch-shows-many-people-remain-sceptical",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-27",
+        "title": "테슬라, 주당 옵티머스 1천 대 생산 임박했으나 기본 작업 숙련도는 미흡",
+        "url": "https://www.infobae.com/tecno/2026/09/27/tesla-esta-cerca-de-producir-1000-optimus-por-semana-pero-el-robot-aun-no-domina-tareas-basicas/",
         "cat": "경쟁"
       },
       {
         "date": "2026-09-26",
-        "title": "우크라이나 군사 로봇, 전선 후방에서 적군 3천 명 제압 성과",
-        "url": "https://metro.co.uk/2026/09/26/ukrainian-robots-killed-3-000-putin-fighters-behind-frontline-29655153/",
+        "title": "우크라이나 로봇 드론, 적진 침투 공격으로 대규모 전과 달성",
+        "url": "https://www.the-sun.com/news/17062716/ukraine-robot-drones-kill-russian-troops-behind-lines/",
         "cat": "기술"
       },
       {
         "date": "2026-09-26",
-        "title": "ITS, 인도네시아 IKN 2026 로봇 비행 경진대회 종합 우승 차지",
-        "url": "https://www.detik.com/kalimantan/ikn/d-8680219/its-sabet-juara-umum-kontes-robot-terbang-indonesia-2026-di-ikn",
-        "cat": "경쟁"
+        "title": "쇼트 펌프에 문 연 쿠라 회전초밥, 로봇 서비스와 특징은",
+        "url": "https://richmond.com/life-entertainment/local/food-drink/article_86c9136a-ec11-4412-a29f-45704ab69014.html",
+        "cat": "시장"
       },
       {
         "date": "2026-09-26",
-        "title": "놀라운 에너지 효율성, 마라톤 완주 로봇 '라이보2' 주목",
-        "url": "https://www.lefigaro.fr/sciences/c-est-bluffant-raibo2-le-robot-marathonien-hypereconome-en-energie-20260926",
+        "title": "인간과 로봇의 MMA 철장 격투… 아시모프 로봇공학 3원칙 위반 논란",
+        "url": "https://www.elconfidencial.com/tecnologia/2026-09-26/robot-terminator-youtuber-mma-primera-ley-asimov-1qrt_4430930/",
         "cat": "기술"
       },
       {
         "date": "2026-09-26",
-        "title": "4,300년 만에 밝혀지는 노아의 방주 내부 실체 최초 공개",
-        "url": "https://www.dailystar.co.uk/news/latest-news/first-look-inside-real-noahs-37704804",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-26",
-        "title": "배터리 충전 없이 42km 마라톤 완주한 사족보행 로봇의 비결",
-        "url": "https://www.20minutos.es/tecnologia/actualidad/este-robot-cuadrupedo-corrio-maraton-entera-42-km-sin-recargar-bateria-asi-consiguio_7040948_0.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-26",
-        "title": "로보락 사로스 20 플로우 컴플리트, 차세대 걸레 탑재 로봇청소기 출시",
-        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/roborock-saros-20-flow-complete-cet-aspirateur-robot-dote-dune-serpilliere-de-derniere-generation-lavera-vos-sols-en-profondeur-26-09-2026-KJFJB4UP75FS5CYGZO2ZOK3VOM.php",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-26",
-        "title": "인도네시아 43개 대학, 신수도 IKN 로봇 비행 경진대회 참가",
-        "url": "https://www.detik.com/kalimantan/ikn/d-8680009/43-perguruan-tinggi-indonesia-ikuti-kontes-robot-terbang-di-ikn",
-        "cat": "경쟁"
+        "title": "'로봇 군대'란 무엇인가… 작동 방식과 미래 전망",
+        "url": "https://www.g4media.ro/ucraina-anunta-un-nou-proiect-militar-ce-este-armata-robotilor-si-ce-va-face-pe-front.html",
+        "cat": "정책"
       }
     ],
     "global": [
+      {
+        "date": "2026-09-26",
+        "title": "Nextenco LLC: ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-09/69684290-nextenco-llc-asi-tech-inc-announces-expansion-of-artificial-intelligence-services-and-robotics-development-roadmap-296.htm",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-26",
+        "title": "ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap",
+        "url": "https://lfpress.com/press-releases/newsfile/asi-tech-inc-announces-expansion-of-artificial-intelligence-services-and-robotics-development-roadmap/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-26",
+        "title": "Marcos backs robotics in local industries",
+        "url": "https://www.manilatimes.net/2026/09/27/business/top-business/marcos-backs-robotics-in-local-industries/2433418",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-09-26",
+        "title": "SRMIST holds national techno-management fest Aaruush ’26",
+        "url": "https://www.thehindu.com/news/cities/chennai/srmist-holds-national-techno-management-fest-aaruush-26/article71512736.ece",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-09-26",
+        "title": "GCT hosts interdisciplinary start-up expo and technical symposium",
+        "url": "https://www.thehindu.com/news/cities/Coimbatore/gct-hosts-interdisciplinary-start-up-expo-and-technical-symposium/article71512558.ece",
+        "cat": "기술"
+      },
       {
         "date": "2026-09-26",
         "title": "In 2022, engineer left his robotics job to pursue organic farming and travelled 60,000 km across India to collect 300 native seeds; today, he grows them on his 2-acre farm to keep forgotten crops aliv",
@@ -100,42 +130,6 @@
         "title": "Kraken Robotics Systems Inc (PNG) Receives a Buy from RBC Capital",
         "url": "https://markets.businessinsider.com/news/stocks/kraken-robotics-systems-inc-png-receives-a-buy-from-rbc-capital-1036575930",
         "cat": "시장"
-      },
-      {
-        "date": "2026-09-25",
-        "title": "The Aeropod automates soil aeration without robotics. See it at TechCrunch Disrupt.",
-        "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-25",
-        "title": "BIET strikes gold with 16 ranks at VTU convocation",
-        "url": "https://timesofindia.indiatimes.com/city/hubballi/biet-strikes-gold-with-16-ranks-at-vtu-convocation/articleshow/134489800.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-25",
-        "title": "Ranchi hosts AIOS mid-term meet with over 1,000 ophthalmologists",
-        "url": "https://timesofindia.indiatimes.com/city/ranchi/ranchi-hosts-aios-mid-term-meet-with-over-1000-ophthalmologists/articleshow/134488985.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-25",
-        "title": "Tesla Faces Challenges Scaling Optimus Robot Production",
-        "url": "https://www.marketscreener.com/news/tesla-faces-challenges-scaling-optimus-robot-production-ce785adfde8df226",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-09-25",
-        "title": "From Warehouses to Sidewalks: Seyond Scales LiDAR for the Next Generation of Robotics",
-        "url": "https://lfpress.com/press-releases/globe-newswire/from-warehouses-to-sidewalks-seyond-scales-lidar-for-the-next-generation-of-robotics/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-09-25",
-        "title": "Multimodal AI Applications: How Machines Combine Vision, Audio and Sensor Data",
-        "url": "https://techbullion.com/multimodal-ai-applications-how-machines-combine-vision-audio-and-sensor-data/",
-        "cat": "기술"
       }
     ]
   }
