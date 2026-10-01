@@ -1,140 +1,134 @@
 {
-  "asOfDate": "2026.09.30",
+  "asOfDate": "2026.10.01",
   "fx": {
-    "usdkrw": 1353
+    "usdkrw": 1355
   },
   "briefing": {
-    "dateLabel": "2026.09.30 (수)",
-    "headline": "물류 배송과 국방 현장에서의 로봇 실전 배치가 가속화되는 가운데 핵심 기술 인재 확보를 위한 글로벌 기업들의 경쟁이 심화되고 있습니다.",
-    "summary": "글로벌 로보틱스 시장은 이족 보행 및 수륙양용 등 특화된 로봇의 현장 적용이 확대되는 동시에 차세대 로봇 AI 주도권을 잡기 위한 스타트업 창업과 인재 영입전이 뜨겁게 전개되고 있습니다.",
+    "dateLabel": "2026.10.01 (목)",
+    "headline": "가정용 서비스부터 공공 안보 및 물류 현장까지 인공지능과 휴머노이드 로봇의 상용화가 가속화되고 있습니다.",
+    "summary": "가사 노동을 보조하는 저렴한 청소 및 다목적 로봇 기술이 잇따라 등장하는 한편, 정부 차원의 치안 현장 로봇 도입 추진과 물류 자동화 투자도 대폭 확대되고 있습니다.",
     "points": [
-      "영국 택배 업체 에브리가 이족 보행 로봇을 활용한 배송 시범 운용에 나서며 라스트마일 물류 현장에서의 인간 지원형 로봇 도입을 추진하고 있습니다.",
-      "우크라이나군이 육상과 수상을 아우르며 40킬로미터 이상 이동할 수 있는 수륙양용 로봇을 물류 수송 작업에 최초로 투입하였습니다.",
-      "엔비디아 출신 연구원들과 주요 학계 인사들이 신생 로보틱스 스타트업으로 대거 합류하며 차세대 로봇 인공지능 분야의 인재 확보 경쟁이 가열되고 있습니다."
+      "미국 캘리포니아의 한 업체가 시간당 30달러 수준의 청소용 휴머노이드 서비스를 선보이고 가사 노동 학습 로봇이 출시되는 등 가정용 로봇 시장이 구체화되고 있습니다.",
+      "중국의 로봇 전문 기업이 정밀 로봇 손 출하량 15,000대를 돌파하며 자수와 같은 섬세한 작업까지 가능한 수준의 기술력을 입증했습니다.",
+      "싱가포르 정부는 폭발물 조사 및 교도소 수색 등 공공안보 업무를 수행할 인공지능 휴머노이드 로봇을 2028년까지 현장에 배치할 계획입니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-09-29",
-        "title": "에브리, 영국 최초로 이족 보행 로봇 배달원 시범 운용... 계단 오르는 로봇은 대체가 아닌 지원 용도",
-        "url": "https://www.techradar.com/tech/evri-trials-the-uks-first-two-legged-robot-courier-but-it-says-the-stair-climbing-bot-will-support-rather-than-replace-human-couriers",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-29",
-        "title": "스페인 완구 기술 연구소, 위험 및 전쟁 환경용 로봇 제어 기술 개발",
-        "url": "https://www.lavanguardia.com/local/valencia/20260929/11646681/instituto-juguete-disena-tecnologia-controlar-robots-entornos-riesgo-guerra.html",
+        "date": "2026-09-30",
+        "title": "인간보다 훨씬 빠른 벽돌 쌓기 로봇 등장",
+        "url": "https://www.journaldugeek.com/2026/09/30/construire-maison-24-heures-robot-macon-bien-plus-rapide-humain/",
         "cat": "기술"
       },
       {
-        "date": "2026-09-29",
-        "title": "우크라이나군, 육상 및 수상 40km 이상 운항 가능한 수륙양용 물류 로봇 최초 투입",
-        "url": "https://www.ukrinform.net/rubric-defense/4169175-ukrainian-armed-forces-use-amphibious-robot-for-logistics-for-first-time-covering-more-than-40-kilometers-by-land-and-water.html",
+        "date": "2026-09-30",
+        "title": "우크라이나의 신형 정찰·전투 로봇, 첫 임무에서 육상과 수상을 모두 정복",
+        "url": "https://www.newsweek.com/ukraines-new-war-robot-conquers-land-and-water-in-first-mission-12505251",
         "cat": "기술"
       },
       {
-        "date": "2026-09-29",
-        "title": "다이슨 R1, 신형 로봇청소기 라인업의 숨은 주역... 물걸레 청소기를 신뢰하지 않는 소비자를 위한 최적의 선택",
-        "url": "https://www.techradar.com/home/robot-vacuums/the-dyson-r1-is-my-quiet-hero-of-the-brands-new-robot-vacuum-range-and-its-senior-design-manager-explains-why-its-the-small-effective-option-that-people-who-dont-trust-mopping-vacs-have-been-crying-out-for",
+        "date": "2026-09-30",
+        "title": "피터 슈바이처, 인공지능 '로봇 종말론'의 과도한 공포 반박",
+        "url": "https://www.breitbart.com/tech/2026/09/30/peter-schweizer-deflates-the-ai-robot-apocalypse-scare/",
         "cat": "시장"
       },
       {
-        "date": "2026-09-29",
-        "title": "정원사들도 놀란 할인: 드림 로봇 잔디깎이 시즌 종료 맞아 500유로 파격 할인",
-        "url": "https://www.leparisien.fr/guide-shopping/bricolage-jardin/les-jardiniers-nen-reviennent-pas-500-euros-de-remise-sur-le-robot-tondeuse-dreame-pour-la-fin-de-saison-1200-m-de-jardin-29-09-2026-K4ZHLAKUNFGGDEHMFNLNUDDGPY.php",
+        "date": "2026-09-30",
+        "title": "미국 캘리포니아 기업, 시간당 30달러에 청소용 휴머노이드 로봇 서비스 제공",
+        "url": "https://www.telecinco.es/noticias/ciencia-y-tecnologia/20260930/tau-robotics-empresa-california-ofrece-robots-humanoides-servicios-limpieza-30-dolares-hora_18_020308721.html",
         "cat": "시장"
       },
       {
-        "date": "2026-09-29",
-        "title": "미국 스타트업, 자동차 타이어를 자동으로 교체해 주는 정비사 로봇 개발",
-        "url": "https://www.franceinfo.fr/replay-radio/bientot-chez-vous/une-start-up-americaine-cree-un-robot-garagiste-qui-change-les-pneus-des-voitures_8192750.html",
+        "date": "2026-09-30",
+        "title": "에코백스, 프라임 데이 사전 할인 진행… 딥봇 및 윈봇 최대 33% 할인",
+        "url": "https://www.smartworld.it/news/ecovacs-anticipa-il-prime-day-2026.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-30",
+        "title": "30분 만에 가사 노동을 학습하는 '플러리시 1' 출시, 가격은 3,555달러",
+        "url": "https://www.digitaltrends.com/home/flourish-1-promises-to-learn-household-chores-in-30-minutes-but-itll-cost-3555/",
         "cat": "기술"
       },
       {
-        "date": "2026-09-29",
-        "title": "에나봇 EBO Max, 집안을 감시하는 눈을 가진 가정용 홈케어 로봇 출시",
+        "date": "2026-09-30",
+        "title": "쑤저우 자수를 습득한 중국 로봇 손… 아지링크 정밀 로봇 손 출하량 15,000대 돌파",
+        "url": "https://www.prnewswire.co.uk/news-releases/chinese-robot-hand-learns-suzhou-embroidery-as-agilink-surpasses-15-000-dexterous-hands-shipped-302894250.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-30",
+        "title": "집안을 감시하고 가족의 일원이 되고자 하는 눈 달린 로봇 '에나봇 EBO 맥스'",
         "url": "https://okdiario.com/tecnologia/enabot-ebo-max-robot-ojos-que-vigila-casa-quiere-hacerse-hueco-familia-20411740",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-09-29",
-        "title": "격추된 조종사 2명을 구출한 군사 로봇, 기존 펜타곤 방식의 변화 입증",
-        "url": "https://www.washingtonexaminer.com/op-eds/4745375/pentagon-acquisition-reform-autonomous-military-tech/",
         "cat": "기술"
       },
       {
-        "date": "2026-09-29",
-        "title": "아마존 프라임 특가: 드림 L10s 울트라 Gen 3 올인원 로봇청소기 파격 할인",
-        "url": "https://actu.fr/guide-achat/maison/c-est-la-promo-du-jour-pour-les-prime-chez-amazon-l-aspirateur-robot-laveur-dreame-l10s-ultra-gen-3-est-a-prix-casse_64851065.html",
+        "date": "2026-09-30",
+        "title": "거실 청소를 정복할 로보락 로봇 청소기, 아마존에서 180유로 미만 판매",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/roborock-part-a-la-conquete-de-votre-salon-ce-robot-aspirateur-est-a-moins-de-180-euros-sur-amazon-b5e14558-bc0c-11f1-8ea4-97dc4d7cca62",
         "cat": "시장"
       },
       {
-        "date": "2026-09-29",
-        "title": "키네틱 로보틱스, 코친 국제공항에 노바 로봇 컨시어지 서비스 배치",
-        "url": "https://www.tribuneindia.com/news/business/kinetiq-rrobotics-deploys-nova-robotic-concierge-at-cochin-international-airport-2-2/",
-        "cat": "시장"
+        "date": "2026-09-30",
+        "title": "레드삭스 투수진, 로봇과의 수주간 훈련 후 실전 경기에서 완벽한 투구 선보여",
+        "url": "https://www.masslive.com/redsox/2026/09/red-sox-spent-weeks-facing-robot-cam-schlittler-then-he-dominated-every-pitch-in-real-life-chris-cotillo.html",
+        "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-09-29",
-        "title": "AI Industry Needs $6 Trillion Annual Revenue By 2031 To Justify Data Centre Boom: Bain Report",
-        "url": "https://www.freepressjournal.in/business/ai-industry-needs-6-trillion-annual-revenue-by-2031-to-justify-data-centre-boom-bain-report",
+        "date": "2026-09-30",
+        "title": "Shaping tomorrow's warehouse: Geekplus and LPP Logistics transform retail logistics through intelligent automation",
+        "url": "https://www.prnewswire.co.uk/news-releases/shaping-tomorrows-warehouse-geekplus-and-lpp-logistics-transform-retail-logistics-through-intelligent-automation-302894303.html",
         "cat": "시장"
       },
       {
-        "date": "2026-09-29",
-        "title": "Estonia blames Russia for arson attack on defense company that provides vehicles to Ukraine",
-        "url": "https://www.ajc.com/news/2026/09/estonia-blames-russia-for-arson-attack-on-defense-company-that-provides-vehicles-to-ukraine/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-09-29",
-        "title": "Estonia decries Russian ‘sabotage’ of defence company",
-        "url": "https://www.bangkokpost.com/world/3328304/estonia-decries-russian-sabotage-of-defence-company",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-09-29",
-        "title": "Estonia slams Russian 'sabotage' after arson attack on defence company Milrem Robotics",
-        "url": "https://www.euronews.com/2026/09/29/estonia-slams-russian-sabotage-after-arson-attack-on-defence-company-milrem-robotics",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-09-29",
-        "title": "Estonia establishes Russian involvement in arson attack on defense company",
-        "url": "https://www.ukrinform.net/rubric-polytics/4169136-estonia-establishes-russian-involvement-in-arson-attack-on-defense-company.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-09-29",
-        "title": "Estonia says Russia ordered August arson attack on defence company",
-        "url": "https://www.straitstimes.com/world/europe/estonia-says-russia-ordered-august-arson-attack-on-defence-company",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-09-29",
-        "title": "Kinetiq RRobotics Deploys Nova Robotic Concierge at Cochin International Airport",
-        "url": "https://www.tribuneindia.com/news/business/kinetiq-rrobotics-deploys-nova-robotic-concierge-at-cochin-international-airport-2-2/",
+        "date": "2026-09-30",
+        "title": "DoorDash to create 3,000 jobs at global tech hub in Telangana",
+        "url": "https://www.businesstoday.in/jobs/story/doordash-to-create-3000-jobs-at-global-tech-hub-in-telangana-558828-2026-09-30",
         "cat": "시장"
       },
       {
-        "date": "2026-09-29",
-        "title": "Microagi Hired Eight Academics As Robotics Startups Chase Talent",
-        "url": "https://www.businessinsider.com/microagi-hired-eight-academics-as-robotics-startups-chase-talent-2026-9",
-        "cat": "경쟁"
+        "date": "2026-09-30",
+        "title": "Blast investigations, prison cell searches: Home Team targets 2028 roll-out of humanoid robots",
+        "url": "https://www.channelnewsasia.com/singapore/htx-humanoid-robotics-centre-edwin-tong-home-team-6420476",
+        "cat": "정책"
       },
       {
-        "date": "2026-09-29",
-        "title": "Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups",
-        "url": "https://www.businessinsider.com/nvidia-alumni-fueling-new-wave-robotics-ai-startups-2026-9",
-        "cat": "경쟁"
+        "date": "2026-09-30",
+        "title": "AI humanoid robots to be deployed with Home Team officers by 2028: Edwin Tong",
+        "url": "https://www.straitstimes.com/singapore/courts-crime/ai-humanoid-robots-to-be-deployed-with-home-team-officers-by-2028-edwin-tong",
+        "cat": "정책"
       },
       {
-        "date": "2026-09-29",
-        "title": "Why AMD is buying World Labs, the startup founded by AI ‘Godmother’ Fei-Fei Li",
-        "url": "https://indianexpress.com/article/technology/tech-news-technology/why-amd-is-buying-world-labs-the-startup-founded-by-ai-godmother-fei-fei-li-10898691/",
+        "date": "2026-09-30",
+        "title": "Efficient Computer Secures $100 Million Funding at $650 Million Valuation to Revolutionize Chip Technology",
+        "url": "https://economictimes.indiatimes.com/tech/technology/chip-startup-efficient-computer-raises-100-million-at-650-million-valuation/articleshow/134588034.cms",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-30",
+        "title": "What does the future hold for the robotics industry in Switzerland?",
+        "url": "https://www.swissinfo.ch/eng/research-frontiers/what-does-the-future-hold-for-the-robotics-industry-in-switzerland/92112979",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-30",
+        "title": "Forbes Asia's 100 to Watch: AI, robotics and green tech lead the pack",
+        "url": "https://www.forbesindia.com/article/global-game/cross-border/forbes-asias-100-to-watch-ai-robotics-and-green-tech-lead-the-pack/2998881/1",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-30",
+        "title": "Elon Musk predicts evolution of roles as AI and robots transform the workplace",
+        "url": "https://www.firstpost.com/tech/elon-musk-predicts-evolution-of-roles-as-ai-and-robots-transform-the-workplace-14049331.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-09-30",
+        "title": "Student Innovators Advance Their Robotic Projects at World Robot Olympiad Entrepreneur Program From Competition to Startup Stage",
+        "url": "https://www.tribuneindia.com/news/business/student-innovators-advance-their-robotic-projects-at-world-robot-olympiad-entrepreneur-program-from-competition-to-startup-stage/",
         "cat": "경쟁"
       }
     ]
