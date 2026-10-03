@@ -1,141 +1,129 @@
 {
-  "asOfDate": "2026.10.02",
+  "asOfDate": "2026.10.03",
   "fx": {
-    "usdkrw": 1361
+    "usdkrw": 1348
   },
   "briefing": {
-    "dateLabel": "2026.10.02 (금)",
-    "headline": "휴머노이드 로봇의 산업 현장 투입 논의와 국방 및 기술 분야의 자동화 도입이 빠르게 확대되고 있습니다.",
-    "summary": "가전 제품의 지능화와 가격 경쟁이 심화되는 가운데 공장 자동화 및 국방 전담 사령부 창설 등 국가적 수준의 로보틱스 기술 도입이 본격화되고 있습니다.",
+    "dateLabel": "2026.10.03 (토)",
+    "headline": "가정용 로봇의 대중화와 산업용 로봇의 고도화가 로보틱스 시장의 성장을 견인하고 있습니다.",
+    "summary": "2026년 10월 초 로보틱스 산업은 가전 로봇의 가격 경쟁력 확보와 의료 및 원전 등 특수 분야에서의 기술적 진보가 두드러지고 있습니다.",
     "points": [
-      "스페인 갈리시아 지역 공장에 1년 내 휴머노이드 로봇 도입 가능성이 제시되며 제조 현장의 로봇 전환이 주목받고 있습니다.",
-      "스웨덴 연구진이 스스로 실험을 설계하고 검증하는 인공지능 과학자를 개발하며 과학 연구 분야의 자동화 지평을 열었습니다.",
-      "미국 국방부가 드론과 로보틱스 전담 사령부 창설을 추진하며 국방 및 군사 분야의 기술적 대비책 마련에 나서고 있습니다."
+      "후쿠시마 원전 사고 현장에 핵연료 잔해 회수를 위한 로봇 팔이 투입되면서 극한 환경에서의 로봇 활용 기술이 실질적인 단계에 진입했습니다.",
+      "영국을 중심으로 한 차세대 로봇 세대가 교육 현장과 직장에서 안드로이드와 공존하는 미래를 긍정적으로 수용하고 있습니다.",
+      "테슬라의 일론 머스크가 AI 칩의 메모리 요구 사양을 대폭 낮추면서도 옵티머스 로봇의 성능에는 영향이 없을 것이라고 밝혀 로봇 효율성 최적화에 대한 기대가 커지고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-01",
-        "title": "스스로 걸레 세척과 건조까지 수행하는 아이로봇 룸바 신제품 출시",
-        "url": "https://www.20minutos.es/ofertas-descuentos/esta-roomba-aspira-friega-mejor-aun-cuando-termina-limpia-seca-sus-propias-mopas_7043265_0.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "실험 설계와 검증이 가능한 인공지능 과학자, 스웨덴에서 개발",
-        "url": "https://www.tgcom24.mediaset.it/tgtech/sviluppato-in-svezia-uno-scienziato-ai-capace-di-progettare-e-verificare-esperimenti_117167879-202602k.shtml",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "도널드 트럼프, 자신에게 반박하기 전까지 챗봇을 매우 훌륭하다고 평가",
-        "url": "https://actu.fr/monde/donald-trump-trouvait-son-chatbot-sacrement-bon-jusqu-a-ce-que-l-ia-commence-a-le-contredire_64864376.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "마르티넬리 지네토 기업의 새로운 소식 및 신제품 발표",
-        "url": "https://www.ecodibergamo.it/stories/premium/economia/martinelli-ginetto-il-nostro-tessile-punta-sui-servizi-per-la-fascia-alta-o_3962914_11/",
+        "date": "2026-10-02",
+        "title": "문턱을 넘고 스스로 세척하는 Dreame X50 Ultra, 314유로 할인으로 역대 최저가 기록",
+        "url": "https://www.smartworld.it/tecnologia/dreame-x50-ultra-robot-aspirapolvere-minimo-storico-sconto-314-euro.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-01",
-        "title": "알디, 99.99유로의 올가을 최저가 로봇 청소기 출시",
-        "url": "https://www.elespanol.com/sociedad/consumo/20261001/llega-aldi-sabado-octubre-robot-aspirador-friegasuelos-barato-otono-cuesta-euros/1003744400847_0.html",
-        "cat": "시장"
+        "date": "2026-10-02",
+        "title": "로봇 심판, ABS 도입 후 챌린지 판정 54% 번복하며 적응기 거쳐",
+        "url": "https://www.breitbart.com/news/robot-umpires-flip-54-of-challenged-calls-in-abs-debut-as-teams-learn-to-time-appeals/",
+        "cat": "기술"
       },
       {
-        "date": "2026-10-01",
-        "title": "가정을 감시하며 가족의 일원이 되고자 하는 눈 달린 로봇 에나봇 EBO 맥스",
+        "date": "2026-10-02",
+        "title": "AIIMS 외과 의료진, 로봇 수술이 어려운 담낭 해부학적 구조 탐색에 도움 줄 수 있어",
+        "url": "https://theprint.in/india/robotic-surgery-may-help-navigate-difficult-gallbladder-anatomy-aiims-surgeons/3060246/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-02",
+        "title": "스타트업: 치료용 로봇부터 목소리를 잃은 이를 위한 AI까지, 디지톤에서 나온 돌봄 서비스 아이디어",
+        "url": "https://www.adnkronos.com/lavoro/start-up/startup-dal-robot-terapeutico-allai-per-dare-voce-a-chi-non-ne-ha-a-digithon-idee-per-servizio-di-cura_4uyI2Tr0SJfHhPgovc8I60",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-02",
+        "title": "가정을 지키는 눈 달린 로봇, 에나봇 EBO Max가 가족의 일원이 되길 꿈꾼다",
         "url": "https://okdiario.com/tecnologia/enabot-ebo-max-robot-ojos-que-vigila-casa-quiere-hacerse-hueco-familia-20411740",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-02",
+        "title": "거실 청소, 힘들이지 마세요: 10월 2일 금요일, 에코백스 로봇청소기 압도적 가성비",
+        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/nettoyer-son-salon-daccord-mais-sans-effort-ce-robot-aspirateur-ecovacs-a-un-rapport-qualiteprix-imbattable-ce-vendredi-2-octobre-02-10-2026-DQVZXWIA6VFBVD5VALLPJW4AWY.php",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-02",
+        "title": "영국의 '로봇 세대', 직장과 교실에서 안드로이드와 함께할 미래를 기대하다",
+        "url": "https://www.lbc.co.uk/article/britains-robot-generation-androids-5HjdjL7_2/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-02",
+        "title": "도쿄전력, 후쿠시마 원전 핵연료 잔해 회수를 위해 로봇 팔 투입 시작",
+        "url": "https://japantoday.com/category/national/tepco-begins-inserting-robot-arm-to-retrieve-fukushima-nuke-fuel-debris",
         "cat": "기술"
       },
       {
-        "date": "2026-10-01",
-        "title": "스페인 갈리시아, 로봇 시대 진입… 1년 내 공장에 휴머노이드 도입 가능성",
-        "url": "https://www.elperiodico.com/es/politica/20261001/galicia-apunta-robot-ano-posible-134749960",
-        "cat": "시장"
+        "date": "2026-10-02",
+        "title": "Dreame X60 Ultra 첫인상",
+        "url": "https://timesofindia.indiatimes.com/technology/reviews/dreame-x60-ultra-first-impressions/articleshow/134634322.cms",
+        "cat": "기술"
       },
       {
-        "date": "2026-10-01",
-        "title": "고성능 프리미엄 로봇청소기, 2026년 10월 100유로 가격 인하",
-        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/monstre-de-puissance-ce-robot-aspirateur-laveur-haut-de-gamme-chute-de-100-euros-en-octobre-2026-01-10-2026-GT5JQFFUCJDGBEMGFI2X2IH3XI.php",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "프라임 빅 딜 데이: 르판트 로봇청소기 3종 최대 77% 할인",
-        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/prime-big-deals-days-jusqua-77-pourcent-sur-3-robots-aspirateurs-lefant-pour-garder-une-maison-impeccable-b28a5662-bd7c-11f1-8ea4-97dc4d7cca62",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "에디 퍼펙트, 몰리에르 풍자극 타르튀프를 인공지능에 대한 블랙코미디로 변주",
-        "url": "https://www.abc.net.au/news/2026-10-01/eddie-perfect-the-tartuffe-malthouse-theatre-2027-season/107188726",
+        "date": "2026-10-02",
+        "title": "2026년 시장 최고 제품 중 하나: 에코백스 로봇청소기, 이번 금요일 42% 할인",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/cest-lun-des-meilleurs-du-marche-en-2026-ce-robot-aspirateur-ecovacs-est-a-42-pourcent-ce-vendredi-a79a93d8-bce2-11f1-8ea4-97dc4d7cca62",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-01",
-        "title": "Davao City eyes robotics, AI for security, tourism",
-        "url": "https://www.sunstar.com.ph/davao/davao-city-eyes-robotics-ai-for-security-tourism",
+        "date": "2026-10-02",
+        "title": "Robotics to become accelerating tool in every specialty of Medicine: Dr Jitendra",
+        "url": "https://www.dailyexcelsior.com/robotics-to-become-accelerating-tool-in-every-specialty-of-medicine-dr-jitendra/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-02",
+        "title": "Beyond Ready: Livingston Parish 4-H joins national celebration of leadership, learning, service",
+        "url": "https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/beyond-ready-livingston-parish-4-h-joins-national-celebration-of-leadership-learning-service/article_65ed02fe-7064-4223-a7e8-1e81f6db6696.html",
         "cat": "정책"
       },
       {
-        "date": "2026-10-01",
-        "title": "AI, machine learning and robotics will transform space exploration, says former ISRO chief Kiran Kumar",
-        "url": "https://www.thehindu.com/news/national/andhra-pradesh/ai-machine-learning-and-robotics-will-transform-space-exploration-says-former-isro-chief-kiran-kumar/article71532569.ece",
+        "date": "2026-10-02",
+        "title": "Britain's 'Robot Generation' excited for a future with androids in the workplace and classroom",
+        "url": "https://www.lbc.co.uk/article/britains-robot-generation-androids-5HjdjL7_2/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-02",
+        "title": "MBD Group Marks 70th Establishment Day, Celebrates 70 Years of Learning, Growth and Impact",
+        "url": "https://www.devdiscourse.com/article/business/3985429-mbd-group-marks-70th-establishment-day-celebrates-70-years-of-learning-growth-and-impact",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-02",
+        "title": "SoftBank stock investors see past credit risks to AI returns",
+        "url": "https://www.japantimes.co.jp/business/2026/10/02/companies/softbank-ai-return-investors/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-02",
+        "title": "Faraday Future Showcases its EAI Robotics World 2.0 at IROS 2026; Its Four-Core Full-Stack AI Ecosystem and Industry Productivity Solutions Receives Positive Industry Response as the Company Actively",
+        "url": "https://www.wallstreet-online.de/nachricht/21464853-faraday-future-showcases-its-eai-robotics-world-2-0-at-iros-2026-its-four-core-full-stack-ai-ecosystem-and-industry-productivity-solutions-receives-positive-industry-response-as-the-company-actively-recruits-in-house-development-partners",
         "cat": "기술"
       },
       {
         "date": "2026-10-01",
-        "title": "Essexville-Hampton robotics gets $29K donation for new field",
-        "url": "https://www.mlive.com/news/saginaw-bay-city/2026/10/essexville-hampton-robotics-gets-29k-donation-for-new-field.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "Pentagon plans drone and robotics command as experts warn of military AI risks",
-        "url": "https://www.naturalnews.com/2026-10-01-pentagon-drone-robotics-command-military-risks.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "Know a Rising Star in Robotics? We Want to Hear From You.",
-        "url": "https://www.businessinsider.com/know-a-rising-star-in-robotics-want-hear-from-you-2026-9",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "Elon Musk joins Pentagon’s Project Meridian: How AI, robots and autonomous weapons could shape future warfare",
-        "url": "https://www.livemint.com/ai/elon-musk-joins-pentagon-s-project-meridian-how-ai-robots-and-autonomous-weapons-could-shape-future-warfare-11790846770763.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "Switzerland and Germany collaborate on AI and robotics",
-        "url": "https://www.swissinfo.ch/eng/research-frontiers/switzerland-and-germany-are-collaborating-on-research-into-ai-and-robotics/92148447",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "Study reveals Germany's edge in humanoid robot parts",
-        "url": "https://www.thenews.com.pk/latest/1418316-study-reveals-germanys-edge-in-humanoid-robot-parts",
+        "title": "California startup launches robot to do household chores",
+        "url": "https://nypost.com/2026/10/01/us-news/california-startup-launches-robot-to-do-household-chores/",
         "cat": "기술"
       },
       {
         "date": "2026-10-01",
-        "title": "Nearly 70 students participate in 2026 MBD inter-school AI robotics challenge",
-        "url": "https://www.thehindu.com/education/nearly-70-students-participate-in-2026-mbd-inter-school-ai-robotics-challenge/article71532009.ece",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-01",
-        "title": "DoorDash Opens First India Office In Hyderabad, Plans To Hire 3,000; Here Are The Current Openings",
-        "url": "https://in.mashable.com/tech/114485/doordash-opens-first-india-office-in-hyderabad-plans-to-hire-3000-here-are-the-current-openings",
-        "cat": "경쟁"
+        "title": "Elon Musk Slashes Memory Requirements For Tesla's AI5 Chip By Half To 72 GB, And AI6 By A Third To 144 GB, But Says The Performance Of Optimus Won't Be Affected",
+        "url": "https://wccftech.com/elon-musk-slashes-memory-requirements-for-teslas-ai5-chip-by-half-to-72-gb-and-ai6-by-a-third-to-144-gb-but-says-the-performance-of-optimus-wont-be-affected/",
+        "cat": "기술"
       }
     ]
   }
