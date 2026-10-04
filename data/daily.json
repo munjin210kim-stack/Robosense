@@ -1,135 +1,123 @@
 {
-  "asOfDate": "2026.10.04",
+  "asOfDate": "2026.10.05",
   "fx": {
     "usdkrw": 1348
   },
   "briefing": {
-    "dateLabel": "2026.10.04 (일)",
-    "headline": "로보틱스 기술이 일상 가전부터 의료, 소방 현장까지 전방위적으로 확산하며 시장 가치를 입증하고 있습니다.",
-    "summary": "로봇 기술의 고도화로 인해 가전 시장의 대중화와 의료 및 전문 산업 분야로의 로봇 도입이 가속화되는 추세입니다.",
+    "dateLabel": "2026.10.05 (월)",
+    "headline": "글로벌 로봇 산업이 첨단 의료 및 국방 분야의 고도화와 더불어 가전 및 오픈소스 생태계 전반으로 가속화되고 있습니다.",
+    "summary": "로봇 기술은 단일공 로봇 수술과 미래 무인 전력 구축 같은 고난도 영역부터 휴머노이드 개발과 실용 가전제품 보급에 이르기까지 산업 및 일상 영역 전반으로 확대되는 추세입니다.",
     "points": [
-      "사천 요리를 직접 조리하는 로봇 셰프가 등장해 소비자들에게 가정식과 유사한 맛을 제공하며 호평을 받고 있습니다.",
-      "나시크 시청이 800도의 고온 환경에서도 화재 진압이 가능한 하이테크 소방 로봇 도입을 위한 입찰 절차에 착수했습니다.",
-      "영국에서는 에브리(Evri) 사가 2족 보행 로봇을 배치하여 마을 주민들에게 택배를 직접 전달하는 배송 서비스를 시작했습니다."
+      "루이지애나에서 최초로 단일공 로봇을 활용한 폐 수술이 성공적으로 시행되어 첨단 의료 로봇의 실용성과 안전성을 입증했습니다.",
+      "미 국방부가 미래 전투 프로젝트를 위해 인공지능과 로봇 기술 도입을 적극 추진하며 자율무기 중심의 전력 강화를 도모하고 있습니다.",
+      "국제로봇학회에서 고성능 오픈소스 휴머노이드 로봇이 공개되어 관련 연구 개발 및 기술 상용화 흐름을 가속화할 것으로 전망됩니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-03",
-        "title": "메이저리그(MLB)는 정말 인간의 의사결정을 배제하는 방향으로 가고 있는가?",
-        "url": "https://www.essentiallysports.com/mlb-baseball-news-is-mlb-really-moving-towards-end-of-human-based-decision-making/",
+        "date": "2026-10-04",
+        "title": "흡입과 세척 기능을 갖춘 룸바 플러스 416 로봇청소기 할인",
+        "url": "https://www.frandroid.com/bons-plans/3263375_il-aspire-lave-et-soccupe-de-ses-lingettes-ce-roomba-plus-416-a-46-vous-debarrasse-de-la-corvee-du-menage",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-04",
+        "title": "루이지애나 최초의 단일공 로봇 보조 폐 수술 성공",
+        "url": "https://www.theadvocate.com/baton_rouge/entertainment_life/louisiana_health/louisiana-first-single-port-robot-assisted-lung-surgery/article_7d46a11b-0cb3-50cd-937e-b9e5a9ccff85.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-03",
-        "title": "사천 요리를 만드는 로봇 셰프, '집밥' 같다는 고객들의 평가",
-        "url": "https://www.moneycontrol.com/news/trends/robot-chefs-are-cooking-sichuan-food-and-diners-say-it-tastes-home-style-14043850.html",
+        "date": "2026-10-04",
+        "title": "로보락, 롤러형 바닥 세척 로봇 '사로스 20 플로우 컴플리트' 공개",
+        "url": "https://www.frandroid.com/produits-android/maison-connectee/robot-aspirateur/3268567_saros-20-flow-complete-roborock-change-sa-facon-de-laver-les-sols-avec-ce-robot-a-rouleau",
         "cat": "기술"
       },
       {
-        "date": "2026-10-03",
-        "title": "테슬라와 로봇 미래를 두고 경쟁하는 자동차 제조사",
-        "url": "https://www.hindustantimes.com/technology/the-carmaker-vying-with-tesla-to-conquer-the-robot-future-101791023591086.html",
+        "date": "2026-10-04",
+        "title": "미 국방부, 일론 머스크 지목하여 미래전 프로젝트 주도… 로봇 및 인공지능 주목",
+        "url": "https://www.tribunnews.com/internasional/7891868/elon-musk-ditunjuk-pentagon-pimpin-proyek-perang-masa-depan-robot-hingga-ai-jadi-sorotan",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-04",
+        "title": "자율적으로 작동하는 90유로 미만 유리창 청소 로봇",
+        "url": "https://www.ouest-france.fr/shopping/marques/amazon/plus-besoin-de-le-tenir-ce-robot-laveur-de-vitres-a-moins-de-90-euros-ce-dimanche-4-octobre-nettoie-en-autonomie-9a9d531e-bd9b-11f1-81a4-4fea3020cab7",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-04",
+        "title": "우크라이나의 로봇 공세, 푸틴 군사력의 취약점 노출",
+        "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
         "cat": "경쟁"
       },
       {
-        "date": "2026-10-03",
-        "title": "추락을 비행으로 바꾸는 로봇을 개발한 연구진",
-        "url": "https://www.digitaltrends.com/cool-tech/researchers-built-a-robot-that-turns-a-fall-from-the-sky-into-a-sailing-trip/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-03",
-        "title": "이제 고생 끝: 아마존에서 할인 중인 이 창문 청소 로봇이 당신 대신 청소를 해줄 것",
-        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/fini-le-systeme-d-ce-robot-lave-vitre-disponible-sur-amazon-en-promotion-va-faire-le-menage-a-votre-place-03-10-2026-VOXYQCKCDVEFHPNQVNOL2VQXM4.php",
+        "date": "2026-10-04",
+        "title": "오늘의 사진",
+        "url": "https://www.eluniversal.com.co/opinion/foto-del-dia/2026/10/04/foto-del-dia/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-03",
-        "title": "필리스의 역주행, 무기가 된 치즈스테이크, 그리고 필라델피아의 더 기묘한 로봇",
-        "url": "https://www.inquirer.com/news/philadelphia/phillies-wild-card-loss-cheesesteak-assault-robot-report-card-20261003.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-03",
-        "title": "3살부터 프로그래밍을 배우는 아이들: 자전거를 타기도 전에 레고 로봇을 만들고 코딩을 하다",
-        "url": "https://stirileprotv.ro/stiri/ilikeit/copiii-care-invata-programare-de-la-3-ani-construiesc-roboti-din-lego-si-scriu-cod-inainte-sa-mearga-pe-bicicleta.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-03",
-        "title": "800도 고온에서도 불을 끄는 로봇! 나시크 시청, 하이테크 소방 로봇 도입 위해 입찰 공고",
-        "url": "https://navbharatlive.com/maharashtra/nashik/nashik-municipal-corporation-fire-robot-800-degree-temperature-firefighting-mgb06",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-03",
-        "title": "데뷔 시즌을 성공적으로 마친 로봇 심판",
-        "url": "https://www.arkansasonline.com/news/2026/oct/03/robot-umpires-solid-in-debut-season/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-03",
-        "title": "알디(Aldi)에 등장한 99.99유로짜리 한 번에 먼지를 제거하는 로봇 청소기",
-        "url": "https://www.elespanol.com/omicrono/hardware/20261003/llega-aldi-robot-aspirador-friegasuelos-capaz-eliminar-suciedad-pasada-cuesta-solo-euros/1003744403592_0.html",
+        "date": "2026-10-04",
+        "title": "30유로 미만의 다기능 주방용 로봇 제품",
+        "url": "https://www.20minutes.fr/guide-achat/guide-maison/4250681-20261004-erreur-robot-cuisine-polyvalent-moins-30",
         "cat": "시장"
+      },
+      {
+        "date": "2026-10-04",
+        "title": "250유로 미만 특가로 선보이는 에코백스 로봇청소기",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/ce-robot-aspirateur-ecovacs-ne-laisse-plus-aucune-chance-a-la-poussiere-il-est-a-moins-de-250-euros-ce-dimanche-3b846050-bce4-11f1-8ea4-97dc4d7cca62",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-04",
+        "title": "조에 프로젝트: 암 투병 학생들을 위한 소통 로봇 개발",
+        "url": "https://www.elconfidencial.com/espana/2026-10-04/proyecto-zoe-el-robot-que-pondra_4434615/",
+        "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-10-03",
-        "title": "Evri deploys 2-legged robots to hand out parcels in UK town",
-        "url": "https://www.express.co.uk/news/uk/2252933/evri-parcels-uk-today-delivery",
+        "date": "2026-10-04",
+        "title": "Proexpo Communications Limited: coreQ AI Unveils Data Infrastructure Roadmap for the Next Generation of Physical AI",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69748040-proexpo-communications-limited-coreq-ai-unveils-data-infrastructure-roadmap-for-the-next-generation-of-physical-ai-296.htm",
         "cat": "기술"
       },
       {
-        "date": "2026-10-03",
-        "title": "Pentagon’s Project Meridian Gives Musk, Luckey and Gingrich 120 Days to Map Future Wars From Underground to the Moon",
-        "url": "https://usaherald.com/pentagons-project-meridian-gives-musk-luckey-and-gingrich-120-days-to-map-future-wars-from-underground-to-the-moon/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-03",
-        "title": "America wants to wean itself off Chinese technology. Will the pain pay off?",
-        "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/02/america-wants-to-wean-itself-off-chinese-technology-will-the-pain-pay-off/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-02",
-        "title": "Robotics to become accelerating tool in every specialty of Medicine: Dr Jitendra",
-        "url": "https://www.dailyexcelsior.com/robotics-to-become-accelerating-tool-in-every-specialty-of-medicine-dr-jitendra-2/",
+        "date": "2026-10-04",
+        "title": "coreQ AI Unveils Data Infrastructure Roadmap for the Next Generation of Physical AI",
+        "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/coreq-ai-unveils-data-infrastructure-roadmap-for-the-next-generation-of-physical-ai/",
         "cat": "기술"
       },
       {
-        "date": "2026-10-02",
-        "title": "Meet the humanoid robot cleaning kitchens and bathrooms",
-        "url": "https://www.vcstar.com/story/news/state/california/2026/10/02/meet-the-humanoid-robot-cleaning-kitchens-and-bathrooms/92060825007/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-02",
-        "title": "Robot software startup FieldAI is set to raise $700M at a $10B valuation",
-        "url": "https://thenextweb.com/news/fieldai-10b-europe-robot-brains",
+        "date": "2026-10-04",
+        "title": "Real Humanoid Robot Jia to Star in Kannada Film Lambodhar 2.0: ‘First Time in Indian Cinema’",
+        "url": "https://www.news18.com/movies/regional-cinema/real-humanoid-robot-jia-to-star-in-kannada-film-lambodhar-2-0-first-time-in-indian-cinema-ws-l-10366415.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-02",
-        "title": "Robotics Startup FieldAI Raises at $10B Valuation in New Round",
-        "url": "https://www.businessinsider.com/robotics-startup-fieldai-raises-at-10b-valuation-in-new-round-2026-10",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-02",
-        "title": "All single-teacher schools in state upgraded to LP level: Min",
-        "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/all-single-teacher-schools-in-state-upgraded-to-lp-level-min/articleshow/134642375.cms",
+        "date": "2026-10-03",
+        "title": "CM Mohan Yadav Lays Foundation Stone For IISER Bhopal-ATRI Campus On 52 Acres, Focus On AI, Quantum Tech & Drones",
+        "url": "https://www.freepressjournal.in/bhopal/cm-mohan-yadav-lays-foundation-stone-for-iiser-bhopal-atri-campus-on-52-acres-focus-on-ai-quantum-tech-drones",
         "cat": "정책"
       },
       {
-        "date": "2026-10-02",
-        "title": "Robotics to expand beyond surgery into diagnostics and multiple medical specialities: Jitendra Singh",
-        "url": "https://www.devdiscourse.com/article/business/3985824-robotics-to-expand-beyond-surgery-into-diagnostics-and-multiple-medical-specialities-jitendra-singh",
+        "date": "2026-10-03",
+        "title": "Private Tech Trailblazers: vertical AI becomes the growth engine",
+        "url": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-03",
+        "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
+        "url": "https://www.manilatimes.net/2026/10/04/tmt-newswire/pr-newswire/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros/2438481",
         "cat": "기술"
+      },
+      {
+        "date": "2026-10-03",
+        "title": "Focus on youth, jobs, tech, not caste equations: Rajeshwar Singh",
+        "url": "https://timesofindia.indiatimes.com/city/lucknow/focus-on-youth-jobs-tech-not-caste-equations-rajeshwar-singh/articleshow/134665011.cms",
+        "cat": "정책"
       }
     ]
   }
