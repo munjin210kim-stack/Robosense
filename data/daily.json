@@ -1,123 +1,123 @@
 {
-  "asOfDate": "2026.10.05",
+  "asOfDate": "2026.10.06",
   "fx": {
-    "usdkrw": 1348
+    "usdkrw": 1344
   },
   "briefing": {
-    "dateLabel": "2026.10.05 (월)",
-    "headline": "글로벌 로봇 산업이 첨단 의료 및 국방 분야의 고도화와 더불어 가전 및 오픈소스 생태계 전반으로 가속화되고 있습니다.",
-    "summary": "로봇 기술은 단일공 로봇 수술과 미래 무인 전력 구축 같은 고난도 영역부터 휴머노이드 개발과 실용 가전제품 보급에 이르기까지 산업 및 일상 영역 전반으로 확대되는 추세입니다.",
+    "dateLabel": "2026.10.06 (화)",
+    "headline": "글로벌 로보틱스 산업이 새로운 유니콘 기업 탄생과 서비스 보급 확대를 바탕으로 성장세를 이어가고 있습니다.",
+    "summary": "로봇 스타트업에 대한 대규모 투자와 유통·배송 현장 내 실전 투입이 가속화되면서 산업 전반의 상용화가 점차 확대되는 추세입니다.",
     "points": [
-      "루이지애나에서 최초로 단일공 로봇을 활용한 폐 수술이 성공적으로 시행되어 첨단 의료 로봇의 실용성과 안전성을 입증했습니다.",
-      "미 국방부가 미래 전투 프로젝트를 위해 인공지능과 로봇 기술 도입을 적극 추진하며 자율무기 중심의 전력 강화를 도모하고 있습니다.",
-      "국제로봇학회에서 고성능 오픈소스 휴머노이드 로봇이 공개되어 관련 연구 개발 및 기술 상용화 흐름을 가속화할 것으로 전망됩니다."
+      "독일 로봇 스타트업 롭코가 기업가치 10억 달러를 달성하며 유니콘 기업에 등극하고 미국 시장 진출을 본격화했습니다.",
+      "배달 플랫폼 딜리버루가 영국 5개 도시 보도에 자율주행 배달 로봇을 전격 투입하며 상용 서비스를 시작했습니다.",
+      "테라다인이 인공지능 기반 제조 인프라 역량을 강화하기 위해 브라이트 머신스에 대한 전략적 투자를 단행했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-04",
-        "title": "흡입과 세척 기능을 갖춘 룸바 플러스 416 로봇청소기 할인",
-        "url": "https://www.frandroid.com/bons-plans/3263375_il-aspire-lave-et-soccupe-de-ses-lingettes-ce-roomba-plus-416-a-46-vous-debarrasse-de-la-corvee-du-menage",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-04",
-        "title": "루이지애나 최초의 단일공 로봇 보조 폐 수술 성공",
-        "url": "https://www.theadvocate.com/baton_rouge/entertainment_life/louisiana_health/louisiana-first-single-port-robot-assisted-lung-surgery/article_7d46a11b-0cb3-50cd-937e-b9e5a9ccff85.html",
+        "date": "2026-10-05",
+        "title": "인간 대 휴머노이드 로봇의 케이지 파이트 대결 영상 화제",
+        "url": "https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral",
         "cat": "기술"
       },
       {
-        "date": "2026-10-04",
-        "title": "로보락, 롤러형 바닥 세척 로봇 '사로스 20 플로우 컴플리트' 공개",
-        "url": "https://www.frandroid.com/produits-android/maison-connectee/robot-aspirateur/3268567_saros-20-flow-complete-roborock-change-sa-facon-de-laver-les-sols-avec-ce-robot-a-rouleau",
+        "date": "2026-10-05",
+        "title": "독일 로봇 스타트업 롭코, 기업가치 10억 달러 달성… CEO는 미국으로 이주",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/05/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-to-us",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "러시아, 125mm 포탑 탑재 돌격용 로봇 탱크 시험 중 진흙에 빠져",
+        "url": "https://www.larazon.es/tecnologia/rusia-prueba-tanque-robot-canon-125-apoyar-unidades-asalto-que-termina-atascado-barro_202610056ac3913ff7f8f566d14da111.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-04",
-        "title": "미 국방부, 일론 머스크 지목하여 미래전 프로젝트 주도… 로봇 및 인공지능 주목",
-        "url": "https://www.tribunnews.com/internasional/7891868/elon-musk-ditunjuk-pentagon-pimpin-proyek-perang-masa-depan-robot-hingga-ai-jadi-sorotan",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-04",
-        "title": "자율적으로 작동하는 90유로 미만 유리창 청소 로봇",
-        "url": "https://www.ouest-france.fr/shopping/marques/amazon/plus-besoin-de-le-tenir-ce-robot-laveur-de-vitres-a-moins-de-90-euros-ce-dimanche-4-octobre-nettoie-en-autonomie-9a9d531e-bd9b-11f1-81a4-4fea3020cab7",
+        "date": "2026-10-05",
+        "title": "플래시 프라임, 물걸레 로봇청소기 로보락 Qrevo 2 Pro 역대 최저가 할인 진행",
+        "url": "https://actu.fr/guide-achat/prime-day/flash-prime-l-aspirateur-robot-laveur-roborock-qrevo-2-pro-affiche-un-prix-record-c-est-le-moment-d-en-profiter_64880405.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-04",
-        "title": "우크라이나의 로봇 공세, 푸틴 군사력의 취약점 노출",
-        "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-04",
-        "title": "오늘의 사진",
-        "url": "https://www.eluniversal.com.co/opinion/foto-del-dia/2026/10/04/foto-del-dia/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-04",
-        "title": "30유로 미만의 다기능 주방용 로봇 제품",
-        "url": "https://www.20minutes.fr/guide-achat/guide-maison/4250681-20261004-erreur-robot-cuisine-polyvalent-moins-30",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-04",
-        "title": "250유로 미만 특가로 선보이는 에코백스 로봇청소기",
-        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/ce-robot-aspirateur-ecovacs-ne-laisse-plus-aucune-chance-a-la-poussiere-il-est-a-moins-de-250-euros-ce-dimanche-3b846050-bce4-11f1-8ea4-97dc4d7cca62",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-04",
-        "title": "조에 프로젝트: 암 투병 학생들을 위한 소통 로봇 개발",
-        "url": "https://www.elconfidencial.com/espana/2026-10-04/proyecto-zoe-el-robot-que-pondra_4434615/",
+        "date": "2026-10-05",
+        "title": "AI 로봇 스타트업, 슈워제네거 조언에 따라 '터미네이터'식 폐기 퍼포먼스 진행",
+        "url": "https://www.ndtvprofit.com/technology/you-should-melt-them-ai-robotics-startup-heeds-schwarzeneggers-advice-with-terminator-send-off-12141404",
         "cat": "기술"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "오늘날 상장지수펀드(ETF)의 주요 매수자는 누구인가",
+        "url": "https://www.boursorama.com/bourse/actualites/qui-sont-aujourd-hui-les-acquereurs-d-etf-7be5903d884f4e17f2b55b0f8c5d4d46",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "딜리버루, 영국 5개 도시 인도에 배달 로봇 투입",
+        "url": "https://thenextweb.com/news/deliveroo-coco-robots-uk-cities",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "드리미, 먼지 비움 지원 D20 에어 플러스 로봇청소기 파격 할인 판매",
+        "url": "https://gizmodo.com/dreame-wants-its-d20-air-plus-gone-self-emptying-robot-vacuum-and-mop-now-priced-like-a-basic-robot-2000821597",
+        "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-04",
-        "title": "Proexpo Communications Limited: coreQ AI Unveils Data Infrastructure Roadmap for the Next Generation of Physical AI",
-        "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69748040-proexpo-communications-limited-coreq-ai-unveils-data-infrastructure-roadmap-for-the-next-generation-of-physical-ai-296.htm",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-04",
-        "title": "coreQ AI Unveils Data Infrastructure Roadmap for the Next Generation of Physical AI",
-        "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/coreq-ai-unveils-data-infrastructure-roadmap-for-the-next-generation-of-physical-ai/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-04",
-        "title": "Real Humanoid Robot Jia to Star in Kannada Film Lambodhar 2.0: ‘First Time in Indian Cinema’",
-        "url": "https://www.news18.com/movies/regional-cinema/real-humanoid-robot-jia-to-star-in-kannada-film-lambodhar-2-0-first-time-in-indian-cinema-ws-l-10366415.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-03",
-        "title": "CM Mohan Yadav Lays Foundation Stone For IISER Bhopal-ATRI Campus On 52 Acres, Focus On AI, Quantum Tech & Drones",
-        "url": "https://www.freepressjournal.in/bhopal/cm-mohan-yadav-lays-foundation-stone-for-iiser-bhopal-atri-campus-on-52-acres-focus-on-ai-quantum-tech-drones",
+        "date": "2026-10-05",
+        "title": "Pope Leo XIV calls artists to unite against AI, warns of cultural “homogenization”",
+        "url": "https://www.naturalnews.com/2026-10-05-pope-leo-xiv-calls-artists-unite-against-ai.html",
         "cat": "정책"
       },
       {
-        "date": "2026-10-03",
-        "title": "Private Tech Trailblazers: vertical AI becomes the growth engine",
-        "url": "https://siliconangle.com/2026/10/03/private-tech-trailblazers-vertical-ai-becomes-growth-engine-privatetechtrailblazersconference/",
+        "date": "2026-10-05",
+        "title": "Serve Robotics to Present at Evercore ISI's 5th Annual Automation Tech & Physical AI Conference",
+        "url": "https://www.manilatimes.net/2026/10/05/tmt-newswire/globenewswire/serve-robotics-to-present-at-evercore-isis-5th-annual-automation-tech-physical-ai-conference/2439170",
         "cat": "시장"
       },
       {
-        "date": "2026-10-03",
-        "title": "RoboParty Unveils RP1, a High-Performance Full-Stack Open-Source Humanoid Robot at IROS",
-        "url": "https://www.manilatimes.net/2026/10/04/tmt-newswire/pr-newswire/roboparty-unveils-rp1-a-high-performance-full-stack-open-source-humanoid-robot-at-iros/2438481",
+        "date": "2026-10-05",
+        "title": "Human vs humanoid robot cage fight goes viral",
+        "url": "https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral",
         "cat": "기술"
       },
       {
-        "date": "2026-10-03",
-        "title": "Focus on youth, jobs, tech, not caste equations: Rajeshwar Singh",
-        "url": "https://timesofindia.indiatimes.com/city/lucknow/focus-on-youth-jobs-tech-not-caste-equations-rajeshwar-singh/articleshow/134665011.cms",
-        "cat": "정책"
+        "date": "2026-10-05",
+        "title": "German robot startup RobCo hits $1 billion valuation, CEO moves to US",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/05/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-to-us",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "Teradyne Makes Strategic Investment in Bright Machines to Advance AI Infrastructure Manufacturing",
+        "url": "https://www.manilatimes.net/2026/10/05/tmt-newswire/globenewswire/teradyne-makes-strategic-investment-in-bright-machines-to-advance-ai-infrastructure-manufacturing/2439112",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "Data centers to factory floors: Walden robots learn on the job",
+        "url": "https://siliconangle.com/2026/10/05/data-centers-factory-floors-walden-robots-learn-job-fullyconnected/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "'You Should Melt Them': AI Robotics Startup Heeds Schwarzenegger's Advice With 'Terminator' Send-Off",
+        "url": "https://www.ndtvprofit.com/technology/you-should-melt-them-ai-robotics-startup-heeds-schwarzeneggers-advice-with-terminator-send-off-12141404",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "Australian robotics company chooses Huntsville for U.S. HQ, manufacturing facility",
+        "url": "https://www.al.com/news/huntsville/2026/10/australian-robotics-company-chooses-huntsville-for-us-hq-manufacturing-facility.html",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "Nashik: Industries Gain Access To Taiwan Market, Opportunities Open In Robotics, Medical Devices And Aerospace",
+        "url": "https://www.freepressjournal.in/pune/nashik-industries-gain-access-to-taiwan-market-opportunities-open-in-robotics-medical-devices-and-aerospace",
+        "cat": "시장"
       }
     ]
   }
