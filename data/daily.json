@@ -1,123 +1,135 @@
 {
-  "asOfDate": "2026.10.06",
+  "asOfDate": "2026.10.07",
   "fx": {
-    "usdkrw": 1344
+    "usdkrw": 1339
   },
   "briefing": {
-    "dateLabel": "2026.10.06 (화)",
-    "headline": "글로벌 로보틱스 산업이 새로운 유니콘 기업 탄생과 서비스 보급 확대를 바탕으로 성장세를 이어가고 있습니다.",
-    "summary": "로봇 스타트업에 대한 대규모 투자와 유통·배송 현장 내 실전 투입이 가속화되면서 산업 전반의 상용화가 점차 확대되는 추세입니다.",
+    "dateLabel": "2026.10.07 (수)",
+    "headline": "글로벌 로보틱스 시장이 소비자용 가전 로봇의 대규모 할인 프로모션과 공공 치안 및 특수 탐사 분야로의 적용 확대로 활기를 띠고 있습니다.",
+    "summary": "프라임 데이 등 글로벌 유통 행사를 통한 가정용·야외용 청소 로봇의 가격 인하 경쟁이 치열한 가운데, 특수 드론 및 자율주행 순찰 로봇 등 산업 전반에서 로보틱스 기술 도입이 가속화되고 있습니다.",
     "points": [
-      "독일 로봇 스타트업 롭코가 기업가치 10억 달러를 달성하며 유니콘 기업에 등극하고 미국 시장 진출을 본격화했습니다.",
-      "배달 플랫폼 딜리버루가 영국 5개 도시 보도에 자율주행 배달 로봇을 전격 투입하며 상용 서비스를 시작했습니다.",
-      "테라다인이 인공지능 기반 제조 인프라 역량을 강화하기 위해 브라이트 머신스에 대한 전략적 투자를 단행했습니다."
+      "드림을 비롯한 주요 로봇 가전 기업들이 대대적인 가격 할인을 단행하며 프라임 데이 쇼핑 행사를 통해 소비자용 청소 로봇 보급을 대폭 확대하고 있습니다.",
+      "씨앗 형태로 착륙하여 해상을 항해할 수 있는 신개념 하이브리드 드론이 공개되며 특수 목적 탐사 로봇의 기술적 지평을 넓혔습니다.",
+      "마이크로폴리스 로보틱스의 자율주행 순찰 로봇이 두바이 경찰의 공식 행사에 투입되어 공공 치안 및 안전 관리 분야에서의 실질적 활용 가치를 입증했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-05",
-        "title": "인간 대 휴머노이드 로봇의 케이지 파이트 대결 영상 화제",
-        "url": "https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral",
+        "date": "2026-10-06",
+        "title": "고성능 로봇 청소기 파격 할인: 450유로 미만에 강력한 출력과 최첨단 지능 제공",
+        "url": "https://www.larazon.es/compras/nuestra-eleccion/robot-aspirador-gama-alta-nunca-fue-tan-barato-menos-450-euros-cambio-potencia-extrema-maxima-inteligencia_202610066ac3cb911c30184d44b57961.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-06",
+        "title": "드림, 프라임 데이 맞아 25,000Pa 강력 흡입력 로봇 청소기 역대 최저가 할인",
+        "url": "https://gizmodo.com/dreame-25000pa-robot-vacuum-and-mop-goes-all-in-on-prime-day-slashing-hundreds-off-to-its-lowest-price-2000821992",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-06",
+        "title": "프리미엄 로봇 청소기 '드림 X60 프로 울트라 컴플리트' 프라임 데이 400유로 할인",
+        "url": "https://actu.fr/guide-achat/prime-day/flash-prime-c-est-la-rolls-des-aspirateur-robot-le-dreame-x60-pro-ultra-complete-chute-de-400_64884880.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-06",
+        "title": "씨앗처럼 착륙해 바다를 항해하는 신개념 하이브리드 드론 공개",
+        "url": "https://www.generation-nt.com/actualites/nouveau-drone-hybride-navigation-mer-2082264",
         "cat": "기술"
       },
       {
-        "date": "2026-10-05",
-        "title": "독일 로봇 스타트업 롭코, 기업가치 10억 달러 달성… CEO는 미국으로 이주",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/05/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-to-us",
+        "date": "2026-10-06",
+        "title": "드림, 499유로 로봇 청소기 및 179유로 물걸레 청소기로 프라임 데이 할인 확대",
+        "url": "https://okdiario.com/tecnologia/dreame-amplia-sus-ofertas-prime-day-robot-aspirador-499-euros-fregona-179-20495910",
         "cat": "시장"
       },
       {
-        "date": "2026-10-05",
-        "title": "러시아, 125mm 포탑 탑재 돌격용 로봇 탱크 시험 중 진흙에 빠져",
-        "url": "https://www.larazon.es/tecnologia/rusia-prueba-tanque-robot-canon-125-apoyar-unidades-asalto-que-termina-atascado-barro_202610056ac3913ff7f8f566d14da111.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-05",
-        "title": "플래시 프라임, 물걸레 로봇청소기 로보락 Qrevo 2 Pro 역대 최저가 할인 진행",
-        "url": "https://actu.fr/guide-achat/prime-day/flash-prime-l-aspirateur-robot-laveur-roborock-qrevo-2-pro-affiche-un-prix-record-c-est-le-moment-d-en-profiter_64880405.html",
+        "date": "2026-10-06",
+        "title": "비트봇 수영장 청소 로봇, 48시간 한정 최대 1,081유로 파격 할인",
+        "url": "https://www.lexpress.fr/guide-shopping/bons-plans/un-robot-de-piscine-a-426-jusqua-1-081-de-remise-sur-les-robots-de-piscine-beatbot-mais-seulement-LS5XBMHJSBFFNAQJHPJQVWYRWM/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-05",
-        "title": "AI 로봇 스타트업, 슈워제네거 조언에 따라 '터미네이터'식 폐기 퍼포먼스 진행",
-        "url": "https://www.ndtvprofit.com/technology/you-should-melt-them-ai-robotics-startup-heeds-schwarzeneggers-advice-with-terminator-send-off-12141404",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-05",
-        "title": "오늘날 상장지수펀드(ETF)의 주요 매수자는 누구인가",
-        "url": "https://www.boursorama.com/bourse/actualites/qui-sont-aujourd-hui-les-acquereurs-d-etf-7be5903d884f4e17f2b55b0f8c5d4d46",
+        "date": "2026-10-06",
+        "title": "프리미엄 드림 로봇 청소기 업그레이드 및 대형 할인 혜택의 마지막 기회",
+        "url": "https://gizmodo.com/its-your-last-chance-to-save-big-and-upgrade-your-robot-vacuum-to-an-elite-dreame-cleaning-machine-2000817434",
         "cat": "시장"
       },
       {
-        "date": "2026-10-05",
-        "title": "딜리버루, 영국 5개 도시 인도에 배달 로봇 투입",
-        "url": "https://thenextweb.com/news/deliveroo-coco-robots-uk-cities",
+        "date": "2026-10-06",
+        "title": "로봇 잔디깎이의 최고봉 '드림 A2' 프라임 데이 맞아 900유로 대폭 할인",
+        "url": "https://www.ouest-france.fr/shopping/prime-day/cest-la-rolls-royce-des-robots-tondeuses-le-dreame-a2-affole-les-jardiniers-a-900-euros-pendant-les-prime-day-7e3fa7a4-c0ba-11f1-bc1c-de747933f8a6",
         "cat": "시장"
       },
       {
-        "date": "2026-10-05",
-        "title": "드리미, 먼지 비움 지원 D20 에어 플러스 로봇청소기 파격 할인 판매",
-        "url": "https://gizmodo.com/dreame-wants-its-d20-air-plus-gone-self-emptying-robot-vacuum-and-mop-now-priced-like-a-basic-robot-2000821597",
+        "date": "2026-10-06",
+        "title": "아마존 그레이트 인디안 페스티벌 2026: 플라우드 노트 테이커 및 드림 로봇 청소기 할인 혜택 제공",
+        "url": "https://indianexpress.com/shorts/technology/amazon-great-indian-festival-2026-tech-deals-10909017/",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-05",
-        "title": "Pope Leo XIV calls artists to unite against AI, warns of cultural “homogenization”",
-        "url": "https://www.naturalnews.com/2026-10-05-pope-leo-xiv-calls-artists-unite-against-ai.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-05",
-        "title": "Serve Robotics to Present at Evercore ISI's 5th Annual Automation Tech & Physical AI Conference",
-        "url": "https://www.manilatimes.net/2026/10/05/tmt-newswire/globenewswire/serve-robotics-to-present-at-evercore-isis-5th-annual-automation-tech-physical-ai-conference/2439170",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-05",
-        "title": "Human vs humanoid robot cage fight goes viral",
-        "url": "https://www.foxnews.com/tech/human-vs-humanoid-robot-cage-fight-goes-viral",
+        "date": "2026-10-06",
+        "title": "Micropolis Robotics DPR2 Autonomous Patrols Lead Dubai Police’s \"Proud of UAE” Cycling Race",
+        "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/globenewswire/micropolis-robotics-dpr2-autonomous-patrols-lead-dubai-polices-proud-of-uae-cycling-race/2439959",
         "cat": "기술"
       },
       {
-        "date": "2026-10-05",
-        "title": "German robot startup RobCo hits $1 billion valuation, CEO moves to US",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/05/german-robot-startup-robco-hits-1-billion-valuation-ceo-moves-to-us",
+        "date": "2026-10-06",
+        "title": "See the Pitch Deck a Drug Manufacturing Startup Used to Raise $75M",
+        "url": "https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10",
         "cat": "시장"
       },
       {
-        "date": "2026-10-05",
-        "title": "Teradyne Makes Strategic Investment in Bright Machines to Advance AI Infrastructure Manufacturing",
-        "url": "https://www.manilatimes.net/2026/10/05/tmt-newswire/globenewswire/teradyne-makes-strategic-investment-in-bright-machines-to-advance-ai-infrastructure-manufacturing/2439112",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-05",
-        "title": "Data centers to factory floors: Walden robots learn on the job",
-        "url": "https://siliconangle.com/2026/10/05/data-centers-factory-floors-walden-robots-learn-job-fullyconnected/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-05",
-        "title": "'You Should Melt Them': AI Robotics Startup Heeds Schwarzenegger's Advice With 'Terminator' Send-Off",
-        "url": "https://www.ndtvprofit.com/technology/you-should-melt-them-ai-robotics-startup-heeds-schwarzeneggers-advice-with-terminator-send-off-12141404",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-05",
-        "title": "Australian robotics company chooses Huntsville for U.S. HQ, manufacturing facility",
-        "url": "https://www.al.com/news/huntsville/2026/10/australian-robotics-company-chooses-huntsville-for-us-hq-manufacturing-facility.html",
+        "date": "2026-10-06",
+        "title": "College sports notebook: Duquesne announces jersey partnership with Gecko Robotics",
+        "url": "https://triblive.com/sports/college-sports-notebook-duquesne-announces-jersey-partnership-with-gecko-robotics/",
         "cat": "경쟁"
       },
       {
-        "date": "2026-10-05",
-        "title": "Nashik: Industries Gain Access To Taiwan Market, Opportunities Open In Robotics, Medical Devices And Aerospace",
-        "url": "https://www.freepressjournal.in/pune/nashik-industries-gain-access-to-taiwan-market-opportunities-open-in-robotics-medical-devices-and-aerospace",
+        "date": "2026-10-06",
+        "title": "Artificial Intelligence (AI) Robots Market : Industry Trends, Growth Drivers, Segmentation and Outlook to 2035",
+        "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/plentisoft/artificial-intelligence-ai-robots-market-industry-trends-growth-drivers-segmentation-and-outlook-to-2035/2439842",
         "cat": "시장"
+      },
+      {
+        "date": "2026-10-06",
+        "title": "From urology to robotics: How RG Hospitals is building its next growth engine",
+        "url": "https://www.businesstoday.in/industry/pharma/story/from-urology-to-robotics-how-rg-hospitals-is-building-its-next-growth-engine-559831-2026-10-06",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-06",
+        "title": "‘First time in Indian cinema’: No CGI, no human actor, real humanoid robot 'Jia' to feature in Kannada film",
+        "url": "https://www.businesstoday.in/trending/entertainment/story/first-time-in-indian-cinema-no-cgi-no-human-actor-real-humanoid-robot-jia-to-feature-in-kannada-film-559748-2026-10-06",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-06",
+        "title": "Humanoid robots take center stage as Seoul opens Smart Life Week",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20261006/humanoid-robots-take-center-stage-as-seoul-opens-smart-life-week",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-06",
+        "title": "Madhya Pradesh Youth Conclave: CM Mohan Yadav Announces 2 MPPSC Exams, Dedicates 2027 To Youth Power",
+        "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-youth-conclave-cm-mohan-yadav-announces-2-psc-exams-dedicates-2027-to-youth-power",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-06",
+        "title": "LG Electronics Says No Decision on US Unit's Nasdaq Listing",
+        "url": "https://www.marketscreener.com/news/lg-electronics-says-no-decision-on-us-unit-s-nasdaq-listing-ce785dd8dc81f222",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-05",
+        "title": "LG urges for technologies aimed at improvements in lives of marginal farmers",
+        "url": "https://www.dailyexcelsior.com/lg-urges-for-technologies-aimed-at-improvements-in-lives-of-marginal-farmers/",
+        "cat": "정책"
       }
     ]
   }
