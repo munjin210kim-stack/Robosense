@@ -1,135 +1,141 @@
 {
-  "asOfDate": "2026.10.07",
+  "asOfDate": "2026.10.08",
   "fx": {
     "usdkrw": 1339
   },
   "briefing": {
-    "dateLabel": "2026.10.07 (수)",
-    "headline": "글로벌 로보틱스 시장이 소비자용 가전 로봇의 대규모 할인 프로모션과 공공 치안 및 특수 탐사 분야로의 적용 확대로 활기를 띠고 있습니다.",
-    "summary": "프라임 데이 등 글로벌 유통 행사를 통한 가정용·야외용 청소 로봇의 가격 인하 경쟁이 치열한 가운데, 특수 드론 및 자율주행 순찰 로봇 등 산업 전반에서 로보틱스 기술 도입이 가속화되고 있습니다.",
+    "dateLabel": "2026.10.08 (목)",
+    "headline": "보스턴 다이내믹스가 아마존 출신 인공지능 전문가를 신임 최고경영자로 선임하며 휴머노이드 로봇 개발에 박차를 가합니다.",
+    "summary": "글로벌 로보틱스 시장은 주요 로봇 기업들의 경영진 교체를 통한 인공지능 역량 강화와 함께 프라임데이 세일을 통한 가정용 로봇청소기 보급 확대가 활발히 이어지고 있습니다.",
     "points": [
-      "드림을 비롯한 주요 로봇 가전 기업들이 대대적인 가격 할인을 단행하며 프라임 데이 쇼핑 행사를 통해 소비자용 청소 로봇 보급을 대폭 확대하고 있습니다.",
-      "씨앗 형태로 착륙하여 해상을 항해할 수 있는 신개념 하이브리드 드론이 공개되며 특수 목적 탐사 로봇의 기술적 지평을 넓혔습니다.",
-      "마이크로폴리스 로보틱스의 자율주행 순찰 로봇이 두바이 경찰의 공식 행사에 투입되어 공공 치안 및 안전 관리 분야에서의 실질적 활용 가치를 입증했습니다."
+      "스페인의 경제학자 산티아고 니뇨 베세라는 인공지능 확산에 대응하기 위한 로봇세 도입 구상이 현실적으로 적용되기 어렵다고 분석했습니다.",
+      "이탈리아 돌로미티 산맥에서는 야생동물 생태계를 효과적으로 감시하고 보호하기 위해 자율주행 로봇과 인공지능 기술을 적극 도입했습니다.",
+      "보스턴 다이내믹스는 아마존의 알렉사 개발을 이끌었던 인공지능 전문가 로힛 프라사드를 최고경영자로 영입하여 휴머노이드 로봇 사업의 경쟁력을 강화하기로 했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-06",
-        "title": "고성능 로봇 청소기 파격 할인: 450유로 미만에 강력한 출력과 최첨단 지능 제공",
-        "url": "https://www.larazon.es/compras/nuestra-eleccion/robot-aspirador-gama-alta-nunca-fue-tan-barato-menos-450-euros-cambio-potencia-extrema-maxima-inteligencia_202610066ac3cb911c30184d44b57961.html",
+        "date": "2026-10-07",
+        "title": "로봇으로 가득 찬 공원에서 보낸 하루 후 만감이 교차하다",
+        "url": "https://www.clarin.com/new-york-times-international-weekly/sentimientos-encontrados-dia-parque-lleno-robots_0_EGJF0sU6nu.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-06",
-        "title": "드림, 프라임 데이 맞아 25,000Pa 강력 흡입력 로봇 청소기 역대 최저가 할인",
-        "url": "https://gizmodo.com/dreame-25000pa-robot-vacuum-and-mop-goes-all-in-on-prime-day-slashing-hundreds-off-to-its-lowest-price-2000821992",
+        "date": "2026-10-07",
+        "title": "문턱을 넘는 로보락 사로스 20 로봇청소기, 아마존 프라임 세일 진행",
+        "url": "https://gizmodo.com/roborocks-saros-20-robot-vacuum-climbs-over-door-sills-and-amazon-is-unloading-it-for-prime-2000822693",
         "cat": "시장"
       },
       {
-        "date": "2026-10-06",
-        "title": "프리미엄 로봇 청소기 '드림 X60 프로 울트라 컴플리트' 프라임 데이 400유로 할인",
-        "url": "https://actu.fr/guide-achat/prime-day/flash-prime-c-est-la-rolls-des-aspirateur-robot-le-dreame-x60-pro-ultra-complete-chute-de-400_64884880.html",
-        "cat": "시장"
+        "date": "2026-10-07",
+        "title": "아파트 건물이 폭격으로 파괴되어 수십 명 사망",
+        "url": "https://www.sydsvenskan.se/varlden/lagenhetshus-bombades-sonder-tiotal-dodade/",
+        "cat": "정책"
       },
       {
-        "date": "2026-10-06",
-        "title": "씨앗처럼 착륙해 바다를 항해하는 신개념 하이브리드 드론 공개",
-        "url": "https://www.generation-nt.com/actualites/nouveau-drone-hybride-navigation-mer-2082264",
-        "cat": "기술"
+        "date": "2026-10-07",
+        "title": "경제학자 산티아고 니뇨 베세라, 인공지능 대비 '로봇세' 영향 분석: 실현 불가능",
+        "url": "https://www.marca.com/tiramillas/economia/2026/10/07/santiago-nino-becerra-economista-analiza-impacto-tasa-robot-frente-ia-inviable.html",
+        "cat": "정책"
       },
       {
-        "date": "2026-10-06",
-        "title": "드림, 499유로 로봇 청소기 및 179유로 물걸레 청소기로 프라임 데이 할인 확대",
+        "date": "2026-10-07",
+        "title": "드리미, 499유로 로봇청소기와 179유로 물걸레 청소기로 프라임데이 할인 확대",
         "url": "https://okdiario.com/tecnologia/dreame-amplia-sus-ofertas-prime-day-robot-aspirador-499-euros-fregona-179-20495910",
         "cat": "시장"
       },
       {
-        "date": "2026-10-06",
-        "title": "비트봇 수영장 청소 로봇, 48시간 한정 최대 1,081유로 파격 할인",
-        "url": "https://www.lexpress.fr/guide-shopping/bons-plans/un-robot-de-piscine-a-426-jusqua-1-081-de-remise-sur-les-robots-de-piscine-beatbot-mais-seulement-LS5XBMHJSBFFNAQJHPJQVWYRWM/",
+        "date": "2026-10-07",
+        "title": "최고 평가를 받은 로봇청소기, 아마존 프라임데이 할인 진행",
+        "url": "https://www.standard.co.uk/shopping/esbest/home-garden/household-appliances/robot-vacuum-amazon-prime-day-deal-b1299862.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-06",
-        "title": "프리미엄 드림 로봇 청소기 업그레이드 및 대형 할인 혜택의 마지막 기회",
-        "url": "https://gizmodo.com/its-your-last-chance-to-save-big-and-upgrade-your-robot-vacuum-to-an-elite-dreame-cleaning-machine-2000817434",
-        "cat": "시장"
+        "date": "2026-10-07",
+        "title": "로보락 큐레보 에지 2 플로우 리뷰: 35000Pa 흡입력과 롤러 모프를 갖춘 로봇청소기의 최대 성능과 최소 노력",
+        "url": "https://www.mobilissimo.ro/recenzii-diverse/roborock-qrevo-edge-2-flow-review",
+        "cat": "기술"
       },
       {
-        "date": "2026-10-06",
-        "title": "로봇 잔디깎이의 최고봉 '드림 A2' 프라임 데이 맞아 900유로 대폭 할인",
-        "url": "https://www.ouest-france.fr/shopping/prime-day/cest-la-rolls-royce-des-robots-tondeuses-le-dreame-a2-affole-les-jardiniers-a-900-euros-pendant-les-prime-day-7e3fa7a4-c0ba-11f1-bc1c-de747933f8a6",
-        "cat": "시장"
+        "date": "2026-10-07",
+        "title": "돌로미티 산맥의 야생동물을 감시하기 위한 자율주행 로봇과 인공지능",
+        "url": "https://www.ecodibergamo.it/stories/premium/scienza-e-tecnologia/robot-autonomi-e-ia-per-monitorare-la-fauna-selvatica-sulle-dolomiti-o_3967187_11/",
+        "cat": "기술"
       },
       {
-        "date": "2026-10-06",
-        "title": "아마존 그레이트 인디안 페스티벌 2026: 플라우드 노트 테이커 및 드림 로봇 청소기 할인 혜택 제공",
-        "url": "https://indianexpress.com/shorts/technology/amazon-great-indian-festival-2026-tech-deals-10909017/",
+        "date": "2026-10-07",
+        "title": "비플, 웨이브 바이 벤토 행사에서 '인공지능으로 예술이 살아있는 것이 될 수 있다' 언급",
+        "url": "https://www.repubblica.it/tecnologia/dossier/wave-by-vento/2026/10/07/news/beeple_wave_by_vento_ia_arte-425631491/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-07",
+        "title": "아마존, 10월 6일 수요일 139유로 할인된 초강력 로봇청소기로 경쟁사 압도",
+        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/amazon-balaie-la-concurrence-avec-ce-robot-aspirateur-laveur-ultra-puissant-qui-chute-de-139-euros-ce-mercredi-6-octobre-07-10-2026-QXJNML3MPNCCNGE4XMUDL2EKTU.php",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-06",
-        "title": "Micropolis Robotics DPR2 Autonomous Patrols Lead Dubai Police’s \"Proud of UAE” Cycling Race",
-        "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/globenewswire/micropolis-robotics-dpr2-autonomous-patrols-lead-dubai-polices-proud-of-uae-cycling-race/2439959",
+        "date": "2026-10-07",
+        "title": "EyeROV supplies India’s first military-grade ROV to Indian Navy",
+        "url": "https://www.thehindubusinessline.com/info-tech/eyerov-supplies-indias-first-military-grade-rov-to-indian-navy/article71555524.ece",
         "cat": "기술"
       },
       {
-        "date": "2026-10-06",
-        "title": "See the Pitch Deck a Drug Manufacturing Startup Used to Raise $75M",
-        "url": "https://www.businessinsider.com/see-the-pitch-deck-drug-manufacturing-startup-used-raise-75m-2026-10",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-06",
-        "title": "College sports notebook: Duquesne announces jersey partnership with Gecko Robotics",
-        "url": "https://triblive.com/sports/college-sports-notebook-duquesne-announces-jersey-partnership-with-gecko-robotics/",
+        "date": "2026-10-07",
+        "title": "Boston Dynamics names Rohit Prasad, who helped build Amazon’s Alexa, as CEO",
+        "url": "https://thenextweb.com/news/boston-dynamics-ceo-rohit-prasad-amazon-alexa",
         "cat": "경쟁"
       },
       {
-        "date": "2026-10-06",
-        "title": "Artificial Intelligence (AI) Robots Market : Industry Trends, Growth Drivers, Segmentation and Outlook to 2035",
-        "url": "https://www.manilatimes.net/2026/10/06/tmt-newswire/plentisoft/artificial-intelligence-ai-robots-market-industry-trends-growth-drivers-segmentation-and-outlook-to-2035/2439842",
+        "date": "2026-10-07",
+        "title": "Segway Expands Global Omni-Channel Network With New Models and Real Range Standard",
+        "url": "https://www.prnewswire.co.uk/news-releases/segway-expands-global-omni-channel-network-with-new-models-and-real-range-standard-302900975.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-06",
-        "title": "From urology to robotics: How RG Hospitals is building its next growth engine",
-        "url": "https://www.businesstoday.in/industry/pharma/story/from-urology-to-robotics-how-rg-hospitals-is-building-its-next-growth-engine-559831-2026-10-06",
+        "date": "2026-10-07",
+        "title": "Indian Army's high-altitude warfare capabilities set for a major boost as force adds 225 FPV drones",
+        "url": "https://www.theweek.in/news/defence/2026/10/07/indian-armys-high-altitude-warfare-capabilities-set-for-a-major-boost-as-force-adds-225-fpv-drones.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-07",
+        "title": "Rohit Prasad joins Boston Dynamics as CEO from Amazon, he is MIT Mesra grad and big AI enthusiast",
+        "url": "https://www.indiatoday.in/technology/news/story/rohit-prasad-joins-boston-dynamics-as-ceo-from-amazon-he-is-mit-mesra-grad-and-big-ai-enthusiast-3011489-2026-10-07",
         "cat": "경쟁"
       },
       {
-        "date": "2026-10-06",
-        "title": "‘First time in Indian cinema’: No CGI, no human actor, real humanoid robot 'Jia' to feature in Kannada film",
-        "url": "https://www.businesstoday.in/trending/entertainment/story/first-time-in-indian-cinema-no-cgi-no-human-actor-real-humanoid-robot-jia-to-feature-in-kannada-film-559748-2026-10-06",
+        "date": "2026-10-07",
+        "title": "From Alexa to humanoid robots: Rohit Prasad named Boston Dynamics CEO to lead AI push",
+        "url": "https://www.cnbctv18.com/business/companies/boston-dynamics-rohit-prasad-ceo-amazon-alexa-humanoid-robots-physical-ai-hyundai-20006556.htm",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-07",
+        "title": "Underwater Robotics Battle at PWCS Aquatic Center",
+        "url": "https://www.europesays.com/3295186/",
         "cat": "기술"
       },
       {
-        "date": "2026-10-06",
-        "title": "Humanoid robots take center stage as Seoul opens Smart Life Week",
-        "url": "https://www.koreatimes.co.kr/southkorea/society/20261006/humanoid-robots-take-center-stage-as-seoul-opens-smart-life-week",
-        "cat": "기술"
+        "date": "2026-10-07",
+        "title": "Boston Dynamics: Humanoid robot maker Boston Dynamics appoints ex",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-robot-maker-boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo/articleshow/134755782.cms",
+        "cat": "경쟁"
       },
       {
-        "date": "2026-10-06",
-        "title": "Madhya Pradesh Youth Conclave: CM Mohan Yadav Announces 2 MPPSC Exams, Dedicates 2027 To Youth Power",
-        "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-youth-conclave-cm-mohan-yadav-announces-2-psc-exams-dedicates-2027-to-youth-power",
-        "cat": "정책"
+        "date": "2026-10-07",
+        "title": "Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO",
+        "url": "https://www.marketscreener.com/news/boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo-ce785dd9de8cf527",
+        "cat": "경쟁"
       },
       {
-        "date": "2026-10-06",
-        "title": "LG Electronics Says No Decision on US Unit's Nasdaq Listing",
-        "url": "https://www.marketscreener.com/news/lg-electronics-says-no-decision-on-us-unit-s-nasdaq-listing-ce785dd8dc81f222",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-05",
-        "title": "LG urges for technologies aimed at improvements in lives of marginal farmers",
-        "url": "https://www.dailyexcelsior.com/lg-urges-for-technologies-aimed-at-improvements-in-lives-of-marginal-farmers/",
-        "cat": "정책"
+        "date": "2026-10-07",
+        "title": "Amid Its Big Humanoid Robot Rollout, an Ex-Amazon AI Chief Will Now Lead Boston Dynamics",
+        "url": "https://gizmodo.com/amid-its-big-humanoid-robot-rollout-an-ex-amazon-ai-chief-will-now-lead-boston-dynamics-2000822625",
+        "cat": "경쟁"
       }
     ]
   }
