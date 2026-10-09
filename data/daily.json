@@ -1,140 +1,140 @@
 {
-  "asOfDate": "2026.10.08",
+  "asOfDate": "2026.10.09",
   "fx": {
-    "usdkrw": 1339
+    "usdkrw": 1343
   },
   "briefing": {
-    "dateLabel": "2026.10.08 (목)",
-    "headline": "보스턴 다이내믹스가 아마존 출신 인공지능 전문가를 신임 최고경영자로 선임하며 휴머노이드 로봇 개발에 박차를 가합니다.",
-    "summary": "글로벌 로보틱스 시장은 주요 로봇 기업들의 경영진 교체를 통한 인공지능 역량 강화와 함께 프라임데이 세일을 통한 가정용 로봇청소기 보급 확대가 활발히 이어지고 있습니다.",
+    "dateLabel": "2026.10.09 (금)",
+    "headline": "산업 현장에 최적화된 휴머노이드 로봇 개발과 인공지능 기술 투자가 글로벌 로봇 산업의 성장을 이끌고 있습니다.",
+    "summary": "제조 및 의료 분야에서의 로봇 실용화가 빠르게 진행되는 가운데 글로벌 빅테크 기업들의 로봇 인공지능 관련 대규모 투자가 본격화되고 있습니다.",
     "points": [
-      "스페인의 경제학자 산티아고 니뇨 베세라는 인공지능 확산에 대응하기 위한 로봇세 도입 구상이 현실적으로 적용되기 어렵다고 분석했습니다.",
-      "이탈리아 돌로미티 산맥에서는 야생동물 생태계를 효과적으로 감시하고 보호하기 위해 자율주행 로봇과 인공지능 기술을 적극 도입했습니다.",
-      "보스턴 다이내믹스는 아마존의 알렉사 개발을 이끌었던 인공지능 전문가 로힛 프라사드를 최고경영자로 영입하여 휴머노이드 로봇 사업의 경쟁력을 강화하기로 했습니다."
+      "이탈리아 루텍이 공장 자동화를 위한 휴머노이드 로봇 루카를 공개하며 산업 현장 도입을 위한 인공지능 로드쇼를 시작했습니다.",
+      "인도 공과대학교 마드라스 연구팀이 가정에서 간편하게 손 재활 치료를 진행할 수 있는 전용 로봇 플루토를 개발했습니다.",
+      "엔비디아가 인간형 로봇 제작사인 피규어 에이아이에 대한 대규모 투자를 검토하며 실체적 인공지능 시장 선점에 나섰습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-07",
-        "title": "로봇으로 가득 찬 공원에서 보낸 하루 후 만감이 교차하다",
-        "url": "https://www.clarin.com/new-york-times-international-weekly/sentimientos-encontrados-dia-parque-lleno-robots_0_EGJF0sU6nu.html",
+        "date": "2026-10-08",
+        "title": "가정용 손 재활 치료를 돕는 IIT 마드라스의 로봇 '플루토'",
+        "url": "https://www.indiatoday.in/science/story/iit-madras-pluto-robot-stroke-hand-rehabilitation-r2d2-cmc-vellore-professor-sujatha-srinivasan-science-news-3012524-2026-10-08",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-08",
+        "title": "'로봇도 학교에 가야 한다': 아자일 로보틱스가 공장용 로봇을 교육하는 방식",
+        "url": "https://www.lastampa.it/tech/2026/10/08/news/i_robot_devono_andare_a_scuola_cosi_agile_robots_vuole_insegnare_alle_macchine_a_lavorare-15760544/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-08",
+        "title": "우크라이나 지상 로봇, 교전 영상서 러시아 자폭 드론 파괴 성공",
+        "url": "https://www.leparisien.fr/international/ukraine/guerre-en-ukraine-un-robot-terrestre-ukrainien-parvient-a-detruire-un-drone-kamikaze-russe-au-cours-dun-rare-combat-filme-08-10-2026-KQBNFUWSRBBM3CWZM7DAFKTD4E.php",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-08",
+        "title": "루텍, 이탈리아 공장용 휴머노이드 로봇 '루카' 공개",
+        "url": "https://www.smartworld.it/tecnologia/lutech-presenta-luca-robot-umanoide-fabbriche-italiane.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-08",
+        "title": "루텍, 인공지능 로드쇼와 함께 이탈리아 공장에 '루카' 로봇 도입 추진",
+        "url": "https://www.smartworld.it/tecnologia/lutech-porta-luca-fabbriche-italiane-roadshow-ai.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-07",
-        "title": "문턱을 넘는 로보락 사로스 20 로봇청소기, 아마존 프라임 세일 진행",
-        "url": "https://gizmodo.com/roborocks-saros-20-robot-vacuum-climbs-over-door-sills-and-amazon-is-unloading-it-for-prime-2000822693",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "아파트 건물이 폭격으로 파괴되어 수십 명 사망",
-        "url": "https://www.sydsvenskan.se/varlden/lagenhetshus-bombades-sonder-tiotal-dodade/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "경제학자 산티아고 니뇨 베세라, 인공지능 대비 '로봇세' 영향 분석: 실현 불가능",
-        "url": "https://www.marca.com/tiramillas/economia/2026/10/07/santiago-nino-becerra-economista-analiza-impacto-tasa-robot-frente-ia-inviable.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "드리미, 499유로 로봇청소기와 179유로 물걸레 청소기로 프라임데이 할인 확대",
+        "date": "2026-10-08",
+        "title": "드리미, 프라임 데이에 로봇 청소기 499유로 및 대걸레 179유로 할인 제공",
         "url": "https://okdiario.com/tecnologia/dreame-amplia-sus-ofertas-prime-day-robot-aspirador-499-euros-fregona-179-20495910",
         "cat": "시장"
       },
       {
-        "date": "2026-10-07",
-        "title": "최고 평가를 받은 로봇청소기, 아마존 프라임데이 할인 진행",
-        "url": "https://www.standard.co.uk/shopping/esbest/home-garden/household-appliances/robot-vacuum-amazon-prime-day-deal-b1299862.html",
+        "date": "2026-10-08",
+        "title": "소파 밑을 청소하는 로봇 청소기, 프라임 데이 이후 100유로 추가 할인",
+        "url": "https://www.smartworld.it/tecnologia/roborock-saros-10r-robot-aspirapolvere-lavapavimenti-minimo-storico-dopo-prime-day.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-07",
-        "title": "로보락 큐레보 에지 2 플로우 리뷰: 35000Pa 흡입력과 롤러 모프를 갖춘 로봇청소기의 최대 성능과 최소 노력",
-        "url": "https://www.mobilissimo.ro/recenzii-diverse/roborock-qrevo-edge-2-flow-review",
+        "date": "2026-10-08",
+        "title": "GPS 로봇으로 축구장 라인을 그리는 새로운 시도",
+        "url": "https://www.ouest-france.fr/high-tech/il-trace-les-lignes-des-terrains-de-foot-avec-un-robot-gps-en-rose-ca-permet-de-toucher-plus-de-monde-b6bd0554-c097-11f1-b7db-555e86a524f6",
         "cat": "기술"
       },
       {
-        "date": "2026-10-07",
-        "title": "돌로미티 산맥의 야생동물을 감시하기 위한 자율주행 로봇과 인공지능",
-        "url": "https://www.ecodibergamo.it/stories/premium/scienza-e-tecnologia/robot-autonomi-e-ia-per-monitorare-la-fauna-selvatica-sulle-dolomiti-o_3967187_11/",
-        "cat": "기술"
+        "date": "2026-10-08",
+        "title": "350유로 미만의 강력하고 정숙한 에코백스 로봇 청소기 인기 예감",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/puissant-et-silencieux-ce-robot-aspirateur-ecovacs-a-moins-de-350-euros-va-etre-partout-en-2026-d85b2056-c236-11f1-97ef-829bf84bf59f",
+        "cat": "시장"
       },
       {
-        "date": "2026-10-07",
-        "title": "비플, 웨이브 바이 벤토 행사에서 '인공지능으로 예술이 살아있는 것이 될 수 있다' 언급",
-        "url": "https://www.repubblica.it/tecnologia/dossier/wave-by-vento/2026/10/07/news/beeple_wave_by_vento_ia_arte-425631491/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "아마존, 10월 6일 수요일 139유로 할인된 초강력 로봇청소기로 경쟁사 압도",
-        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/amazon-balaie-la-concurrence-avec-ce-robot-aspirateur-laveur-ultra-puissant-qui-chute-de-139-euros-ce-mercredi-6-octobre-07-10-2026-QXJNML3MPNCCNGE4XMUDL2EKTU.php",
+        "date": "2026-10-08",
+        "title": "로봇, 운동화, 정치: 포럼에서 주목받는 새로운 요소들",
+        "url": "https://www.tio.ch/newsblog/lugano-s-plan-/1955542/robot-ceo-bitcoin-forum-edizione-imprenditore-bot-volti-sneakers",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-07",
-        "title": "EyeROV supplies India’s first military-grade ROV to Indian Navy",
-        "url": "https://www.thehindubusinessline.com/info-tech/eyerov-supplies-indias-first-military-grade-rov-to-indian-navy/article71555524.ece",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "Boston Dynamics names Rohit Prasad, who helped build Amazon’s Alexa, as CEO",
-        "url": "https://thenextweb.com/news/boston-dynamics-ceo-rohit-prasad-amazon-alexa",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "Segway Expands Global Omni-Channel Network With New Models and Real Range Standard",
-        "url": "https://www.prnewswire.co.uk/news-releases/segway-expands-global-omni-channel-network-with-new-models-and-real-range-standard-302900975.html",
+        "date": "2026-10-08",
+        "title": "Syntiant to Participate at the Economist Enterprise Physical AI & Robotics Summit",
+        "url": "https://www.manilatimes.net/2026/10/08/tmt-newswire/globenewswire/syntiant-to-participate-at-the-economist-enterprise-physical-ai-robotics-summit/2441768",
         "cat": "시장"
       },
       {
+        "date": "2026-10-08",
+        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+        "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-08",
+        "title": "AI breakthroughs in robotics won't change your life any time soon",
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-08",
+        "title": "PM Modi Inaugurates India Mobile Congress 2026, Highlights 5G, AI And Digital India",
+        "url": "https://www.timesnownews.com/technology-science/pm-modi-inaugurates-india-mobile-congress-2026-highlights-5g-ai-and-digital-india-article-156295755",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-08",
+        "title": "China’s AI rise: can jobs and education keep pace with the rise of the robots?",
+        "url": "https://morningstaronline.co.uk/article/chinas-ai-rise-can-jobs-and-education-keep-pace-rise-robots",
+        "cat": "정책"
+      },
+      {
         "date": "2026-10-07",
-        "title": "Indian Army's high-altitude warfare capabilities set for a major boost as force adds 225 FPV drones",
-        "url": "https://www.theweek.in/news/defence/2026/10/07/indian-armys-high-altitude-warfare-capabilities-set-for-a-major-boost-as-force-adds-225-fpv-drones.html",
+        "title": "International robot/human fight promoter ordered to cease in California",
+        "url": "https://www.spokesman.com/stories/2026/oct/07/international-robothuman-fight-promoter-ordered-to/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-07",
+        "title": "California pulls plug on human-versus-robot cage matches",
+        "url": "https://nypost.com/2026/10/07/lifestyle/california-pulls-plug-on-human-versus-robot-cage-matches/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-07",
+        "title": "Maharashtra Launches ‘CM-SRISTHI’ Scheme To Boost AI, Quantum Computing, Semiconductors & Futuristic Tech Research",
+        "url": "https://www.freepressjournal.in/education/maharashtra-launches-cm-sristhi-scheme-to-boost-ai-quantum-computing-semiconductors-futuristic-tech-research",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-07",
+        "title": "Kol hosps go for AI-powered innovations, tech upgrade",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/kol-hosps-go-for-ai-powered-innovations-tech-upgrade/articleshow/134772987.cms",
         "cat": "기술"
       },
       {
         "date": "2026-10-07",
-        "title": "Rohit Prasad joins Boston Dynamics as CEO from Amazon, he is MIT Mesra grad and big AI enthusiast",
-        "url": "https://www.indiatoday.in/technology/news/story/rohit-prasad-joins-boston-dynamics-as-ceo-from-amazon-he-is-mit-mesra-grad-and-big-ai-enthusiast-3011489-2026-10-07",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "From Alexa to humanoid robots: Rohit Prasad named Boston Dynamics CEO to lead AI push",
-        "url": "https://www.cnbctv18.com/business/companies/boston-dynamics-rohit-prasad-ceo-amazon-alexa-humanoid-robots-physical-ai-hyundai-20006556.htm",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "Underwater Robotics Battle at PWCS Aquatic Center",
-        "url": "https://www.europesays.com/3295186/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "Boston Dynamics: Humanoid robot maker Boston Dynamics appoints ex",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-robot-maker-boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo/articleshow/134755782.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "Boston Dynamics appoints ex-Amazon executive Rohit Prasad as CEO",
-        "url": "https://www.marketscreener.com/news/boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo-ce785dd9de8cf527",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-07",
-        "title": "Amid Its Big Humanoid Robot Rollout, an Ex-Amazon AI Chief Will Now Lead Boston Dynamics",
-        "url": "https://gizmodo.com/amid-its-big-humanoid-robot-rollout-an-ex-amazon-ai-chief-will-now-lead-boston-dynamics-2000822625",
+        "title": "Nvidia eyes major investment in Figure AI robotics: Here’s what to know",
+        "url": "https://www.thenews.com.pk/latest/1419084-nvidia-eyes-major-investment-in-figure-ai-robotics-heres-what-to-know",
         "cat": "경쟁"
       }
     ]
