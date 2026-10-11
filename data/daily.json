@@ -1,141 +1,123 @@
 {
-  "asOfDate": "2026.10.10",
+  "asOfDate": "2026.10.11",
   "fx": {
     "usdkrw": 1341
   },
   "briefing": {
-    "dateLabel": "2026.10.10 (토)",
-    "headline": "저렴한 휴머노이드 로봇의 등장과 자율주행 및 배송 로봇의 글로벌 상용화 경쟁이 본격화되고 있습니다.",
-    "summary": "핵심 구동 기술의 발전으로 로봇 대중화가 가속화되는 가운데, 자율주행 택시와 야간 배달 서비스 등 실생활 영역으로의 도입이 빠르게 확대되고 있습니다.",
+    "dateLabel": "2026.10.11 (일)",
+    "headline": "로보틱스 기술이 의료, 국방, 서비스 등 다양한 산업 현장으로 확산되는 가운데 관련 기업들의 투자 유치와 기술 도입이 활발히 진행되고 있습니다.",
+    "summary": "최근 로보틱스 시장은 첨단 인공지능 기술과의 결합을 통해 특수 임무 수행부터 일상 서비스 제공까지 적용 범위를 가파르게 넓혀가고 있습니다.",
     "points": [
-      "한국의 사족보행 로봇이 단 한 번의 충전으로 마라톤 완주에 성공하며 높은 배터리 효율과 기술력을 입증했습니다.",
-      "중국 전기차 업체 샤오펑이 내년부터 해외 시장에서 로보택시 시범 운행을 시작하고 향후 서비스 지역을 전 세계로 확장할 계획입니다.",
-      "중국의 자율주행 배달 로봇들이 야간 시간대 운행 능력을 학습하며 심야 배송 서비스 적용을 본격 추진하고 있습니다."
+      "아마프는 샌즈 차이나와 협력하여 리조트 내 실내 길 안내 및 서비스 제공을 위한 로봇개를 도입하기로 결정했습니다.",
+      "미군 당국은 위험한 임무 현장에 투입하기 위해 인공지능 기반 휴머노이드 로봇 도입 및 활용을 본격화하고 있습니다.",
+      "물류 창고 로봇 제조업체인 울트라 로보틱스가 6천2백만 달러 규모의 신규 투자를 유치하는 데 성공했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-09",
-        "title": "‘아무도 주문 안 했는데’…호텔 로봇의 깜짝 생일 케이크 배달에 누리꾼 화제",
-        "url": "https://timesofindia.indiatimes.com/life-style/people/nobody-ordered-it-man-wakes-up-to-a-birthday-cake-delivered-by-a-robot-at-a-hotel-leaving-the-internet-surprised/articleshow/134831325.cms",
+        "date": "2026-10-10",
+        "title": "손댈 필요도 없는 40% 할인 창문 청소 로봇, 인터넷 최저가 판매",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/meme-pas-besoin-dy-toucher-ce-robot-laveur-de-fenetres-a-40-pourcent-est-le-moins-cher-du-web-ici-b5bd64fe-c33b-11f1-97ef-829bf84bf59f",
         "cat": "시장"
       },
       {
-        "date": "2026-10-09",
-        "title": "안드로이드 스마트폰을 뇌로 사용하는 초소형 휴머노이드 로봇, 단 400달러에 출시",
-        "url": "https://www.digitaltrends.com/cool-tech/a-tiny-humanoid-robot-uses-an-android-phone-as-its-brain-and-costs-just-400/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "로힛 프라사드는 누구인가? 보스턴 다이내믹스를 이끄는 아마존 인공지능 출신 인도계 경영자",
-        "url": "https://www.hindustantimes.com/trending/who-is-rohit-prasad-the-indian-origin-former-amazon-ai-executive-now-leading-humanoid-robot-maker-boston-dynamics-101791544430837.html",
+        "date": "2026-10-10",
+        "title": "존 매켄로, 라켓을 부수지 않는 라파엘 나달을 향해 '로봇임에 틀림없다'고 주장",
+        "url": "https://www.essentiallysports.com/tennis-news-must-be-a-robot-john-mcenroe-makes-bold-claim-about-rafael-nadal-over-his-racket-smash-stance/",
         "cat": "경쟁"
       },
       {
-        "date": "2026-10-09",
-        "title": "캘리포니아 규제 당국, 샌프란시스코에서 화제가 된 인간 대 로봇 격투 중단 조치",
-        "url": "https://www.mercurynews.com/2026/10/09/man-vs-terminator-like-robot-in-a-cage-california-called-it-illegal-2/",
-        "cat": "정책"
+        "date": "2026-10-10",
+        "title": "아마프, 샌즈 차이나와 파트너십 체결해 투투 로봇개 도입 및 리조트 실내 네비게이션 제공",
+        "url": "https://www.marketscreener.com/news/amap-enters-partnership-with-sands-china-to-deliver-first-tutu-robot-dogs-and-provide-resort-wide-in-ce785ddcdd8bf422",
+        "cat": "기술"
       },
       {
-        "date": "2026-10-09",
-        "title": "정원에 완벽한 로봇 잔디깎이, 가격 대폭 하락",
-        "url": "https://www.midilibre.fr/2026/10/09/parfait-pour-votre-jardin-ce-robot-tondeuse-voit-son-prix-seffondrer-13591256.php",
+        "date": "2026-10-10",
+        "title": "테니스 전설 존 매켄로: \"나달이 라켓을 안 부쉈다고? 로봇일 수도... 페더러와 알카라스도 부쉈는데\"",
+        "url": "https://www.20minutos.es/deportes/tenis/john-mcenroe-leyenda-tenis-rafa-nadal-nunca-rompio-una-raqueta-igual-es-un-robot-federer-alcaraz-han-hecho_7047393_0.html",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-10",
+        "title": "시에라 그리어: '애니 로봇' - 안드로이드가 에너지 분출처럼 자유를 느끼다",
+        "url": "https://www.fr.de/kultur/literatur/sierra-greer-annie-robot-die-androidin-spuert-die-freiheit-wie-einen-energieschub-94534377.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-09",
-        "title": "중국 샤오펑, 내년 해외 로보택시 시범 운행 및 2~3년 내 본격 확대 추진",
-        "url": "https://www.channelnewsasia.com/business/xpeng-robotaxis-yoyo-humanoid-robots-iron-brian-gu-interview-6445751",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "HLA 헤레스 푸에르타 델 수르 병원, 카디스에서 로봇 수술 전담 부서 발표 행사 개최",
-        "url": "https://www.lavozdigital.es/provincia/jerez/hla-jerez-puerta-sur-acoge-jornada-presentacion-20261009120535-ntv.html",
+        "date": "2026-10-10",
+        "title": "라스팔마스 비타스 대학병원에 로봇 수술 시스템 전격 도입",
+        "url": "https://www.canarias7.es/sociedad/salud/bp-cirugia-robotica-desembarca-hospital-universitario-vithas-palmas-20261010142457-nt.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-09",
-        "title": "뉴캐슬, 정부의 4천만 파운드 규모 지원 사업으로 로봇 허브 도시 선정",
-        "url": "https://www.chroniclelive.co.uk/news/north-east-news/newcastle-selected-robot-hub-part-34739892",
+        "date": "2026-10-10",
+        "title": "미군, 위험 임무 수행을 위해 인공지능 휴머노이드 로봇 도입에 주력",
+        "url": "https://okdiario.com/internacional/mientras-defensa-gasta-dineral-falcon-sanchez-ejercito-eeuu-apuesta-robot-humanoide-ia-afrontar-misiones-peligrosas-20503563",
         "cat": "정책"
       },
       {
-        "date": "2026-10-09",
-        "title": "단 한 번의 충전으로 마라톤 완주한 한국의 '로봇 개', 그 기술적 비결 공개",
-        "url": "https://www.livescience.com/technology/robotics/south-korean-robot-dog-becomes-first-to-run-a-marathon-on-a-single-battery-charge",
-        "cat": "기술"
+        "date": "2026-10-10",
+        "title": "캘리포니아주, '터미네이터' 유사 로봇 제조사에 불법 경고장 발송… CEO는 이를 온라인에 공개",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/california-sends-illegal-notice-to-company-with-terminator-like-robot-ceo-posts-the-letter-online-celebrates-we-made-/articleshow/134848042.cms",
+        "cat": "정책"
       },
       {
-        "date": "2026-10-09",
-        "title": "중국 호텔에서 로봇과 화려한 케이크로 펼쳐진 남성의 깜짝 생일 파티",
-        "url": "https://www.indiatoday.in/trending-news/story/man-birthday-surprise-at-china-hotel-comes-with-a-robot-and-a-fancy-cake-3013136-2026-10-09",
+        "date": "2026-10-10",
+        "title": "써모믹스와 안녕: 150유로 미만의 물리넥스 쿠키오, 짧은 시간에 80가지 요리 가능",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/cuisine/adieu-thermomix-ce-moulinex-cookeo-a-moins-de-150-euros-prepare-80-recettes-en-un-rien-de-temps-bc8b7290-c3cb-11f1-92e9-819eb738846b",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-10",
+        "title": "창문 청소 로봇 구매 시 추천: 이 가격대에 더 뛰어난 첨단 모델은 없다",
+        "url": "https://www.larazon.es/compras/nuestra-eleccion/vas-comprar-robot-limpiacristales-que-sea-este-hay-modelos-asi-avanzados-este-precio_202610106ac9b145bafd3d73635c9e67.html",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-09",
-        "title": "A tiny humanoid robot uses an Android phone as its brain, and it costs just $400",
-        "url": "https://www.digitaltrends.com/cool-tech/a-tiny-humanoid-robot-uses-an-android-phone-as-its-brain-and-costs-just-400/",
+        "date": "2026-10-10",
+        "title": "Why freshers’ pay cheques differ in tech cos",
+        "url": "https://www.hindustantimes.com/cities/mumbai-news/why-freshers-pay-cheques-differ-in-tech-cos-101791569972412.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-10",
+        "title": "From robotics classrooms to defence technology",
+        "url": "https://www.hindustantimes.com/cities/pune-news/from-robotics-classrooms-to-defence-technology-101791568592554.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-09",
-        "title": "Who is Rohit Prasad? The Indian-origin former Amazon AI executive now leading humanoid robot maker Boston Dynamics",
-        "url": "https://www.hindustantimes.com/trending/who-is-rohit-prasad-the-indian-origin-former-amazon-ai-executive-now-leading-humanoid-robot-maker-boston-dynamics-101791544430837.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "China’s Xpeng targets overseas robotaxi trials next year, wider rollout in 2 to 3 years",
-        "url": "https://www.channelnewsasia.com/business/xpeng-robotaxis-yoyo-humanoid-robots-iron-brian-gu-interview-6445751",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "Newcastle selected to get robot hub as part of £40m Government scheme",
-        "url": "https://www.chroniclelive.co.uk/news/north-east-news/newcastle-selected-robot-hub-part-34739892",
+        "date": "2026-10-10",
+        "title": "Kerala Police to collaborate with Kochi start-up to try robots in traffic management",
+        "url": "https://www.thehindu.com/news/national/kerala/kerala-police-to-collaborate-with-kochi-start-up-to-try-robots-in-traffic-management/article71565007.ece",
         "cat": "정책"
       },
       {
         "date": "2026-10-09",
-        "title": "ST Engineering opens airframe MRO facility in Changi Creek",
-        "url": "https://www.straitstimes.com/singapore/transport/new-170-million-aviation-maintenance-and-repair-facility-in-changi-creek-to-create-over-500-jobs",
+        "title": "Warehouse robot maker Ultra Robotics bags $62M",
+        "url": "https://siliconangle.com/2026/10/09/warehouse-robot-maker-ultra-robotics-bags-62m/",
         "cat": "시장"
       },
       {
         "date": "2026-10-09",
-        "title": "Clean Energy, EV: Japan Plans To Invest $100 Billion In India Over 10 Years",
-        "url": "https://www.ndtv.com/india-news/clean-energy-ev-japan-plans-to-invest-100-billion-in-india-over-10-years-12160689",
+        "title": "GMEX Robotics to Present at the 20th Annual LD Micro Main Event",
+        "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/gmex-robotics-to-present-at-the-20th-annual-ld-micro-main-event/",
         "cat": "시장"
       },
       {
         "date": "2026-10-09",
-        "title": "China's delivery robots are learning to tackle the night shift",
-        "url": "https://www.cnbctv18.com/technology/chinas-delivery-robots-are-learning-to-tackle-the-night-shift-20008178.htm",
+        "title": "In 2025, Victoria Isaac released an album at 8 years old and became the world's youngest female music producer",
+        "url": "https://economictimes.indiatimes.com/world/people/in-2025-victoria-isaac-released-an-album-at-8-years-old-and-became-the-worlds-youngest-female-music-producer/articleshow/134838384.cms",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-09",
+        "title": "Danu Robotics' fight to build a better recycling robot",
+        "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
         "cat": "기술"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "How China's Delivery Robots Are Learning To Tackle Night Shifts",
-        "url": "https://www.ndtv.com/world-news/how-chinas-delivery-robots-are-learning-to-tackle-night-shifts-12160141",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "Tata Technologies Hiring Automotive Engineers In Pune, Walk-In Drive On October 10",
-        "url": "https://www.ndtv.com/education/tata-technologies-hiring-automotive-engineers-in-pune-walk-in-drive-on-october-10-12159797",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-08",
-        "title": "FF EAI Robotics Ecosystem Inc. to Present at the 2026 ThinkEquity Conference",
-        "url": "https://www.manilatimes.net/2026/10/09/tmt-newswire/pr-newswire/ff-eai-robotics-ecosystem-inc-to-present-at-the-2026-thinkequity-conference/2442327",
-        "cat": "시장"
       }
     ]
   }
