@@ -1,82 +1,100 @@
 {
-  "asOfDate": "2026.10.11",
+  "asOfDate": "2026.10.12",
   "fx": {
     "usdkrw": 1341
   },
   "briefing": {
-    "dateLabel": "2026.10.11 (일)",
-    "headline": "로보틱스 기술이 의료, 국방, 서비스 등 다양한 산업 현장으로 확산되는 가운데 관련 기업들의 투자 유치와 기술 도입이 활발히 진행되고 있습니다.",
-    "summary": "최근 로보틱스 시장은 첨단 인공지능 기술과의 결합을 통해 특수 임무 수행부터 일상 서비스 제공까지 적용 범위를 가파르게 넓혀가고 있습니다.",
+    "dateLabel": "2026.10.12 (월)",
+    "headline": "의료, 국방, 일상 영역 전반에서 인공지능 기반 로봇 기술의 적용과 산업 투자가 가속화되고 있습니다.",
+    "summary": "정밀 미세수술과 국방용 휴머노이드 등 첨단 기술 혁신이 이어지는 가운데 물류 자동화 로봇 기업에 대한 대규모 투자 유치가 성과를 내고 있습니다.",
     "points": [
-      "아마프는 샌즈 차이나와 협력하여 리조트 내 실내 길 안내 및 서비스 제공을 위한 로봇개를 도입하기로 결정했습니다.",
-      "미군 당국은 위험한 임무 현장에 투입하기 위해 인공지능 기반 휴머노이드 로봇 도입 및 활용을 본격화하고 있습니다.",
-      "물류 창고 로봇 제조업체인 울트라 로보틱스가 6천2백만 달러 규모의 신규 투자를 유치하는 데 성공했습니다."
+      "옥수수알을 정밀하게 봉합할 수 있는 미세수술 로봇이 등장하여 의료 분야에 큰 혁신을 가져오고 있습니다.",
+      "미국 군 당국은 위험지역 임무 수행을 위해 인공지능 기반 휴머노이드 로봇 도입을 적극적으로 추진하고 있습니다.",
+      "물류창고 로봇 제조사인 울트라 로보틱스가 6,200만 달러 규모의 투자를 유치하며 물류 자동화 시장의 성장을 증명했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-10",
-        "title": "손댈 필요도 없는 40% 할인 창문 청소 로봇, 인터넷 최저가 판매",
-        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/meme-pas-besoin-dy-toucher-ce-robot-laveur-de-fenetres-a-40-pourcent-est-le-moins-cher-du-web-ici-b5bd64fe-c33b-11f1-97ef-829bf84bf59f",
+        "date": "2026-10-11",
+        "title": "로보락 사로스 20: 강력한 로봇 청소기 아마존 파격 할인",
+        "url": "https://www.frandroid.com/bons-plans/3279189_roborock-saros-20-prix-casse-sur-amazon-pour-ce-puissant-aspirateur-robot-3-en-1-note-8-10",
         "cat": "시장"
       },
       {
-        "date": "2026-10-10",
-        "title": "존 매켄로, 라켓을 부수지 않는 라파엘 나달을 향해 '로봇임에 틀림없다'고 주장",
-        "url": "https://www.essentiallysports.com/tennis-news-must-be-a-robot-john-mcenroe-makes-bold-claim-about-rafael-nadal-over-his-racket-smash-stance/",
+        "date": "2026-10-11",
+        "title": "미래의 전쟁은 로봇이 치르게 될 것이다",
+        "url": "https://www.tio.ch/dal-mondo/attualita/1955624/le-guerre-del-futuro-prossimo-le-combatteranno-i-robot",
         "cat": "경쟁"
       },
       {
-        "date": "2026-10-10",
-        "title": "아마프, 샌즈 차이나와 파트너십 체결해 투투 로봇개 도입 및 리조트 실내 네비게이션 제공",
-        "url": "https://www.marketscreener.com/news/amap-enters-partnership-with-sands-china-to-deliver-first-tutu-robot-dogs-and-provide-resort-wide-in-ce785ddcdd8bf422",
+        "date": "2026-10-11",
+        "title": "워크스 랜드로이드 비전 클라우드 WR306E 로봇 잔디깎이 리뷰: 중형 잔디밭을 위한 효율적인 자율 관리",
+        "url": "https://www.techradar.com/home/smart-home/worx-landroid-vision-cloud-wr306e-robot-lawn-mower-review-efficient-autonomous-lawn-care-for-medium-swards",
         "cat": "기술"
       },
       {
-        "date": "2026-10-10",
-        "title": "테니스 전설 존 매켄로: \"나달이 라켓을 안 부쉈다고? 로봇일 수도... 페더러와 알카라스도 부쉈는데\"",
-        "url": "https://www.20minutos.es/deportes/tenis/john-mcenroe-leyenda-tenis-rafa-nadal-nunca-rompio-una-raqueta-igual-es-un-robot-federer-alcaraz-han-hecho_7047393_0.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-10",
-        "title": "시에라 그리어: '애니 로봇' - 안드로이드가 에너지 분출처럼 자유를 느끼다",
-        "url": "https://www.fr.de/kultur/literatur/sierra-greer-annie-robot-die-androidin-spuert-die-freiheit-wie-einen-energieschub-94534377.html",
+        "date": "2026-10-11",
+        "title": "인도 영화계의 거장 라지니칸트, 은퇴는 시기상조",
+        "url": "https://theprint.in/opinion/rajinikanth-is-the-og-badass-grandpa-of-indian-cinema-retirement-can-wait/3068235/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-10",
-        "title": "라스팔마스 비타스 대학병원에 로봇 수술 시스템 전격 도입",
-        "url": "https://www.canarias7.es/sociedad/salud/bp-cirugia-robotica-desembarca-hospital-universitario-vithas-palmas-20261010142457-nt.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-10",
-        "title": "미군, 위험 임무 수행을 위해 인공지능 휴머노이드 로봇 도입에 주력",
+        "date": "2026-10-11",
+        "title": "국방예산 논란 속 미군, 위험 임무 투입을 위한 인공지능 휴머노이드 로봇에 투자",
         "url": "https://okdiario.com/internacional/mientras-defensa-gasta-dineral-falcon-sanchez-ejercito-eeuu-apuesta-robot-humanoide-ia-afrontar-misiones-peligrosas-20503563",
         "cat": "정책"
       },
       {
-        "date": "2026-10-10",
-        "title": "캘리포니아주, '터미네이터' 유사 로봇 제조사에 불법 경고장 발송… CEO는 이를 온라인에 공개",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/california-sends-illegal-notice-to-company-with-terminator-like-robot-ceo-posts-the-letter-online-celebrates-we-made-/articleshow/134848042.cms",
-        "cat": "정책"
+        "date": "2026-10-11",
+        "title": "아마존 GIF 4일 차 2만 루피 이하 최고의 로봇 청소기 추천",
+        "url": "https://www.news18.com/tech/amazon-great-indian-festival-day-4-best-robot-vacuum-cleaners-under-20000-diwali-10376413.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-11",
+        "title": "쿠키오는 안녕, 요리 애호가들을 사로잡는 가성비 닌자 주방 로봇",
+        "url": "https://www.20minutes.fr/guide-achat/cuisine-guide-achat/4252502-20261011-adieu-cookeo-robot-ninja-petit-prix-regale-amateurs-cuisine",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-11",
+        "title": "투구와 포구, 타격까지 프로처럼 수행하는 야구 로봇 작동 영상 공개",
+        "url": "https://www.infobae.com/tecno/2026/10/11/video-muestra-en-accion-al-robot-beisbolista-definitivo-lanza-atrapa-y-batea-como-profesional/",
+        "cat": "기술"
       },
       {
         "date": "2026-10-10",
-        "title": "써모믹스와 안녕: 150유로 미만의 물리넥스 쿠키오, 짧은 시간에 80가지 요리 가능",
-        "url": "https://www.ouest-france.fr/shopping/maison-jardin/cuisine/adieu-thermomix-ce-moulinex-cookeo-a-moins-de-150-euros-prepare-80-recettes-en-un-rien-de-temps-bc8b7290-c3cb-11f1-92e9-819eb738846b",
+        "title": "집안일 부담을 줄여줄 에코백스 로봇 청소기 할인 행사",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/ce-robot-aspirateur-ecovacs-en-promotion-va-vous-faire-oublier-les-longues-seances-de-menage-e339e26e-c2f9-11f1-a107-88e926908e5f",
         "cat": "시장"
       },
       {
         "date": "2026-10-10",
-        "title": "창문 청소 로봇 구매 시 추천: 이 가격대에 더 뛰어난 첨단 모델은 없다",
-        "url": "https://www.larazon.es/compras/nuestra-eleccion/vas-comprar-robot-limpiacristales-que-sea-este-hay-modelos-asi-avanzados-este-precio_202610106ac9b145bafd3d73635c9e67.html",
-        "cat": "시장"
+        "title": "의학 분야의 혁명: 옥수수알을 미세수술로 봉합하는 로봇 등장",
+        "url": "https://www.marca.com/tiramillas/ciencia/2026/10/10/revolucion-campo-medicina-robot-capaz-coser-grano-maiz-mediante-microcirugia.html",
+        "cat": "기술"
       }
     ],
     "global": [
+      {
+        "date": "2026-10-11",
+        "title": "San Leandro: City Library Launches Children's Technology Center",
+        "url": "https://www.sfgate.com/news/bayarea/article/san-leandro-city-library-launches-children-s-22472437.php",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-11",
+        "title": "Young innovators showcase talent in robotics at IMC 2026",
+        "url": "https://www.lokmattimes.com/business/young-innovators-showcase-talent-in-robotics-at-imc-2026/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-10",
+        "title": "21 robotics teams compete, strengthen STEM skills at inaugural Southern Virginia Showdown",
+        "url": "https://wjla.com/news/local/21-robotics-teams-compete-strengthen-stem-skills-at-inaugural-southern-virginia-showdown-ridgeway-magna-vista-science-october-2026",
+        "cat": "경쟁"
+      },
       {
         "date": "2026-10-10",
         "title": "Why freshers’ pay cheques differ in tech cos",
@@ -106,18 +124,6 @@
         "title": "GMEX Robotics to Present at the 20th Annual LD Micro Main Event",
         "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/gmex-robotics-to-present-at-the-20th-annual-ld-micro-main-event/",
         "cat": "시장"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "In 2025, Victoria Isaac released an album at 8 years old and became the world's youngest female music producer",
-        "url": "https://economictimes.indiatimes.com/world/people/in-2025-victoria-isaac-released-an-album-at-8-years-old-and-became-the-worlds-youngest-female-music-producer/articleshow/134838384.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "Danu Robotics' fight to build a better recycling robot",
-        "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-        "cat": "기술"
       }
     ]
   }
