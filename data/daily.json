@@ -1,129 +1,117 @@
 {
-  "asOfDate": "2026.10.12",
+  "asOfDate": "2026.10.13",
   "fx": {
-    "usdkrw": 1341
+    "usdkrw": 1333
   },
   "briefing": {
-    "dateLabel": "2026.10.12 (월)",
-    "headline": "의료, 국방, 일상 영역 전반에서 인공지능 기반 로봇 기술의 적용과 산업 투자가 가속화되고 있습니다.",
-    "summary": "정밀 미세수술과 국방용 휴머노이드 등 첨단 기술 혁신이 이어지는 가운데 물류 자동화 로봇 기업에 대한 대규모 투자 유치가 성과를 내고 있습니다.",
+    "dateLabel": "2026.10.13 (화)",
+    "headline": "로보틱스 및 AI 기술의 산업 현장 도입 가속화와 대규모 투자 유치 활발",
+    "summary": "의료, 제조, 교육 등 다양한 분야에서 로봇 자동화 기술이 도입되고 있으며, AI 기반 로봇 스타트업에 대한 대규모 자본 투자가 이어지고 있습니다.",
     "points": [
-      "옥수수알을 정밀하게 봉합할 수 있는 미세수술 로봇이 등장하여 의료 분야에 큰 혁신을 가져오고 있습니다.",
-      "미국 군 당국은 위험지역 임무 수행을 위해 인공지능 기반 휴머노이드 로봇 도입을 적극적으로 추진하고 있습니다.",
-      "물류창고 로봇 제조사인 울트라 로보틱스가 6,200만 달러 규모의 투자를 유치하며 물류 자동화 시장의 성장을 증명했습니다."
+      "오래된 스마트폰을 활용해 400달러라는 저렴한 비용으로 휴머노이드 로봇을 구현하는 기술이 주목받고 있습니다.",
+      "아마존이 물류 현장에서 로봇 팔 도입 경쟁을 치열하게 벌이며 미래 노동 환경의 변화를 주도하고 있습니다.",
+      "다나허(Danaher)가 항체 연구를 가속화하기 위해 AI 기반의 자율형 실험실 구축 계획을 발표했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-11",
-        "title": "로보락 사로스 20: 강력한 로봇 청소기 아마존 파격 할인",
-        "url": "https://www.frandroid.com/bons-plans/3279189_roborock-saros-20-prix-casse-sur-amazon-pour-ce-puissant-aspirateur-robot-3-en-1-note-8-10",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-11",
-        "title": "미래의 전쟁은 로봇이 치르게 될 것이다",
-        "url": "https://www.tio.ch/dal-mondo/attualita/1955624/le-guerre-del-futuro-prossimo-le-combatteranno-i-robot",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-11",
-        "title": "워크스 랜드로이드 비전 클라우드 WR306E 로봇 잔디깎이 리뷰: 중형 잔디밭을 위한 효율적인 자율 관리",
-        "url": "https://www.techradar.com/home/smart-home/worx-landroid-vision-cloud-wr306e-robot-lawn-mower-review-efficient-autonomous-lawn-care-for-medium-swards",
+        "date": "2026-10-12",
+        "title": "오래된 스마트폰으로 400달러짜리 휴머노이드 로봇 만들기",
+        "url": "https://www.infobae.com/tecno/2026/10/12/hacer-que-un-celular-viejo-se-convierta-en-un-robot-humanoide-es-posible-solo-cuesta-400-dolares/",
         "cat": "기술"
       },
       {
-        "date": "2026-10-11",
-        "title": "인도 영화계의 거장 라지니칸트, 은퇴는 시기상조",
-        "url": "https://theprint.in/opinion/rajinikanth-is-the-og-badass-grandpa-of-indian-cinema-retirement-can-wait/3068235/",
+        "date": "2026-10-12",
+        "title": "시지리노 아레나에 등장한 청소 로봇",
+        "url": "https://www.laregione.ch/cantone/luganese/1956235/robot-pulizia-puo-lavoro-tecnologia",
         "cat": "시장"
       },
       {
-        "date": "2026-10-11",
-        "title": "국방예산 논란 속 미군, 위험 임무 투입을 위한 인공지능 휴머노이드 로봇에 투자",
-        "url": "https://okdiario.com/internacional/mientras-defensa-gasta-dineral-falcon-sanchez-ejercito-eeuu-apuesta-robot-humanoide-ia-afrontar-misiones-peligrosas-20503563",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-11",
-        "title": "아마존 GIF 4일 차 2만 루피 이하 최고의 로봇 청소기 추천",
-        "url": "https://www.news18.com/tech/amazon-great-indian-festival-day-4-best-robot-vacuum-cleaners-under-20000-diwali-10376413.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-11",
-        "title": "쿠키오는 안녕, 요리 애호가들을 사로잡는 가성비 닌자 주방 로봇",
-        "url": "https://www.20minutes.fr/guide-achat/cuisine-guide-achat/4252502-20261011-adieu-cookeo-robot-ninja-petit-prix-regale-amateurs-cuisine",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-11",
-        "title": "투구와 포구, 타격까지 프로처럼 수행하는 야구 로봇 작동 영상 공개",
-        "url": "https://www.infobae.com/tecno/2026/10/11/video-muestra-en-accion-al-robot-beisbolista-definitivo-lanza-atrapa-y-batea-como-profesional/",
+        "date": "2026-10-12",
+        "title": "탄 지역 최초: 알비의 툴루즈-로트렉 클리닉, 무릎 인공관절 수술 로봇 도입",
+        "url": "https://www.ladepeche.fr/2026/10/12/cest-une-premiere-dans-le-tarn-a-albi-la-clinique-toulouse-lautrec-acquiert-un-robot-chirurgical-pour-les-protheses-du-genou-13595635.php",
         "cat": "기술"
       },
       {
-        "date": "2026-10-10",
-        "title": "집안일 부담을 줄여줄 에코백스 로봇 청소기 할인 행사",
-        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/ce-robot-aspirateur-ecovacs-en-promotion-va-vous-faire-oublier-les-longues-seances-de-menage-e339e26e-c2f9-11f1-a107-88e926908e5f",
+        "date": "2026-10-12",
+        "title": "메이저리그 포스트시즌, ABS(자동 투구 판정 시스템) 챌린지 활용 증가",
+        "url": "https://www.espn.com/mlb/story/_/id/50165958/mlb-teams-using-abs-challenges-more-frequently-postseason",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-12",
+        "title": "딥시크, 4억 달러 규모 로봇 AI 스타트업 시드 라운드 주도",
+        "url": "https://thenextweb.com/news/deepseek-winverse-ai-robot-seed-round",
         "cat": "시장"
       },
       {
-        "date": "2026-10-10",
-        "title": "의학 분야의 혁명: 옥수수알을 미세수술로 봉합하는 로봇 등장",
-        "url": "https://www.marca.com/tiramillas/ciencia/2026/10/10/revolucion-campo-medicina-robot-capaz-coser-grano-maiz-mediante-microcirugia.html",
+        "date": "2026-10-12",
+        "title": "포스트시즌 타자들의 ABS 챌린지 성공률 및 구단 활용도 증가",
+        "url": "https://www.tsn.ca/mlb/article/hitters-are-winning-more-challenges-in-postseason-teams-are-challenging-more-overall/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-12",
+        "title": "아마존의 로봇 팔 경쟁과 미래 노동 시장에 미칠 영향",
+        "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-12",
+        "title": "포스트시즌 타자들의 ABS 챌린지 성공률 상승 및 구단들의 챌린지 빈도 증가",
+        "url": "https://wtop.com/sports/2026/10/hitters-are-winning-more-abs-challenges-in-the-postseason-and-teams-are-challenging-more-overall/",
         "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-10-11",
-        "title": "San Leandro: City Library Launches Children's Technology Center",
-        "url": "https://www.sfgate.com/news/bayarea/article/san-leandro-city-library-launches-children-s-22472437.php",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-11",
-        "title": "Young innovators showcase talent in robotics at IMC 2026",
-        "url": "https://www.lokmattimes.com/business/young-innovators-showcase-talent-in-robotics-at-imc-2026/",
+        "date": "2026-10-12",
+        "title": "Danaher plans AI-powered autonomous laboratory for antibody research",
+        "url": "https://www.scientific-computing.com/article/danaher-plans-ai-powered-autonomous-laboratory-antibody-research",
         "cat": "기술"
       },
       {
-        "date": "2026-10-10",
-        "title": "21 robotics teams compete, strengthen STEM skills at inaugural Southern Virginia Showdown",
-        "url": "https://wjla.com/news/local/21-robotics-teams-compete-strengthen-stem-skills-at-inaugural-southern-virginia-showdown-ridgeway-magna-vista-science-october-2026",
+        "date": "2026-10-12",
+        "title": "DECO Showcases Contactless mmWave Interconnects for Industrial Equipment at CIIF 2026",
+        "url": "https://www.manilatimes.net/2026/10/12/tmt-newswire/plentisoft/deco-showcases-contactless-mmwave-interconnects-for-industrial-equipment-at-ciif-2026/2443894",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-12",
+        "title": "L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI",
+        "url": "https://www.tribuneindia.com/news/business/lt-technology-services-launches-ei-lab-for-manufacturing-and-operations-featuring-nvidia-accelerated-ai-native-factory-2-2/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-12",
+        "title": "Stryker and CMR Surgical announce strategic alliance to advance robotic-assisted surgery",
+        "url": "https://www.nugget.ca/press-releases/globe-newswire/stryker-and-cmr-surgical-announce-strategic-alliance-to-advance-robotic-assisted-surgery/",
         "cat": "경쟁"
       },
       {
-        "date": "2026-10-10",
-        "title": "Why freshers’ pay cheques differ in tech cos",
-        "url": "https://www.hindustantimes.com/cities/mumbai-news/why-freshers-pay-cheques-differ-in-tech-cos-101791569972412.html",
+        "date": "2026-10-12",
+        "title": "Story of Jas Khetani",
+        "url": "https://indianexpress.com/shorts/entertainment/bollywood/he-starred-in-100-ads-a-hrithik-roshan-film-then-chose-quantum-physics-meet-jas-khetani-10918063/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-10",
-        "title": "From robotics classrooms to defence technology",
-        "url": "https://www.hindustantimes.com/cities/pune-news/from-robotics-classrooms-to-defence-technology-101791568592554.html",
+        "date": "2026-10-12",
+        "title": "Empower India Enters Robotics, AI Implementation, Targets ₹3.6 Lakh Crore Market",
+        "url": "https://www.freepressjournal.in/business/empower-india-enters-robotics-ai-implementation-targets-36-lakh-crore-market",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-12",
+        "title": "DCX and Whales AI Sign Strategic Investment and Exclusive Commercialization Agreement to Advance AI-Powered STEM Education Robotics Platform in North America",
+        "url": "https://www.manilatimes.net/2026/10/12/tmt-newswire/globenewswire/dcx-and-whales-ai-sign-strategic-investment-and-exclusive-commercialization-agreement-to-advance-ai-powered-stem-education-robotics-platform-in-north-america/2443687",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-12",
+        "title": "L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory",
+        "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/lt-technology-services-launches-ei-lab-for-manufacturing-and-operations-featuring-nvidia-accelerated-ai-native-factory/",
         "cat": "기술"
-      },
-      {
-        "date": "2026-10-10",
-        "title": "Kerala Police to collaborate with Kochi start-up to try robots in traffic management",
-        "url": "https://www.thehindu.com/news/national/kerala/kerala-police-to-collaborate-with-kochi-start-up-to-try-robots-in-traffic-management/article71565007.ece",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "Warehouse robot maker Ultra Robotics bags $62M",
-        "url": "https://siliconangle.com/2026/10/09/warehouse-robot-maker-ultra-robotics-bags-62m/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-09",
-        "title": "GMEX Robotics to Present at the 20th Annual LD Micro Main Event",
-        "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/gmex-robotics-to-present-at-the-20th-annual-ld-micro-main-event/",
-        "cat": "시장"
       }
     ]
   }
