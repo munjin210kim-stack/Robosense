@@ -1,117 +1,141 @@
 {
-  "asOfDate": "2026.10.13",
+  "asOfDate": "2026.10.14",
   "fx": {
-    "usdkrw": 1333
+    "usdkrw": 1341
   },
   "briefing": {
-    "dateLabel": "2026.10.13 (화)",
-    "headline": "로보틱스 및 AI 기술의 산업 현장 도입 가속화와 대규모 투자 유치 활발",
-    "summary": "의료, 제조, 교육 등 다양한 분야에서 로봇 자동화 기술이 도입되고 있으며, AI 기반 로봇 스타트업에 대한 대규모 자본 투자가 이어지고 있습니다.",
+    "dateLabel": "2026.10.14 (수)",
+    "headline": "독일 내 로봇 성추행 사건 발생과 로봇 산업의 기술적·윤리적 책임론 확산",
+    "summary": "로봇 기술이 의료, 환경, 산업 전반으로 확장되는 가운데, 독일에서 발생한 로봇 성추행 사건이 로봇의 안전성과 윤리적 규제에 대한 경각심을 높이고 있습니다.",
     "points": [
-      "오래된 스마트폰을 활용해 400달러라는 저렴한 비용으로 휴머노이드 로봇을 구현하는 기술이 주목받고 있습니다.",
-      "아마존이 물류 현장에서 로봇 팔 도입 경쟁을 치열하게 벌이며 미래 노동 환경의 변화를 주도하고 있습니다.",
-      "다나허(Danaher)가 항체 연구를 가속화하기 위해 AI 기반의 자율형 실험실 구축 계획을 발표했습니다."
+      "독일에서 16세 소녀를 성추행한 혐의를 받는 휴머노이드 로봇이 경찰에 압수되어 수사가 진행 중입니다.",
+      "벵갈루루의 한 스타트업이 수질 오염 문제를 해결하기 위해 호수와 강을 정화하는 특수 로봇을 개발했습니다.",
+      "글로벌 로봇 시장은 AI 기반 로봇과 스마트 제조 기술의 수요 증가에 힘입어 연평균 20.15%의 성장세를 보일 것으로 전망됩니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-12",
-        "title": "오래된 스마트폰으로 400달러짜리 휴머노이드 로봇 만들기",
-        "url": "https://www.infobae.com/tecno/2026/10/12/hacer-que-un-celular-viejo-se-convierta-en-un-robot-humanoide-es-posible-solo-cuesta-400-dolares/",
+        "date": "2026-10-13",
+        "title": "레이나 소피아 병원, 2018년 이후 다빈치 수술 로봇으로 3,161건 수술 수행",
+        "url": "https://www.eldiadecordoba.es/cordoba/hospital-reina-sofia-operaciones-robot-quirurgico-da-vinci_0_2008228288.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-12",
-        "title": "시지리노 아레나에 등장한 청소 로봇",
-        "url": "https://www.laregione.ch/cantone/luganese/1956235/robot-pulizia-puo-lavoro-tecnologia",
+        "date": "2026-10-13",
+        "title": "독일에서 로봇이 소녀를 성추행했다는 의혹에 강가나 라나우트 반응: AI 범죄 이미 시작됐다",
+        "url": "https://www.timesnownews.com/entertainment-news/bollywood/kangana-ranaut-reacts-to-robot-allegedly-groping-girl-in-germany-ai-crimes-already-started-article-156329921",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "란트로닉스, 드론 및 로봇 자율성 향상을 위한 컴퓨팅 격차 해소 솔루션 '스포터' 출시",
+        "url": "https://www.manilatimes.net/2026/10/13/tmt-newswire/globenewswire/lantronix-introduces-spotter-to-close-the-compute-gap-holding-back-drone-and-robot-autonomy/2444458",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "덴마크 로봇 스타트업 '더 모바일 로봇 컴퍼니', 업계 돌풍 일으키다",
+        "url": "https://www.prnewswire.co.uk/news-releases/danish-robotics-startup-the-mobile-robot-company-is-taking-the-industry-by-storm-302902851.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-12",
-        "title": "탄 지역 최초: 알비의 툴루즈-로트렉 클리닉, 무릎 인공관절 수술 로봇 도입",
-        "url": "https://www.ladepeche.fr/2026/10/12/cest-une-premiere-dans-le-tarn-a-albi-la-clinique-toulouse-lautrec-acquiert-un-robot-chirurgical-pour-les-protheses-du-genou-13595635.php",
+        "date": "2026-10-13",
+        "title": "독일에서 로봇이 16세 소녀를 성추행, 경찰이 기계와 소유자의 휴대폰 압수",
+        "url": "https://www.freepressjournal.in/viral/video-robot-sexually-assaults-16-year-old-teen-in-germany-police-seize-machine-along-with-owners-phones",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "독일에서 로봇이 16세 소녀를 성추행했다는 의혹으로 경찰이 로봇 압수",
+        "url": "https://www.newsbytesapp.com/news/world/robot-seized-after-alleged-harassment-incident/story",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "독일 십 대 소녀, 로봇에게 성추행당했다고 신고",
+        "url": "https://www.clarin.com/internacional/adolescente-alemana-denuncio-robot-acoso_0_fED3Z9zcEX.html",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "벵갈루루 스타트업 '스크럽 로보틱스', 오염된 호수와 강을 청소하는 로봇 설계",
+        "url": "https://www.indiatoday.in/science/story/bengaluru-startup-lake-cleaning-robot-scrub-v2-technology-3016321-2026-10-13",
         "cat": "기술"
       },
       {
-        "date": "2026-10-12",
-        "title": "메이저리그 포스트시즌, ABS(자동 투구 판정 시스템) 챌린지 활용 증가",
-        "url": "https://www.espn.com/mlb/story/_/id/50165958/mlb-teams-using-abs-challenges-more-frequently-postseason",
-        "cat": "기술"
+        "date": "2026-10-13",
+        "title": "독일에서 두 청년이 프로그래밍한 로봇이 십 대 소녀를 성추행, 소셜 미디어에 영상 유포",
+        "url": "https://www.nicematin.com/faits-divers/une-adolescente-agressee-sexuellement-par-un-robot-programme-par-deux-autres-mineurs-les-images-publiees-sur-les-reseaux-sociaux-en-allemagne-10740397",
+        "cat": "정책"
       },
       {
-        "date": "2026-10-12",
-        "title": "딥시크, 4억 달러 규모 로봇 AI 스타트업 시드 라운드 주도",
-        "url": "https://thenextweb.com/news/deepseek-winverse-ai-robot-seed-round",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-12",
-        "title": "포스트시즌 타자들의 ABS 챌린지 성공률 및 구단 활용도 증가",
-        "url": "https://www.tsn.ca/mlb/article/hitters-are-winning-more-challenges-in-postseason-teams-are-challenging-more-overall/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-12",
-        "title": "아마존의 로봇 팔 경쟁과 미래 노동 시장에 미칠 영향",
-        "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-12",
-        "title": "포스트시즌 타자들의 ABS 챌린지 성공률 상승 및 구단들의 챌린지 빈도 증가",
-        "url": "https://wtop.com/sports/2026/10/hitters-are-winning-more-abs-challenges-in-the-postseason-and-teams-are-challenging-more-overall/",
-        "cat": "기술"
+        "date": "2026-10-13",
+        "title": "독일 거리에서 16세 소녀를 성추행한 혐의로 경찰이 휴머노이드 로봇 압수",
+        "url": "https://www.firstpost.com/tech/police-seize-humanoid-after-it-allegedly-groped-16-year-old-girl-on-street-in-germany-14052487.html",
+        "cat": "정책"
       }
     ],
     "global": [
       {
-        "date": "2026-10-12",
-        "title": "Danaher plans AI-powered autonomous laboratory for antibody research",
-        "url": "https://www.scientific-computing.com/article/danaher-plans-ai-powered-autonomous-laboratory-antibody-research",
+        "date": "2026-10-13",
+        "title": "Pudu Robotics' PUDU BG1 Series Wins Two ISSA Awards, Reinforcing Global Leadership in Commercial Cleaning Robotics",
+        "url": "https://www.prnewswire.co.uk/news-releases/pudu-robotics-pudu-bg1-series-wins-two-issa-awards-reinforcing-global-leadership-in-commercial-cleaning-robotics-302906731.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "Lantronix Introduces Spotter to Close the Compute Gap Holding Back Drone and Robot Autonomy",
+        "url": "https://www.manilatimes.net/2026/10/13/tmt-newswire/globenewswire/lantronix-introduces-spotter-to-close-the-compute-gap-holding-back-drone-and-robot-autonomy/2444458",
         "cat": "기술"
       },
       {
-        "date": "2026-10-12",
-        "title": "DECO Showcases Contactless mmWave Interconnects for Industrial Equipment at CIIF 2026",
-        "url": "https://www.manilatimes.net/2026/10/12/tmt-newswire/plentisoft/deco-showcases-contactless-mmwave-interconnects-for-industrial-equipment-at-ciif-2026/2443894",
+        "date": "2026-10-13",
+        "title": "Danish Robotics Startup The Mobile Robot Company is Taking the Industry by Storm",
+        "url": "https://www.prnewswire.co.uk/news-releases/danish-robotics-startup-the-mobile-robot-company-is-taking-the-industry-by-storm-302902851.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "Bengaluru startup Scrub Robotics designs robot that can clean dirty lakes, rivers",
+        "url": "https://www.indiatoday.in/science/story/bengaluru-startup-lake-cleaning-robot-scrub-v2-technology-3016321-2026-10-13",
         "cat": "기술"
       },
       {
-        "date": "2026-10-12",
-        "title": "L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI",
-        "url": "https://www.tribuneindia.com/news/business/lt-technology-services-launches-ei-lab-for-manufacturing-and-operations-featuring-nvidia-accelerated-ai-native-factory-2-2/",
+        "date": "2026-10-13",
+        "title": "Police seize humanoid after it allegedly groped 16-year-old girl on street in Germany",
+        "url": "https://www.firstpost.com/tech/police-seize-humanoid-after-it-allegedly-groped-16-year-old-girl-on-street-in-germany-14052487.html",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "German Police Investigate After Robot Snuck Up, Sexually Assaulted Teen",
+        "url": "https://www.breitbart.com/europe/2026/10/13/german-police-investigate-after-robot-snuck-up-sexually-assaulted-teen/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-13",
+        "title": "Researchers build a robot hand that walks on its fingertips| Watch",
+        "url": "https://www.firstpost.com/tech/addams-familys-thing-comes-to-life-researchers-build-a-robot-hand-that-walks-on-its-fingertips-watch-14052371.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-12",
-        "title": "Stryker and CMR Surgical announce strategic alliance to advance robotic-assisted surgery",
-        "url": "https://www.nugget.ca/press-releases/globe-newswire/stryker-and-cmr-surgical-announce-strategic-alliance-to-advance-robotic-assisted-surgery/",
-        "cat": "경쟁"
+        "date": "2026-10-13",
+        "title": "Global Robotics Market to Grow at 20.15% CAGR as Industrial Automation Demand, AI-Powered Robotics and Smart Manufacturing Technologies Gain Momentum, says Maximize Market Research",
+        "url": "https://www.prnewswire.co.uk/news-releases/global-robotics-market-to-grow-at-20-15-cagr-as-industrial-automation-demand-ai-powered-robotics-and-smart-manufacturing-technologies-gain-momentum-says-maximize-market-research-302906011.html",
+        "cat": "시장"
       },
       {
-        "date": "2026-10-12",
-        "title": "Story of Jas Khetani",
-        "url": "https://indianexpress.com/shorts/entertainment/bollywood/he-starred-in-100-ads-a-hrithik-roshan-film-then-chose-quantum-physics-meet-jas-khetani-10918063/",
+        "date": "2026-10-13",
+        "title": "Empower India plans AI, robotics expansion to tap growing demand",
+        "url": "https://www.thehindubusinessline.com/info-tech/empower-india-plans-ai-robotics-expansion-to-tap-growing-demand/article71577766.ece",
         "cat": "시장"
       },
       {
         "date": "2026-10-12",
-        "title": "Empower India Enters Robotics, AI Implementation, Targets ₹3.6 Lakh Crore Market",
-        "url": "https://www.freepressjournal.in/business/empower-india-enters-robotics-ai-implementation-targets-36-lakh-crore-market",
+        "title": "Toronto robotics startup hopes to expand options for surgical procedures",
+        "url": "https://www.theglobeandmail.com/business/economy/article-toronto-robotics-startup-hopes-to-expand-options-for-surgical/",
         "cat": "시장"
-      },
-      {
-        "date": "2026-10-12",
-        "title": "DCX and Whales AI Sign Strategic Investment and Exclusive Commercialization Agreement to Advance AI-Powered STEM Education Robotics Platform in North America",
-        "url": "https://www.manilatimes.net/2026/10/12/tmt-newswire/globenewswire/dcx-and-whales-ai-sign-strategic-investment-and-exclusive-commercialization-agreement-to-advance-ai-powered-stem-education-robotics-platform-in-north-america/2443687",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-12",
-        "title": "L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory",
-        "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/lt-technology-services-launches-ei-lab-for-manufacturing-and-operations-featuring-nvidia-accelerated-ai-native-factory/",
-        "cat": "기술"
       }
     ]
   }
