@@ -1,123 +1,141 @@
 {
-  "asOfDate": "2026.10.15",
+  "asOfDate": "2026.10.16",
   "fx": {
-    "usdkrw": 1337
+    "usdkrw": 1346
   },
   "briefing": {
-    "dateLabel": "2026.10.15 (목)",
-    "headline": "독일 내 로봇 성추행 사건 발생으로 인한 로봇 안전성 및 규제 논의 급부상",
-    "summary": "로봇 기술이 일상 영역으로 빠르게 확장되는 가운데, 독일에서 발생한 로봇 관련 성범죄 사건이 로봇의 안전 가이드라인과 윤리적 책임에 대한 전 세계적인 경각심을 불러일으키고 있습니다.",
+    "dateLabel": "2026.10.16 (금)",
+    "headline": "로보틱스 기술의 고도화 속에 새로운 노동 시장 창출과 안전성 통제 필요성이 함께 강조되고 있습니다.",
+    "summary": "로봇 학습 데이터 산업 및 신기술 도입이 가속화되는 한편 기기 오남용 방지와 보안 관리를 위한 규제 필요성이 부각되고 있습니다.",
     "points": [
-      "독일 경찰이 10대 소녀를 성추행한 혐의를 받는 로봇을 압수하고 관련 사건에 대한 본격적인 수사에 착수했습니다.",
-      "독일 내에서 로봇의 부적절한 행동과 성범죄 연루 사례가 잇따르면서 로봇의 안전성과 사회적 운용에 대한 우려가 커지고 있습니다.",
-      "인도 기업 젠로보틱스가 하수구 유지보수부터 우주 산업까지 아우르는 로보틱스 개발 계약을 인도우주연구기구(ISRO)와 체결했습니다."
+      "로봇 학습 데이터 수집 및 가공 산업이 크게 성장하며 새로운 글로벌 노동 시장을 창출하고 있습니다.",
+      "최고 500킬로그램의 하중을 들어 올릴 수 있는 4미터 크기의 초대형 로봇이 공개되었습니다.",
+      "중국의 한 로봇 신생기업이 가상 데이터를 활용해 휴머노이드 로봇의 학습 비용을 대폭 절감하는 기술을 개발했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-14",
-        "title": "독일 경찰, 10대 소녀 성추행 혐의 로봇 압수",
-        "url": "https://www.cbsnews.com/news/germany-robot-teen-girl-sexual-harassment-groping-cologne/",
+        "date": "2026-10-15",
+        "title": "귀여운 장난감 로봇의 개인정보 중국 서버 유출 및 해킹 위험 노출",
+        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
         "cat": "정책"
       },
       {
-        "date": "2026-10-14",
-        "title": "독일 로봇의 성추행 및 부적절한 행동, 안전 우려 확산",
-        "url": "https://timesofindia.indiatimes.com/world/europe/sexual-assault-indecent-gestures-by-robot-in-germany-raises-safety-concerns/articleshow/134940501.cms",
+        "date": "2026-10-15",
+        "title": "독일에서 원격 제어 로봇을 이용해 미성년자를 성추행한 사건 발생",
+        "url": "https://www.bluradio.com/mundo/investigan-una-supuesta-agresion-sexual-por-parte-de-un-robot-en-alemania-so35",
         "cat": "정책"
       },
       {
-        "date": "2026-10-14",
-        "title": "알비: 알프스 지역 최초로 외과 수술 돕는 로봇 도입",
-        "url": "https://www.20minutes.fr/sante/4254224-20261014-albi-robot-prete-main-forte-chirurgiens-premiere-departement",
+        "date": "2026-10-15",
+        "title": "독일 쾰른에서 16세 소녀 성추행 혐의로 로봇 압수… 청년 2명 수사 중",
+        "url": "https://www.freepressjournal.in/tech/germany-robot-seized-after-allegedly-groping-16-year-old-girl-in-cologne-2-young-men-under-investigation",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "다이슨 누로비 로봇 청소기, 구석 청소용 삼각형 모프 탑재해 스페인 출시",
+        "url": "https://okdiario.com/tecnologia/robots-dyson-nurovi-llegan-espana-mopas-triangulares-limpiar-hasta-esquinas-20556460",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "독일에서 로봇으로 16세 소녀 성추행한 사건 발생… 경찰, 기기 압수",
+        "url": "https://www.newsx.com/world/robot-gropes-16-year-old-girl-from-behind-in-germany-touches-buttocks-makes-inappropriate-actions-police-seize-device-283738/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "0.5톤의 하중을 들어 올릴 수 있는 4미터 크기의 중국 로봇 공개",
+        "url": "https://www.larazon.es/tecnologia/asi-robot-chino-cuatro-metros-que-puede-levantar-media-tonelada_202610156ad0aebabafd3d7363608ad4.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-14",
-        "title": "독일에서 16세 소녀가 로봇에게 성추행당한 사건 발생",
-        "url": "https://evz.ro/un-robot-ar-fi-pipait-o-adolescenta-de-16-ani-din-germania-iar-proprietarul-ar-fi-transmis-totul-live-pe-internet-masurile-luate-de-politisti.html",
+        "date": "2026-10-15",
+        "title": "독일에서 16세 청소년이 또래 성추행에 로봇 이용해 경찰에 적발",
+        "url": "https://tg24.sky.it/mondo/2026/10/15/germania-molestie-sessuali-robot",
         "cat": "정책"
       },
       {
-        "date": "2026-10-14",
-        "title": "드디어 나를 위한 AI 로봇: 에이스메이트 테니스 로봇",
-        "url": "https://www.cnet.com/sports-and-fitness/finally-an-ai-robot-built-for-me-the-acemate-tennis-robot/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-14",
-        "title": "비자이 데베라콘다, 라슈미카를 '로봇처럼 일하는 사람'이라며 극찬",
-        "url": "https://indianexpress.com/article/entertainment/telugu/rashmika-a-human-that-works-like-a-robot-vijay-deverakonda-ranabaali-10921112/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-14",
-        "title": "로봇의 10대 소녀 성추행 사건 및 영상 유포 관련 조사 착수",
-        "url": "https://www.lbc.co.uk/article/girl-robot-attack-germany-cologne-5Hjdjsq_2/",
+        "date": "2026-10-15",
+        "title": "휴머노이드 로봇, 미성년자 성추행 악용 혐의로 논란",
+        "url": "https://www.journaldugeek.com/2026/10/15/un-robot-humanoide-accuse-dagression-sexuelle-sur-une-adolescente/",
         "cat": "정책"
       },
       {
-        "date": "2026-10-14",
-        "title": "드리미 X60 울트라 컴플리트 로봇청소기 리뷰: 일상 청소의 간편화",
-        "url": "https://timesofindia.indiatimes.com/technology/reviews/dreame-x60-ultra-complete-robot-vaccum-cleaner-review-everyday-cleaning-made-super-easy/articleshow/134939593.cms",
+        "date": "2026-10-15",
+        "title": "로봇 학습 데이터, 새로운 글로벌 노동 시장 형성을 견인",
+        "url": "https://www.businessinsider.com/ai-companies-human-workers-robot-training-data-2026-10",
         "cat": "시장"
       },
       {
-        "date": "2026-10-14",
-        "title": "영국 북부에서 택배 배달하는 로봇 '아이리스'의 작동 방식",
-        "url": "https://www.eldiario.es/spin/iris-llama-puerta-funciona-robot-reparte-paquetes-norte-inglaterra-pm_1_13584410.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-14",
-        "title": "독일에서 16세 소녀가 로봇에게 성폭행당해",
-        "url": "https://www.parismatch.com/actu/faits-divers/une-adolescente-de-16-ans-a-ete-agresse-sexuellement-par-un-robot-en-allemagne-277433",
-        "cat": "정책"
+        "date": "2026-10-15",
+        "title": "1989년 러시아 공원에 3미터 외계인 착륙 주장 및 세계적 소동 재조명",
+        "url": "https://www.libertatea.ro/stiri/extraterestri-de-3-metri-cu-cizme-din-bronz-ar-fi-aterizat-in-rusia-in-1989-povestea-ozn-ului-din-voronej-c0mlbwm",
+        "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-10-14",
-        "title": "Robot allegedly used to grope teen girl seized by German police",
-        "url": "https://www.cbsnews.com/news/germany-robot-teen-girl-sexual-harassment-groping-cologne/",
+        "date": "2026-10-15",
+        "title": "Agility Robotics Selects Nyobolt as its Ultra-Fast Charging Battery Technology Partner for Digit 5",
+        "url": "https://www.prnewswire.co.uk/news-releases/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5-302909636.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "Germany: Robot Seized After Allegedly Groping 16-Year-Old Girl In Cologne; 2 Young Men Under Investigation",
+        "url": "https://www.freepressjournal.in/tech/germany-robot-seized-after-allegedly-groping-16-year-old-girl-in-cologne-2-young-men-under-investigation",
         "cat": "정책"
       },
       {
-        "date": "2026-10-14",
-        "title": "Sexual assault, indecent gestures by robot in Germany raises safety concerns",
-        "url": "https://timesofindia.indiatimes.com/world/europe/sexual-assault-indecent-gestures-by-robot-in-germany-raises-safety-concerns/articleshow/134940501.cms",
+        "date": "2026-10-15",
+        "title": "Nvidia CEO Jensen Huang hails OpenClaw as helping the future of robotics, but calls for controls, 'so we can realize the incredible future potential of the technology that we’re building'",
+        "url": "https://www.techradar.com/pro/nvidia-ceo-jensen-huang-hails-openclaw-as-helping-the-future-of-robotics-but-calls-for-controls-so-we-can-realize-the-incredible-future-potential-of-the-technology-that-were-building",
         "cat": "정책"
       },
       {
-        "date": "2026-10-14",
-        "title": "From sewer to space: Genrobotics bags ISRO robotics development contract",
-        "url": "https://economictimes.indiatimes.com/tech/startups/from-sewer-to-space-genrobotics-bags-isro-robotics-development-contract/articleshow/134937736.cms",
+        "date": "2026-10-15",
+        "title": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs",
+        "url": "https://economictimes.indiatimes.com/tech/technology/chinese-startup-dexforce-trains-humanoid-robots-using-virtual-data-to-slash-costs/articleshow/134961718.cms",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "EIB Backs Fugro With €150m to Expand Remote Fleet for Offshore Wind and Cables",
+        "url": "https://www.devdiscourse.com/article/business/3992660-eib-backs-fugro-with-150m-to-expand-remote-fleet-for-offshore-wind-and-cables",
         "cat": "시장"
       },
       {
-        "date": "2026-10-14",
-        "title": "‘Just 2026 Things!’: Humanoid Robot In Traditional Attire Does Garba With Crowd",
-        "url": "https://www.timesnownews.com/viral/viral-video-humanoid-robot-in-traditional-attire-does-garba-with-crowd-video-156338337",
-        "cat": "시장"
+        "date": "2026-10-15",
+        "title": "NVIDIA Lands in Europe for GTC Berlin",
+        "url": "https://www.europesays.com/3311212/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "Hyundai Motor Company and Kia Makes Strategic Investment in VAST Data to Advance AI Infrastructure for Mobility",
+        "url": "https://itwire.com/science-news/automotive/hyundai-motor-company-and-kia-makes-strategic-investment-in-vast-data-to-advance-ai-infrastructure-for-mobility",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-15",
+        "title": "Physical AI in Manufacturing: How computer vision, robotics and edge automation are moving into the real world",
+        "url": "https://economictimes.indiatimes.com/industry/services/education/physical-ai-in-manufacturing-how-computer-vision-robotics-and-edge-automation-are-moving-into-the-real-world/articleshow/134940594.cms",
+        "cat": "기술"
       },
       {
         "date": "2026-10-14",
-        "title": "Robot accused of groping 16-year-old girl in Germany; two teens under probe",
-        "url": "https://www.onmanorama.com/news/world/2026/10/14/robot-accused-of-groping-16-year-old-girl-in-germany-two-teens-under-probe.html",
-        "cat": "정책"
+        "title": "XPENG CEO He Xiaopeng Calls for Deeper Global Collaboration at the 2026 Paris Automotive Summit, Highlighting \"XPENG AI Engineering\"",
+        "url": "https://www.manilatimes.net/2026/10/15/tmt-newswire/pr-newswire/xpeng-ceo-he-xiaopeng-calls-for-deeper-global-collaboration-at-the-2026-paris-automotive-summit-highlighting-xpeng-ai-engineering/2446113",
+        "cat": "경쟁"
       },
       {
         "date": "2026-10-14",
-        "title": "Moskino Film Factory Is Developing Infrastructure Beyond Modern Film Production",
-        "url": "https://www.devdiscourse.com/article/business/3991987-moskino-film-factory-is-developing-infrastructure-beyond-modern-film-production",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-14",
-        "title": "Humanoid Robot Gropes Teen Girl; German Police Probe",
-        "url": "https://www.deccanchronicle.com/world/europe/humanoid-robot-gropes-teen-girl-german-police-probe-1995698",
-        "cat": "정책"
+        "title": "Hyundai Motor's tech bets face headwinds as core business loses steam",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261015/hyundai-motors-tech-bets-face-headwinds-as-core-business-loses-steam",
+        "cat": "경쟁"
       }
     ]
   }
