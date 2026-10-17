@@ -1,135 +1,129 @@
 {
-  "asOfDate": "2026.10.17",
+  "asOfDate": "2026.10.18",
   "fx": {
     "usdkrw": 1332
   },
   "briefing": {
-    "dateLabel": "2026.10.17 (토)",
-    "headline": "가정용 청소 로봇의 기술 고도화와 함께 보급형 및 우주용 휴머노이드 개발이 본격화되고 있습니다.",
-    "summary": "로보틱스 시장은 실생활 밀착형 가전의 기능 다변화와 더불어 교육 및 우주 탐사 등 다양한 산업 분야로 휴머노이드 적용 범위를 넓혀가고 있습니다.",
+    "dateLabel": "2026.10.18 (일)",
+    "headline": "로보틱스 산업 최신 동향",
+    "summary": "2026.10.18 기준 국내외 로보틱스 업계 주요 뉴스 18건을 정리했습니다.",
     "points": [
-      "패러데이 퓨처가 개발자와 교육 기관을 겨냥해 2,490달러 가격의 보급형 휴머노이드 로봇을 새로 선보였습니다.",
-      "샤오미가 보행용 다리와 감시 카메라를 탑재하여 이동성을 극대화한 신형 로봇 청소기를 공개했습니다.",
-      "인도의 묵스 로보틱스가 인도우주연구기구와 협력하여 우주 환경에서 작동하는 휴머노이드 개발 프로젝트를 수주했습니다."
+      "Los robots Dyson Nurovi llegan a España con mopas triangulares para limpiar hasta las esquinas",
+      "AiMOGA to Unveil Mobo, Its First Family Companion Robot, on October 21",
+      "AiMOGA to Unveil Mobo, Its First Family Companion Robot, on October 21"
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-16",
-        "title": "다이슨 누로비 로봇, 구석 청소용 삼각형 걸레와 함께 스페인 출시",
+        "date": "2026-10-17",
+        "title": "Los robots Dyson Nurovi llegan a España con mopas triangulares para limpiar hasta las esquinas",
         "url": "https://okdiario.com/tecnologia/robots-dyson-nurovi-llegan-espana-mopas-triangulares-limpiar-hasta-esquinas-20556460",
         "cat": "시장"
       },
       {
-        "date": "2026-10-16",
-        "title": "악성 소프트웨어로 인한 스마트 기기 해킹 위험성 경고",
-        "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/16/hackers-new-weapon-could-soon-hide-in-your-smart-home/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-16",
-        "title": "미래 학교와 인공지능에 대한 아이들의 시각: 교사를 로봇으로 대체할 수는 없다",
-        "url": "https://www.viva.ro/stiri/cum-vad-copiii-scoala-viitorului-si-ce-spun-despre-inteligenta-artificiala-4016017",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-16",
-        "title": "자율 청소 기능의 샤크 로봇 청소기 270유로 파격 할인",
-        "url": "https://www.corsematin.com/article/guide-shopping/51412172777337/ce-robot-aspirateur-shark-concu-pour-nettoyer-tout-seul-chute-de-270-e",
+        "date": "2026-10-17",
+        "title": "AiMOGA to Unveil Mobo, Its First Family Companion Robot, on October 21",
+        "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/aimoga-to-unveil-mobo-its-first-family-companion-robot-on-october-21/2447939",
         "cat": "시장"
       },
       {
-        "date": "2026-10-16",
-        "title": "드라이월 작업을 3배 빠르게 처리하는 로봇에 대규모 투자 유치",
-        "url": "https://www.ndtvprofit.com/lifestyle/this-robot-finishes-drywall-3x-faster-now-ronnie-screwvala-is-betting-on-it-12194506",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-16",
-        "title": "독일 경찰, 라이브 방송 중 부적절한 행동을 한 로봇 압수",
-        "url": "https://metro.co.uk/2026/10/16/german-police-seize-robot-groped-teenage-girl-livestream-29714217/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-16",
-        "title": "패러데이 퓨처, 개발자 및 학교용 2,490달러 휴머노이드 로봇 공개",
-        "url": "https://thenextweb.com/news/faraday-future-nova-humanoid-robots",
+        "date": "2026-10-17",
+        "title": "Automotive Technology Comes Home: Mobo to Make Its Global Debut at the OMODA & JAECOO International User Summit",
+        "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/automotive-technology-comes-home-mobo-to-make-its-global-debut-at-the-omoda-jaecoo-international-user-summit/2447905",
         "cat": "시장"
       },
       {
-        "date": "2026-10-16",
-        "title": "반려동물 가구를 위한 샤크 매트릭스 플러스 로봇 청소기 솔루션",
+        "date": "2026-10-17",
+        "title": "¿Casas con mascotas o suciedad? La solución es este robot aspirador y mopa Shark Matrix Plus",
         "url": "https://okdiario.com/okshopping/casas-mascotas-o-suciedad-solucion-este-robot-aspirador-mopa-shark-matrix-plus-20562875",
         "cat": "시장"
       },
       {
-        "date": "2026-10-16",
-        "title": "다리와 감시 카메라를 갖춘 샤오미의 1,000유로대 신형 로봇 청소기",
-        "url": "https://www.journaldugeek.com/2026/10/16/le-nouvel-aspirateur-robot-de-xiaomi-a-des-jambes-une-camera-de-surveillance-et-un-prix-qui-frole-les-1-000-e/",
-        "cat": "기술"
+        "date": "2026-10-17",
+        "title": "Honor ROBOT PHONE numit una dintre cele mai bune invenții ale anului 2026 de către Revista Time",
+        "url": "https://www.mobilissimo.ro/stiri-telefoane/honor-robot-phone-numit-una-dintre-cele-mai-bune-inventii-ale-anului-2026-de-catre-revista-time",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-17",
+        "title": "C’est une révolution : ce robot aspirateur à prix cassé fait le ménage en autonomie dans toutes vos pièces",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/cest-une-revolution-ce-robot-aspirateur-a-prix-casse-fait-le-menage-en-autonomie-dans-toutes-vos-pieces-c54cdf74-c879-11f1-b3f5-183597cb1094",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-17",
+        "title": "RFL Academy Teams Win Gold and Two Silvers at WRO Asia Pacific Open Championship 2026",
+        "url": "https://www.devdiscourse.com/article/business/3994018-rfl-academy-teams-win-gold-and-two-silvers-at-wro-asia-pacific-open-championship-2026",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-17",
+        "title": "Cómo elegir un robot aspirador sin pagar por funciones que no vas a usar",
+        "url": "https://okdiario.com/tecnologia/como-elegir-robot-aspirador-sin-pagar-funciones-que-no-vas-usar-20544084",
+        "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-16",
-        "title": "Based Muks Robotics Secures ISRO Project to Develop SPACEO Prime, an Indian Humanoid Space Worker",
-        "url": "https://www.tribuneindia.com/news/business/pune-based-muks-robotics-secures-isro-project-to-develop-spaceo-prime-an-indian-humanoid-space-worker/",
-        "cat": "기술"
+        "date": "2026-10-17",
+        "title": "AiMOGA to Unveil Mobo, Its First Family Companion Robot, on October 21",
+        "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/aimoga-to-unveil-mobo-its-first-family-companion-robot-on-october-21/2447939",
+        "cat": "시장"
       },
       {
-        "date": "2026-10-16",
-        "title": "Pune-Based Muks Robotics Secures ISRO Project to Develop SPACEO Prime, an Indian Humanoid Space Worker",
-        "url": "https://www.aninews.in/news/business/pune-based-muks-robotics-secures-isro-project-to-develop-spaceo-prime-an-indian-humanoid-space-worker20261016155546/",
-        "cat": "기술"
+        "date": "2026-10-17",
+        "title": "Automotive Technology Comes Home: Mobo to Make Its Global Debut at the OMODA & JAECOO International User Summit",
+        "url": "https://www.manilatimes.net/2026/10/17/tmt-newswire/globenewswire/automotive-technology-comes-home-mobo-to-make-its-global-debut-at-the-omoda-jaecoo-international-user-summit/2447905",
+        "cat": "시장"
       },
       {
-        "date": "2026-10-16",
-        "title": "Following industrial investment from Midea Group, Jodell unveils full-stack new products for industrial embodied execution at CIIF",
-        "url": "https://www.prnewswire.co.uk/news-releases/following-industrial-investment-from-midea-group-jodell-unveils-full-stack-new-products-for-industrial-embodied-execution-at-ciif-302910830.html",
+        "date": "2026-10-17",
+        "title": "Stryker Enters Soft-Tissue Robotics Through Strategic Alliance With CMR Surgical",
+        "url": "https://www.hospimedica.com/business/articles/294813953/stryker-enters-soft-tissue-robotics-through-strategic-alliance-with-cmr-surgical.html",
         "cat": "시장"
       },
       {
         "date": "2026-10-16",
-        "title": "No More Black Boxes: RoboParty Launches Full-Stack Open-Source RP1",
-        "url": "https://www.prnewswire.co.uk/news-releases/no-more-black-boxes-roboparty-launches-full-stack-open-source-rp1-302910191.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-16",
-        "title": "Faraday Future unveils a $2,490 humanoid robot for developers and schools",
-        "url": "https://thenextweb.com/news/faraday-future-nova-humanoid-robots",
+        "title": "Lawsuits accuse Chicago delivery robot companies of collecting biometric data",
+        "url": "https://chicago.suntimes.com/news/2026/10/16/lawsuits-accuse-chicago-delivery-robot-companies-of-collecting-biometric-data",
         "cat": "시장"
       },
       {
         "date": "2026-10-16",
-        "title": "IIT Delhi invites applications for five-month online Robotics Programme",
-        "url": "https://www.indiatoday.in/education-today/news/story/iit-delhi-robotics-programme-applications-ai-robot-control-course-2027-five-month-online-3018610-2026-10-16",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-16",
-        "title": "Tesla's new Roadster can flip mid-air with SpaceX thrusters, launch delayed to 2028",
-        "url": "https://www.telegraphindia.com/business/teslas-new-roadster-can-flip-mid-air-with-spacex-thrusters-launch-delayed-to-2028/cid/2185002",
+        "title": "$5K grant awarded to Emerson-Hubbard robotics team",
+        "url": "https://siouxcityjournal.com/news/local/article_f174b654-5ed3-4b2c-b9cb-7caf67eb63ec.html",
         "cat": "시장"
       },
       {
         "date": "2026-10-16",
-        "title": "Tesla unveils next generation Roadster sports EV after years of delay",
-        "url": "https://www.thehindubusinessline.com/companies/tesla-unveils-next-generation-roadster-sports-ev-after-years-of-delay/article71590968.ece",
+        "title": "AiMOGA to Launch Home Companion Robot Mobo and Open Global Pre-Orders at 2026 Chery International User Summit",
+        "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/globenewswire/aimoga-to-launch-home-companion-robot-mobo-and-open-global-pre-orders-at-2026-chery-international-user-summit/2447684",
         "cat": "시장"
       },
       {
         "date": "2026-10-16",
-        "title": "RoboParty Launches RP1 in Southeast Asia, Bringing Full-Stack Open Robotics to Education and Research",
-        "url": "https://www.manilatimes.net/2026/10/16/tmt-newswire/pr-newswire/roboparty-launches-rp1-in-southeast-asia-bringing-full-stack-open-robotics-to-education-and-research/2447200",
+        "title": "US manufacturers need robotics to expand at scale, executive says",
+        "url": "https://www.foxbusiness.com/technology/robots-could-boost-us-manufacturing-america-races-keep-pace-china-expert-says",
         "cat": "시장"
       },
       {
         "date": "2026-10-16",
-        "title": "Meet 'Codey' the humanoid robot that hopes to tackle loneliness epidemic",
-        "url": "https://abc7.com/post/meet-codey-humanoid-robot-hopes-tackle-loneliness-epidemic/19942030/",
-        "cat": "기술"
+        "title": "Viral boar-chasing robot visits Lithuanian AI exhibit",
+        "url": "https://www.latimes.com/entertainment-arts/newsletter/2026-10-16/essential-arts-humanoid-robot-artificial-intelligence",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-16",
+        "title": "AMTZ hosts MedTech RoboSprint 2026, linking 32 startups to experts",
+        "url": "https://www.thehindu.com/news/cities/Visakhapatnam/amtz-emerges-as-a-vital-hub-for-medical-robotics-innovation/article71589875.ece",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-16",
+        "title": "Tiny molecular changes, big microparticle deformation",
+        "url": "https://phys.org/news/2026-10-tiny-molecular-big-microparticle-deformation.html",
+        "cat": "시장"
       }
     ]
   }
