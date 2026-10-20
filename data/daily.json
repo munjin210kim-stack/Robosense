@@ -1,122 +1,128 @@
 {
-  "asOfDate": "2026.10.20",
+  "asOfDate": "2026.10.21",
   "fx": {
-    "usdkrw": 1329
+    "usdkrw": 1328
   },
   "briefing": {
-    "dateLabel": "2026.10.20 (화)",
-    "headline": "주요 인공지능 및 글로벌 기술 기업들이 휴머노이드 로봇과 특화형 로봇 개발에 속도를 내며 로보틱스 산업의 주도권 경쟁이 심화되고 있습니다.",
-    "summary": "휴머노이드 로봇의 상용화 구상 발표와 함께 의료 및 탐사 등 다양한 산업 분야에서 특화된 로봇 기술의 실전 배치가 가속화되고 있습니다.",
+    "dateLabel": "2026.10.21 (수)",
+    "headline": "휴머노이드 로봇의 상용화 가속화와 국방 및 산업 분야의 로봇 도입 확대",
+    "summary": "로보틱스 산업은 가정용 서비스 로봇의 보급과 더불어 국방 및 대규모 산업 현장에서의 전략적 활용이 급격히 증가하며 기술적 성숙기를 맞이하고 있습니다.",
     "points": [
-      "인공지능 기업 오픈에이아이는 오는 2027년까지 시제품 공개를 목표로 자체 휴머노이드 로봇 개발을 공식 추진하고 있습니다.",
-      "딥로보틱스의 사족보행 로봇이 100킬로그램에 달하는 화물을 싣고 중국 과학자들의 험준한 산악 탐사 임무를 지원했습니다.",
-      "현대자동차그룹은 중국 완성차 업체들과의 경쟁에 대응하고 미래 성장 동력을 확보하기 위해 로보틱스 및 피지컬 인공지능 분야 투자를 대폭 강화하고 있습니다."
+      "YYForce가 노보텔 호텔과 협력하여 실제 숙박 시설 환경에서 휴머노이드 가사 도우미 로봇을 훈련시키기 시작했습니다.",
+      "샤크 파워디텍트 등 최신 로봇청소기들이 가사 노동의 완전 자동화를 목표로 시장에서 소비자들의 큰 관심을 받고 있습니다.",
+      "미 해군이 중국과의 전략적 경쟁 우위를 점하기 위해 무인 로봇 함정 계약 규모를 4배로 확대했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-19",
-        "title": "OpenAI, 2027년까지 휴머노이드 로봇 개발 및 시제품 공개 예정",
-        "url": "https://www.laregione.ch/rubriche/tecnologia/1957716/openai-robot-umanoidi-prototipo-altman",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "온세 재단, 토레혼 쇼핑센터에서 장애인용 안내 로봇 공개",
-        "url": "https://www.servimedia.es/noticias/fundacion-once-presenta-este-martes-centro-comercial-parque-corredor-torrejon-robot-guiado-para-personas-discapacidad/1413473681",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "딥로보틱스의 로봇 개, 100kg 수하물 수송하며 중국 과학자들의 아이라오산 탐사 동행",
-        "url": "https://www.larazon.es/tecnologia-consumo/robots/perro-robot-deep-robotics-acompana-cientificos-chinos-expedicion-montanas-ailao-como-mula-carga-capaz-llevar-100-kilos_202610196ad5c2e4bafd3d73636513d6.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "손대지 않고 집안을 청결하게 유지하는 AEG 시리즈 7000 로봇 청소기",
-        "url": "https://www.eleconomista.es/compras/noticias/14021901/10/26/disfruta-de-un-hogar-siempre-limpio-sin-tocar-el-polvo-con-el-robot-aeg-serie-7000.html",
+        "date": "2026-10-20",
+        "title": "YYForce, 노보텔 호텔에서 AI 휴머노이드 가사 도우미 훈련 실시",
+        "url": "https://lfpress.com/press-releases/globe-newswire/yyforce-ai-humanoid-housekeepers-to-be-trained-in-novotel-hotel/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-19",
-        "title": "구석 청소를 위한 삼각형 걸레를 탑재한 다이슨 누로비 로봇 스페인 출시",
-        "url": "https://okdiario.com/tecnologia/robots-dyson-nurovi-llegan-espana-mopas-triangulares-limpiar-hasta-esquinas-20556460",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "프낙 특가 이벤트: 나르왈 플로우 로봇 청소기 구매 시 샤프 LED TV 증정",
-        "url": "https://www.generation-nt.com/actualites/narwal-flow-robot-aspirateur-laveur-tv-led-sharp-fnac-2083005",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "후안 히메네스 디아스 대학병원, 마드리드 최초의 기관지경 시술 로봇 도입",
-        "url": "https://www.eleconomista.es/actualidad/noticias/14021887/10/26/el-hospital-universitario-fundacion-jimenez-diaz-amplia-su-cartera-de-servicios-con-el-primer-robot-de-madrid-para-la-realizacion-de-broncoscopias.html",
+        "date": "2026-10-20",
+        "title": "샤크 파워디텍트 로봇청소기로 먼지 비움과 청소 걱정에서 해방",
+        "url": "https://www.eleconomista.es/compras/noticias/14022232/10/26/despreocupate-por-completo-del-polvo-y-de-vaciar-el-deposito-diario-con-el-robot-aspirador-shark-powerdetect.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-19",
-        "title": "다이슨, 구석구석 청소 가능한 삼각형 패드 개발",
-        "url": "https://www.smartworld.it/news/dyson-r1-nurovi-r2-nurovi-prezzi-caratteristiche.html",
+        "date": "2026-10-20",
+        "title": "마이크로소프트 임원, AI에 기존 세금 규정 적용해야 한다고 주장",
+        "url": "https://news.bloombergtax.com/daily-tax-report/apply-existing-tax-rules-to-ai-microsoft-executive-says",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-20",
+        "title": "연준을 로봇이 운영하고 있는가?",
+        "url": "https://spectator.com/article/is-a-robot-running-the-fed/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-20",
+        "title": "이번 디왈리에는 청소 걱정 끝! 스스로 집안을 청소하는 로봇청소기",
+        "url": "https://www.prabhatkhabar.com/technology/robot-vacuum-cleaner-buy-on-diwali-best-models-for-home-cleaning",
         "cat": "기술"
       },
       {
-        "date": "2026-10-19",
-        "title": "OpenAI, 2027년 시제품 공개 목표로 휴머노이드 로봇 제작 추진",
-        "url": "https://www.smartworld.it/tecnologia/openai-vuole-costruire-robot-umanoidi-prototipo-2027.html",
+        "date": "2026-10-20",
+        "title": "일렉트로 데포, 30유로 미만의 다기능 주방 로봇으로 경쟁사 압도",
+        "url": "https://www.ladepeche.fr/2026/10/20/electro-depot-ecrase-la-concurrence-avec-ce-robot-de-cuisine-multifonction-a-moins-de-30-eur-13609791.php",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-20",
+        "title": "이집트, 태양광으로 작동하며 98%의 파종 정확도를 자랑하는 농업용 로봇 개발",
+        "url": "https://okdiario.com/ciencia/egipto-no-anda-chiquitas-fabrica-robot-agricola-que-funciona-energia-del-sol-siembra-correctamente-98-semillas-20515858",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-20",
+        "title": "반려동물의 털 고민을 끝낼 궁극의 로봇청소기 및 물걸레 청소기",
+        "url": "https://www.elespanol.com/mascotario/20261020/robot-aspirador-fregona-mascotas-definitivo-capaz-poner-fin-pelos-perro-gato/1003744427245_0.html",
         "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-10-19",
-        "title": "Tamil Nadu's Ayudha Puja gets an AI twist as robots perform aarti, light incense",
-        "url": "https://www.indiatoday.in/trending-news/story/tamil-nadus-ayudha-puja-gets-an-ai-twist-as-robots-perform-aarti-light-incense-3020742-2026-10-19",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "ECOVACS launches DEEBOT X12 OmniCyclone and WINBOT mini 2: This Diwali is about your guests, not your cleaning",
-        "url": "https://www.tribuneindia.com/news/business/ecovacs-launches-deebot-x12-omnicyclone-and-winbot-mini-2-this-diwali-is-about-your-guests-not-your-cleaning/",
+        "date": "2026-10-20",
+        "title": "Groundworks 2026 Unveils Speaker Lineup Featuring Leaders from Mace, VINCI, HS2, McKinsey and UK Government",
+        "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/groundworks-2026-unveils-speaker-lineup-featuring-leaders-from-mace-vinci-hs2-mckinsey-and-uk-government/2449554",
         "cat": "시장"
       },
       {
-        "date": "2026-10-19",
-        "title": "Army activates new robotics technician job at Fort Bragg",
-        "url": "https://www.fayobserver.com/story/news/military/2026/10/19/armys-new-robotics-technicians-train-at-fort-bragg/92160066007/",
+        "date": "2026-10-20",
+        "title": "Pittsburgh's Gecko Robotics expands its Navy contract to $300 million",
+        "url": "https://www.washingtonexaminer.com/opinion/columnists/4771402/gecko-robotics-expands-navy-contract-300-million/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-20",
+        "title": "Humanoid Robot’s Slow Cucumber-Cutting Skills With Shaky Hands Go Viral: ‘First Day At Work, It's Understandable’",
+        "url": "https://www.news18.com/viral/humanoid-robots-slow-cucumber-cutting-skills-with-shaky-hands-go-viral-first-day-at-work-its-understandable-ws-l-10389904.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-20",
+        "title": "US Navy quadruples robot warship contract in push to outsmart China",
+        "url": "https://www.foxnews.com/politics/navy-robot-deal-quadruples-us-looks-outsmart-china-ai-sea",
         "cat": "정책"
       },
       {
-        "date": "2026-10-19",
-        "title": "Sam Altman confirms humanoid robot plans, says demo could arrive in 2027",
-        "url": "https://www.indiatvnews.com/technology/news/sam-altman-confirms-humanoid-robot-plans-says-demo-could-arrive-in-2027-2026-10-19-1057348",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "SoftBank considers $18bn acquisition of Allied Universal to accelerate its push into robotics",
-        "url": "https://www.marketscreener.com/quote/stock/SOFTBANK-CORP-54039112/news/SoftBank-considers-18bn-acquisition-of-Allied-Universal-to-accelerate-its-push-into-robotics-54506576/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "OpenAI Is Building Its Own Humanoid Robot, CEO Sam Altman Confirms",
-        "url": "https://www.timesnownews.com/technology-science/openai-is-building-its-own-humanoid-robot-ceo-sam-altman-confirms-article-156365247",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "Hyundai Motor Group Accelerates Robotics & Physical AI Push To Counter Chinese Automakers, Revive Growth & Address Falling Shares",
-        "url": "https://www.freepressjournal.in/tech/hyundai-motor-group-accelerates-robotics-physical-ai-push-to-counter-chinese-automakers-revive-growth-address-falling-shares",
+        "date": "2026-10-20",
+        "title": "Robot Wars - How China Has the Robotics Industry in Its Grip",
+        "url": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
         "cat": "경쟁"
       },
       {
         "date": "2026-10-19",
-        "title": "Apple's next smart home device could have a robotic arm that follows your voice",
-        "url": "https://www.indiatoday.in/technology/news/story/apples-next-smart-home-device-could-have-a-robotic-arm-that-follows-your-voice-3020474-2026-10-19",
+        "title": "Envisioning the Future, Connecting Home, Mobility, and Everyday Life: AiMOGA to Unveil Its First Consumer-Grade Home Companion Robot",
+        "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/envisioning-the-future-connecting-home-mobility-and-everyday-life-aimoga-to-unveil-its-first-consumer-grade-home-companion-robot/2449089",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-19",
+        "title": "Bitcoin Japan Signs Exclusive Agreement to Bring UBTECH Humanoid Robots to Japan",
+        "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/bitcoin-japan-signs-exclusive-agreement-to-bring-ubtech-humanoid-robots-to-japan/2449086",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-19",
+        "title": "Could AI and robotics help fill Cambridge’s empty offices?",
+        "url": "https://www.boston.com/news/local-news/2026/10/19/could-ai-and-robotics-help-fill-cambridges-empty-offices/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-19",
+        "title": "Machines move from thinking to doing",
+        "url": "https://www.financialexpress.com/opinion/machines-move-from-thinking-to-doing/4365057/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-19",
+        "title": "Tamil Nadu's Ayudha Puja gets an AI twist as robots perform aarti, light incense",
+        "url": "https://www.indiatoday.in/trending-news/story/tamil-nadus-ayudha-puja-gets-an-ai-twist-as-robots-perform-aarti-light-incense-3020742-2026-10-19",
         "cat": "기술"
       }
     ]
