@@ -1,129 +1,129 @@
 {
-  "asOfDate": "2026.10.21",
+  "asOfDate": "2026.10.22",
   "fx": {
-    "usdkrw": 1328
+    "usdkrw": 1326
   },
   "briefing": {
-    "dateLabel": "2026.10.21 (수)",
-    "headline": "휴머노이드 로봇의 상용화 가속화와 국방 및 산업 분야의 로봇 도입 확대",
-    "summary": "로보틱스 산업은 가정용 서비스 로봇의 보급과 더불어 국방 및 대규모 산업 현장에서의 전략적 활용이 급격히 증가하며 기술적 성숙기를 맞이하고 있습니다.",
+    "dateLabel": "2026.10.22 (목)",
+    "headline": "의료·수술용 로봇의 고도화와 피지컬 AI 및 휴머노이드 기술 인프라 확장이 글로벌 로보틱스 시장을 견인하고 있습니다.",
+    "summary": "유럽 내 단일 절개 수술 로봇의 성과와 더불어 차세대 피지컬 AI 및 범용 휴머노이드 플랫폼 개발을 향한 글로벌 기업들의 투자가 가속화되고 있습니다.",
     "points": [
-      "YYForce가 노보텔 호텔과 협력하여 실제 숙박 시설 환경에서 휴머노이드 가사 도우미 로봇을 훈련시키기 시작했습니다.",
-      "샤크 파워디텍트 등 최신 로봇청소기들이 가사 노동의 완전 자동화를 목표로 시장에서 소비자들의 큰 관심을 받고 있습니다.",
-      "미 해군이 중국과의 전략적 경쟁 우위를 점하기 위해 무인 로봇 함정 계약 규모를 4배로 확대했습니다."
+      "스페인 벨비체 병원이 유럽 최초로 단일 절개 수술 로봇을 이용한 신장 이식 수술에 성공하여 환자의 회복 속도를 높이고 통증을 대폭 줄였습니다.",
+      "제너러티브 바이오닉스가 AMD의 AI 인프라를 활용해 유럽 최대 규모의 피지컬 AI 데이터 팩토리를 구축하며 휴머노이드 기술 주권 확보에 나섰습니다.",
+      "엔비디아가 새로운 참조 휴머노이드 및 시뮬레이션 파이프라인을 탑재한 범용 로보틱스용 '아이작' 플랫폼의 고도화된 기능을 공개했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-20",
-        "title": "YYForce, 노보텔 호텔에서 AI 휴머노이드 가사 도우미 훈련 실시",
-        "url": "https://lfpress.com/press-releases/globe-newswire/yyforce-ai-humanoid-housekeepers-to-be-trained-in-novotel-hotel/",
+        "date": "2026-10-21",
+        "title": "스페인 벨비체 병원, 단일 절개 로봇으로 유럽 최초 신장 이식 수술 성공",
+        "url": "https://www.larazon.es/cataluna/hospital-bellvitge-trasplanta-primer-rinon-europa-robot-unica-incision_202610216ad89eb6bb4b26741050c224.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "코르도바 키론살루드 병원, 수술 정밀도 향상을 위해 다빈치 로봇 도입",
+        "url": "https://www.diariocordoba.com/cordoba-ciudad/2026/10/21/hospital-quironsalud-cordoba-incorpora-robot-135578641.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-20",
-        "title": "샤크 파워디텍트 로봇청소기로 먼지 비움과 청소 걱정에서 해방",
-        "url": "https://www.eleconomista.es/compras/noticias/14022232/10/26/despreocupate-por-completo-del-polvo-y-de-vaciar-el-deposito-diario-con-el-robot-aspirador-shark-powerdetect.html",
+        "date": "2026-10-21",
+        "title": "벨비체 병원, 단일 절개 로봇을 이용한 유럽 최초 신장 이식 시행",
+        "url": "https://www.elconfidencial.com/salud/2026-10-21/primer-trasplante-de-rinon-de-europa-con-un-robot-de-una-sola-incision_4449812/",
         "cat": "기술"
       },
       {
-        "date": "2026-10-20",
-        "title": "마이크로소프트 임원, AI에 기존 세금 규정 적용해야 한다고 주장",
-        "url": "https://news.bloombergtax.com/daily-tax-report/apply-existing-tax-rules-to-ai-microsoft-executive-says",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-20",
-        "title": "연준을 로봇이 운영하고 있는가?",
-        "url": "https://spectator.com/article/is-a-robot-running-the-fed/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-20",
-        "title": "이번 디왈리에는 청소 걱정 끝! 스스로 집안을 청소하는 로봇청소기",
-        "url": "https://www.prabhatkhabar.com/technology/robot-vacuum-cleaner-buy-on-diwali-best-models-for-home-cleaning",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-20",
-        "title": "일렉트로 데포, 30유로 미만의 다기능 주방 로봇으로 경쟁사 압도",
-        "url": "https://www.ladepeche.fr/2026/10/20/electro-depot-ecrase-la-concurrence-avec-ce-robot-de-cuisine-multifonction-a-moins-de-30-eur-13609791.php",
+        "date": "2026-10-21",
+        "title": "코르도바 키론살루드 병원, 다빈치 로봇 도입으로 정밀 수술 역량 강화",
+        "url": "https://www.eldiadecordoba.es/cordoba/hospital-quironsalud-cordoba-incorpora-robot-vinci_0_2008307975.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-20",
-        "title": "이집트, 태양광으로 작동하며 98%의 파종 정확도를 자랑하는 농업용 로봇 개발",
-        "url": "https://okdiario.com/ciencia/egipto-no-anda-chiquitas-fabrica-robot-agricola-que-funciona-energia-del-sol-siembra-correctamente-98-semillas-20515858",
+        "date": "2026-10-21",
+        "title": "벨비체 병원, 단일 절개 로봇 활용 유럽 최초 신장이식 성공",
+        "url": "https://www.elperiodico.com/es/fotos/sociedad/bellvitge-realiza-primer-trasplante-renal-europa-una-incision-fotos-135577631",
         "cat": "기술"
       },
       {
-        "date": "2026-10-20",
-        "title": "반려동물의 털 고민을 끝낼 궁극의 로봇청소기 및 물걸레 청소기",
-        "url": "https://www.elespanol.com/mascotario/20261020/robot-aspirador-fregona-mascotas-definitivo-capaz-poner-fin-pelos-perro-gato/1003744427245_0.html",
+        "date": "2026-10-21",
+        "title": "시간과 노력을 줄여주는 로봇 청소기 '르판 M330 프로' 할인 판매",
+        "url": "https://dilei.it/come-fare/lefant-m330-pro-robot-aspirapolvere-lavapavimenti-anti-groviglio-offerta-amazon/2824271/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "벨비체 병원, 단일 절개 로봇 신장이식 성공...\"환자 회복 빠르고 통증 적어\"",
+        "url": "https://www.elperiodico.com/es/sanidad/20261021/bellvitge-realiza-primer-trasplante-renal-europa-robot-una-sola-incision-135574739",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "제너러티브 바이오닉스, AMD AI 인프라 기반 유럽 최대 피지컬 AI 데이터 팩토리 구축 및 휴머노이드 주권 확보 추진",
+        "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/generative-bionics-to-build-europes-largest-physical-ai-data-factory-and-advance-european-humanoid-sovereignty-with-amd-ai-infrastructure/",
         "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-10-20",
-        "title": "Groundworks 2026 Unveils Speaker Lineup Featuring Leaders from Mace, VINCI, HS2, McKinsey and UK Government",
-        "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/groundworks-2026-unveils-speaker-lineup-featuring-leaders-from-mace-vinci-hs2-mckinsey-and-uk-government/2449554",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-20",
-        "title": "Pittsburgh's Gecko Robotics expands its Navy contract to $300 million",
-        "url": "https://www.washingtonexaminer.com/opinion/columnists/4771402/gecko-robotics-expands-navy-contract-300-million/",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-20",
-        "title": "Humanoid Robot’s Slow Cucumber-Cutting Skills With Shaky Hands Go Viral: ‘First Day At Work, It's Understandable’",
-        "url": "https://www.news18.com/viral/humanoid-robots-slow-cucumber-cutting-skills-with-shaky-hands-go-viral-first-day-at-work-its-understandable-ws-l-10389904.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-20",
-        "title": "US Navy quadruples robot warship contract in push to outsmart China",
-        "url": "https://www.foxnews.com/politics/navy-robot-deal-quadruples-us-looks-outsmart-china-ai-sea",
+        "date": "2026-10-21",
+        "title": "India Needs to Build the AI 'Brain' for Robotics, Not Just Import Hardware",
+        "url": "https://analyticsindiamag.com/ai-features/india-needs-to-build-the-ai-brain-for-robotics-not-just-import-hardware",
         "cat": "정책"
       },
       {
-        "date": "2026-10-20",
-        "title": "Robot Wars - How China Has the Robotics Industry in Its Grip",
-        "url": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "Envisioning the Future, Connecting Home, Mobility, and Everyday Life: AiMOGA to Unveil Its First Consumer-Grade Home Companion Robot",
-        "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/envisioning-the-future-connecting-home-mobility-and-everyday-life-aimoga-to-unveil-its-first-consumer-grade-home-companion-robot/2449089",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "Bitcoin Japan Signs Exclusive Agreement to Bring UBTECH Humanoid Robots to Japan",
-        "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/bitcoin-japan-signs-exclusive-agreement-to-bring-ubtech-humanoid-robots-to-japan/2449086",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "Could AI and robotics help fill Cambridge’s empty offices?",
-        "url": "https://www.boston.com/news/local-news/2026/10/19/could-ai-and-robotics-help-fill-cambridges-empty-offices/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-19",
-        "title": "Machines move from thinking to doing",
-        "url": "https://www.financialexpress.com/opinion/machines-move-from-thinking-to-doing/4365057/",
+        "date": "2026-10-21",
+        "title": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
+        "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data/2450595",
         "cat": "기술"
       },
       {
-        "date": "2026-10-19",
-        "title": "Tamil Nadu's Ayudha Puja gets an AI twist as robots perform aarti, light incense",
-        "url": "https://www.indiatoday.in/trending-news/story/tamil-nadus-ayudha-puja-gets-an-ai-twist-as-robots-perform-aarti-light-incense-3020742-2026-10-19",
+        "date": "2026-10-21",
+        "title": "Unitree unveils H2-X humanoid robot: Meet the 'Kung Fu Legend Guardian'",
+        "url": "https://www.thenews.com.pk/latest/1420747-unitree-unveils-h2-x-humanoid-robot-meet-the-kung-fu-legend-guardian",
         "cat": "기술"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "SpaceX and Tesla's Terafab targets 2028 for volume chip production",
+        "url": "https://www.firstpost.com/tech/spacex-and-teslas-terafab-targets-2028-for-volume-chip-production-14054339.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "US Market: Musk backs Tesla-SpaceX merger idea, envisioning a $3.5 trillion giant",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-musk-backs-tesla-spacex-merger-idea-envisioning-a-3-5-trillion-giant/articleshow/135088139.cms",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "Why Silicon Valley VCs Are Investing Billions in Robotics and AI",
+        "url": "https://www.businessinsider.com/why-silicon-valley-vcs-are-investing-billions-in-robotics-2026-10",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "SpaceX and Tesla's Terafab Targets 2028 For Volume Chip Production, Says Musk",
+        "url": "https://www.deccanchronicle.com/technology/spacex-and-teslas-terafab-targets-2028-for-volume-chip-production-says-musk-1997568",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "AI start-up raises $150M to teach robots human-like object handling",
+        "url": "https://www.newsbytesapp.com/news/science/ai-start-up-raises-150m-to-teach-robots-human-like-object-handling/story",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "What a merger of SpaceX and Tesla would mean",
+        "url": "https://www.thenationalnews.com/business/markets/2026/10/21/what-a-merger-of-spacex-and-tesla-would-mean/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-21",
+        "title": "Elon Musk SpaceX-Tesla Merger Plan: AI, Robotics And $3.5 Trillion Deal",
+        "url": "https://www.outlookindia.com/international/elon-musk-wants-spacex-and-tesla-together-one-empire-is-apparently-not-enough",
+        "cat": "시장"
       }
     ]
   }
