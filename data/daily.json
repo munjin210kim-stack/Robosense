@@ -1,129 +1,123 @@
 {
-  "asOfDate": "2026.10.22",
+  "asOfDate": "2026.10.23",
   "fx": {
-    "usdkrw": 1326
+    "usdkrw": 1325
   },
   "briefing": {
-    "dateLabel": "2026.10.22 (목)",
-    "headline": "의료·수술용 로봇의 고도화와 피지컬 AI 및 휴머노이드 기술 인프라 확장이 글로벌 로보틱스 시장을 견인하고 있습니다.",
-    "summary": "유럽 내 단일 절개 수술 로봇의 성과와 더불어 차세대 피지컬 AI 및 범용 휴머노이드 플랫폼 개발을 향한 글로벌 기업들의 투자가 가속화되고 있습니다.",
+    "dateLabel": "2026.10.23 (금)",
+    "headline": "엔비디아의 플랫폼 확장과 차세대 휴머노이드 로봇 개발 가속화로 글로벌 로보틱스 시장이 크게 주목받고 있습니다.",
+    "summary": "기술 기업들이 고도화된 인공지능 도구와 경호 및 물류용 휴머노이드 로봇을 앞다투어 공개하며 상용화 단계를 확장하고 있습니다.",
     "points": [
-      "스페인 벨비체 병원이 유럽 최초로 단일 절개 수술 로봇을 이용한 신장 이식 수술에 성공하여 환자의 회복 속도를 높이고 통증을 대폭 줄였습니다.",
-      "제너러티브 바이오닉스가 AMD의 AI 인프라를 활용해 유럽 최대 규모의 피지컬 AI 데이터 팩토리를 구축하며 휴머노이드 기술 주권 확보에 나섰습니다.",
-      "엔비디아가 새로운 참조 휴머노이드 및 시뮬레이션 파이프라인을 탑재한 범용 로보틱스용 '아이작' 플랫폼의 고도화된 기능을 공개했습니다."
+      "엔비디아가 차세대 휴머노이드 로봇과 인공지능 학습 도구를 공개하며 로보틱스 플랫폼 생태계 확장에 나섰습니다.",
+      "중국에서 자동차를 들고 무술 동작을 수행할 수 있는 신형 경호용 휴머노이드 로봇을 공개해 큰 화제를 모았습니다.",
+      "어질리티 로보틱스가 엔비디아와의 협력을 확대하며 휴머노이드 로봇의 상업적 양산 준비를 가속화하고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-21",
-        "title": "스페인 벨비체 병원, 단일 절개 로봇으로 유럽 최초 신장 이식 수술 성공",
-        "url": "https://www.larazon.es/cataluna/hospital-bellvitge-trasplanta-primer-rinon-europa-robot-unica-incision_202610216ad89eb6bb4b26741050c224.html",
+        "date": "2026-10-22",
+        "title": "존 카너를 지키는 '터미네이터' 같은 최초의 보디가드 로봇 공개",
+        "url": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-22/este-es-el-primer-robot-guardaespaldas-de-la-historia-hace-kung-fu-desarma-atacantes-y-levanta-coches_4450612/",
         "cat": "기술"
       },
       {
-        "date": "2026-10-21",
-        "title": "코르도바 키론살루드 병원, 수술 정밀도 향상을 위해 다빈치 로봇 도입",
-        "url": "https://www.diariocordoba.com/cordoba-ciudad/2026/10/21/hospital-quironsalud-cordoba-incorpora-robot-135578641.html",
+        "date": "2026-10-22",
+        "title": "로봇도 성폭행 혐의로 고소되거나 처벌받을 수 있을까?",
+        "url": "https://www.laprovence.com/article/faits-divers-justice/10259784753472/un-robot-peut-il-etre-accuse-ou-condamne-pour-agression-sexuelle",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-22",
+        "title": "현실판 터미네이터: 쿵푸 선수처럼 싸우고 차를 들어 올리는 중국 로봇",
+        "url": "https://www.india.com/viral/terminator-in-real-life-watch-chinas-robot-can-fight-like-kung-fu-master-lifts-car-unitree-h2-x-kung-fu-legend-guardian-viral-video-trending-8538146/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-22",
+        "title": "40% 할인 진행 중인 3-in-1 로봇청소기, 집안일 부담 대폭 감소",
+        "url": "https://www.larazon.es/compras/este-robot-aspirador-3-1-desploma-40-promete-quitarte-bastante-trabajo-encima-3v3r_202610226ad7d82b83ad1f356c0e2e4f.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-21",
-        "title": "벨비체 병원, 단일 절개 로봇을 이용한 유럽 최초 신장 이식 시행",
-        "url": "https://www.elconfidencial.com/salud/2026-10-21/primer-trasplante-de-rinon-de-europa-con-un-robot-de-una-sola-incision_4449812/",
+        "date": "2026-10-22",
+        "title": "'터미네이터'에 한 걸음 더? 무술을 하고 차를 들어 올리는 중국의 신형 경호 로봇 H2-X",
+        "url": "https://okdiario.com/tecnologia/mas-cerca-terminator-asi-h2-x-nuevo-robot-guardaespaldas-chino-que-sabe-artes-marciales-levanta-coches-20606549",
         "cat": "기술"
       },
       {
-        "date": "2026-10-21",
-        "title": "코르도바 키론살루드 병원, 다빈치 로봇 도입으로 정밀 수술 역량 강화",
-        "url": "https://www.eldiadecordoba.es/cordoba/hospital-quironsalud-cordoba-incorpora-robot-vinci_0_2008307975.html",
+        "date": "2026-10-22",
+        "title": "엔비디아, 신형 휴머노이드 로봇과 AI 학습 도구로 로보틱스 플랫폼 확장",
+        "url": "https://www.ndtvprofit.com/technology/nvidia-expands-robotics-platform-with-new-humanoid-robot-ai-training-tools-12220034",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-22",
+        "title": "\"돈은 더 이상 쓸모없어질 것\": 로봇과 AI에 대한 일론 머스크의 충격 예언",
+        "url": "https://www.ilfattonisseno.it/2026/10/i-soldi-non-serviranno-piu-a-nulla-elon-musk-e-la-profezia-choc-su-robot-e-ai/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-21",
-        "title": "벨비체 병원, 단일 절개 로봇 활용 유럽 최초 신장이식 성공",
-        "url": "https://www.elperiodico.com/es/fotos/sociedad/bellvitge-realiza-primer-trasplante-renal-europa-una-incision-fotos-135577631",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-21",
-        "title": "시간과 노력을 줄여주는 로봇 청소기 '르판 M330 프로' 할인 판매",
-        "url": "https://dilei.it/come-fare/lefant-m330-pro-robot-aspirapolvere-lavapavimenti-anti-groviglio-offerta-amazon/2824271/",
+        "date": "2026-10-22",
+        "title": "돈이 쓸모없어진다면? 로봇과 AI를 향한 머스크의 파격적 전망",
+        "url": "https://www.adnkronos.com/internazionale/esteri/elon-musk-soldi-inutili-profezia-robot_1l4dUPA8TL8OaEbISPHuW8",
         "cat": "시장"
       },
       {
-        "date": "2026-10-21",
-        "title": "벨비체 병원, 단일 절개 로봇 신장이식 성공...\"환자 회복 빠르고 통증 적어\"",
-        "url": "https://www.elperiodico.com/es/sanidad/20261021/bellvitge-realiza-primer-trasplante-renal-europa-robot-una-sola-incision-135574739",
+        "date": "2026-10-22",
+        "title": "자동차를 들어 올리고 침입자와 맞서 싸우는 새로운 휴머노이드 로봇",
+        "url": "https://www.newsbytesapp.com/news/science/unitree-s-humanoid-robot-performs-kung-fu-kicks-lifts-cars-fights-intruders/story",
         "cat": "기술"
       },
       {
-        "date": "2026-10-21",
-        "title": "제너러티브 바이오닉스, AMD AI 인프라 기반 유럽 최대 피지컬 AI 데이터 팩토리 구축 및 휴머노이드 주권 확보 추진",
-        "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/generative-bionics-to-build-europes-largest-physical-ai-data-factory-and-advance-european-humanoid-sovereignty-with-amd-ai-infrastructure/",
+        "date": "2026-10-22",
+        "title": "유니트리 H2-X: 쿵푸를 마스터한 보디가드 로봇의 진짜 능력은?",
+        "url": "https://www.generation-nt.com/actualites/unitree-h2x-robot-humanoide-garde-corps-2083256",
         "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-10-21",
-        "title": "India Needs to Build the AI 'Brain' for Robotics, Not Just Import Hardware",
-        "url": "https://analyticsindiamag.com/ai-features/india-needs-to-build-the-ai-brain-for-robotics-not-just-import-hardware",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-21",
-        "title": "NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data",
-        "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data/2450595",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-21",
-        "title": "Unitree unveils H2-X humanoid robot: Meet the 'Kung Fu Legend Guardian'",
-        "url": "https://www.thenews.com.pk/latest/1420747-unitree-unveils-h2-x-humanoid-robot-meet-the-kung-fu-legend-guardian",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-21",
-        "title": "SpaceX and Tesla's Terafab targets 2028 for volume chip production",
-        "url": "https://www.firstpost.com/tech/spacex-and-teslas-terafab-targets-2028-for-volume-chip-production-14054339.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-21",
-        "title": "US Market: Musk backs Tesla-SpaceX merger idea, envisioning a $3.5 trillion giant",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-musk-backs-tesla-spacex-merger-idea-envisioning-a-3-5-trillion-giant/articleshow/135088139.cms",
+        "date": "2026-10-22",
+        "title": "Tesla shares fall 4% in pre-market after capex forecast cut: Is Elon Musk’s AI and robotics ambition facing a setback?",
+        "url": "https://www.livemint.com/market/stock-market-news/tesla-shares-fall-4-in-pre-market-after-capex-forecast-cut-is-elon-musk-s-ai-and-robotics-ambition-facing-a-setback-11792668635446.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-21",
-        "title": "Why Silicon Valley VCs Are Investing Billions in Robotics and AI",
-        "url": "https://www.businessinsider.com/why-silicon-valley-vcs-are-investing-billions-in-robotics-2026-10",
+        "date": "2026-10-22",
+        "title": "Agility Robotics Expands NVIDIA Collaboration as It Prepares Digit 5 for Commercial Scale",
+        "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/agility-robotics-expands-nvidia-collaboration-as-it-prepares-digit-5-for-commercial-scale/2451676",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-22",
+        "title": "Tesla drops as spending pullback clouds AI, robotics ambitions",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/22/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions",
         "cat": "시장"
       },
       {
-        "date": "2026-10-21",
-        "title": "SpaceX and Tesla's Terafab Targets 2028 For Volume Chip Production, Says Musk",
-        "url": "https://www.deccanchronicle.com/technology/spacex-and-teslas-terafab-targets-2028-for-volume-chip-production-says-musk-1997568",
+        "date": "2026-10-22",
+        "title": "NVIDIA Expands Robotics Platform With New Humanoid Robot, AI Training Tools",
+        "url": "https://www.ndtvprofit.com/technology/nvidia-expands-robotics-platform-with-new-humanoid-robot-ai-training-tools-12220034",
         "cat": "기술"
       },
       {
-        "date": "2026-10-21",
-        "title": "AI start-up raises $150M to teach robots human-like object handling",
-        "url": "https://www.newsbytesapp.com/news/science/ai-start-up-raises-150m-to-teach-robots-human-like-object-handling/story",
+        "date": "2026-10-22",
+        "title": "This new humanoid robot can lift a car, fight intruders",
+        "url": "https://www.newsbytesapp.com/news/science/unitree-s-humanoid-robot-performs-kung-fu-kicks-lifts-cars-fights-intruders/story",
         "cat": "기술"
       },
       {
-        "date": "2026-10-21",
-        "title": "What a merger of SpaceX and Tesla would mean",
-        "url": "https://www.thenationalnews.com/business/markets/2026/10/21/what-a-merger-of-spacex-and-tesla-would-mean/",
+        "date": "2026-10-22",
+        "title": "13-year-old ‘Jailer’ actor Rithvik Jothi Raj, who plays Rajinikanth’s grandson, reveals how boredom during video calls led to a business venture",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/13-year-old-jailer-actor-rithvik-jothi-raj-who-plays-rajinikanths-grandson-reveals-how-boredom-during-video-calls-led-to-a-business-venture/articleshow/135113745.cms",
         "cat": "시장"
       },
       {
-        "date": "2026-10-21",
-        "title": "Elon Musk SpaceX-Tesla Merger Plan: AI, Robotics And $3.5 Trillion Deal",
-        "url": "https://www.outlookindia.com/international/elon-musk-wants-spacex-and-tesla-together-one-empire-is-apparently-not-enough",
-        "cat": "시장"
+        "date": "2026-10-22",
+        "title": "This Chinese robot can lift cars, fight intruders head-on, and can even save your life from danger; watch its capabilities in viral video",
+        "url": "https://economictimes.indiatimes.com/world/us/this-chinese-robot-can-lift-cars-fight-intruders-head-on-and-can-even-save-your-life-from-danger-watch-its-capabilities-in-viral-video/articleshow/135112996.cms",
+        "cat": "기술"
       }
     ]
   }
