@@ -1,141 +1,141 @@
 {
-  "asOfDate": "2026.10.24",
+  "asOfDate": "2026.10.25",
   "fx": {
     "usdkrw": 1324
   },
   "briefing": {
-    "dateLabel": "2026.10.24 (토)",
-    "headline": "글로벌 로보틱스 산업이 인공지능 기반 학습 기술 발전과 규제 완화 기조에 힘입어 신기술 개발 및 상용화를 다각도로 추진하고 있습니다.",
-    "summary": "로봇 학습용 데이터 수집과 고성능 차세대 로봇 개발을 위한 대규모 자금 유치가 활발히 이루어지는 가운데 주요국의 정책적 유예 조치가 산업 확장을 지원하고 있습니다.",
+    "dateLabel": "2026.10.25 (일)",
+    "headline": "휴머노이드 로봇의 기술적 한계 극복과 함께 국가 간 규제 정책이 산업 성장의 핵심 변수로 떠오르고 있습니다.",
+    "summary": "글로벌 로봇 산업은 연속 보행 및 호신 기능 등 첨단 기술을 적극 선보이는 동시에 무역 규제에 따른 시장 위축 가능성에 직면해 있습니다.",
     "points": [
-      "맥스인사이트가 일상적인 가사 노동을 로봇 학습 데이터로 전환하는 기술 가능성을 인정받아 3,000만 달러 투자 유치에 성공했습니다.",
-      "중국 유니트리가 위협 제압 및 중량물 리프팅 기능을 갖춘 신형 가디언 로봇을 공개하며 기술 경쟁력을 과시했습니다.",
-      "미국 연방통신위원회가 인텔에 대해 외국산 로봇 장비 도입 규제에 대한 임시 면제 조치를 승인했습니다."
+      "휴머노이드 로봇 피규어 03이 한계 시험을 위해 9일 연속 보행에 성공하며 독보적인 내구성을 입증했습니다.",
+      "중국에서 무술 연마 기능과 차량을 들어 올리는 능력을 갖춘 특수 목적 보디가드 로봇이 공개되어 주목받았습니다.",
+      "미국 정부의 외국산 로봇 규제 조치로 인해 자국 휴머노이드 로봇 산업 매출이 최대 58퍼센트 감소할 수 있다는 경고가 나왔습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-23",
-        "title": "맥스인사이트, 일상 가사 노동을 로봇 훈련 데이터로 전환하기 위해 3,000만 달러 투자 유치",
-        "url": "https://thenextweb.com/news/maxinsights-30m-seed-robot-training-data",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-23",
-        "title": "젠슨 황, 로봇 오리와 네오클라우드의 위기",
-        "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-23",
-        "title": "'터미네이터'에 더 가까워졌나? 무술을 하고 차를 들어 올리는 중국의 새 보디가드 로봇 H2-X",
+        "date": "2026-10-24",
+        "title": "'터미네이터'에 한 걸음 더? 무술을 하고 차를 들어올리는 중국의 새 보디가드 로봇 H2-X",
         "url": "https://okdiario.com/tecnologia/mas-cerca-terminator-asi-h2-x-nuevo-robot-guardaespaldas-chino-que-sabe-artes-marciales-levanta-coches-20606549",
         "cat": "기술"
       },
       {
-        "date": "2026-10-23",
-        "title": "만화 '칼', 일부 인간보다 더 인간적인 시릴 보냉의 로봇",
-        "url": "https://www.paris-normandie.fr/instant/754490/article/2026-10-23/bd-karl-le-robot-de-cyril-bonin-plus-humain-que-certains-humains",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-23",
-        "title": "패션계를 흔든 생일 맞이 이샤 암바니의 패션 모먼트",
-        "url": "https://www.news18.com/lifestyle/fashion/birthday-girl-isha-ambanis-fashion-moments-that-shook-the-glam-world-one-couture-look-at-a-time-ws-l-10394475.html",
+        "date": "2026-10-24",
+        "title": "4족 보행 로봇부터 축구 로봇까지, 메이커 페어 로마의 주인공이 된 로봇들",
+        "url": "https://www.ecodibergamo.it/stories/premium/scienza-e-tecnologia/dai-quadrupedi-ai-calciatori-i-robot-protagonisti-della-maker-faire-rome-o_3979669_11/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-23",
-        "title": "중국 유니트리, 공격자의 무기를 빼앗고 차량을 들어 올리는 '가디언' 로봇 공개",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/23/chinas-unitree-unveils-guardian-robot-that-can-disarm-attackers-lift-cars",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-23",
-        "title": "치열한 중국 시장에서 니치 시장을 찾는 싱가포르 기업들",
-        "url": "https://www.straitstimes.com/asia/east-asia/chinas-market-is-tougher-than-ever-where-can-singapore-firms-still-find-room-to-grow",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-23",
-        "title": "인텔, 외국산 로봇 금지 규제에서 임시 면제 획득",
-        "url": "https://www.theverge.com/policy/1017328/intel-just-got-a-temporary-waiver-from-the-foreign-robot-ban",
+        "date": "2026-10-24",
+        "title": "필라델피아에서 배달 로봇 반대 시위를 벌이던 은퇴 교수가 체포되다",
+        "url": "https://www.foxnews.com/tech/pennsylvania-law-requires-delivery-robots-yield-pedestrians-protester-faced-arrest",
         "cat": "정책"
       },
       {
-        "date": "2026-10-23",
-        "title": "살아있는 조류와 젤로 초소형 로봇 팔을 제작한 네덜란드 과학자들",
-        "url": "https://timesofindia.indiatimes.com/science/discovery/dutch-scientists-built-a-tiny-robotic-arm-using-living-algae-and-two-layers-of-gel-controlled-by-light-the-two-centimetre-strip-grasped-a-metal-ball-and-lifted-a-rubber-ring-underwater-without-a-conventional-motor/articleshow/135140106.cms",
+        "date": "2026-10-24",
+        "title": "남극 빙하 아래서 사라졌던 로봇, 8개월 만에 미지의 지역 데이터와 함께 생환",
+        "url": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-24/robot-antartida-8-meses-region-nunca-vista-1qrt_4262732/",
         "cat": "기술"
       },
       {
-        "date": "2026-10-23",
-        "title": "399.99유로에서 149.99유로로 할인된 2in1 로봇 청소기",
-        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/passe-de-39999-a-14999-euros-cet-aspirateur-robot-laveur-2-en-1-va-vous-faire-gagner-un-temps-precieux-au-quotidien-23-10-2026-7UL7ZCOVC5E55BBK5UST4LDQZM.php",
+        "date": "2026-10-24",
+        "title": "로봇 혁명: 인간을 섬기는 로봇! 중국에서 펼쳐진 휴머노이드 로봇의 무력 시위",
+        "url": "https://hindi.asianetnews.com/news/china-humanoid-robots-take-oath-human-safety-service-ai-technology-robot-revolution-videoshow-mwyh2t8",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-24",
+        "title": "하이데라바드의 10대가 미니 로봇을 제작해 어머니에게 생일 카드를 특별 배달하다",
+        "url": "https://www.indiatoday.in/trending-news/story/hyderabad-teen-builds-a-mini-robot-gives-moms-birthday-card-a-special-delivery-3024068-2026-10-24",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-24",
+        "title": "로봇, 인공지능, 첨단 공장으로 구축하는 중국 체리 자동차의 제국",
+        "url": "https://www.lastampa.it/motori/2026/10/24/news/l_impero_cinese_di_chery_tra_robot_ai_e_fabbriche_hi-tech-15775731/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-24",
+        "title": "휴머노이드 로봇 피규어 03, 한계 시험을 위해 9일 연속 보행 기록",
+        "url": "https://www.20minutos.es/tecnologia/actualidad/robot-humanoide-figure-03-camina-nueve-dias-seguidos-poner-prueba-limites_7051995_0.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-24",
+        "title": "[영상] 차 문을 차부수고 칼을 든 공격자를 퇴치하는 중국의 쿵후 로봇",
+        "url": "https://www.ndtv.com/offbeat/watch-chinas-kung-fu-robot-kicks-car-doors-and-fights-off-knife-attacker-12228680",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-24",
+        "title": "판매 1위: 보쉬의 주방용 조리 로봇이 이번 달 주방의 스타로 등극",
+        "url": "https://www.midilibre.fr/2026/10/24/numero-1-des-ventes-ce-robot-de-culinaire-bosch-devient-la-star-des-cuisine-ce-mois-ci-13613730.php",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-23",
-        "title": "LTM Launches BlueVerse™ Industrial AI Lab in Chennai Helping Enterprises Scale AI Across Physical Operations and Intelligent Products",
-        "url": "https://www.tribuneindia.com/news/business/ltm-launches-blueverse-industrial-ai-lab-in-chennai-helping-enterprises-scale-ai-across-physical-operations-and-intelligent-products-2-2/",
+        "date": "2026-10-24",
+        "title": "assisted robotics to bolster shrinking solar workforce",
+        "url": "https://www.pv-magazine.com/2026/10/24/gritt-robotics-brings-ai-assisted-robotics-to-bolster-shrinking-solar-workforce/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-24",
+        "title": "Service Model To Expand Access To Future",
+        "url": "https://www.outlookbusiness.com/spotlight/news-wire/stem-xpert-builds-stem-as-a-service-model-to-expand-access-to-future-ready-skills",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-24",
+        "title": "Watch: China's Kung Fu Robot Kicks Car Doors And Fights Off Knife Attacker",
+        "url": "https://www.ndtv.com/offbeat/watch-chinas-kung-fu-robot-kicks-car-doors-and-fights-off-knife-attacker-12228680",
         "cat": "기술"
       },
       {
         "date": "2026-10-23",
-        "title": "Former OpenAI Exec Raises $215 Mn to Build AI-Powered Drug Research Labs",
-        "url": "https://analyticsindiamag.com/ai-news/former-openai-exec-raises-215-mn-to-build-ai-powered-drug-research-labs",
+        "title": "Dyslexic, and a robotics champ",
+        "url": "https://www.thestar.com.my/news/nation/2026/10/24/dyslexic-and-a-robotics-champ",
         "cat": "시장"
       },
       {
         "date": "2026-10-23",
-        "title": "LTM launches BlueVerse Industrial AI Lab in Chennai to scale AI",
-        "url": "https://scanx.trade/stock-market-news/technology/ltm-launches-blueverse-valuemesh-scale-ai-across-oracle/54106731",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-23",
-        "title": "Intel robotics: FCC grants Intel waiver for foreign",
-        "url": "https://economictimes.indiatimes.com/tech/technology/fcc-grants-intel-waiver-for-foreign-made-robotic-devices/articleshow/135134812.cms",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-23",
-        "title": "AiMOGA Launches Global Robot Innovation: Mobo Debuts from Wuhu, Empowering Homes and Businesses",
-        "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/pr-newswire/aimoga-launches-global-robot-innovation-mobo-debuts-from-wuhu-empowering-homes-and-businesses/2452479",
+        "title": "Alabama robotics teams invited to Japan Cup 2027 in Tokyo",
+        "url": "https://www.al.com/life/2026/10/alabama-youth-robotics-teams-make-state-history-with-exclusive-invite-to-international-competition.html",
         "cat": "경쟁"
       },
       {
         "date": "2026-10-23",
-        "title": "Mobo Makes Global Debut and Opens Pre-Orders as AiMOGA Unveils Its New Path to Industrialization",
-        "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/mobo-makes-global-debut-and-opens-pre-orders-as-aimoga-unveils-its-new-path-to-industrialization/2452471",
+        "title": "Startup Funding News Today, October 23, 2026: Helion, Slingshot, Xona, Warhound, Tractian & More",
+        "url": "https://techstartups.com/2026/10/23/startup-funding-news-today-october-23-2026-helion-slingshot-xona-warhound-tractian-more/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-22",
-        "title": "China's humanoids go job hunting amid Korea's bets on physical AI",
-        "url": "https://www.koreatimes.co.kr/business/tech-science/20261023/chinas-humanoids-go-job-hunting-amid-koreas-bets-on-physical-ai",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-22",
-        "title": "IIT Indore selects 5 tech startups from 104 for incubation",
-        "url": "https://timesofindia.indiatimes.com/city/indore/iit-indore-selects-5-tech-startups-from-104-for-incubation/articleshow/135127577.cms",
+        "date": "2026-10-23",
+        "title": "STEM-Xpert Is Taking STEM Education Beyond the Classroom",
+        "url": "https://www.newsx.com/business-2/stem-xpert-is-taking-stem-education-beyond-the-classroom-286469/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-22",
-        "title": "Ex-OpenAI’s Kevin Weil, Former Meta AI leader Manohar Paluri's startup bags $215 million from Lightspeed, Premji Invest, others",
-        "url": "https://www.moneycontrol.com/news/business/funding/ex-openai-s-kevin-weil-former-meta-ai-leader-manohar-paluri-s-startup-bags-215-million-from-lightspeed-premji-invest-others-14058046.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-22",
-        "title": "FCC grants Intel waiver for foreign-made robotic devices",
-        "url": "https://www.marketscreener.com/news/fcc-grants-intel-waiver-for-foreign-made-robotic-devices-ce785cdedf8cf22d",
+        "date": "2026-10-23",
+        "title": "IDC: Washington's curbs on foreign robots could slash U.S. humanoid robotics revenue by 58%",
+        "url": "https://fortune.com/2026/10/23/fcc-robot-ban-humanoid-revenue-idc/",
         "cat": "정책"
+      },
+      {
+        "date": "2026-10-23",
+        "title": "Eka Robotics raises $150M to teach robots to grip by feel",
+        "url": "https://thenextweb.com/news/eka-robotics-150m-series-a-vision-force-robots",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-23",
+        "title": "Tesla Stock: Record Auto Backlog Tells The Whole Story (NASDAQ:TSLA)",
+        "url": "https://seekingalpha.com/article/4956760-tesla-record-auto-backlog-tells-the-whole-story",
+        "cat": "시장"
       }
     ]
   }
