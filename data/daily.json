@@ -1,135 +1,117 @@
 {
-  "asOfDate": "2026.10.26",
+  "asOfDate": "2026.10.27",
   "fx": {
-    "usdkrw": 1324
+    "usdkrw": 1325
   },
   "briefing": {
-    "dateLabel": "2026.10.26 (월)",
-    "headline": "원격 의료 수술 로봇과 신기술 공개로 로보틱스 산업의 영역 확장이 가속화되고 있습니다.",
-    "summary": "의료, 가전, 산업용 로봇 전반에서 기술 혁신과 실용성 검증이 동시에 이루어지며 시장의 관심이 고조되고 있습니다.",
+    "dateLabel": "2026.10.27 (화)",
+    "headline": "휴머노이드 로봇의 신제품 출시와 상용화 시도가 이어지는 가운데 시연 중 안전성 문제와 시장 검증 이슈가 동시에浮刻되고 있습니다.",
+    "summary": "차세대 휴머노이드 로봇 제품군과 고성능 가정용·의료용 로봇들이 잇따라 공개되었으나 시연 중 발생한 기계적 결함으로 인해 신뢰성에 대한 논의도 활발히 진행 중입니다.",
     "points": [
-      "호주 시드니의 의료진이 중국 상하이의 수술용 로봇을 성공적으로 원격 제어하여 원격 암 치료의 미래 가능성을 증명했습니다.",
-      "인공지능 로봇의 실체적 한계 시험에서 인간이 이십 초 만에 마치는 작업에 삼십 분이 소요되는 등 기술적 보완 과제가 확인되었습니다.",
-      "엔비디아를 비롯한 주요 글로벌 기업들이 초소형 로봇 제어 기술과 구체화된 인공지능 연구 성과를 연이어 선보였습니다."
+      "리얼보틱스가 차세대 휴머노이드 로봇 제품군인 에코 라인업을 공식 발표하며 상용화 시장 진출을 본격화했습니다.",
+      "중국 쿵푸 로봇이 공중제비 시연 중 다리가 부러지는 사고가 발생하여 로봇의 실제 작동 안정성에 대한 의문이 제기되었습니다.",
+      "유니트리가 자동차를 들어 올리는 뛰어난 근력을 갖춘 고성능 휴머노이드 로봇 가디언 모델을 새로 공개했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-25",
-        "title": "지루한 청소와 작별: 물걸레질까지 해주는 로보락 로봇청소기 550유로 파격 할인",
-        "url": "https://www.ouest-france.fr/shopping/maison-jardin/maison/adieu-les-longues-seances-de-menage-ce-robot-aspirateur-roborock-a-550-euros-passe-meme-la-serpillere-2071b7e2-cdf4-11f1-bf87-17eca79cb13c",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-25",
-        "title": "다프트 펑크, 5년 공백 깨고 레고와의 협업 등으로 재결합",
-        "url": "https://www.silive.com/entertainment/2026/10/daft-punk-reunites-for-new-era-5-years-after-breakup-but-theres-a-twist.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-25",
-        "title": "학생들에겐 AI가 있지만 교사들에겐 파지뿐 | 셰너먼 만평",
-        "url": "https://www.nj.com/opinion/2026/10/the-robots-are-writing-our-term-papers-sheneman-cartoon.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-25",
-        "title": "평점 4.6점의 고성능 물걸레 로봇청소기, 100유로 미만 가격으로 눈길",
-        "url": "https://www.leparisien.fr/guide-shopping/high-tech/divers/cet-aspirateur-robot-laveur-ultra-puissant-est-note-465-par-les-clients-pourtant-il-coute-moins-de-100-euros-25-10-2026-QCW4XACGGNDXJF46RZ4FVPW4YE.php",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-25",
-        "title": "시드니 의사가 상하이의 로봇을 원격 제어해 보여준 미래 암 치료의 가능성",
-        "url": "https://7news.com.au/lifestyle/medicine/sydney-surgeon-controls-robot-in-shanghai-in-glimpse-of-future-cancer-care-c-23067919",
+        "date": "2026-10-26",
+        "title": "얼룩 전처리 및 온수 세척 기능을 갖춘 2-in-1 로봇 청소기 '아이로봇 룸바 플러스 675 콤보'",
+        "url": "https://www.smartworld.it/tecnologia/irobot-roomba-plus-675-combo.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-25",
-        "title": "테모믹스는 가라: 리들의 '므슈 퀴진' 주방 로봇, 요리사들의 새로운 인기로 부상",
-        "url": "https://www.ladepeche.fr/2026/10/25/adieu-le-thermomix-ce-robot-monsieur-cuisine-de-lidl-est-la-nouvelle-coqueluche-des-cuisiniers-13612992.php",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-25",
-        "title": "로봇과 아기, 공간 이해와 물체 접촉 및 상해 방지라는 동일한 과제에 직면",
-        "url": "https://www.corriere.it/economia/intelligenza-artificiale/26_ottobre_25/il-robot-e-il-bebe-la-stessa-sfida-capire-lo-spazio-toccare-gli-oggetti-e-imparare-a-non-fare-male-3b083aa2-cd42-4cf5-8c86-b4ff1f975xlk.shtml",
+        "date": "2026-10-26",
+        "title": "\"환자 통증 경감 및 당일 보행 가능\"… 프랑스 롯 지역 병원의 수술용 로봇 공개",
+        "url": "https://www.ladepeche.fr/2026/10/26/les-resultats-sont-tres-satisfaisants-les-patients-ont-moins-mal-et-peuvent-etre-debout-des-le-soir-de-lintervention-le-robot-chirurgical-de-cet-13619640.php",
         "cat": "기술"
       },
       {
-        "date": "2026-10-25",
-        "title": "아마존의 지각변동: 청소 전문가들이 새로 추천하는 유리창 청소 로봇",
-        "url": "https://www.bfmtv.com/pratique/maison/coup-de-tonnerre-sur-amazon-les-specialistes-du-nettoyage-ne-jurent-que-par-ce-robot-laveur-de-vitre-desormais_AB-202610250024.html",
+        "date": "2026-10-26",
+        "title": "리얼보틱스, '에코' 휴머노이드 로봇 라인업 전격 출시",
+        "url": "https://www.nugget.ca/press-releases/business-wire/realbotix-launches-echo-humanoid-robot-line/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-25",
-        "title": "인간의 20초 작업을 AI 로봇은 30분 걸려… 실체적 난관 드러낸 성능 시험",
-        "url": "https://www.20minutos.es/tecnologia/inteligencia-artificial/un-humano-hace-20-segundos-lleva-media-hora-robot-ia-prueba-muestra-dificultades_7052765_0.html",
+        "date": "2026-10-26",
+        "title": "공중제비 시도 중 다리 부러진 중국 쿵푸 로봇… 영상 확산되며 안전성 논란",
+        "url": "https://www.amarujala.com/technology/tech-diary/unitrees-kung-fu-robot-fails-mid-flip-did-the-h2-x-really-lose-a-leg-2026-10-26",
         "cat": "기술"
+      },
+      {
+        "date": "2026-10-26",
+        "title": "가구 밑 청소도 척척… 높이 8cm 미만의 로보락 신형 로봇청소기",
+        "url": "https://actu.fr/guide-achat/maison/il-se-glisse-sous-les-meubles-pour-faire-le-menage-ce-robot-roborock-mesure-moins-de-8-cm-de-haut_64975058.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-26",
+        "title": "사람의 행동을 관찰하고 학습하는 8만 9천 달러 상당의 인공지능 로봇 공개",
+        "url": "https://evz.ro/un-robot-ai-de-89-000-de-dolari-invata-de-la-oameni-ar-putea-deveni-bona.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-26",
+        "title": "프리미엄 반다이 예약 일정 공개… '메탈 로봇혼 강화형 ZZ 건담' 등 10개 상품",
+        "url": "https://www.inside-games.jp/article/2026/10/26/189861.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-26",
+        "title": "카버 로보웰드, 증권신고서 제출하며 IPO 추진… 2억 590만 루피 신주 발행",
+        "url": "https://scanx.trade/stock-market-news/ipo/carver-roboweld-ipo-drhp-11-99-crore-robot-expansion-debt-repayment-8-check-allotment-status/54203114",
+        "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-25",
-        "title": "Who is Rithvik Jyothi Raj? Rajinikanth’s 'grandson' in Jailer 2 is just 13 and runs a coding company",
-        "url": "https://www.businesstoday.in/trending/entertainment/story/who-is-rithvik-jyothi-raj-rajinikanths-grandson-in-jailer-2-is-just-13-and-runs-a-coding-company-563485-2026-10-25",
+        "date": "2026-10-26",
+        "title": "Realbotix Launches Echo Humanoid Robot Line",
+        "url": "https://www.nugget.ca/press-releases/business-wire/realbotix-launches-echo-humanoid-robot-line/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-25",
-        "title": "I turned down $5m to move my business to America. Britain cannot expect others to do the same",
-        "url": "https://www.lbc.co.uk/article/turned-down-5m-business-america-investors-budget-opinion-5HjdkPt_2/",
+        "date": "2026-10-26",
+        "title": "China: 110 humanoid robots set Guinness record with synchronized dance",
+        "url": "https://www.newsbytesapp.com/news/science/chinese-robots-set-guinness-world-record-with-synchronized-dance-routine/story",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-26",
+        "title": "The Surrey school with robotics lessons and a fire pit that's been named best Prep school in the country",
+        "url": "https://www.getsurrey.co.uk/news/surrey-news/surrey-school-robotics-lessons-fire-34803302",
         "cat": "정책"
       },
       {
-        "date": "2026-10-25",
-        "title": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility",
-        "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-24",
-        "title": "Nvidia’s Jensen Huang asks these tiny robot ducks to sit, fall asleep and somersault and the adorable little Microducks do it all on command: What are the viral robots, how much do they cost, key feat",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/nvidias-jensen-huang-asks-these-tiny-robot-ducks-to-sit-fall-asleep-and-somersault-and-the-adorable-little-microducks-do-it-all-on-command-what-are-the-viral-robots-how-much-do-they-cost-key-features-and-more-details/articleshow/135175664.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-24",
-        "title": "DEEP Robotics Unveils Five Research Advances in Embodied AI",
-        "url": "https://www.manilatimes.net/2026/10/24/tmt-newswire/globenewswire/deep-robotics-unveils-five-research-advances-in-embodied-ai/2453278",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-24",
-        "title": "Rick Lazio: We've lost an auto race before, China's EV climb should worry us",
-        "url": "https://fortune.com/2026/10/24/rick-lazio-we-lost-auto-race-to-japan-china-should-alarm-us/",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-24",
-        "title": "assisted robotics to bolster shrinking solar workforce",
-        "url": "https://www.pv-magazine.com/2026/10/24/gritt-robotics-brings-ai-assisted-robotics-to-bolster-shrinking-solar-workforce/",
+        "date": "2026-10-26",
+        "title": "ROKAE delivers its 10,000th humanoid force-controlled arm",
+        "url": "https://www.prnewswire.co.uk/news-releases/rokae-delivers-its-10-000th-humanoid-force-controlled-arm-302918216.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-24",
-        "title": "Service Model To Expand Access To Future",
-        "url": "https://www.outlookbusiness.com/spotlight/news-wire/stem-xpert-builds-stem-as-a-service-model-to-expand-access-to-future-ready-skills",
+        "date": "2026-10-26",
+        "title": "When humanoid robot fell during Kung Fu China demo, losing part of leg - What went wrong? Chinese social media reactions",
+        "url": "https://www.livemint.com/news/world/when-humanoid-robot-fell-during-kung-fu-china-demo-losing-part-of-leg-what-went-wrong-chinese-social-media-reactions-11793000602884.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-26",
+        "title": "'Please Use The Robot Safely & In A Friendly Manner': Unitree Unveils H2-X 'Guardian' Humanoid That Fights & Lifts Cars In Demo",
+        "url": "https://www.freepressjournal.in/tech/please-use-the-robot-safely-in-a-friendly-manner-unitree-unveils-h2-x-guardian-humanoid-that-fights-lifts-cars-in-demo",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-26",
+        "title": "Bill Gates sounds alarm over AI jobs crisis as robots threaten to replace office staff and manual workers",
+        "url": "https://www.firstpost.com/tech/ai-job-crisis-bill-gates-warns-robots-could-replace-office-staff-and-manual-workers-14055294.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-24",
-        "title": "Watch: China's Kung Fu Robot Kicks Car Doors And Fights Off Knife Attacker",
-        "url": "https://www.ndtv.com/offbeat/watch-chinas-kung-fu-robot-kicks-car-doors-and-fights-off-knife-attacker-12228680",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-23",
-        "title": "Dyslexic, and a robotics champ",
-        "url": "https://www.thestar.com.my/news/nation/2026/10/24/dyslexic-and-a-robotics-champ",
-        "cat": "기술"
+        "date": "2026-10-26",
+        "title": "OMODA & JAECOO Advances Its Global Intelligent Ecosystem: Partner AiMOGA Robotics Opens Global Pre-Orders for Mobo",
+        "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/omoda-jaecoo-advances-its-global-intelligent-ecosystem-partner-aimoga-robotics-opens-global-pre-orders-for-mobo/2453616",
+        "cat": "시장"
       }
     ]
   }
