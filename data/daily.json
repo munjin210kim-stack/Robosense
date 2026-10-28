@@ -1,116 +1,116 @@
 {
-  "asOfDate": "2026.10.27",
+  "asOfDate": "2026.10.28",
   "fx": {
-    "usdkrw": 1325
+    "usdkrw": 1328
   },
   "briefing": {
-    "dateLabel": "2026.10.27 (화)",
-    "headline": "휴머노이드 로봇의 신제품 출시와 상용화 시도가 이어지는 가운데 시연 중 안전성 문제와 시장 검증 이슈가 동시에浮刻되고 있습니다.",
-    "summary": "차세대 휴머노이드 로봇 제품군과 고성능 가정용·의료용 로봇들이 잇따라 공개되었으나 시연 중 발생한 기계적 결함으로 인해 신뢰성에 대한 논의도 활발히 진행 중입니다.",
+    "dateLabel": "2026.10.28 (수)",
+    "headline": "인공지능과 로봇 기술의 융합이 글로벌 산업 현장 및 각국 정부의 정책적 지원을 타고 가속화되고 있습니다.",
+    "summary": "구체화 인공지능 기술을 다루는 경진대회가 열기를 띠는 가운데, 인도의 대규모 로봇 단지 승인 등 글로벌 차원의 로봇 산업 인프라 확장이 이어지고 있습니다.",
     "points": [
-      "리얼보틱스가 차세대 휴머노이드 로봇 제품군인 에코 라인업을 공식 발표하며 상용화 시장 진출을 본격화했습니다.",
-      "중국 쿵푸 로봇이 공중제비 시연 중 다리가 부러지는 사고가 발생하여 로봇의 실제 작동 안정성에 대한 의문이 제기되었습니다.",
-      "유니트리가 자동차를 들어 올리는 뛰어난 근력을 갖춘 고성능 휴머노이드 로봇 가디언 모델을 새로 공개했습니다."
+      "상하이 실물 로봇 결선을 앞두고 열린 로비안트의 구체화 인공지능 챌린지에 1,800개 이상의 팀이 참가하며 높은 관심을 모았습니다.",
+      "취리히 연구진의 사족보행 로봇 에니멀이 손을 사용하지 않고 다리 동작과 반복 학습만으로 대형 루빅스 큐브를 맞추는 기술적 성과를 거두었습니다.",
+      "인도 우타르프라데시주 정부가 대규모 인공지능 및 로봇 산업단지 조성을 승인하며 일자리 창출과 지역 경제 활성화를 도모하고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-26",
-        "title": "얼룩 전처리 및 온수 세척 기능을 갖춘 2-in-1 로봇 청소기 '아이로봇 룸바 플러스 675 콤보'",
-        "url": "https://www.smartworld.it/tecnologia/irobot-roomba-plus-675-combo.html",
+        "date": "2026-10-27",
+        "title": "스튜, 반죽, 찜 요리까지… 한 번에 4가지 요리가 가능한 37가지 기능의 세코텍 주방 로봇",
+        "url": "https://www.ideal.es/de-tiendas/estilo-de-vida/guisos-masas-recetas-vapor-robot-cocina-cecotec-permite-preparar-cuatro-platos-tiene-funciones-distintas-20261027144929-ntrc.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-26",
-        "title": "\"환자 통증 경감 및 당일 보행 가능\"… 프랑스 롯 지역 병원의 수술용 로봇 공개",
-        "url": "https://www.ladepeche.fr/2026/10/26/les-resultats-sont-tres-satisfaisants-les-patients-ont-moins-mal-et-peuvent-etre-debout-des-le-soir-de-lintervention-le-robot-chirurgical-de-cet-13619640.php",
+        "date": "2026-10-27",
+        "title": "상하이 실물 로봇 결선을 앞두고 1,800개 이상 팀이 모인 로비안트 제1회 구체화 AI 챌린지",
+        "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/robbyants-inaugural-embodied-ai-challenge-draws-over-1800-teams-ahead-of-real-robot-final-in-shanghai/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-27",
+        "title": "의료 취약지 보강에 나선 젊은 의사들: 몽토방 클리닉, 로봇 기술 도입으로 근골격계 센터 강화",
+        "url": "https://www.ladepeche.fr/2026/10/27/de-jeunes-medecins-qui-sengagent-au-profit-des-deserts-medicaux-a-montauban-cette-clinique-muscle-son-pole-locomoteur-et-mise-sur-la-robotique-13622319.php",
         "cat": "기술"
       },
       {
-        "date": "2026-10-26",
-        "title": "리얼보틱스, '에코' 휴머노이드 로봇 라인업 전격 출시",
-        "url": "https://www.nugget.ca/press-releases/business-wire/realbotix-launches-echo-humanoid-robot-line/",
+        "date": "2026-10-27",
+        "title": "'고질라 마이너스 원' 감독의 차기 거대 로봇 영화, 첫 캐스팅 라인업 공개",
+        "url": "https://www.polygon.com/grandgear-yamazaki-cast-announcement-paul-giamatti-godzilla/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-26",
-        "title": "공중제비 시도 중 다리 부러진 중국 쿵푸 로봇… 영상 확산되며 안전성 논란",
-        "url": "https://www.amarujala.com/technology/tech-diary/unitrees-kung-fu-robot-fails-mid-flip-did-the-h2-x-really-lose-a-leg-2026-10-26",
+        "date": "2026-10-27",
+        "title": "손 없는 로봇이 발로 대형 루빅스 큐브를 풀어냈다: 취리히의 ANYmal, 시행착오를 통해 근육 기억 학습",
+        "url": "https://www.larazon.es/tecnologia-consumo/robots/robot-manos-ha-resuelto-cubo-rubik-gigante-patas-anymal-aprendio-su-memoria-muscular-base-ensayo-error-zurich_202610276ae075b5a2570c1961b2cb68.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-26",
-        "title": "가구 밑 청소도 척척… 높이 8cm 미만의 로보락 신형 로봇청소기",
-        "url": "https://actu.fr/guide-achat/maison/il-se-glisse-sous-les-meubles-pour-faire-le-menage-ce-robot-roborock-mesure-moins-de-8-cm-de-haut_64975058.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-26",
-        "title": "사람의 행동을 관찰하고 학습하는 8만 9천 달러 상당의 인공지능 로봇 공개",
-        "url": "https://evz.ro/un-robot-ai-de-89-000-de-dolari-invata-de-la-oameni-ar-putea-deveni-bona.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-26",
-        "title": "프리미엄 반다이 예약 일정 공개… '메탈 로봇혼 강화형 ZZ 건담' 등 10개 상품",
-        "url": "https://www.inside-games.jp/article/2026/10/26/189861.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-26",
-        "title": "카버 로보웰드, 증권신고서 제출하며 IPO 추진… 2억 590만 루피 신주 발행",
-        "url": "https://scanx.trade/stock-market-news/ipo/carver-roboweld-ipo-drhp-11-99-crore-robot-expansion-debt-repayment-8-check-allotment-status/54203114",
+        "date": "2026-10-27",
+        "title": "생존자의 30% 이상이 후유증을 안고 살아가다",
+        "url": "https://www.elperiodico.com/es/sanidad/20261027/cuatro-espanoles-sufrira-ictus-vida-secuelas-dependencia-135794685",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-26",
-        "title": "Realbotix Launches Echo Humanoid Robot Line",
-        "url": "https://www.nugget.ca/press-releases/business-wire/realbotix-launches-echo-humanoid-robot-line/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-26",
-        "title": "China: 110 humanoid robots set Guinness record with synchronized dance",
-        "url": "https://www.newsbytesapp.com/news/science/chinese-robots-set-guinness-world-record-with-synchronized-dance-routine/story",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-26",
-        "title": "The Surrey school with robotics lessons and a fire pit that's been named best Prep school in the country",
-        "url": "https://www.getsurrey.co.uk/news/surrey-news/surrey-school-robotics-lessons-fire-34803302",
+        "date": "2026-10-27",
+        "title": "UP clears 69.52-acre AI, robotics park in Greater Noida; 1 lakh jobs, ₹2,000 cr annual economic contribution expected",
+        "url": "https://www.livemint.com/news/india/up-clears-69-52-acre-ai-robotics-park-in-greater-noida-1-lakh-jobs-rs-2-000-cr-annual-economic-contribution-expected-11793099037544.html",
         "cat": "정책"
       },
       {
-        "date": "2026-10-26",
-        "title": "ROKAE delivers its 10,000th humanoid force-controlled arm",
-        "url": "https://www.prnewswire.co.uk/news-releases/rokae-delivers-its-10-000th-humanoid-force-controlled-arm-302918216.html",
+        "date": "2026-10-27",
+        "title": "What Anthropic’s IPO prospectus reveals",
+        "url": "https://fortune.com/2026/10/27/what-anthropic-ipo-prospectus-reveals/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-26",
-        "title": "When humanoid robot fell during Kung Fu China demo, losing part of leg - What went wrong? Chinese social media reactions",
-        "url": "https://www.livemint.com/news/world/when-humanoid-robot-fell-during-kung-fu-china-demo-losing-part-of-leg-what-went-wrong-chinese-social-media-reactions-11793000602884.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-26",
-        "title": "'Please Use The Robot Safely & In A Friendly Manner': Unitree Unveils H2-X 'Guardian' Humanoid That Fights & Lifts Cars In Demo",
-        "url": "https://www.freepressjournal.in/tech/please-use-the-robot-safely-in-a-friendly-manner-unitree-unveils-h2-x-guardian-humanoid-that-fights-lifts-cars-in-demo",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-26",
-        "title": "Bill Gates sounds alarm over AI jobs crisis as robots threaten to replace office staff and manual workers",
-        "url": "https://www.firstpost.com/tech/ai-job-crisis-bill-gates-warns-robots-could-replace-office-staff-and-manual-workers-14055294.html",
+        "date": "2026-10-27",
+        "title": "Aeluma to Participate in Upcoming Investor Conferences",
+        "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/globenewswire/aeluma-to-participate-in-upcoming-investor-conferences/2454846",
         "cat": "시장"
       },
       {
-        "date": "2026-10-26",
-        "title": "OMODA & JAECOO Advances Its Global Intelligent Ecosystem: Partner AiMOGA Robotics Opens Global Pre-Orders for Mobo",
-        "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/omoda-jaecoo-advances-its-global-intelligent-ecosystem-partner-aimoga-robotics-opens-global-pre-orders-for-mobo/2453616",
+        "date": "2026-10-27",
+        "title": "IIIT-H’s Robotic Research Sees Real-World Deployment On Shop Floor",
+        "url": "https://www.deccanchronicle.com/technology/iiit-hs-robotic-research-sees-real-world-deployment-on-shop-floor-1999291",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Ukraine and Japan Expand Cooperation in AI, Drones and Advanced Technologies",
+        "url": "https://www.europesays.com/3335038/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-27",
+        "title": "UP Cabinet approves robotics, AI park in Greater Noida",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/up-cabinet-approves-robotics-ai-park-in-greater-noida/articleshow/135230905.cms",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Why China will still lead the robotics race when the hype has died down",
+        "url": "https://portfolio-adviser.com/why-china-will-still-lead-the-robotics-race-when-the-hype-has-died-down/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Boston Dynamics CEO Rohit Prasad and Atlas face Tesla, China in humanoid robot race",
+        "url": "https://www.masslive.com/news/2026/10/can-boston-dynamics-keep-up-with-tesla-and-china-in-the-humanoid-robot-race.html",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-10-27",
+        "title": "IIT Kharagpur To Set Up India's First Physical AI School With Rs 35 Crore Investment",
+        "url": "https://www.timesnownews.com/education/iit-kharagpur-to-set-up-indias-first-physical-ai-school-with-rs-35-crore-investment-article-156414108",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-27",
+        "title": "Rogue agents, slow market, less demand: Is AI bubble about to burst?",
+        "url": "https://www.firstpost.com/tech/rogue-agents-slow-market-less-demand-is-ai-bubble-about-to-burst-14055708.html",
         "cat": "시장"
       }
     ]
