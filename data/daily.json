@@ -1,134 +1,134 @@
 {
-  "asOfDate": "2026.10.29",
+  "asOfDate": "2026.10.30",
   "fx": {
-    "usdkrw": 1340
+    "usdkrw": 1337
   },
   "briefing": {
-    "dateLabel": "2026.10.29 (목)",
-    "headline": "건축 및 모빌리티 분야의 차세대 로봇 기술 실증과 더불어 대규모 로봇 산업단지 조성을 위한 정책적 지원이 가속화되고 있습니다.",
-    "summary": "가전 및 물류 분야에서의 자동화 로봇 보급 확대와 함께 산업용 로봇 기술 혁신 및 정부 주도의 인프라 투자가 활발히 이루어지고 있습니다.",
+    "dateLabel": "2026.10.30 (금)",
+    "headline": "글로벌 로봇 산업이 자율주행 배달 서비스 상용화와 유럽 본부 설립을 통해 시장 확장을 가속화하고 있습니다.",
+    "summary": "로봇 기술의 실생활 적용 범위가 확대되는 가운데 주요국의 무역 및 안보 관련 정책 움직임도 활발해지고 있습니다.",
     "points": [
-      "하루 만에 200제곱미터 규모의 주택을 건설할 수 있는 거미 형태의 혁신적인 건축 로봇이 공개되어 건설 분야 자동화의 가능성을 제시했습니다.",
-      "엔티디에너지가 팜플로나 도심 실도로에서 자율주행 차량의 실증 모빌리티 시험 주행을 성공적으로 진행했습니다.",
-      "인도 우타르프라데시주 내각이 그레이터 노이다 지역에 70에이커 규모의 대형 로보틱스 파크 단지 조성을 최종 승인했습니다."
+      "푸두 로보틱스가 독일 노이스에 유럽 본부를 개설하며 글로벌 시장 진출을 본격화했습니다.",
+      "호주 골드코스트가 도어대시와 손잡고 현지 최초로 자율주행 로봇 음식 배달 시범 서비스를 개시했습니다.",
+      "트럼프 미국 대통령이 수입 로보틱스가 국가 안보에 위험을 초래한다고 지적하면서도 당장 관세를 부과하지는 않았습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-28",
-        "title": "샤크 로봇 청소기의 인기 비결: 분당 100회 물걸레질과 강력한 반려동물 털 제거 기능",
+        "date": "2026-10-29",
+        "title": "아그로바이오텍 데 예이다, 과수 전정 자동화의 첫걸음인 로봇 선보여",
+        "url": "https://www.lavanguardia.com/local/lleida/20261029/11671168/agrobiotech-lleida-presenta-robot-da-primer-paso-automatizar-poda-frutales.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "고코, 에킵 엑스포서 3in1 'X5' 및 'M6' 공개… 전문가와 가정용 제초의 새 옵션 제공",
+        "url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/goko-showcases-three-in-one-x5-and-m6-at-equip-exposition-bringing-new-mowing-options-to-professionals-and-homeowners/2457324",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "스마트폰으로 청소 구역과 분사 수량을 조절하는 200유로 미만 '르판트 M2L 플러스'",
+        "url": "https://www.larazon.es/compras/lefant-m2l-plus-eliges-movil-que-habitacion-friega-cuanta-agua-echa-todo-menos-200-euros-3v3r_202610296ae28010004b78127ab7b0d9.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "샤크 로봇 청소기가 인기를 끌고 있는 이유: 분당 100회 물걸레질과 반려동물 털 제거",
         "url": "https://okdiario.com/okshopping/que-este-robot-aspirador-shark-esta-arrasando-friega-100-veces-minuto-arrasa-pelo-mascotas-20649244",
         "cat": "시장"
       },
       {
-        "date": "2026-10-28",
-        "title": "드론에 이어 바닥 청소 시장 점령에 나선 디제이아이: 2만 5천 파스칼 흡입력의 로봇 청소기 파격가 선보여",
-        "url": "https://www.smartworld.it/tecnologia/dji-romo-s-robot-aspirapolvere-lavapavimenti-25000-pa-prezzo-piu-basso-di-sempre.html",
+        "date": "2026-10-29",
+        "title": "개인정보 보호까지 고려하는 로봇 청소기, 생각보다 중요한 이유",
+        "url": "https://www.smartworld.it/news/dji-romo-2-modalita-dati-locali-privacy-senza-cloud.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "푸두 로보틱스, 독일 노이스에 유럽 본부 개설",
+        "url": "https://thenextweb.com/news/pudu-robotics-european-headquarters-neuss-germany",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "이탈리아, 300만 유로 규모의 EU 6G 네트워크 프로젝트 주도",
+        "url": "https://www.ecodibergamo.it/stories/premium/scienza-e-tecnologia/litalia-guida-il-progetto-ue-da-3-milioni-di-euro-per-le-reti-6g-o_3983213_11/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "골드코스트, 도어대시와 협력해 호주 도시 최초로 자율주행 로봇 배달 서비스 시범 운행",
+        "url": "https://7news.com.au/lifestyle/gold-coast-becomes-first-australian-city-to-trial-an-autonomous-robot-food-delivery-service-with-doordash-c-23089277",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "제노아-유벤투스전 이후 두 챔피언의 두 얼굴: 조이아 데 로시와 키엘리니의 아쉬움",
+        "url": "https://www.tuttomercatoweb.com/serie-a/gioia-de-rossi-delusione-chiellini-facce-campioni-genoa-juventus-2288469",
         "cat": "경쟁"
       },
       {
-        "date": "2026-10-28",
-        "title": "블랙 프라이데이를 앞두고 46% 할인 판매되는 샤크 파워디텍트 유브이 로봇 청소기",
-        "url": "https://www.tomsguide.com/home/home-appliances/our-favorite-carpet-cleaning-robot-vacuum-is-46-percent-off-ahead-of-black-friday-swipe-up-sharks-powerdetect-uv-reveal-robot-vacuum-and-mop-now",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-28",
-        "title": "엔티디에너지, 팜플로나 실도로에서 자율주행 차량 실증 모빌리티 시험 주행 실시",
-        "url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-ntdenergy-lleva-vehiculos-autonomos-calles-pamplona-prueba-movilidad-real-20261028122750.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-28",
-        "title": "하루 만에 200제곱미터 주택을 완성하는 거미 형태의 혁신적인 건축 로봇 등장",
-        "url": "https://okdiario.com/curiosidades/albaniles-pueden-tener-dias-contados-robot-forma-arana-capaz-construir-casas-200-metros-cuadrados-menos-dia-20647139",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-28",
-        "title": "아마존 로봇 물류창고 현장: 자동화 기술이 일자리를 바꾸는 방식",
-        "url": "https://www.businessinsider.com/amazon-robot-warehouse-where-jobs-changing-ai-robotics-workers-2026-9",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-28",
-        "title": "'로봇혼 건담 마크투(에우고 사양) ver. A.N.I.M.E.' 11월 21일 재발매 확정",
-        "url": "https://www.inside-games.jp/article/2026/10/28/189981.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-28",
-        "title": "디왈리 축제를 스마트하게 즐기는 방법: 아이라이프 로봇 청소기로 집안 청소 환경 개선",
-        "url": "https://www.tribuneindia.com/news/business/a-smarter-way-to-celebrate-diwali-upgrade-your-home-with-an-ilife-robot-vacuum-cleaner/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-28",
-        "title": "스위스 취리히 연방 공과대학교의 4족 보행 로봇, 거대 루빅스 큐브 맞추기 성공",
-        "url": "https://www.lematin.ch/story/technologie-sans-mains-ce-robot-de-l-epfz-resout-un-rubik-s-cube-geant-103657285",
+        "date": "2026-10-29",
+        "title": "에이지봇, 'AGIBOT 혁신 날 2026'에서 생산적 로봇 작업 측정 도구 '워켄' 공개",
+        "url": "https://www.prnewswire.co.uk/news-releases/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026-302923486.html",
         "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-10-28",
-        "title": "‘Apps are critical in defining AI PC value’: Intel India’s Gokul V Subramaniam",
-        "url": "https://www.hindustantimes.com/business/apps-are-critical-in-defining-ai-pc-value-intel-india-s-gokul-v-subramaniam-101793187979297.html",
+        "date": "2026-10-29",
+        "title": "DJI Strengthens Multi-Layer Privacy Protection System with the Launch of Local Data Mode for ROMO, Setting a New Standard for Privacy in Home Robotics",
+        "url": "https://www.prnewswire.co.uk/news-releases/dji-strengthens-multi-layer-privacy-protection-system-with-the-launch-of-local-data-mode-for-romo-setting-a-new-standard-for-privacy-in-home-robotics-302923382.html",
         "cat": "기술"
       },
       {
-        "date": "2026-10-28",
-        "title": "Google launches Genie 4 AI, turns text prompts into interactive worlds",
-        "url": "https://www.indiatoday.in/technology/news/story/google-launches-genie-4-ai-turns-text-prompts-into-interactive-worlds-3026745-2026-10-28",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-28",
-        "title": "IIIT Hyderabad alumnus leaves Meta after 14 years to build a $215 million AI startup",
-        "url": "https://www.indiatoday.in/jobs/in-focus/story/iiit-hyderabad-alumnus-manohar-paluri-launches-warp-sciences-with-215-million-in-funding-educ-3026716-2026-10-28",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-27",
-        "title": "life battlefield experience as Ukraine war continues, warns US general",
-        "url": "https://www.dailyexcelsior.com/north-korean-troops-gaining-valuable-real-life-battlefield-experience-as-ukraine-war-continues-warns-us-general/",
+        "date": "2026-10-29",
+        "title": "HSBC launches China Robotics UCITS ETF",
+        "url": "https://portfolio-adviser.com/hsbc-launches-china-robotics-ucits-etf/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-27",
-        "title": "How do astronauts survive and thrive? Smithsonian exhibit features space toilet and humanoid robot",
-        "url": "https://wtop.com/things-to-do-in-dc/2026/10/how-do-astronauts-survive-and-thrive-smithsonian-exhibit-features-space-toilet-and-humanoid-robot/",
-        "cat": "기술"
+        "date": "2026-10-29",
+        "title": "Pudu Robotics opens its European headquarters in Neuss, Germany",
+        "url": "https://thenextweb.com/news/pudu-robotics-european-headquarters-neuss-germany",
+        "cat": "시장"
       },
       {
-        "date": "2026-10-27",
-        "title": "Ditching LiDAR: IIIT-H, Ati Robotics Demonstrate AI Vision-Based Robot Navigation",
-        "url": "https://www.deccanchronicle.com/southern-states/telangana/ditching-lidar-iiit-h-ati-robotics-demonstrate-ai-vision-based-robot-navigation-1999492",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-27",
-        "title": "IIIT-H, Ati Robotics demonstrate AI robot navigation breakthrough",
-        "url": "https://timesofindia.indiatimes.com/city/hyderabad/iiit-h-ati-robotics-demonstrate-ai-robot-navigation-breakthrough/articleshow/135243462.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-27",
-        "title": "U.P. approves robotics park and AI hub in Greater Noida",
-        "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-approves-robotics-park-and-ai-hub-in-greater-noida/article71632226.ece",
+        "date": "2026-10-29",
+        "title": "No longer have to work in a company: Elon Musk's UBI vision for professionals",
+        "url": "https://www.indiatoday.in/jobs/in-focus/story/elon-musk-ai-robots-optional-work-universal-high-income-3027598-2026-10-29",
         "cat": "정책"
       },
       {
-        "date": "2026-10-27",
-        "title": "AI Stock Catapults 58% Amid Robotics Spinoff; Nears Pivot As Earnings Loom",
-        "url": "https://www.investors.com/research/ai-stock-zebra-technologies-zbra-earnings/",
-        "cat": "시장"
+        "date": "2026-10-29",
+        "title": "Who is Manohar Paluri, the IIITian who quit Meta after 14 years to build a $215-million AI startup?",
+        "url": "https://www.firstpost.com/explainers/who-is-manohar-paluri-the-iiitian-who-quit-meta-after-14-years-to-build-a-215-million-ai-startup-14056255.html",
+        "cat": "경쟁"
       },
       {
-        "date": "2026-10-27",
-        "title": "Cabinet clears 70-acre robotics park in Greater Noida",
-        "url": "https://timesofindia.indiatimes.com/city/lucknow/cabinet-clears-70-acre-robotics-park-in-greater-noida/articleshow/135240724.cms",
+        "date": "2026-10-29",
+        "title": "Trump Orders Talks on Machinery Imports Citing National Security, Tariffs Possible",
+        "url": "https://www.lokmattimes.com/international/trump-orders-talks-on-machinery-imports-citing-national-security-tariffs-possible-a001-w02/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "Trump Calls Xi Nuclear Meeting 'Most Important', Orders Robotics Import Talks",
+        "url": "https://www.lokmattimes.com/international/trump-calls-xi-nuclear-meeting-most-important-orders-robotics-import-talks-a001-w02/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-29",
+        "title": "Trump says imported robotics pose national security risks but does not impose tariffs",
+        "url": "https://www.straitstimes.com/world/united-states/trump-says-imported-robotics-pose-national-security-risks-but-does-not-impose-tariffs",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-28",
+        "title": "Eye on boosting infrastructure, Noida Authority nod for AI city-business park",
+        "url": "https://indianexpress.com/article/cities/delhi/eye-on-boosting-infrastructure-noida-authority-nod-for-ai-city-business-park-10941186/",
         "cat": "정책"
       }
     ]
