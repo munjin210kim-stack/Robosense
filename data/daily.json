@@ -1,135 +1,123 @@
 {
-  "asOfDate": "2026.10.30",
+  "asOfDate": "2026.10.31",
   "fx": {
-    "usdkrw": 1337
+    "usdkrw": 1335
   },
   "briefing": {
-    "dateLabel": "2026.10.30 (금)",
-    "headline": "글로벌 로봇 산업이 자율주행 배달 서비스 상용화와 유럽 본부 설립을 통해 시장 확장을 가속화하고 있습니다.",
-    "summary": "로봇 기술의 실생활 적용 범위가 확대되는 가운데 주요국의 무역 및 안보 관련 정책 움직임도 활발해지고 있습니다.",
+    "dateLabel": "2026.10.31 (토)",
+    "headline": "의료 및 산업 현장을 위한 첨단 로봇 기술 혁신과 함께 가전 시장의 로봇 청소기 마케팅 경쟁이 본격화되고 있습니다.",
+    "summary": "인체 내부 진단 로봇과 폭발 위험 지역 점검 로봇 등 특수 분야 로봇 기술이 고도화되는 한편, 상용 시장에서는 로봇 제품의 보급 확대를 위한 대규모 프로모션이 활발히 전개되고 있습니다.",
     "points": [
-      "푸두 로보틱스가 독일 노이스에 유럽 본부를 개설하며 글로벌 시장 진출을 본격화했습니다.",
-      "호주 골드코스트가 도어대시와 손잡고 현지 최초로 자율주행 로봇 음식 배달 시범 서비스를 개시했습니다.",
-      "트럼프 미국 대통령이 수입 로보틱스가 국가 안보에 위험을 초래한다고 지적하면서도 당장 관세를 부과하지는 않았습니다."
+      "인간의 장 내부를 안전하게 이동하며 진단과 치료를 수행할 수 있는 뱀 형태의 의료용 로봇 기술이 공개되었습니다.",
+      "폭발 위험이 있는 극단적 산업 환경에서 안전하게 점검 임무를 수행할 수 있는 4족 보행 로봇이 최초로 기술 인증을 받았습니다.",
+      "금융 기관 골드만삭스는 완벽한 상용화 단계의 인공지능 로봇 기술을 구현하려면 천만 시간 상당의 상호작용 데이터 확보가 필요하다고 분석했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-29",
-        "title": "아그로바이오텍 데 예이다, 과수 전정 자동화의 첫걸음인 로봇 선보여",
-        "url": "https://www.lavanguardia.com/local/lleida/20261029/11671168/agrobiotech-lleida-presenta-robot-da-primer-paso-automatizar-poda-frutales.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-29",
-        "title": "고코, 에킵 엑스포서 3in1 'X5' 및 'M6' 공개… 전문가와 가정용 제초의 새 옵션 제공",
-        "url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/pr-newswire/goko-showcases-three-in-one-x5-and-m6-at-equip-exposition-bringing-new-mowing-options-to-professionals-and-homeowners/2457324",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-29",
-        "title": "스마트폰으로 청소 구역과 분사 수량을 조절하는 200유로 미만 '르판트 M2L 플러스'",
-        "url": "https://www.larazon.es/compras/lefant-m2l-plus-eliges-movil-que-habitacion-friega-cuanta-agua-echa-todo-menos-200-euros-3v3r_202610296ae28010004b78127ab7b0d9.html",
+        "date": "2026-10-30",
+        "title": "로보락 Q10 PF+ 로봇청소기로 청소와 물걸레질의 수고를 덜다",
+        "url": "https://www.marca.com/regalos-promociones/2026/10/30/6ae4864b268e3e05378b45a5.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-29",
-        "title": "샤크 로봇 청소기가 인기를 끌고 있는 이유: 분당 100회 물걸레질과 반려동물 털 제거",
-        "url": "https://okdiario.com/okshopping/que-este-robot-aspirador-shark-esta-arrasando-friega-100-veces-minuto-arrasa-pelo-mascotas-20649244",
+        "date": "2026-10-30",
+        "title": "로보락, 10월 29일부터 11월 18일까지 알텍스에서 블랙프라이데이 3단계 할인 행사 진행",
+        "url": "https://gadget.ro/roborock-anunta-trei-valuri-de-oferte-de-black-friday-la-altex-intre-29-octombrie-si-18-noiembrie/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-29",
-        "title": "개인정보 보호까지 고려하는 로봇 청소기, 생각보다 중요한 이유",
-        "url": "https://www.smartworld.it/news/dji-romo-2-modalita-dati-locali-privacy-senza-cloud.html",
+        "date": "2026-10-30",
+        "title": "써모믹스, 르망의 이동식 주방 방문객들에게 다양한 레시피 체험 제공",
+        "url": "https://actu.fr/pays-de-la-loire/le-mans_72181/au-mans-thermomix-invite-les-visiteurs-a-tester-des-recettes-dans-sa-cuisine-itinerante_64986851.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-30",
+        "title": "체내 장관을 이동할 수 있는 미래형 뱀 모양 로봇 개발",
+        "url": "https://www.ndtv.com/artificial-intelligence/a-robot-snake-that-could-one-day-travel-through-your-gut-12258876",
         "cat": "기술"
       },
       {
-        "date": "2026-10-29",
-        "title": "푸두 로보틱스, 독일 노이스에 유럽 본부 개설",
-        "url": "https://thenextweb.com/news/pudu-robotics-european-headquarters-neuss-germany",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-29",
-        "title": "이탈리아, 300만 유로 규모의 EU 6G 네트워크 프로젝트 주도",
-        "url": "https://www.ecodibergamo.it/stories/premium/scienza-e-tecnologia/litalia-guida-il-progetto-ue-da-3-milioni-di-euro-per-le-reti-6g-o_3983213_11/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-29",
-        "title": "골드코스트, 도어대시와 협력해 호주 도시 최초로 자율주행 로봇 배달 서비스 시범 운행",
-        "url": "https://7news.com.au/lifestyle/gold-coast-becomes-first-australian-city-to-trial-an-autonomous-robot-food-delivery-service-with-doordash-c-23089277",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-29",
-        "title": "제노아-유벤투스전 이후 두 챔피언의 두 얼굴: 조이아 데 로시와 키엘리니의 아쉬움",
-        "url": "https://www.tuttomercatoweb.com/serie-a/gioia-de-rossi-delusione-chiellini-facce-campioni-genoa-juventus-2288469",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-29",
-        "title": "에이지봇, 'AGIBOT 혁신 날 2026'에서 생산적 로봇 작업 측정 도구 '워켄' 공개",
-        "url": "https://www.prnewswire.co.uk/news-releases/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026-302923486.html",
+        "date": "2026-10-30",
+        "title": "애니멀 X, 폭발 위험 환경 점검 인증을 받은 최초의 4족 보행 로봇",
+        "url": "https://www.larazon.es/tecnologia/anymal-primer-robot-cuadrupedo-certificado-inspeccionar-atmosferas-explosivas_202610306ae4733eb55c427e2eb8e9a2.html",
         "cat": "기술"
+      },
+      {
+        "date": "2026-10-30",
+        "title": "사용자를 추적하는 로봇 카메라와 인공지능을 탑재한 아너 로봇 폰 첫 공개",
+        "url": "https://www.europapress.es/portaltic/gadgets/noticia-primer-contacto-honor-robot-phone-movil-camara-robotica-ia-te-sigue-todas-partes-20261030112322.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-30",
+        "title": "시간당 높은 수당을 제공하는 로봇 개 산책 이색 직업 등장",
+        "url": "https://www.lokmat.com/jarahatke/startup-hiring-robot-dog-walker-job-pays-1700-rupees-per-hour-a583/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-30",
+        "title": "로보락 Q10 S5+ 역대 최저가: 10,000Pa 흡입력 로봇청소기 30% 할인",
+        "url": "https://www.smartworld.it/tecnologia/roborock-q10-s5-plus-minimo-storico-sconto-robot-aspirazione-10000-pa.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-30",
+        "title": "로보락 사로스 20 네오 역대 최저가: 전문 흡입 및 물걸레 로봇 42% 할인",
+        "url": "https://www.smartworld.it/tecnologia/roborock-saros-20-neo-minimo-storico-sconto-42-robot-aspira-lava.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-30",
+        "title": "에코백스 25,000Pa 로봇청소기 역대 최저가 판매: 25% 할인",
+        "url": "https://www.smartworld.it/tecnologia/robot-aspirapolvere-lavapavimenti-ecovacs-t50-omni-gen3-prezzo-piu-basso-sempre.html",
+        "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-10-29",
-        "title": "DJI Strengthens Multi-Layer Privacy Protection System with the Launch of Local Data Mode for ROMO, Setting a New Standard for Privacy in Home Robotics",
-        "url": "https://www.prnewswire.co.uk/news-releases/dji-strengthens-multi-layer-privacy-protection-system-with-the-launch-of-local-data-mode-for-romo-setting-a-new-standard-for-privacy-in-home-robotics-302923382.html",
+        "date": "2026-10-30",
+        "title": "Canon Medical and Stereotaxis Collaborate to Advance Robotic Electrophysiology",
+        "url": "https://www.manilatimes.net/2026/10/30/tmt-newswire/globenewswire/canon-medical-and-stereotaxis-collaborate-to-advance-robotic-electrophysiology/2458252",
         "cat": "기술"
       },
       {
-        "date": "2026-10-29",
-        "title": "HSBC launches China Robotics UCITS ETF",
-        "url": "https://portfolio-adviser.com/hsbc-launches-china-robotics-ucits-etf/",
+        "date": "2026-10-30",
+        "title": "Telecom Stocks: Can AI, Robotics Break The SpaceX Standoff?",
+        "url": "https://www.investors.com/news/technology/telecom-stocks-can-econ-musk-physical-ai-spacex-wireless-network/",
         "cat": "시장"
       },
       {
-        "date": "2026-10-29",
-        "title": "Pudu Robotics opens its European headquarters in Neuss, Germany",
-        "url": "https://thenextweb.com/news/pudu-robotics-european-headquarters-neuss-germany",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-29",
-        "title": "No longer have to work in a company: Elon Musk's UBI vision for professionals",
-        "url": "https://www.indiatoday.in/jobs/in-focus/story/elon-musk-ai-robots-optional-work-universal-high-income-3027598-2026-10-29",
+        "date": "2026-10-30",
+        "title": "INDROTEK Discusses Relevance of OVIN Dual-Use Technology Findings to Its Robotics and Defense Activities",
+        "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/indrotek-discusses-relevance-of-ovin-dual-use-technology-findings-to-its-robotics-and-defense-activities/",
         "cat": "정책"
       },
       {
-        "date": "2026-10-29",
-        "title": "Who is Manohar Paluri, the IIITian who quit Meta after 14 years to build a $215-million AI startup?",
-        "url": "https://www.firstpost.com/explainers/who-is-manohar-paluri-the-iiitian-who-quit-meta-after-14-years-to-build-a-215-million-ai-startup-14056255.html",
+        "date": "2026-10-30",
+        "title": "'It’s pretty awesome': Korah robotics team is number one in the world",
+        "url": "https://www.sootoday.com/inspire/its-pretty-awesome-korah-robotics-team-is-number-one-in-the-world-12957271",
         "cat": "경쟁"
       },
       {
-        "date": "2026-10-29",
-        "title": "Trump Orders Talks on Machinery Imports Citing National Security, Tariffs Possible",
-        "url": "https://www.lokmattimes.com/international/trump-orders-talks-on-machinery-imports-citing-national-security-tariffs-possible-a001-w02/",
-        "cat": "정책"
+        "date": "2026-10-30",
+        "title": "China is a technology powerhouse: how can you gain exposure?",
+        "url": "https://moneyweek.com/investments/china-stock-markets/how-to-invest-in-china-tech",
+        "cat": "시장"
       },
       {
-        "date": "2026-10-29",
-        "title": "Trump Calls Xi Nuclear Meeting 'Most Important', Orders Robotics Import Talks",
-        "url": "https://www.lokmattimes.com/international/trump-calls-xi-nuclear-meeting-most-important-orders-robotics-import-talks-a001-w02/",
-        "cat": "정책"
+        "date": "2026-10-30",
+        "title": "Should you stop saving for retirement? Elon Musk says AI and robots could make money less important in future! But how?",
+        "url": "https://www.livemint.com/money/should-you-stop-saving-for-retirement-elon-musk-says-ai-and-robots-could-make-money-less-important-in-future-but-how-11793355837215.html",
+        "cat": "시장"
       },
       {
-        "date": "2026-10-29",
-        "title": "Trump says imported robotics pose national security risks but does not impose tariffs",
-        "url": "https://www.straitstimes.com/world/united-states/trump-says-imported-robotics-pose-national-security-risks-but-does-not-impose-tariffs",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-28",
-        "title": "Eye on boosting infrastructure, Noida Authority nod for AI city-business park",
-        "url": "https://indianexpress.com/article/cities/delhi/eye-on-boosting-infrastructure-noida-authority-nod-for-ai-city-business-park-10941186/",
-        "cat": "정책"
+        "date": "2026-10-30",
+        "title": "AI robotics may need 10 million hours of interaction data to reach production-level capabilities: Goldman Sachs",
+        "url": "https://www.livemint.com/technology/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs-11793350566224.html",
+        "cat": "기술"
       }
     ]
   }
