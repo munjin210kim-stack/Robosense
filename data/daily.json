@@ -1,87 +1,87 @@
 {
-  "asOfDate": "2026.10.31",
+  "asOfDate": "2026.11.01",
   "fx": {
     "usdkrw": 1335
   },
   "briefing": {
-    "dateLabel": "2026.10.31 (토)",
-    "headline": "의료 및 산업 현장을 위한 첨단 로봇 기술 혁신과 함께 가전 시장의 로봇 청소기 마케팅 경쟁이 본격화되고 있습니다.",
-    "summary": "인체 내부 진단 로봇과 폭발 위험 지역 점검 로봇 등 특수 분야 로봇 기술이 고도화되는 한편, 상용 시장에서는 로봇 제품의 보급 확대를 위한 대규모 프로모션이 활발히 전개되고 있습니다.",
+    "dateLabel": "2026.11.01 (일)",
+    "headline": "트럼프의 로봇 수입 안보 위협 선언과 도심 배달 로봇을 둘러싼 사회적 갈등이 로보틱스 시장의 주요 이슈로 떠올랐습니다.",
+    "summary": "인공지능 및 의료·방산 로봇 기술이 고도화되는 가운데 로봇 상용화에 따른 규제 및 시민 사회와의 마찰이 점차 가시화되고 있습니다.",
     "points": [
-      "인간의 장 내부를 안전하게 이동하며 진단과 치료를 수행할 수 있는 뱀 형태의 의료용 로봇 기술이 공개되었습니다.",
-      "폭발 위험이 있는 극단적 산업 환경에서 안전하게 점검 임무를 수행할 수 있는 4족 보행 로봇이 최초로 기술 인증을 받았습니다.",
-      "금융 기관 골드만삭스는 완벽한 상용화 단계의 인공지능 로봇 기술을 구현하려면 천만 시간 상당의 상호작용 데이터 확보가 필요하다고 분석했습니다."
+      "트럼프 전 대통령이 로봇 수입을 국가 안보 위협으로 선언하면서 향후 로봇 산업 전반에 대한 무역 규제 파장이 예상됩니다.",
+      "공공 인도 내 배달 로봇 운행을 방해해 체포되는 사례가 잇따르는 등 배달 로봇 상용화를 둘러싼 시민사회 갈등이 심화하고 있습니다.",
+      "해외에서는 인간의 의도를 이해하고 반영하도록 설계된 로봇 전용 지능 모델이 새롭게 공개되며 기술 혁신이 이어지고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-30",
-        "title": "로보락 Q10 PF+ 로봇청소기로 청소와 물걸레질의 수고를 덜다",
-        "url": "https://www.marca.com/regalos-promociones/2026/10/30/6ae4864b268e3e05378b45a5.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "로보락, 10월 29일부터 11월 18일까지 알텍스에서 블랙프라이데이 3단계 할인 행사 진행",
-        "url": "https://gadget.ro/roborock-anunta-trei-valuri-de-oferte-de-black-friday-la-altex-intre-29-octombrie-si-18-noiembrie/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "써모믹스, 르망의 이동식 주방 방문객들에게 다양한 레시피 체험 제공",
-        "url": "https://actu.fr/pays-de-la-loire/le-mans_72181/au-mans-thermomix-invite-les-visiteurs-a-tester-des-recettes-dans-sa-cuisine-itinerante_64986851.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "체내 장관을 이동할 수 있는 미래형 뱀 모양 로봇 개발",
-        "url": "https://www.ndtv.com/artificial-intelligence/a-robot-snake-that-could-one-day-travel-through-your-gut-12258876",
+        "date": "2026-10-31",
+        "title": "샌프란시스코 스타트업, 인공지능 학습용 로봇 개 산책 알바에 시급 1,900루피 지급",
+        "url": "https://www.ndtvprofit.com/technology/this-san-francisco-startup-will-pay-rs-1-900-per-hour-to-robot-dog-walkers-for-ai-training-12263499",
         "cat": "기술"
       },
       {
-        "date": "2026-10-30",
-        "title": "애니멀 X, 폭발 위험 환경 점검 인증을 받은 최초의 4족 보행 로봇",
-        "url": "https://www.larazon.es/tecnologia/anymal-primer-robot-cuadrupedo-certificado-inspeccionar-atmosferas-explosivas_202610306ae4733eb55c427e2eb8e9a2.html",
+        "date": "2026-10-31",
+        "title": "인공지능 배달 로봇에 맞서기 위해 수제 로봇 직접 제작",
+        "url": "https://www.businessinsider.com/i-built-handmade-robot-push-back-against-ai-delivery-bots-2026-11",
         "cat": "기술"
       },
       {
-        "date": "2026-10-30",
-        "title": "사용자를 추적하는 로봇 카메라와 인공지능을 탑재한 아너 로봇 폰 첫 공개",
-        "url": "https://www.europapress.es/portaltic/gadgets/noticia-primer-contacto-honor-robot-phone-movil-camara-robotica-ia-te-sigue-todas-partes-20261030112322.html",
+        "date": "2026-10-31",
+        "title": "우크라이나, 인명 보호 위해 로봇 투입했으나 여전히 일부 병사는 위험 노출",
+        "url": "https://www.businessinsider.com/ukraine-uses-robots-protect-humans-replace-some-soldiers-still-risk-2026-10",
         "cat": "기술"
       },
       {
-        "date": "2026-10-30",
-        "title": "시간당 높은 수당을 제공하는 로봇 개 산책 이색 직업 등장",
-        "url": "https://www.lokmat.com/jarahatke/startup-hiring-robot-dog-walker-job-pays-1700-rupees-per-hour-a583/",
+        "date": "2026-10-31",
+        "title": "트럼프, 로봇 수입을 국가 안보 위협으로 선언",
+        "url": "https://thenextweb.com/news/trump-robot-imports-national-security-section-232",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-31",
+        "title": "배달 로봇 막아 체포된 퇴직 교수, 다시 또 방해하겠다고 밝혀",
+        "url": "https://abc17news.com/news/national-world/cnn-national/2026/10/31/this-retired-professor-was-arrested-for-blocking-a-delivery-robot-she-says-shell-do-it-again/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-31",
+        "title": "필라델피아 여성, 배달 로봇 보행 방해로 체포 후 재범 의사 밝혀",
+        "url": "https://edition.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-10-31",
+        "title": "로봇 청소기 및 물걸레: 물청소로 바닥을 깨끗하게 유지해 집안일 부담 경감",
+        "url": "https://www.20minutos.es/ofertas-descuentos/robot-aspirador-fregona-deja-suelo-reluciente-con-agua-te-quita-un-problema-mas_7055173_0.html",
         "cat": "시장"
       },
       {
-        "date": "2026-10-30",
-        "title": "로보락 Q10 S5+ 역대 최저가: 10,000Pa 흡입력 로봇청소기 30% 할인",
-        "url": "https://www.smartworld.it/tecnologia/roborock-q10-s5-plus-minimo-storico-sconto-robot-aspirazione-10000-pa.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "로보락 사로스 20 네오 역대 최저가: 전문 흡입 및 물걸레 로봇 42% 할인",
-        "url": "https://www.smartworld.it/tecnologia/roborock-saros-20-neo-minimo-storico-sconto-42-robot-aspira-lava.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "에코백스 25,000Pa 로봇청소기 역대 최저가 판매: 25% 할인",
-        "url": "https://www.smartworld.it/tecnologia/robot-aspirapolvere-lavapavimenti-ecovacs-t50-omni-gen3-prezzo-piu-basso-sempre.html",
-        "cat": "시장"
+        "date": "2026-10-31",
+        "title": "캐롤린 마빈, 공공 인도에서 배달 로봇 반대 시위를 벌였다고 밝혀",
+        "url": "https://www.wistv.com/2026/10/31/woman-says-protest-was-free-speech-after-arrest-allegedly-blocking-robots-path/",
+        "cat": "정책"
       }
     ],
     "global": [
       {
         "date": "2026-10-30",
+        "title": "backed Ludo Robotics releases robot intelligence model designed around human intent",
+        "url": "https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-30",
+        "title": "IIIT-H Wins Award, Showcases Robotics Research at IROS",
+        "url": "https://www.deccanchronicle.com/southern-states/telangana/iiit-h-wins-award-showcases-robotics-research-at-iros-2000405",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-10-30",
         "title": "Canon Medical and Stereotaxis Collaborate to Advance Robotic Electrophysiology",
         "url": "https://www.manilatimes.net/2026/10/30/tmt-newswire/globenewswire/canon-medical-and-stereotaxis-collaborate-to-advance-robotic-electrophysiology/2458252",
-        "cat": "기술"
+        "cat": "경쟁"
       },
       {
         "date": "2026-10-30",
@@ -93,7 +93,7 @@
         "date": "2026-10-30",
         "title": "INDROTEK Discusses Relevance of OVIN Dual-Use Technology Findings to Its Robotics and Defense Activities",
         "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/indrotek-discusses-relevance-of-ovin-dual-use-technology-findings-to-its-robotics-and-defense-activities/",
-        "cat": "정책"
+        "cat": "기술"
       },
       {
         "date": "2026-10-30",
@@ -106,18 +106,6 @@
         "title": "China is a technology powerhouse: how can you gain exposure?",
         "url": "https://moneyweek.com/investments/china-stock-markets/how-to-invest-in-china-tech",
         "cat": "시장"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "Should you stop saving for retirement? Elon Musk says AI and robots could make money less important in future! But how?",
-        "url": "https://www.livemint.com/money/should-you-stop-saving-for-retirement-elon-musk-says-ai-and-robots-could-make-money-less-important-in-future-but-how-11793355837215.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "AI robotics may need 10 million hours of interaction data to reach production-level capabilities: Goldman Sachs",
-        "url": "https://www.livemint.com/technology/ai-robotics-may-need-10-million-hours-of-interaction-data-to-reach-production-level-capabilities-goldman-sachs-11793350566224.html",
-        "cat": "기술"
       }
     ]
   }
