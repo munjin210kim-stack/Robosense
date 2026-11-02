@@ -1,111 +1,141 @@
 {
-  "asOfDate": "2026.11.01",
+  "asOfDate": "2026.11.02",
   "fx": {
     "usdkrw": 1335
   },
   "briefing": {
-    "dateLabel": "2026.11.01 (일)",
-    "headline": "트럼프의 로봇 수입 안보 위협 선언과 도심 배달 로봇을 둘러싼 사회적 갈등이 로보틱스 시장의 주요 이슈로 떠올랐습니다.",
-    "summary": "인공지능 및 의료·방산 로봇 기술이 고도화되는 가운데 로봇 상용화에 따른 규제 및 시민 사회와의 마찰이 점차 가시화되고 있습니다.",
+    "dateLabel": "2026.11.02 (월)",
+    "headline": "글로벌 테크 기업들의 휴머노이드 로봇 개발 협력과 차세대 인공지능 기술 접목이 가속화되고 있습니다.",
+    "summary": "로보틱스 산업은 제조·운영 비용 절감을 위한 소프트웨어 혁신부터 음파 동력과 같은 신개념 원천 기술 개발까지 다각도로 진화하고 있습니다.",
     "points": [
-      "트럼프 전 대통령이 로봇 수입을 국가 안보 위협으로 선언하면서 향후 로봇 산업 전반에 대한 무역 규제 파장이 예상됩니다.",
-      "공공 인도 내 배달 로봇 운행을 방해해 체포되는 사례가 잇따르는 등 배달 로봇 상용화를 둘러싼 시민사회 갈등이 심화하고 있습니다.",
-      "해외에서는 인간의 의도를 이해하고 반영하도록 설계된 로봇 전용 지능 모델이 새롭게 공개되며 기술 혁신이 이어지고 있습니다."
+      "메타가 중국의 로봇 기업 푸리에와 손잡고 신형 휴머노이드 로봇 개발에 나섰습니다.",
+      "스위스 연구진이 모터 없이 음파 진동을 동력원으로 사용하는 혁신적인 로봇 기술을 공개했습니다.",
+      "HD현대로보틱스가 팔란티어와 협력하여 인공지능 기술을 기반으로 로봇 프로그래밍 비용을 대폭 절감하기로 했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-10-31",
-        "title": "샌프란시스코 스타트업, 인공지능 학습용 로봇 개 산책 알바에 시급 1,900루피 지급",
-        "url": "https://www.ndtvprofit.com/technology/this-san-francisco-startup-will-pay-rs-1-900-per-hour-to-robot-dog-walkers-for-ai-training-12263499",
+        "date": "2026-11-01",
+        "title": "메타, 중국 푸리에와 협력해 휴머노이드 로봇 제작",
+        "url": "https://thenextweb.com/news/meta-humanoid-robot-fourier-max",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "인공지능 유니콘 해피 로봇, 브라질 시장 공식 진출",
+        "url": "https://veja.abril.com.br/economia/unicornio-de-inteligencia-artificial-happy-robot-estreia-no-brasil/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "MIT 연구진이 개발한 소프트 로봇으로 장 내부를 관찰하는 방법",
+        "url": "https://www.detik.com/edu/detikpedia/d-8733620/begini-cara-melihat-isi-usus-kita-pakai-robot-lunak-buatan-peneliti-mit",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "알리익스프레스 11.11 세일 개시: 2억 화소 스마트폰과 로봇청소기 등 특가 상품 공개",
+        "url": "https://www.marca.com/regalos-promociones/2026/11/01/6ae48b58268e3ea9118b45a4.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "인데 나바렛, SNL 코미디 스케치 '발명가의 아내'로 할로윈 화제 집중",
+        "url": "https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "아시아 증시 폭락 속 인공지능 먹구름… 로봇부터 반도체까지 시장 우려 확산",
+        "url": "https://www.quotidiano.net/economia/crollo-borse-asiatiche-ai-t1zra2t8",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "\"채용 시장 불만 여전\" Z세대 구직자들, 인공지능처럼 보일까 봐 이력서 수정",
+        "url": "https://www.techradar.com/pro/neither-side-thinks-hiring-is-working-gen-z-job-seekers-are-rewriting-their-cvs-as-theyre-worried-about-sounding-like-ai-and-they-arent-alone",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "스위스, 모터 없이 음파를 동력으로 사용하는 신개념 로봇 개발 발표",
+        "url": "https://www.elconfidencial.com/tecnologia/2026-11-01/suiza-robot-volar-sin-motor-usando-sonido-1qrt_4433094/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "나토 동부 전선, 차세대 전쟁 대비해 로봇 및 신기술 도입 가속화",
+        "url": "https://www.telegraph.co.uk/world-news/2026/11/01/nato-eastern-flank-preparing-tomorrow-war-today/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "발키리스의 최고 팬은 로봇? 마스코트 로봇 '발레리' 공개",
+        "url": "https://www.vcstar.com/story/sports/wnba/2026/11/01/valkyries-biggest-fan-lightberry-lumi-robot-valerie/92541720007/",
+        "cat": "기술"
+      }
+    ],
+    "global": [
+      {
+        "date": "2026-11-01",
+        "title": "Meta built a humanoid robot with China’s Fourier, The Information reports",
+        "url": "https://thenextweb.com/news/meta-humanoid-robot-fourier-max",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "Labour’s AI fund joins $6.5bn deal for Anthropic-backed chipmaker",
+        "url": "https://www.telegraph.co.uk/business/2026/11/01/labour-ai-fund-joins-deal-for-anthropic-backed-chipmaker/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "Uttar Pradesh to launch state Quantum Mission, steps up push for AI and robotics",
+        "url": "https://economictimes.indiatimes.com/news/india/uttar-pradesh-to-launch-state-quantum-mission-steps-up-push-for-ai-and-robotics/articleshow/135421408.cms",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "HD Hyundai Robotics, Palantir to slash robot programming costs with AI",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/hd-hyundai-robotics-palantir-to-slash-robot-programming-costs-with-ai",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-01",
+        "title": "From IFA Berlin to CES 2027: OlloBot Continues Its Journey in Emotional Companionship",
+        "url": "https://www.manilatimes.net/2026/11/01/tmt-newswire/pr-newswire/from-ifa-berlin-to-ces-2027-ollobot-continues-its-journey-in-emotional-companionship/2458860",
         "cat": "기술"
       },
       {
         "date": "2026-10-31",
-        "title": "인공지능 배달 로봇에 맞서기 위해 수제 로봇 직접 제작",
-        "url": "https://www.businessinsider.com/i-built-handmade-robot-push-back-against-ai-delivery-bots-2026-11",
-        "cat": "기술"
+        "title": "Meta builds prototype humanoid robot Max with Chinese partner: What to know",
+        "url": "https://www.thenews.com.pk/latest/1422023-meta-builds-prototype-humanoid-robot-max-with-chinese-partner-what-to-know",
+        "cat": "경쟁"
       },
       {
         "date": "2026-10-31",
-        "title": "우크라이나, 인명 보호 위해 로봇 투입했으나 여전히 일부 병사는 위험 노출",
-        "url": "https://www.businessinsider.com/ukraine-uses-robots-protect-humans-replace-some-soldiers-still-risk-2026-10",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-31",
-        "title": "트럼프, 로봇 수입을 국가 안보 위협으로 선언",
-        "url": "https://thenextweb.com/news/trump-robot-imports-national-security-section-232",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-31",
-        "title": "배달 로봇 막아 체포된 퇴직 교수, 다시 또 방해하겠다고 밝혀",
-        "url": "https://abc17news.com/news/national-world/cnn-national/2026/10/31/this-retired-professor-was-arrested-for-blocking-a-delivery-robot-she-says-shell-do-it-again/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-31",
-        "title": "필라델피아 여성, 배달 로봇 보행 방해로 체포 후 재범 의사 밝혀",
-        "url": "https://edition.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-10-31",
-        "title": "로봇 청소기 및 물걸레: 물청소로 바닥을 깨끗하게 유지해 집안일 부담 경감",
-        "url": "https://www.20minutos.es/ofertas-descuentos/robot-aspirador-fregona-deja-suelo-reluciente-con-agua-te-quita-un-problema-mas_7055173_0.html",
+        "title": "Strengthening the pulse of progress",
+        "url": "https://timesofindia.indiatimes.com/city/lucknow/strengthening-the-pulse-of-progress/articleshow/135407638.cms",
         "cat": "시장"
       },
       {
         "date": "2026-10-31",
-        "title": "캐롤린 마빈, 공공 인도에서 배달 로봇 반대 시위를 벌였다고 밝혀",
-        "url": "https://www.wistv.com/2026/10/31/woman-says-protest-was-free-speech-after-arrest-allegedly-blocking-robots-path/",
-        "cat": "정책"
-      }
-    ],
-    "global": [
+        "title": "NIDS Co., Ltd. Confirms CES 2027 Participation, Pursues Expansion of Global Supply Chain for Environmental Sensors",
+        "url": "https://www.manilatimes.net/2026/10/31/tmt-newswire/pr-newswire/nids-co-ltd-confirms-ces-2027-participation-pursues-expansion-of-global-supply-chain-for-environmental-sensors/2458798",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-10-31",
+        "title": "Technozion ’26 concludes at NIT Warangal with robotics, drone racing events",
+        "url": "https://www.thehindu.com/news/national/telangana/technozion-26-concludes-at-nit-warangal-with-robotics-drone-racing-events/article71649636.ece",
+        "cat": "기술"
+      },
       {
         "date": "2026-10-30",
         "title": "backed Ludo Robotics releases robot intelligence model designed around human intent",
         "url": "https://siliconangle.com/2026/10/30/krafton-backed-ludo-robotics-releases-robot-intelligence-model-designed-around-human-intent/",
         "cat": "기술"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "IIIT-H Wins Award, Showcases Robotics Research at IROS",
-        "url": "https://www.deccanchronicle.com/southern-states/telangana/iiit-h-wins-award-showcases-robotics-research-at-iros-2000405",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "Canon Medical and Stereotaxis Collaborate to Advance Robotic Electrophysiology",
-        "url": "https://www.manilatimes.net/2026/10/30/tmt-newswire/globenewswire/canon-medical-and-stereotaxis-collaborate-to-advance-robotic-electrophysiology/2458252",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "Telecom Stocks: Can AI, Robotics Break The SpaceX Standoff?",
-        "url": "https://www.investors.com/news/technology/telecom-stocks-can-econ-musk-physical-ai-spacex-wireless-network/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "INDROTEK Discusses Relevance of OVIN Dual-Use Technology Findings to Its Robotics and Defense Activities",
-        "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/indrotek-discusses-relevance-of-ovin-dual-use-technology-findings-to-its-robotics-and-defense-activities/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "'It’s pretty awesome': Korah robotics team is number one in the world",
-        "url": "https://www.sootoday.com/inspire/its-pretty-awesome-korah-robotics-team-is-number-one-in-the-world-12957271",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-10-30",
-        "title": "China is a technology powerhouse: how can you gain exposure?",
-        "url": "https://moneyweek.com/investments/china-stock-markets/how-to-invest-in-china-tech",
-        "cat": "시장"
       }
     ]
   }
