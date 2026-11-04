@@ -1,117 +1,111 @@
 {
-  "asOfDate": "2026.11.03",
+  "asOfDate": "2026.11.04",
   "fx": {
-    "usdkrw": 1343
+    "usdkrw": 1345
   },
   "briefing": {
-    "dateLabel": "2026.11.03 (화)",
-    "headline": "빅테크 기업들의 휴머노이드 로봇 개발 가속화와 함께 산업 현장의 자동화 전환이 가속화되고 있습니다.",
-    "summary": "건축 및 서비스 현장의 자동화 로봇 실증부터 차세대 인공지능 결합 휴머노이드 개발까지 로보틱스 기술이 노동 시장 전반에 큰 변화를 일으키고 있습니다.",
+    "dateLabel": "2026.11.04 (수)",
+    "headline": "글로벌 기술 기업들이 휴머노이드 및 생활 밀착형 로봇 개발에 속도를 내는 가운데 주요 신제품의 상용화 일정 조정과 기술 공개가 이어지고 있습니다.",
+    "summary": "차세대 로보틱스 시장은 산업용 휴머노이드의 대규모 현장 투입과 생활 밀착형 자동화 기술 개발을 중심으로 급격한 변화를 맞이하고 있습니다.",
     "points": [
-      "빌 게이츠가 자동화 기조 속 기업들의 로봇 채용 확대 및 노동 시장 파급력에 대해 경고했습니다.",
-      "프랑스에서 하루 60제곱미터 규모의 벽을 건설할 수 있는 벽돌공 로봇 실증에 착수하여 건설 현장 자동화를 추진하고 있습니다.",
-      "메타가 인공지능에 물리적 신체를 부여하는 신규 휴머노이드 로봇 프로젝트를 공개하며 기술 개발 경쟁을 본격화했습니다."
+      "애플이 스마트 홈 로봇 출시를 2028년으로 연기할 수 있다는 보도가 나오며 가정용 로봇 상용화 시점에 관심이 쏠리고 있습니다.",
+      "엔비디아가 내년부터 공장 현장에 대규모로 배치할 예정인 인간형 로봇 디지트 5를 공개하며 산업용 로봇 경쟁을 본격화했습니다.",
+      "푸두 로보틱스가 잔디 관리 자동화와 날 정비 기능을 갖춘 새로운 로봇 시리즈를 선보였습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-02",
-        "title": "기업들 '로봇 채용하고 사람 해고': 빌 게이츠가 밝힌 오늘날 노동 시장의 영향",
-        "url": "https://www.infobae.com/tecno/2026/11/02/las-empresas-buscan-contratar-al-robot-y-despedir-al-humano-bill-gates-sobre-el-impacto-laboral-hoy/",
+        "date": "2026-11-03",
+        "title": "애플의 1,000달러 가정용 로봇 출시, 2028년으로 연기될 가능성 보도",
+        "url": "https://thenextweb.com/news/apple-home-robot-homeview-ultra-1000-2028",
         "cat": "시장"
       },
       {
-        "date": "2026-11-02",
-        "title": "우크라이나 로봇 부대 급증… 가을·겨울철 새로운 시험대 직면",
-        "url": "https://www.businessinsider.com/ukraine-war-ground-robot-army-swelled-autumn-winter-test-2026-11",
+        "date": "2026-11-03",
+        "title": "나사의 스위프트 천문대 퇴역 임박… 나사가 로봇과 작별하는 것은 처음이 아니다",
+        "url": "https://www.nationalgeographic.com/science/article/space-robot-death-nasa-swift-cassini-maven",
         "cat": "기술"
       },
       {
-        "date": "2026-11-02",
-        "title": "'닥터 후' 로봇 개 K9 목소리 연기자, 향년 83세로 별세",
-        "url": "https://variety.com/2026/tv/news/john-leeson-dead-voice-doctor-who-k9-1236937441/",
+        "date": "2026-11-03",
+        "title": "FC 로리앙, 7명의 서로 다른 득점자가 올린 7골… 숫자로 본 리그 1 최악 공격진의 복합적 초상",
+        "url": "https://www.ouest-france.fr/sport/football/fc-lorient/fc-lorient-sept-buts-inscrits-par-7-buteurs-differents-portrait-robot-par-les-chiffres-de-la-pire-attaque-de-ligue-1-51fa414e-d763-11f1-a1e1-ae8104d72c9a",
         "cat": "시장"
       },
       {
-        "date": "2026-11-02",
-        "title": "프랑스, 하루 60㎡ 벽 쌓는 벽돌공 로봇 실증… 2027년 현장 투입 전망",
-        "url": "https://www.infobae.com/america/mundo/2026/11/02/francia-prueba-un-robot-albanil-capaz-de-construir-60-metros-cuadrados-de-muro-en-un-dia-llegaria-a-las-obras-en-2027/",
+        "date": "2026-11-03",
+        "title": "고트하르트 터널 내부의 로봇: 직접 유지보수 작업 수행 예정",
+        "url": "https://www.tio.ch/ticino/cronaca/1960729/un-robot-nella-pancia-del-gottardo-fara-lui-le-manutenzioni",
         "cat": "기술"
       },
       {
-        "date": "2026-11-02",
-        "title": "사용자들이 꼽은 가장 신뢰할 수 있는 로봇 청소기 제품군",
-        "url": "https://www.bgr.com/2300090/most-reliable-robot-vacuums-according-owners/",
+        "date": "2026-11-03",
+        "title": "드림 X60 울트라 로봇청소기 리뷰: 프리미엄 가격표를 단 똑똑한 로봇청소기",
+        "url": "https://in.mashable.com/tech/115717/dreame-x60-ultra-vacuum-cleaner-review-a-clever-robot-vacuum-with-a-premium-price-tag",
         "cat": "시장"
       },
       {
-        "date": "2026-11-02",
-        "title": "친근한 늑대? 로봇 개 작동 원리와 적용 가능 분야",
-        "url": "https://www.quotidiano.net/magazine/lupi-confidenti-cani-robot-cosa-sappiamo-fvf9r30r",
+        "date": "2026-11-03",
+        "title": "건설업계의 180도 변화: 프랑스, 하루에 최대 60㎡를 시공하는 벽돌공 로봇 시험 운용",
+        "url": "https://okdiario.com/curiosidades/giro-180o-construccion-francia-ya-esta-probando-robot-albanil-que-construye-hasta-60-m2-solo-dia-20688490",
         "cat": "기술"
       },
       {
-        "date": "2026-11-02",
-        "title": "'걱정 마세요' 답변 믿었던 30대 여성, 뇌전증 발작으로 사망",
-        "url": "https://www.parismatch.com/pas-besoin-vous-inquieter-trentenaire-meurt-dune-crise-depilepsie-apres-avoir-ecoute-conseils-chatgpt-6JoRsTbvqnGZsiTfXIEe7g",
+        "date": "2026-11-03",
+        "title": "애플, 스마트 홈 로봇 출시 연기 보도",
+        "url": "https://www.deccanchronicle.com/technology/apple-reportedly-delays-launch-of-smart-home-robot-2001374",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-03",
+        "title": "내년 대규모 상용 배치를 통해 공장을 혁신하려는 엔비디아의 휴머노이드 로봇 디지트 5",
+        "url": "https://www.lanacion.com.ar/tecnologia/asi-es-el-robot-humanoide-digit-5-de-nvidia-que-busca-revolucionar-las-fabricas-con-un-amplio-nid03112026/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-03",
+        "title": "아마존의 로봇 물류창고 내부 들여다보기",
+        "url": "https://www.businessinsider.com/amazon-warehouse-where-people-robots-work-together-2026-10",
         "cat": "기술"
       },
       {
-        "date": "2026-11-02",
-        "title": "샤오미 물걸레 리프팅 로봇 청소기 역대 최저가… 25% 할인",
-        "url": "https://www.smartworld.it/tecnologia/robot-aspirapolvere-xiaomi-h50-panno-sollevabile-minimo-storico-sconto-25.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-02",
-        "title": "'닥터 후' 스타 존 리슨, 향년 83세로 타계",
-        "url": "https://www.thenews.com.pk/latest/1422210-doctor-who-star-john-leeson-breathes-his-last-at-83",
-        "cat": "시장"
+        "date": "2026-11-03",
+        "title": "구글, 식물에 필요한 빛을 찾아 이동하는 인공지능 기반 바퀴 달린 화분 '스프라우트' 공개",
+        "url": "https://www.bfmtv.com/tech/intelligence-artificielle/google-devoile-sprout-un-petit-pot-a-roulettes-pilote-par-l-ia-qui-amene-votre-plante-vers-la-lumiere-dont-elle-a-besoin-et-sert-aussi-a-demontrer-la-puissance-de-ses-outils-de-vibe-coding_AV-202611030403.html",
+        "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-11-02",
-        "title": "TSMC's 1-nanometer Manufacturing Site Likely Tipped By Taiwan's Minister In Discussion That Included Robots",
-        "url": "https://wccftech.com/tsmcs-1-nanometer-manufacturing-site-likely-tipped-by-taiwans-minister-in-discussion-that-included-robots/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-02",
-        "title": "YYForce Highlights US$21.9 Million in Reported Net Assets and Outlines Commercial Robotics and AI Platform Priorities",
-        "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/yyforce-highlights-us21-9-million-in-reported-net-assets-and-outlines-commercial-robotics-and-ai-platform-priorities/",
+        "date": "2026-11-03",
+        "title": "Aerpace Industries approves merger with Aerpace Robotics",
+        "url": "https://scanx.trade/stock-market-news/companies/aerpace-industries-approves-merger-aerpace-robotics/55256906",
         "cat": "시장"
       },
       {
-        "date": "2026-11-02",
-        "title": "KRAFTON Develops Socially Intelligent AI that Help Robots Better Understand People",
-        "url": "https://www.tribuneindia.com/news/business/krafton-develops-socially-intelligent-ai-that-help-robots-better-understand-people-2-2/",
+        "date": "2026-11-03",
+        "title": "InnoWeek 2026 showcases advances in robotics, aviation and clean energy",
+        "url": "https://www.euronews.com/2026/11/03/innoweek-2026-showcases-advances-in-robotics-aviation-and-clean-energy",
         "cat": "기술"
       },
       {
-        "date": "2026-11-02",
-        "title": "Cargill and Neptune Robotics Advance Robotic Hull Cleaning in Singapore",
-        "url": "https://www.manilatimes.net/2026/11/02/tmt-newswire/pr-newswire/cargill-and-neptune-robotics-advance-robotic-hull-cleaning-in-singapore/2459313",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-02",
-        "title": "Japanese online service company GMO apologizes for security breaches and promises compensation",
-        "url": "https://www.ajc.com/news/2026/11/japanese-online-service-company-gmo-apologizes-for-security-breaches-and-promises-compensation/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-02",
-        "title": "EASE Secures US$9.5 Million to Expand AI-Enabled Medical Imaging and Surgical Robotics in South Africa and Ghana",
-        "url": "https://www.prnewswire.co.uk/news-releases/ease-secures-us9-5-million-to-expand-ai-enabled-medical-imaging-and-surgical-robotics-in-south-africa-and-ghana-302925220.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-02",
-        "title": "Zuckerberg Wants To Give AI A Body. Meet Meta's New Humanoid Robot",
-        "url": "https://www.ndtv.com/artificial-intelligence/zuckerberg-wants-to-give-ai-a-body-meet-metas-new-humanoid-robot-12269703",
+        "date": "2026-11-03",
+        "title": "SpaceX-Tesla merger could give Musk control without Mars, robotaxi milestones",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/spacex-tesla-merger-could-give-musk-control-without-mars-robotaxi-milestones/articleshow/135494201.cms",
         "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-03",
+        "title": "Exclusive: Armatrix kicks off Rs 67 Cr seed round at 4.8X valuation premium",
+        "url": "https://www.europesays.com/3349960/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-03",
+        "title": "Pudu Robotics Unveils PUDU TOMO S Series: Extending Lawn Care Automation to Blade Sharpening",
+        "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/pudu-robotics-unveils-pudu-tomo-s-series-extending-lawn-care-automation-to-blade-sharpening/",
+        "cat": "기술"
       }
     ]
   }
