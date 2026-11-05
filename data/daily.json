@@ -1,111 +1,117 @@
 {
-  "asOfDate": "2026.11.04",
+  "asOfDate": "2026.11.05",
   "fx": {
-    "usdkrw": 1345
+    "usdkrw": 1339
   },
   "briefing": {
-    "dateLabel": "2026.11.04 (수)",
-    "headline": "글로벌 기술 기업들이 휴머노이드 및 생활 밀착형 로봇 개발에 속도를 내는 가운데 주요 신제품의 상용화 일정 조정과 기술 공개가 이어지고 있습니다.",
-    "summary": "차세대 로보틱스 시장은 산업용 휴머노이드의 대규모 현장 투입과 생활 밀착형 자동화 기술 개발을 중심으로 급격한 변화를 맞이하고 있습니다.",
+    "dateLabel": "2026.11.05 (목)",
+    "headline": "로봇 제조사들의 저가형 휴머노이드 출시와 특수 로봇 기술 혁신이 로보틱스 시장의 상용화를 이끌고 있습니다.",
+    "summary": "저렴한 휴머노이드 로봇의 등장과 위치 추적 장치가 필요 없는 해양 로봇, 자율주행 전동 의자 등 다양한 분야에서 로봇 기술의 실생활 적용이 가속화되고 있습니다.",
     "points": [
-      "애플이 스마트 홈 로봇 출시를 2028년으로 연기할 수 있다는 보도가 나오며 가정용 로봇 상용화 시점에 관심이 쏠리고 있습니다.",
-      "엔비디아가 내년부터 공장 현장에 대규모로 배치할 예정인 인간형 로봇 디지트 5를 공개하며 산업용 로봇 경쟁을 본격화했습니다.",
-      "푸두 로보틱스가 잔디 관리 자동화와 날 정비 기능을 갖춘 새로운 로봇 시리즈를 선보였습니다."
+      "스타봇이 미국산 7,999달러 가격의 스파크 휴머노이드 로봇을 출시하며 보급형 로봇 시장 개척에 나섰습니다.",
+      "피사 대학교 연구진이 바다거북의 생태를 응용하여 위치 추적 장치 없이 항해 가능한 해양 로봇을 개발했습니다.",
+      "타임지가 선정한 혁신 제품으로 감지기와 음성 제어 기술을 결합하여 자율주행이 가능한 스마트 전동 의자가 소개되었습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-03",
-        "title": "애플의 1,000달러 가정용 로봇 출시, 2028년으로 연기될 가능성 보도",
-        "url": "https://thenextweb.com/news/apple-home-robot-homeview-ultra-1000-2028",
-        "cat": "시장"
+        "date": "2026-11-04",
+        "title": "인도네시아 교육부, 로봇 용접 경진대회로 직업고 학생들의 산업용 로봇 기술 습득 장려",
+        "url": "https://www.tribunnews.com/nasional/7906830/kemendikdasmen-dorong-siswa-smk-kuasai-teknologi-robot-industri-lewat-kompetisi-lks-robotic-welding",
+        "cat": "정책"
       },
       {
-        "date": "2026-11-03",
-        "title": "나사의 스위프트 천문대 퇴역 임박… 나사가 로봇과 작별하는 것은 처음이 아니다",
-        "url": "https://www.nationalgeographic.com/science/article/space-robot-death-nasa-swift-cassini-maven",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-03",
-        "title": "FC 로리앙, 7명의 서로 다른 득점자가 올린 7골… 숫자로 본 리그 1 최악 공격진의 복합적 초상",
-        "url": "https://www.ouest-france.fr/sport/football/fc-lorient/fc-lorient-sept-buts-inscrits-par-7-buteurs-differents-portrait-robot-par-les-chiffres-de-la-pire-attaque-de-ligue-1-51fa414e-d763-11f1-a1e1-ae8104d72c9a",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-03",
-        "title": "고트하르트 터널 내부의 로봇: 직접 유지보수 작업 수행 예정",
-        "url": "https://www.tio.ch/ticino/cronaca/1960729/un-robot-nella-pancia-del-gottardo-fara-lui-le-manutenzioni",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-03",
-        "title": "드림 X60 울트라 로봇청소기 리뷰: 프리미엄 가격표를 단 똑똑한 로봇청소기",
-        "url": "https://in.mashable.com/tech/115717/dreame-x60-ultra-vacuum-cleaner-review-a-clever-robot-vacuum-with-a-premium-price-tag",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-03",
-        "title": "건설업계의 180도 변화: 프랑스, 하루에 최대 60㎡를 시공하는 벽돌공 로봇 시험 운용",
-        "url": "https://okdiario.com/curiosidades/giro-180o-construccion-francia-ya-esta-probando-robot-albanil-que-construye-hasta-60-m2-solo-dia-20688490",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-03",
-        "title": "애플, 스마트 홈 로봇 출시 연기 보도",
-        "url": "https://www.deccanchronicle.com/technology/apple-reportedly-delays-launch-of-smart-home-robot-2001374",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-03",
-        "title": "내년 대규모 상용 배치를 통해 공장을 혁신하려는 엔비디아의 휴머노이드 로봇 디지트 5",
-        "url": "https://www.lanacion.com.ar/tecnologia/asi-es-el-robot-humanoide-digit-5-de-nvidia-que-busca-revolucionar-las-fabricas-con-un-amplio-nid03112026/",
+        "date": "2026-11-04",
+        "title": "리얼보틱스, 휴머노이드 로봇 라인업 브랜드를 '리얼보틱스 시리즈 1'로 변경",
+        "url": "https://www.thewhig.com/press-releases/business-wire/realbotix-rebrands-its-humanoid-robot-line-to-realbotix-series-1/",
         "cat": "경쟁"
       },
       {
-        "date": "2026-11-03",
-        "title": "아마존의 로봇 물류창고 내부 들여다보기",
-        "url": "https://www.businessinsider.com/amazon-warehouse-where-people-robots-work-together-2026-10",
+        "date": "2026-11-04",
+        "title": "로보락, 18,500Pa 흡입력의 신형 '큐레보 S 프로' 로봇청소기 43% 할인하며 시장 공략",
+        "url": "https://gizmodo.com/roborock-goes-big-on-its-2026-robot-vacuum-and-mop-slashing-43-off-the-new-qrevo-s-pro-with-18500pa-suction-2000834673",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "피사 대학교 연구진, 바다거북에서 영감을 얻은 GPS 없는 해양 로봇 기술 개발",
+        "url": "https://www.lanazione.it/pisa/cronaca/robot-marini-senza-gps-la-soluzione-arriva-dalle-tartarughe-lo-studio-dellunipi-25fca6ed",
         "cat": "기술"
       },
       {
-        "date": "2026-11-03",
-        "title": "구글, 식물에 필요한 빛을 찾아 이동하는 인공지능 기반 바퀴 달린 화분 '스프라우트' 공개",
-        "url": "https://www.bfmtv.com/tech/intelligence-artificielle/google-devoile-sprout-un-petit-pot-a-roulettes-pilote-par-l-ia-qui-amene-votre-plante-vers-la-lumiere-dont-elle-a-besoin-et-sert-aussi-a-demontrer-la-puissance-de-ses-outils-de-vibe-coding_AV-202611030403.html",
-        "cat": "기술"
+        "date": "2026-11-04",
+        "title": "스타봇, 미국산 7,999달러 가격의 '스파크' 휴머노이드 로봇 출시",
+        "url": "https://techbullion.com/made-in-america-and-priced-at-7999-starbot-launches-spark-humanoid-robot/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "청소 로봇 제조사 페퍼민트 로보틱스, 파이 벤처스 주도로 1,000억 루피 규모 시리즈 B 투자 유치",
+        "url": "https://www.thehindubusinessline.com/companies/cleaning-robot-maker-peppermint-robotics-bags-100-cr-in-series-b-led-by-pi-ventures-and-crane-venture/article71665263.ece",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "충직한 반려 로봇인가? 로봇 개 확산에 따른 디스토피아적 우려 조명",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "칼날 정렬 불량 문제로 주의가 필요한 유아용 조리 로봇 유통 주의보",
+        "url": "https://www.lavoixdunord.fr/1751900/article/2026-11-04/vendu-chez-amazon-orchestra-vertbaudet-attention-ce-robot-de-cuisine-pour-bebe",
+        "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-11-03",
-        "title": "Aerpace Industries approves merger with Aerpace Robotics",
-        "url": "https://scanx.trade/stock-market-news/companies/aerpace-industries-approves-merger-aerpace-robotics/55256906",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-03",
-        "title": "InnoWeek 2026 showcases advances in robotics, aviation and clean energy",
-        "url": "https://www.euronews.com/2026/11/03/innoweek-2026-showcases-advances-in-robotics-aviation-and-clean-energy",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-03",
-        "title": "SpaceX-Tesla merger could give Musk control without Mars, robotaxi milestones",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/spacex-tesla-merger-could-give-musk-control-without-mars-robotaxi-milestones/articleshow/135494201.cms",
+        "date": "2026-11-04",
+        "title": "Realbotix Rebrands its Humanoid Robot Line to Realbotix Series 1",
+        "url": "https://www.thewhig.com/press-releases/business-wire/realbotix-rebrands-its-humanoid-robot-line-to-realbotix-series-1/",
         "cat": "경쟁"
       },
       {
-        "date": "2026-11-03",
-        "title": "Exclusive: Armatrix kicks off Rs 67 Cr seed round at 4.8X valuation premium",
-        "url": "https://www.europesays.com/3349960/",
+        "date": "2026-11-04",
+        "title": "TIME’s Best Inventions of 2026: This wheelchair drives like a self-driving car, with sensors, voice commands, and collision avoidance",
+        "url": "https://economictimes.indiatimes.com/world/us/times-best-inventions-of-2026-this-wheelchair-drives-like-a-self-driving-car-with-sensors-voice-commands-and-collision-avoidance/articleshow/135535441.cms",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "Robots Are Taking Over Some Human Jobs. But Some Are Being Hired To Help Them Complete Tasks.",
+        "url": "https://www.ibtimes.com/aktoria-robotics-human-operators-teleoperation-3809341",
         "cat": "시장"
       },
       {
-        "date": "2026-11-03",
-        "title": "Pudu Robotics Unveils PUDU TOMO S Series: Extending Lawn Care Automation to Blade Sharpening",
-        "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/pudu-robotics-unveils-pudu-tomo-s-series-extending-lawn-care-automation-to-blade-sharpening/",
+        "date": "2026-11-04",
+        "title": "Made in America and Priced at $7,999: StarBot Launches Spark Humanoid Robot",
+        "url": "https://techbullion.com/made-in-america-and-priced-at-7999-starbot-launches-spark-humanoid-robot/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "Cleaning robot maker Peppermint Robotics bags ₹100 cr in Series B led by pi Ventures and Crane Venture",
+        "url": "https://www.thehindubusinessline.com/companies/cleaning-robot-maker-peppermint-robotics-bags-100-cr-in-series-b-led-by-pi-ventures-and-crane-venture/article71665263.ece",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "Taiwan's Unmanned Vehicle Alliance Unveils Smart UAV and Vehicle Management System to Empower Japan's Smart Cities",
+        "url": "https://www.manilatimes.net/2026/11/04/tmt-newswire/pr-newswire/taiwans-unmanned-vehicle-alliance-unveils-smart-uav-and-vehicle-management-system-to-empower-japans-smart-cities/2461517",
         "cat": "기술"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "STMicroelectronics reveals advanced microcontrollers for real-time power control in AI datacenters and robotics",
+        "url": "https://www.manilatimes.net/2026/11/04/tmt-newswire/globenewswire/stmicroelectronics-reveals-advanced-microcontrollers-for-real-time-power-control-in-ai-datacenters-and-robotics/2461342",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-04",
+        "title": "From Real-World Applications to Scale: AiMOGA Robotics Advances Its Commercialization Strategy",
+        "url": "https://www.manilatimes.net/2026/11/04/tmt-newswire/globenewswire/from-real-world-applications-to-scale-aimoga-robotics-advances-its-commercialization-strategy/2461331",
+        "cat": "시장"
       }
     ]
   }
