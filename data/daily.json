@@ -1,117 +1,111 @@
 {
-  "asOfDate": "2026.11.05",
+  "asOfDate": "2026.11.06",
   "fx": {
-    "usdkrw": 1339
+    "usdkrw": 1345
   },
   "briefing": {
-    "dateLabel": "2026.11.05 (목)",
-    "headline": "로봇 제조사들의 저가형 휴머노이드 출시와 특수 로봇 기술 혁신이 로보틱스 시장의 상용화를 이끌고 있습니다.",
-    "summary": "저렴한 휴머노이드 로봇의 등장과 위치 추적 장치가 필요 없는 해양 로봇, 자율주행 전동 의자 등 다양한 분야에서 로봇 기술의 실생활 적용이 가속화되고 있습니다.",
+    "dateLabel": "2026.11.06 (금)",
+    "headline": "어질리티 로보틱스의 나스닥 상장과 글로벌 로봇 시장의 다변화가 주목받는 하루",
+    "summary": "휴머노이드 로봇의 상장과 군사 및 가전 등 분야별 로봇 기술의 실전 배치가 가속화되며 로봇 산업의 영향력이 확대되고 있습니다.",
     "points": [
-      "스타봇이 미국산 7,999달러 가격의 스파크 휴머노이드 로봇을 출시하며 보급형 로봇 시장 개척에 나섰습니다.",
-      "피사 대학교 연구진이 바다거북의 생태를 응용하여 위치 추적 장치 없이 항해 가능한 해양 로봇을 개발했습니다.",
-      "타임지가 선정한 혁신 제품으로 감지기와 음성 제어 기술을 결합하여 자율주행이 가능한 스마트 전동 의자가 소개되었습니다."
+      "엔비디아의 투자를 받은 어질리티 로보틱스가 미국 증시에 상장하며 휴머노이드 로봇 기업으로서의 시장 가치를 본격적으로 평가받게 되었습니다.",
+      "우크라이나군이 화염방사기를 탑재한 지상 로봇을 개발하는 등 전장에서 로봇의 역할이 실질적인 무기 체계로 진화하고 있습니다.",
+      "크라켄 로보틱스가 1억 200만 달러 규모의 신규 주문을 확보하며 해양 로봇 분야에서의 강력한 시장 지배력을 입증했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-04",
-        "title": "인도네시아 교육부, 로봇 용접 경진대회로 직업고 학생들의 산업용 로봇 기술 습득 장려",
-        "url": "https://www.tribunnews.com/nasional/7906830/kemendikdasmen-dorong-siswa-smk-kuasai-teknologi-robot-industri-lewat-kompetisi-lks-robotic-welding",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-04",
-        "title": "리얼보틱스, 휴머노이드 로봇 라인업 브랜드를 '리얼보틱스 시리즈 1'로 변경",
-        "url": "https://www.thewhig.com/press-releases/business-wire/realbotix-rebrands-its-humanoid-robot-line-to-realbotix-series-1/",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-04",
-        "title": "로보락, 18,500Pa 흡입력의 신형 '큐레보 S 프로' 로봇청소기 43% 할인하며 시장 공략",
-        "url": "https://gizmodo.com/roborock-goes-big-on-its-2026-robot-vacuum-and-mop-slashing-43-off-the-new-qrevo-s-pro-with-18500pa-suction-2000834673",
+        "date": "2026-11-05",
+        "title": "엔비디아 투자 휴머노이드 제조사 '어질리티 로보틱스', 미국 증시 상장 첫 휴머노이드 전문 기업 등극",
+        "url": "https://www.moneycontrol.com/news/business/nvidia-backed-humanoid-maker-agility-robotics-set-to-become-first-dedicated-humanoid-company-to-list-in-us-14071737.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-04",
-        "title": "피사 대학교 연구진, 바다거북에서 영감을 얻은 GPS 없는 해양 로봇 기술 개발",
-        "url": "https://www.lanazione.it/pisa/cronaca/robot-marini-senza-gps-la-soluzione-arriva-dalle-tartarughe-lo-studio-dellunipi-25fca6ed",
+        "date": "2026-11-05",
+        "title": "어질리티 로보틱스의 나스닥 데뷔, 휴머노이드 로봇 시장에 대한 검증대 되나",
+        "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-05",
+        "title": "주식 시장에 등장한 최초의 순수 휴머노이드 로봇 기업 어질리티, 투자 가치는?",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-05",
+        "title": "로보락, 블랙 프라이데이 2026 맞아 강력한 로봇 청소기 및 스팀 모델 할인 행사 진행",
+        "url": "https://www.mobilissimo.ro/stiri-diverse/roborock-intra-in-black-friday-2026-cu-aspiratoare-robot-puternice-si-modele-cu-abur-ce-produse-ajung-la-oferta",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-05",
+        "title": "암 수술까지 가능한 최신형 로봇, 페르피냥 병원에 도입된 정체는?",
+        "url": "https://actu.fr/occitanie/perpignan_66136/il-a-opere-pres-de-300-patients-en-quelques-mois-quel-est-ce-nouveau-robot-dernier-cri-a-l-hopital-de-perpignan_65013345.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-04",
-        "title": "스타봇, 미국산 7,999달러 가격의 '스파크' 휴머노이드 로봇 출시",
-        "url": "https://techbullion.com/made-in-america-and-priced-at-7999-starbot-launches-spark-humanoid-robot/",
-        "cat": "경쟁"
+        "date": "2026-11-05",
+        "title": "에코백스 디봇 T90S 프로 옴니 분석: 적응 시간이 필요한 로봇 청소기",
+        "url": "https://www.larazon.es/tecnologia-consumo/analisis/ecovacs-deebot-t90s-pro-omni-analisis-robot-aspirador-hay-darle-tiempo_202611056adf5ca5c0483453480a0ec3.html",
+        "cat": "기술"
       },
       {
-        "date": "2026-11-04",
-        "title": "청소 로봇 제조사 페퍼민트 로보틱스, 파이 벤처스 주도로 1,000억 루피 규모 시리즈 B 투자 유치",
-        "url": "https://www.thehindubusinessline.com/companies/cleaning-robot-maker-peppermint-robotics-bags-100-cr-in-series-b-led-by-pi-ventures-and-crane-venture/article71665263.ece",
-        "cat": "시장"
+        "date": "2026-11-05",
+        "title": "고가의 주방 로봇은 이제 안녕: 80가지 레시피를 갖춘 물리넥스 쿠키오로 요리 해결",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/cuisine/adieu-les-robots-de-cuisine-hors-de-prix-le-cookeo-moulinex-avec-80-recettes-regale-les-cuisiniers-397e2eda-d78d-11f1-b736-5b9907ef0b5a",
+        "cat": "기술"
       },
       {
-        "date": "2026-11-04",
-        "title": "충직한 반려 로봇인가? 로봇 개 확산에 따른 디스토피아적 우려 조명",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/04/robot-dogs-ice-dimensional-warhound",
-        "cat": "시장"
+        "date": "2026-11-05",
+        "title": "우크라이나 전쟁: 키이우 군대를 위한 새로운 무기, 화염방사기 장착 지상 로봇 개발",
+        "url": "https://www.lindependant.fr/2026/11/05/guerre-en-ukraine-bientot-une-nouvelle-arme-pour-les-troupes-de-kiev-lukraine-developpe-un-robot-terrestre-equipe-dun-lance-flammes-13637474.php",
+        "cat": "기술"
       },
       {
-        "date": "2026-11-04",
-        "title": "칼날 정렬 불량 문제로 주의가 필요한 유아용 조리 로봇 유통 주의보",
-        "url": "https://www.lavoixdunord.fr/1751900/article/2026-11-04/vendu-chez-amazon-orchestra-vertbaudet-attention-ce-robot-de-cuisine-pour-bebe",
-        "cat": "시장"
+        "date": "2026-11-05",
+        "title": "중국, 외로움 해소와 가족 구성원을 표방하는 어린이 휴머노이드 로봇 '모보' 출시",
+        "url": "https://www.antena3.ro/high-tech/chinezii-lanseaza-un-robot-umanoid-copil-care-promite-sa-puna-capat-singuratatii-si-sa-devina-un-membru-al-familiei-cum-arata-mobo-810039.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-05",
+        "title": "우크라이나 병사들, 로봇 전쟁 시대에 새로운 임무를 맡다",
+        "url": "https://www.businessinsider.com/ukraine-soldiers-new-jobs-robot-war-2026-11",
+        "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-11-04",
-        "title": "Realbotix Rebrands its Humanoid Robot Line to Realbotix Series 1",
-        "url": "https://www.thewhig.com/press-releases/business-wire/realbotix-rebrands-its-humanoid-robot-line-to-realbotix-series-1/",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-04",
-        "title": "TIME’s Best Inventions of 2026: This wheelchair drives like a self-driving car, with sensors, voice commands, and collision avoidance",
-        "url": "https://economictimes.indiatimes.com/world/us/times-best-inventions-of-2026-this-wheelchair-drives-like-a-self-driving-car-with-sensors-voice-commands-and-collision-avoidance/articleshow/135535441.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-04",
-        "title": "Robots Are Taking Over Some Human Jobs. But Some Are Being Hired To Help Them Complete Tasks.",
-        "url": "https://www.ibtimes.com/aktoria-robotics-human-operators-teleoperation-3809341",
+        "date": "2026-11-05",
+        "title": "Nvidia-backed humanoid maker Agility Robotics set to become first dedicated humanoid company to list in US",
+        "url": "https://www.moneycontrol.com/news/business/nvidia-backed-humanoid-maker-agility-robotics-set-to-become-first-dedicated-humanoid-company-to-list-in-us-14071737.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-04",
-        "title": "Made in America and Priced at $7,999: StarBot Launches Spark Humanoid Robot",
-        "url": "https://techbullion.com/made-in-america-and-priced-at-7999-starbot-launches-spark-humanoid-robot/",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-04",
-        "title": "Cleaning robot maker Peppermint Robotics bags ₹100 cr in Series B led by pi Ventures and Crane Venture",
-        "url": "https://www.thehindubusinessline.com/companies/cleaning-robot-maker-peppermint-robotics-bags-100-cr-in-series-b-led-by-pi-ventures-and-crane-venture/article71665263.ece",
+        "date": "2026-11-05",
+        "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+        "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
         "cat": "시장"
       },
       {
-        "date": "2026-11-04",
-        "title": "Taiwan's Unmanned Vehicle Alliance Unveils Smart UAV and Vehicle Management System to Empower Japan's Smart Cities",
-        "url": "https://www.manilatimes.net/2026/11/04/tmt-newswire/pr-newswire/taiwans-unmanned-vehicle-alliance-unveils-smart-uav-and-vehicle-management-system-to-empower-japans-smart-cities/2461517",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-04",
-        "title": "STMicroelectronics reveals advanced microcontrollers for real-time power control in AI datacenters and robotics",
-        "url": "https://www.manilatimes.net/2026/11/04/tmt-newswire/globenewswire/stmicroelectronics-reveals-advanced-microcontrollers-for-real-time-power-control-in-ai-datacenters-and-robotics/2461342",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-04",
-        "title": "From Real-World Applications to Scale: AiMOGA Robotics Advances Its Commercialization Strategy",
-        "url": "https://www.manilatimes.net/2026/11/04/tmt-newswire/globenewswire/from-real-world-applications-to-scale-aimoga-robotics-advances-its-commercialization-strategy/2461331",
+        "date": "2026-11-05",
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
         "cat": "시장"
+      },
+      {
+        "date": "2026-11-05",
+        "title": "Kraken Robotics Announces $102 Million in New Orders",
+        "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/kraken-robotics-announces-102-million-in-new-orders/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-05",
+        "title": "China blocks SoftBank's $5.4bn ABB robotics unit acquisition",
+        "url": "https://www.siliconrepublic.com/business/china-softbank-abb-robotics-japan-data-ai-investment",
+        "cat": "정책"
       }
     ]
   }
