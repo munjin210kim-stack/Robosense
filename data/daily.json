@@ -1,140 +1,140 @@
 {
-  "asOfDate": "2026.11.07",
+  "asOfDate": "2026.11.08",
   "fx": {
     "usdkrw": 1359
   },
   "briefing": {
-    "dateLabel": "2026.11.07 (토)",
-    "headline": "휴머노이드 로봇의 산업 현장 실전 투입이 가속화되는 가운데 글로벌 로봇 M&A 시장에는 정책적 규제 변수가 등장하고 있습니다.",
-    "summary": "제조업 및 의료 분야를 중심으로 로봇 기술의 실용화가 빠르게 진전되고 있으며, 이에 따라 시장 개편과 주요 기업들의 전략적 재편이 활발히 진행 중입니다.",
+    "dateLabel": "2026.11.08 (일)",
+    "headline": "글로벌 로보틱스 기업들의 기술 혁신과 신제품 출시 및 증시 상장이 잇따르며 시장 성장이 가속화되고 있습니다.",
+    "summary": "가정용 생활 로봇부터 첨단 의료 및 산업용 로봇에 이르기까지 다양한 분야에서 새로운 기술 적용과 기업 투자가 활발히 이어지고 있습니다.",
     "points": [
-      "샤오미의 휴머노이드 로봇이 공장 현장에 실전 투입되어 8시간 동안 근무하며 스스로 오류를 수정하는 고도화된 기술력을 선보였습니다.",
-      "글래스고 어린이 병원이 세계 최초로 소아 전용 수술 로봇을 도입하며 의료 현장에서의 로봇 활용 범위를 대폭 확대했습니다.",
-      "중국 정부가 소프트뱅크의 54억 달러 규모 대형 로봇 기업 인수를 차단하면서 글로벌 로봇 산업 내 빅딜에 대한 정책적 규제 장벽이 현실화되었습니다."
+      "에이아이모가가 국제 사용자 정상회의에서 차세대 가정용 반려 로봇 모보를 최초로 공개하고 글로벌 사전 판매를 시작했습니다.",
+      "스마트폰 제조사 아너가 고도화된 인공지능 기술과 로봇 암 카메라를 접목한 로봇 폰 2 개발을 본격화하고 있습니다.",
+      "미국의 로봇 전문 기업 어질리티 로보틱스가 주식 시장에 성공적으로 상장하며 본격적인 자금 조달과 시장 확장에 나섰습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-06",
-        "title": "유그린 넥소드 로봇 GaN: 단 20유로에 배터리를 웃게 만드는 소형 충전기",
-        "url": "https://www.generation-nt.com/actualites/ugreen-nexode-robot-gan-chargeur-rapide-65w-smartphone-pc-portable-pas-cher-2084107",
+        "date": "2026-11-07",
+        "title": "샤오미, 알리익스프레스 11.11 행사서 레드미 노트 17부터 로봇 청소기까지 6개 제품 할인 판매",
+        "url": "https://www.larazon.es/compras/xiaomi-rebaja-1111-aliexpress-seis-productos-todo-dia-redmi-note-17-robot-aspirador-proyector_202611076aec66da03bbf30bb0407832.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-06",
-        "title": "글래스고 어린이 병원, 세계 최초로 수술용 로봇 도입",
-        "url": "https://www.dailyrecord.co.uk/news/scottish-news/glasgow-kids-hospital-becomes-first-37850035",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-06",
-        "title": "로봇 청소기 및 물걸레 로봇 할인 행사 진행",
-        "url": "https://dilei.it/come-fare/lefant-m1-robot-aspirapolvere-3-in-1-offerta-amazon/2894336/",
+        "date": "2026-11-07",
+        "title": "'블레이드 러너 2099'서 로봇 역 맡은 양자경, 고정관념 극복과 60세의 결혼에 대해 언급",
+        "url": "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar",
         "cat": "시장"
       },
       {
-        "date": "2026-11-06",
-        "title": "로봇이 당신의 다음 간병인이 될 수 있을까?",
-        "url": "https://www.theglobeandmail.com/investing/personal-finance/retirement/article-could-a-robot-be-your-next-caregiver/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-06",
-        "title": "일본의 로봇 바텐더가 영국의 구인난 위기의 해답이 될 수 있을까?",
-        "url": "https://www.telegraph.co.uk/money/consumer-affairs/could-japans-robot-bartenders-be-the-answer-to-britains-nee/",
+        "date": "2026-11-07",
+        "title": "'로봇' 영화 감독 샹카르, '라마야나'의 란비르 카푸르와 야시 연기 극찬",
+        "url": "https://www.ndtvprofit.com/entertainment/robot-director-shankar-is-all-praise-for-ranbir-kapoors-ramayana-calls-yashs-ravana-a-lovable-villain-12296354",
         "cat": "시장"
       },
       {
-        "date": "2026-11-06",
-        "title": "휴머노이드 로봇이 아파트를 청소하는 모습을 보았다, 미래를 체감한 순간",
-        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "date": "2026-11-07",
+        "title": "아너, '로봇 폰 2' 준비 중… 로봇 암 카메라에 고도화된 AI 기능 탑재 예정",
+        "url": "https://www.mobilissimo.ro/stiri-telefoane/honor-pregateste-robot-phone-2-camera-pe-brat-robotic-ar-primi-functii-ai-mai-avansate",
         "cat": "기술"
       },
       {
-        "date": "2026-11-06",
-        "title": "샤오미 휴머노이드 로봇, 공장에서 8시간 근무하며 스스로 오류 수정",
-        "url": "https://navbharatlive.com/technology/xiaomi-humanoid-robot-worked-an-8-hour-shift-in-a-factory-and-corrected-its-own-mistakes-srs13",
+        "date": "2026-11-07",
+        "title": "청소 걱정 끝, 스스로 세척하는 에코백스 로봇 청소기 37% 할인 진행",
+        "url": "https://www.presse-citron.net/fini-le-menage-ce-robot-aspirateur-ecovacs-soccupe-de-tout-et-se-nettoie-seul-37/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-06",
-        "title": "전시장 너머로: 로봇과 AI, 네트워크가 실세계로 확장되는 방법",
-        "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/media-outreach-newswire/beyond-the-exhibition-floor-how-robots-ai-and-networks-are-moving-into-the-real-world/2463886",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-06",
-        "title": "2026 디왈리 선물 가이드: 로봇 청소기부터 스마트 TV까지 유용한 가젯 10선",
-        "url": "https://www.prabhatkhabar.com/technology/diwali-2026-gift-guide-best-gadgets-for-family-friends",
+        "date": "2026-11-07",
+        "title": "이탈리아 방송인 델 데비오 \"로봇은 끔찍해, 수동 타자기 쓰며 인공지능 시대 경계\"",
+        "url": "https://www.ilfattoquotidiano.it/2026/11/07/paolo-del-debbio-a-16-anni-ebbi-un-esaurimento-nervoso-per-aver-letto-in-latino-35-libri-di-san-tommaso-non-ho-paura-della-morte-mi-fa-paura-la/8563893/",
         "cat": "시장"
       },
       {
-        "date": "2026-11-06",
-        "title": "2026 블랙프라이데이: eMAG에서 40% 이상 할인 중인 쉬운 청소를 위한 드리미 청소기 3종",
-        "url": "https://www.libertatea.ro/stiri/black-friday-2026-trei-aspiratoare-dreame-pentru-o-curatenie-mai-simpla-cu-reduceri-de-peste-40percent-la-emag-fbm5459",
+        "date": "2026-11-07",
+        "title": "은퇴하는 공장 노동자, 그 빈자리를 채우는 2대의 작업 로봇",
+        "url": "https://www.laprovinciadicomo.it/stories/premium/como-cintura/loperaio-va-in-pensione-al-suo-posto-due-robot-o_3989590_11/",
         "cat": "시장"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "로봇들이 명예를 걸고 맞붙는 런던의 이색 로봇 파이트 현장",
+        "url": "https://www.standard.co.uk/news/tech/robot-wars-fighting-stoke-newington-b1303549.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "에이아이모가, 2026 국제 사용자 정상회의서 반려 로봇 '모보' 공개 및 사전 예약 개시",
+        "url": "https://www.manilatimes.net/2026/11/07/tmt-newswire/pr-newswire/home-companion-robot-mobo-to-debut-globally-and-open-pre-orders-as-aimoga-showcases-its-robot-family-at-the-2026-omoda-jaecoo-international-user-summit/2464446",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "루아양 파스퇴르 클리닉, 남성 건강 캠페인 맞아 방문객 대상 '다빈치 X' 수술 로봇 체험 제공",
+        "url": "https://www.sudouest.fr/charente-maritime/royan/a-royan-la-clinique-pasteur-fait-essayer-son-robot-chirurgical-da-vinci-x-aux-visiteurs-dans-le-cadre-de-movember-31415600.php",
+        "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-11-06",
-        "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-        "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+        "date": "2026-11-07",
+        "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
+        "url": "https://www.marketscreener.com/news/softbank-abb-explore-china-carve-out-to-salvage-robotics-deal-bloomberg-news-reports-ce785fd2de8bf52d",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-07",
+        "title": "Patil Automation Marks a Strong First Half of FY27; Consolidated Revenue Up 37% YoY, Net Profit Up 48%",
+        "url": "https://www.newsx.com/business-2/patil-automation-marks-a-strong-first-half-of-fy27-consolidated-revenue-up-37-yoy-net-profit-up-48-290616/",
         "cat": "시장"
       },
       {
-        "date": "2026-11-06",
-        "title": "Tesla will wind down Cybertruck production from 2027. Here's why",
-        "url": "https://www.theweek.in/news/biz-tech/2026/11/06/tesla-will-wind-down-cybertruck-production-from-2027-heres-why.html",
-        "cat": "시장"
+        "date": "2026-11-07",
+        "title": "Home Companion Robot Mobo to Debut Globally and Open Pre-orders as AiMOGA Showcases Its Robot Family at the 2026 OMODA & JAECOO International User Summit",
+        "url": "https://www.manilatimes.net/2026/11/07/tmt-newswire/pr-newswire/home-companion-robot-mobo-to-debut-globally-and-open-pre-orders-as-aimoga-showcases-its-robot-family-at-the-2026-omoda-jaecoo-international-user-summit/2464446",
+        "cat": "기술"
       },
       {
-        "date": "2026-11-06",
-        "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+        "date": "2026-11-07",
+        "title": "How Pudu Robotics Plans to Scale AI Across Delivery Robots, Humanoids, Lawn Care and more",
+        "url": "https://techbullion.com/how-pudu-robotics-plans-to-scale-ai-across-delivery-robots-humanoids-lawn-care-and-more/",
         "cat": "기술"
       },
       {
         "date": "2026-11-06",
-        "title": "Innovative Research Center Opens to Transform Agriculture with AI and Sustainable Practices",
-        "url": "https://economictimes.indiatimes.com/news/international/us/a-billionaire-couple-donated-50-million-to-uc-davis-for-agricultural-research-in-2026-a-34000-square-foot-center-opened-in-california/articleshow/135555140.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-06",
-        "title": "Analog Devices Completes Acquisition of Alif Semiconductor",
-        "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/pr-newswire/analog-devices-completes-acquisition-of-alif-semiconductor/2463870",
+        "title": "Salem-based Agility Robotics goes public on stock market",
+        "url": "https://www.statesmanjournal.com/story/money/business/2026/11/06/agility-robotics-salem-public-stock-market/92630246007/",
         "cat": "시장"
       },
       {
         "date": "2026-11-06",
-        "title": "China blocks SoftBank's $5.4 billion acquisition of ABB Robotics",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-blocks-softbanks-5-4-billion-acquisition-of-abb-robotics/articleshow/135596577.cms",
+        "title": "“The vision is to give them a safe haven where..”: Travis Kelce's $2M commitment to Kansas City kids goes beyond STEM as Black & Veatch mentors help shape their careers",
+        "url": "https://timesofindia.indiatimes.com/sports/nfl/news/the-vision-is-to-give-them-a-safe-haven-where-how-travis-kelces-2m-commitment-to-kansas-city-kids-goes-beyond-stem-as-black-veatch-mentors-help-shape-their-careers/articleshow/135609785.cms",
         "cat": "정책"
       },
       {
         "date": "2026-11-06",
-        "title": "SF tech founder ditches downtown office after dog attacks",
-        "url": "https://nypost.com/2026/11/05/tech/sf-tech-founder-ditches-downtown-office-after-dog-attacks/",
+        "title": "AI robotics company founder says relocating office in America's 'hottest startup city' San Francisco, which he calls home, blames: Street dogs, drugs and ...",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-robotics-company-founder-says-relocating-office-in-americas-hottest-startup-city-san-francisco-which-he-calls-home-blames-street-dogs-drugs-and-/articleshow/135616386.cms",
         "cat": "시장"
       },
       {
         "date": "2026-11-06",
-        "title": "In Profile: How a Lens-Maker Turned a Family Workshop Into an Empire Supplying Apple",
-        "url": "https://www.caixinglobal.com/2026-11-06/in-profile-how-a-lens-maker-turned-a-family-workshop-into-an-empire-supplying-apple-102501772.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-05",
-        "title": "LUXEED and AiMOGA Showcase Intelligent Mobility and Robotics at Chery International User Summit",
-        "url": "https://www.manilatimes.net/2026/11/06/tmt-newswire/globenewswire/luxeed-and-aimoga-showcase-intelligent-mobility-and-robotics-at-chery-international-user-summit/2463707",
+        "title": "Brooklyn whiz kids building robots NASA will send to space",
+        "url": "https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-05",
-        "title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
-        "url": "https://siliconangle.com/2026/11/05/humanoid-robot-maker-agility-robotics-debuts-on-the-nasdaq-after-spac-merger/",
+        "date": "2026-11-06",
+        "title": "Sandisk: 3.5x P/E And Robotics Potential Changed My Mind (Rating Upgrade)",
+        "url": "https://seekingalpha.com/article/4964112-sandisk-3-5x-pe-and-robotics-potential-changed-my-mind-rating-upgrade",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-06",
+        "title": "UAE opens its first humanoid robotics showroom as Dubai races to 200,000 robots",
+        "url": "https://www.thenationalnews.com/news/uae/2026/11/06/uae-opens-its-first-humanoid-robotics-showroom-as-dubai-races-to-200000-robots/",
         "cat": "시장"
       }
     ]
