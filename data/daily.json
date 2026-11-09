@@ -1,141 +1,129 @@
 {
-  "asOfDate": "2026.11.08",
+  "asOfDate": "2026.11.09",
   "fx": {
     "usdkrw": 1359
   },
   "briefing": {
-    "dateLabel": "2026.11.08 (일)",
-    "headline": "글로벌 로보틱스 기업들의 기술 혁신과 신제품 출시 및 증시 상장이 잇따르며 시장 성장이 가속화되고 있습니다.",
-    "summary": "가정용 생활 로봇부터 첨단 의료 및 산업용 로봇에 이르기까지 다양한 분야에서 새로운 기술 적용과 기업 투자가 활발히 이어지고 있습니다.",
+    "dateLabel": "2026.11.09 (월)",
+    "headline": "인공지능 기술 고도화에 힘입어 산업 현장과 일상 속 로보틱스 적용이 대폭 확대되고 있습니다.",
+    "summary": "산업용 로봇과 생활 서비스 로봇 시장이 함께 성장을 이어가는 가운데 기업 간 대형 인수합병과 규제 대응 움직임도 가속화되고 있습니다.",
     "points": [
-      "에이아이모가가 국제 사용자 정상회의에서 차세대 가정용 반려 로봇 모보를 최초로 공개하고 글로벌 사전 판매를 시작했습니다.",
-      "스마트폰 제조사 아너가 고도화된 인공지능 기술과 로봇 암 카메라를 접목한 로봇 폰 2 개발을 본격화하고 있습니다.",
-      "미국의 로봇 전문 기업 어질리티 로보틱스가 주식 시장에 성공적으로 상장하며 본격적인 자금 조달과 시장 확장에 나섰습니다."
+      "S&P 글로벌은 인공지능 기술이 산업용 로봇 성장을 촉진하겠지만 제조업체보다 로봇을 도입하는 고객사가 더 큰 수익성 혜택을 누릴 것으로 예측했습니다.",
+      "벽돌을 정밀하게 쌓으며 인력 부족을 해소할 수 있는 고성능 건설 로봇이 2027년부터 실제 시공 현장에 본격 투입될 전망입니다.",
+      "소프트뱅크와 ABB는 규제 당국의 제재로 차질을 빚은 로보틱스 인수 거래를 최종 성사시키기 위해 중국 사업 부문의 분리를 검토하고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-07",
-        "title": "샤오미, 알리익스프레스 11.11 행사서 레드미 노트 17부터 로봇 청소기까지 6개 제품 할인 판매",
-        "url": "https://www.larazon.es/compras/xiaomi-rebaja-1111-aliexpress-seis-productos-todo-dia-redmi-note-17-robot-aspirador-proyector_202611076aec66da03bbf30bb0407832.html",
+        "date": "2026-11-08",
+        "title": "이번 주말 아마존에서 최대 200달러 할인 혜택 제공",
+        "url": "https://www.nbcnews.com/select/shopping/shark-vacuum-sale-amazon-2026-rcna608015",
         "cat": "시장"
       },
       {
-        "date": "2026-11-07",
-        "title": "'블레이드 러너 2099'서 로봇 역 맡은 양자경, 고정관념 극복과 60세의 결혼에 대해 언급",
-        "url": "https://www.theguardian.com/film/2026/nov/07/michelle-yeoh-interview-blade-runner-2099-everything-everywhere-oscar",
+        "date": "2026-11-08",
+        "title": "이탈리아에 등장한 4족 보행 로봇 '로버 X1', 가격 및 판매처 정보",
+        "url": "https://www.smartworld.it/news/rover-x1-robot-quadrupede-italia-prezzo-dove-comprarlo.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-07",
-        "title": "'로봇' 영화 감독 샹카르, '라마야나'의 란비르 카푸르와 야시 연기 극찬",
-        "url": "https://www.ndtvprofit.com/entertainment/robot-director-shankar-is-all-praise-for-ranbir-kapoors-ramayana-calls-yashs-ravana-a-lovable-villain-12296354",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-07",
-        "title": "아너, '로봇 폰 2' 준비 중… 로봇 암 카메라에 고도화된 AI 기능 탑재 예정",
-        "url": "https://www.mobilissimo.ro/stiri-telefoane/honor-pregateste-robot-phone-2-camera-pe-brat-robotic-ar-primi-functii-ai-mai-avansate",
+        "date": "2026-11-08",
+        "title": "파키스탄에서 제작된 로봇이 카라치 식당 손님들에게 미래형 서빙 제공",
+        "url": "https://www.manilatimes.net/2026/11/08/world/pakistan-built-robots-serve-taste-of-future-to-karachi-diners/2464708",
         "cat": "기술"
       },
       {
-        "date": "2026-11-07",
-        "title": "청소 걱정 끝, 스스로 세척하는 에코백스 로봇 청소기 37% 할인 진행",
-        "url": "https://www.presse-citron.net/fini-le-menage-ce-robot-aspirateur-ecovacs-soccupe-de-tout-et-se-nettoie-seul-37/",
+        "date": "2026-11-08",
+        "title": "리스티오 시깃 일행 체포 전, 하비부록만 의원이 수유디 경찰청장에 경고 전달",
+        "url": "https://www.tribunnews.com/nasional/7908492/sebelum-penangkapan-listyo-sigit-cs-habiburokhman-kirim-peringatan-ke-kapolri-suyudi",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-08",
+        "title": "집안 청소 시간을 2시간 줄여준 로봇 청소기의 혁신적인 효과",
+        "url": "https://www.bfmtv.com/pratique/maison/depuis-qu-ils-l-ont-ces-francais-ne-passent-plus-2-heures-a-nettoyer-leur-maison-cet-aspirateur-robot-change-tout_AB-202611080003.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-07",
-        "title": "이탈리아 방송인 델 데비오 \"로봇은 끔찍해, 수동 타자기 쓰며 인공지능 시대 경계\"",
-        "url": "https://www.ilfattoquotidiano.it/2026/11/07/paolo-del-debbio-a-16-anni-ebbi-un-esaurimento-nervoso-per-aver-letto-in-latino-35-libri-di-san-tommaso-non-ho-paura-della-morte-mi-fa-paura-la/8563893/",
+        "date": "2026-11-08",
+        "title": "벽돌을 정밀하게 쌓아 올리는 건설 로봇, 2027년 현장 투입 예정",
+        "url": "https://www.marca.com/tecnologia/2026/11/08/robot-capaz-levantar-60-metros-cuadrados-muro-colocar-ladrillos-precision-trabajar-albaniles-llegara-obras-2027.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-08",
+        "title": "요리사들의 비밀 무기, 120유로 미만으로 출시된 신형 닌자 주방 로봇",
+        "url": "https://www.20minutes.fr/guide-achat/4260697-20261108-secret-cuisiniers-nouveau-robot-ninja-moins-120",
         "cat": "시장"
       },
       {
-        "date": "2026-11-07",
-        "title": "은퇴하는 공장 노동자, 그 빈자리를 채우는 2대의 작업 로봇",
-        "url": "https://www.laprovinciadicomo.it/stories/premium/como-cintura/loperaio-va-in-pensione-al-suo-posto-due-robot-o_3989590_11/",
+        "date": "2026-11-08",
+        "title": "S&P 글로벌 \"AI가 산업용 로봇 성장을 견인하지만 제조사보다 고객이 더 큰 혜택을 볼 것\"",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-revolutionizes-industrial-robotics-customers-set-to-gain-more-than-manufacturers-says-sp-global-report/articleshow/135651846.cms",
         "cat": "시장"
       },
       {
-        "date": "2026-11-07",
-        "title": "로봇들이 명예를 걸고 맞붙는 런던의 이색 로봇 파이트 현장",
-        "url": "https://www.standard.co.uk/news/tech/robot-wars-fighting-stoke-newington-b1303549.html",
+        "date": "2026-11-08",
+        "title": "로봇 서빙으로 미래의 맛을 선사하는 카라치의 음식점들",
+        "url": "https://www.bangkokpost.com/life/tech/3351011/robots-serve-taste-of-future-to-karachi-diners",
         "cat": "기술"
       },
       {
-        "date": "2026-11-07",
-        "title": "에이아이모가, 2026 국제 사용자 정상회의서 반려 로봇 '모보' 공개 및 사전 예약 개시",
-        "url": "https://www.manilatimes.net/2026/11/07/tmt-newswire/pr-newswire/home-companion-robot-mobo-to-debut-globally-and-open-pre-orders-as-aimoga-showcases-its-robot-family-at-the-2026-omoda-jaecoo-international-user-summit/2464446",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-07",
-        "title": "루아양 파스퇴르 클리닉, 남성 건강 캠페인 맞아 방문객 대상 '다빈치 X' 수술 로봇 체험 제공",
-        "url": "https://www.sudouest.fr/charente-maritime/royan/a-royan-la-clinique-pasteur-fait-essayer-son-robot-chirurgical-da-vinci-x-aux-visiteurs-dans-le-cadre-de-movember-31415600.php",
+        "date": "2026-11-08",
+        "title": "로봇들의 체육관: 물병 채우기 같은 단순 작업도 익히는 머신 학습 현장",
+        "url": "https://www.elespanol.com/omicrono/tecnologia/20261108/gimnasio-robots-entrenan-maquinas-aprender-tareas-sencillas-llenar-botella/1003744441657_0.html",
         "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-11-07",
-        "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports",
-        "url": "https://www.marketscreener.com/news/softbank-abb-explore-china-carve-out-to-salvage-robotics-deal-bloomberg-news-reports-ce785fd2de8bf52d",
+        "date": "2026-11-08",
+        "title": "AI to boost industrial robotics growth, but manufacturers may benefit less than customers: S&P Global",
+        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-revolutionizes-industrial-robotics-customers-set-to-gain-more-than-manufacturers-says-sp-global-report/articleshow/135651846.cms",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-08",
+        "title": "SoftBank, ABB consider China carve-out to salvage robotics deal",
+        "url": "https://www.japantimes.co.jp/business/2026/11/08/companies/softbank-abb-china-carve-out/",
         "cat": "경쟁"
       },
       {
-        "date": "2026-11-07",
-        "title": "Patil Automation Marks a Strong First Half of FY27; Consolidated Revenue Up 37% YoY, Net Profit Up 48%",
-        "url": "https://www.newsx.com/business-2/patil-automation-marks-a-strong-first-half-of-fy27-consolidated-revenue-up-37-yoy-net-profit-up-48-290616/",
-        "cat": "시장"
+        "date": "2026-11-08",
+        "title": "Behind the scenes as Newcastle NHS surgeons learn how to use robots transforming health care",
+        "url": "https://www.chroniclelive.co.uk/news/north-east-news/gallery/behind-scenes-newcastle-nhs-surgeons-34861665",
+        "cat": "기술"
       },
       {
-        "date": "2026-11-07",
-        "title": "Home Companion Robot Mobo to Debut Globally and Open Pre-orders as AiMOGA Showcases Its Robot Family at the 2026 OMODA & JAECOO International User Summit",
-        "url": "https://www.manilatimes.net/2026/11/07/tmt-newswire/pr-newswire/home-companion-robot-mobo-to-debut-globally-and-open-pre-orders-as-aimoga-showcases-its-robot-family-at-the-2026-omoda-jaecoo-international-user-summit/2464446",
+        "date": "2026-11-08",
+        "title": "Why ‘physical AI’ marks the next frontier in industrial applications",
+        "url": "https://indianexpress.com/article/explained/explained-ai/physical-ai-artificial-intelligence-applications-adnoc-openai-10954879/",
         "cat": "기술"
       },
       {
         "date": "2026-11-07",
-        "title": "How Pudu Robotics Plans to Scale AI Across Delivery Robots, Humanoids, Lawn Care and more",
-        "url": "https://techbullion.com/how-pudu-robotics-plans-to-scale-ai-across-delivery-robots-humanoids-lawn-care-and-more/",
+        "title": "drone system through its first test in Latvia – Resilience Media",
+        "url": "https://www.europesays.com/3359854/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-06",
-        "title": "Salem-based Agility Robotics goes public on stock market",
-        "url": "https://www.statesmanjournal.com/story/money/business/2026/11/06/agility-robotics-salem-public-stock-market/92630246007/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-06",
-        "title": "“The vision is to give them a safe haven where..”: Travis Kelce's $2M commitment to Kansas City kids goes beyond STEM as Black & Veatch mentors help shape their careers",
-        "url": "https://timesofindia.indiatimes.com/sports/nfl/news/the-vision-is-to-give-them-a-safe-haven-where-how-travis-kelces-2m-commitment-to-kansas-city-kids-goes-beyond-stem-as-black-veatch-mentors-help-shape-their-careers/articleshow/135609785.cms",
+        "date": "2026-11-07",
+        "title": "Why Beijing blocked SoftBank’s $5.4 billion ABB Robotics deal? Setback for Masayoshi Son’s physical AI ambitions",
+        "url": "https://www.livemint.com/companies/why-beijing-blocked-softbank-s-5-4-billion-abb-robotics-deal-setback-for-masayoshi-son-s-physical-ai-ambitions-11794061545591.html",
         "cat": "정책"
       },
       {
-        "date": "2026-11-06",
-        "title": "AI robotics company founder says relocating office in America's 'hottest startup city' San Francisco, which he calls home, blames: Street dogs, drugs and ...",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-robotics-company-founder-says-relocating-office-in-americas-hottest-startup-city-san-francisco-which-he-calls-home-blames-street-dogs-drugs-and-/articleshow/135616386.cms",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-06",
-        "title": "Brooklyn whiz kids building robots NASA will send to space",
-        "url": "https://nypost.com/2026/11/06/science/brooklyn-whiz-kids-building-robots-nasa-will-send-to-space/",
+        "date": "2026-11-07",
+        "title": "Robot cleaner topples during SF resident's post",
+        "url": "https://nypost.com/2026/11/07/tech/robot-cleaner-topples-during-sf-residents-post-party-cleanup/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-06",
-        "title": "Sandisk: 3.5x P/E And Robotics Potential Changed My Mind (Rating Upgrade)",
-        "url": "https://seekingalpha.com/article/4964112-sandisk-3-5x-pe-and-robotics-potential-changed-my-mind-rating-upgrade",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-06",
-        "title": "UAE opens its first humanoid robotics showroom as Dubai races to 200,000 robots",
-        "url": "https://www.thenationalnews.com/news/uae/2026/11/06/uae-opens-its-first-humanoid-robotics-showroom-as-dubai-races-to-200000-robots/",
-        "cat": "시장"
+        "date": "2026-11-07",
+        "title": "Rocket Lab Just Built a Space Robot",
+        "url": "https://www.europesays.com/3358990/",
+        "cat": "기술"
       }
     ]
   }
