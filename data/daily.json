@@ -1,129 +1,99 @@
 {
-  "asOfDate": "2026.11.09",
+  "asOfDate": "2026.11.10",
   "fx": {
-    "usdkrw": 1359
+    "usdkrw": 1347
   },
   "briefing": {
-    "dateLabel": "2026.11.09 (월)",
-    "headline": "인공지능 기술 고도화에 힘입어 산업 현장과 일상 속 로보틱스 적용이 대폭 확대되고 있습니다.",
-    "summary": "산업용 로봇과 생활 서비스 로봇 시장이 함께 성장을 이어가는 가운데 기업 간 대형 인수합병과 규제 대응 움직임도 가속화되고 있습니다.",
+    "dateLabel": "2026.11.10 (화)",
+    "headline": "우주 건설부터 도심 자율주행 안전성 이슈까지 로봇 기술의 실전 적용과 시장 확대가 전방위로 가속화되고 있습니다.",
+    "summary": "우주 공간에서의 무인 건설 성공과 같은 파격적 기술 진보와 함께 소비자 시장 확장 및 도심 운용 안전성 확보가 주요 과제로 떠오르고 있습니다.",
     "points": [
-      "S&P 글로벌은 인공지능 기술이 산업용 로봇 성장을 촉진하겠지만 제조업체보다 로봇을 도입하는 고객사가 더 큰 수익성 혜택을 누릴 것으로 예측했습니다.",
-      "벽돌을 정밀하게 쌓으며 인력 부족을 해소할 수 있는 고성능 건설 로봇이 2027년부터 실제 시공 현장에 본격 투입될 전망입니다.",
-      "소프트뱅크와 ABB는 규제 당국의 제재로 차질을 빚은 로보틱스 인수 거래를 최종 성사시키기 위해 중국 사업 부문의 분리를 검토하고 있습니다."
+      "우주 공간에서 사람의 직접적인 도움이나 수동 도구 없이 로봇이 최초로 구조물을 건설하는 데 성공하여 우주 로보틱스 기술의 획기적인 전기 마련했습니다.",
+      "에스토니아 탈린에서 배달 로봇이 버스와 충돌해 9명이 다치는 사고가 발생함에 따라 자율주행 로봇의 상용화에 따른 안전 기준과 규제 마련의 필요성이 증대되었습니다.",
+      "리스본 웹서밋 2026이 휴머노이드 로봇의 연설 및 대규모 해외 대표단의 참가 속에 막을 올리며 신체형 인공지능 기반의 글로벌 기술 경쟁이 한층 열기를 띠고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-08",
-        "title": "이번 주말 아마존에서 최대 200달러 할인 혜택 제공",
-        "url": "https://www.nbcnews.com/select/shopping/shark-vacuum-sale-amazon-2026-rcna608015",
+        "date": "2026-11-09",
+        "title": "IES 에르모헤네스 로드리게스 학생 4명, 로봇 덕분에 푸에르토리코 세계 로봇 올림피아드 참가",
+        "url": "https://www.lanzadigital.com/provincia/herencia/un-robot-lleva-a-4-estudiantes-del-ies-hermogenes-rodriguez-a-la-olimpiada-mundial-de-robotica-en-puerto-rico/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "샤오미, 스페인에서 가장 강력한 로봇청소기 출시",
+        "url": "https://www.lasexta.com/tecnologia-tecnoxplora/gadgets/xiaomi-lanza-robot-aspirador-mas-potente-espana_202611096af1d5a44196933d7ed6cd92.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-08",
-        "title": "이탈리아에 등장한 4족 보행 로봇 '로버 X1', 가격 및 판매처 정보",
-        "url": "https://www.smartworld.it/news/rover-x1-robot-quadrupede-italia-prezzo-dove-comprarlo.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-08",
-        "title": "파키스탄에서 제작된 로봇이 카라치 식당 손님들에게 미래형 서빙 제공",
-        "url": "https://www.manilatimes.net/2026/11/08/world/pakistan-built-robots-serve-taste-of-future-to-karachi-diners/2464708",
+        "date": "2026-11-09",
+        "title": "로봇, 우주비행사나 수동 도구 없이 최초로 우주 구조물 건설 성공",
+        "url": "https://www.diariocordoba.com/tendencias21/2026/11/09/robot-construye-primera-vez-estructura-136253349.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-08",
-        "title": "리스티오 시깃 일행 체포 전, 하비부록만 의원이 수유디 경찰청장에 경고 전달",
-        "url": "https://www.tribunnews.com/nasional/7908492/sebelum-penangkapan-listyo-sigit-cs-habiburokhman-kirim-peringatan-ke-kapolri-suyudi",
+        "date": "2026-11-09",
+        "title": "⚡ 주간 리캡: SSHole 취약점 악용, APT 루트 RCE, 로봇 탈취, 15,000개 사이트 해킹 등",
+        "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "로보락 Q7 L5 및 큐리보 S 프로 40% 이상 할인 — 최저가 로봇청소기 3종 추가 할인",
+        "url": "https://www.tomsguide.com/home/home-appliances/save-over-40-percent-on-roborocks-q7-l5-and-qrevo-s-pro-plus-3-more-rock-bottom-robot-vacuum-prices",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "베스트셀러로 등수한 리들의 신형 컴팩트 주방용 로봇",
+        "url": "https://www.ideal.es/sociedad/nuevo-robot-cocina-compacto-lidl-convertido-exito-20261109123106-nt.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "40년간의 해양 탐사 중 단 11번만 발견된 투명 머리 물고기의 실체",
+        "url": "https://www.infobae.com/america/ciencia-america/2026/11/09/como-es-el-pez-con-cabeza-transparente-que-solo-fue-visto-11-veces-en-40-anos-de-exploracion-marina/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "탈린에서 배달 로봇이 버스와 충돌하여 9명 부상",
+        "url": "https://www.naturalnews.com/2026-11-09-delivery-robot-collides-with-bus-injuring-nine.html",
         "cat": "정책"
-      },
-      {
-        "date": "2026-11-08",
-        "title": "집안 청소 시간을 2시간 줄여준 로봇 청소기의 혁신적인 효과",
-        "url": "https://www.bfmtv.com/pratique/maison/depuis-qu-ils-l-ont-ces-francais-ne-passent-plus-2-heures-a-nettoyer-leur-maison-cet-aspirateur-robot-change-tout_AB-202611080003.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-08",
-        "title": "벽돌을 정밀하게 쌓아 올리는 건설 로봇, 2027년 현장 투입 예정",
-        "url": "https://www.marca.com/tecnologia/2026/11/08/robot-capaz-levantar-60-metros-cuadrados-muro-colocar-ladrillos-precision-trabajar-albaniles-llegara-obras-2027.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-08",
-        "title": "요리사들의 비밀 무기, 120유로 미만으로 출시된 신형 닌자 주방 로봇",
-        "url": "https://www.20minutes.fr/guide-achat/4260697-20261108-secret-cuisiniers-nouveau-robot-ninja-moins-120",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-08",
-        "title": "S&P 글로벌 \"AI가 산업용 로봇 성장을 견인하지만 제조사보다 고객이 더 큰 혜택을 볼 것\"",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-revolutionizes-industrial-robotics-customers-set-to-gain-more-than-manufacturers-says-sp-global-report/articleshow/135651846.cms",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-08",
-        "title": "로봇 서빙으로 미래의 맛을 선사하는 카라치의 음식점들",
-        "url": "https://www.bangkokpost.com/life/tech/3351011/robots-serve-taste-of-future-to-karachi-diners",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-08",
-        "title": "로봇들의 체육관: 물병 채우기 같은 단순 작업도 익히는 머신 학습 현장",
-        "url": "https://www.elespanol.com/omicrono/tecnologia/20261108/gimnasio-robots-entrenan-maquinas-aprender-tareas-sencillas-llenar-botella/1003744441657_0.html",
-        "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-11-08",
-        "title": "AI to boost industrial robotics growth, but manufacturers may benefit less than customers: S&P Global",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/ai-revolutionizes-industrial-robotics-customers-set-to-gain-more-than-manufacturers-says-sp-global-report/articleshow/135651846.cms",
+        "date": "2026-11-09",
+        "title": "ListEasier Launches AI Manufacturing Robotics Operations to Automate Product Listings",
+        "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/listeasier-launches-ai-manufacturing-robotics-operations-to-automate-product-listings/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "How Bain Capital’s Ajay Agarwal bet early on robots-and now sees a ‘golden era’ for physical AI",
+        "url": "https://fortune.com/2026/11/09/bain-capital-ajay-agarwal-invested-kiva-robots-amazon-acquisition-physical-ai/",
         "cat": "시장"
       },
       {
-        "date": "2026-11-08",
-        "title": "SoftBank, ABB consider China carve-out to salvage robotics deal",
-        "url": "https://www.japantimes.co.jp/business/2026/11/08/companies/softbank-abb-china-carve-out/",
+        "date": "2026-11-09",
+        "title": "SoftBank faces questions on AI strategy ahead of earnings after selloff",
+        "url": "https://thenextweb.com/news/softbank-earnings-ai-strategy-selloff",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "LINXAI Robotics Claims Gold and Two Bronzes at First CMG World Robot Mount Tai Competition",
+        "url": "https://www.prnewswire.co.uk/news-releases/linxai-robotics-claims-gold-and-two-bronzes-at-first-cmg-world-robot-mount-tai-competition-302933216.html",
         "cat": "경쟁"
       },
       {
-        "date": "2026-11-08",
-        "title": "Behind the scenes as Newcastle NHS surgeons learn how to use robots transforming health care",
-        "url": "https://www.chroniclelive.co.uk/news/north-east-news/gallery/behind-scenes-newcastle-nhs-surgeons-34861665",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-08",
-        "title": "Why ‘physical AI’ marks the next frontier in industrial applications",
-        "url": "https://indianexpress.com/article/explained/explained-ai/physical-ai-artificial-intelligence-applications-adnoc-openai-10954879/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-07",
-        "title": "drone system through its first test in Latvia – Resilience Media",
-        "url": "https://www.europesays.com/3359854/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-07",
-        "title": "Why Beijing blocked SoftBank’s $5.4 billion ABB Robotics deal? Setback for Masayoshi Son’s physical AI ambitions",
-        "url": "https://www.livemint.com/companies/why-beijing-blocked-softbank-s-5-4-billion-abb-robotics-deal-setback-for-masayoshi-son-s-physical-ai-ambitions-11794061545591.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-07",
-        "title": "Robot cleaner topples during SF resident's post",
-        "url": "https://nypost.com/2026/11/07/tech/robot-cleaner-topples-during-sf-residents-post-party-cleanup/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-07",
-        "title": "Rocket Lab Just Built a Space Robot",
-        "url": "https://www.europesays.com/3358990/",
-        "cat": "기술"
+        "date": "2026-11-09",
+        "title": "Lisbon Web Summit 2026 opens with humanoid robot speakers and record Chinese delegation",
+        "url": "https://www.euronews.com/2026/11/09/lisbon-web-summit-2026-opens-with-humanoid-robot-speakers-and-record-chinese-delegation",
+        "cat": "경쟁"
       }
     ]
   }
