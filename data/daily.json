@@ -1,99 +1,141 @@
 {
-  "asOfDate": "2026.11.10",
+  "asOfDate": "2026.11.11",
   "fx": {
-    "usdkrw": 1347
+    "usdkrw": 1339
   },
   "briefing": {
-    "dateLabel": "2026.11.10 (화)",
-    "headline": "우주 건설부터 도심 자율주행 안전성 이슈까지 로봇 기술의 실전 적용과 시장 확대가 전방위로 가속화되고 있습니다.",
-    "summary": "우주 공간에서의 무인 건설 성공과 같은 파격적 기술 진보와 함께 소비자 시장 확장 및 도심 운용 안전성 확보가 주요 과제로 떠오르고 있습니다.",
+    "dateLabel": "2026.11.11 (수)",
+    "headline": "우주 건설 로봇의 성과와 초지능형 인공지능의 결합으로 로보틱스 산업의 기술적 경계가 빠르게 확장되고 있습니다.",
+    "summary": "최근 로보틱스 시장은 우주 탐사 및 사회적 문제 해결을 위한 응용 분야의 확대와 함께 차세대 인공지능 모델 탑재를 통한 기술적 도약이 두드러지고 있습니다.",
     "points": [
-      "우주 공간에서 사람의 직접적인 도움이나 수동 도구 없이 로봇이 최초로 구조물을 건설하는 데 성공하여 우주 로보틱스 기술의 획기적인 전기 마련했습니다.",
-      "에스토니아 탈린에서 배달 로봇이 버스와 충돌해 9명이 다치는 사고가 발생함에 따라 자율주행 로봇의 상용화에 따른 안전 기준과 규제 마련의 필요성이 증대되었습니다.",
-      "리스본 웹서밋 2026이 휴머노이드 로봇의 연설 및 대규모 해외 대표단의 참가 속에 막을 올리며 신체형 인공지능 기반의 글로벌 기술 경쟁이 한층 열기를 띠고 있습니다."
+      "로봇이 역사상 처음으로 우주 공간에 구조물을 직접 건설하며 우주 탐사 및 인프라 구축의 새로운 가능성을 열었습니다.",
+      "학교 폭력 피해자를 돕기 위해 학생들이 개발한 로봇이 미국 국제 대회에서 은상을 수상하며 사회 문제 해결을 위한 로봇 활용이 주목받고 있습니다.",
+      "앤트로픽이 로보틱스와 과학 연구 성과를 높이는 차세대 인공지능 모델을 발표하며 로봇 소프트웨어 경쟁이 한층 치열해지고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-09",
-        "title": "IES 에르모헤네스 로드리게스 학생 4명, 로봇 덕분에 푸에르토리코 세계 로봇 올림피아드 참가",
-        "url": "https://www.lanzadigital.com/provincia/herencia/un-robot-lleva-a-4-estudiantes-del-ies-hermogenes-rodriguez-a-la-olimpiada-mundial-de-robotica-en-puerto-rico/",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-09",
-        "title": "샤오미, 스페인에서 가장 강력한 로봇청소기 출시",
-        "url": "https://www.lasexta.com/tecnologia-tecnoxplora/gadgets/xiaomi-lanza-robot-aspirador-mas-potente-espana_202611096af1d5a44196933d7ed6cd92.html",
+        "date": "2026-11-10",
+        "title": "뒷정리까지 스스로 해결하는 청소 로봇: 에코백스 디봇 미니 2, 약 150유로 할인",
+        "url": "https://actu.fr/guide-achat/maison/un-robot-laveur-qui-gere-tout-seul-l-apres-menage-l-ecovacs-deebot-mini-2-profite-de-pres-de-150-de-reduction_65038475.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-09",
-        "title": "로봇, 우주비행사나 수동 도구 없이 최초로 우주 구조물 건설 성공",
-        "url": "https://www.diariocordoba.com/tendencias21/2026/11/09/robot-construye-primera-vez-estructura-136253349.html",
+        "date": "2026-11-10",
+        "title": "'루마니아 발전을 위한 100명의 청소년': 루마니아 학생 2명, 학교 폭력 피해자를 위해 개발한 로봇으로 미국 대회 은상 수상",
+        "url": "https://www.antena3.ro/actualitate/educatie/100-de-tineri-pentru-dezvoltarea-romaniei-doi-elevi-romani-au-castigat-argintul-in-sua-cu-un-robot-creat-pentru-victimele-bullyingul-810630.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-09",
-        "title": "⚡ 주간 리캡: SSHole 취약점 악용, APT 루트 RCE, 로봇 탈취, 15,000개 사이트 해킹 등",
-        "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+        "date": "2026-11-10",
+        "title": "400만 유로 규모의 프로젝트: 로봇이 바르셀로나의 드림 수비수 탐색을 지원하다",
+        "url": "https://www.yardbarker.com/soccer/articles/the_4_million_plan_a_robot_helps_barcelona_search_for_their_dream_defender/s1_17790_44541275",
         "cat": "기술"
       },
       {
-        "date": "2026-11-09",
-        "title": "로보락 Q7 L5 및 큐리보 S 프로 40% 이상 할인 — 최저가 로봇청소기 3종 추가 할인",
-        "url": "https://www.tomsguide.com/home/home-appliances/save-over-40-percent-on-roborocks-q7-l5-and-qrevo-s-pro-plus-3-more-rock-bottom-robot-vacuum-prices",
+        "date": "2026-11-10",
+        "title": "글루텐 프리 외식 가이드",
+        "url": "https://www.inquirer.com/south-jersey/gluten-free-dining-guide-restaurants-camden-county-robot-dog-name-20261110.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-09",
-        "title": "베스트셀러로 등수한 리들의 신형 컴팩트 주방용 로봇",
-        "url": "https://www.ideal.es/sociedad/nuevo-robot-cocina-compacto-lidl-convertido-exito-20261109123106-nt.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-09",
-        "title": "40년간의 해양 탐사 중 단 11번만 발견된 투명 머리 물고기의 실체",
-        "url": "https://www.infobae.com/america/ciencia-america/2026/11/09/como-es-el-pez-con-cabeza-transparente-que-solo-fue-visto-11-veces-en-40-anos-de-exploracion-marina/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-09",
-        "title": "탈린에서 배달 로봇이 버스와 충돌하여 9명 부상",
-        "url": "https://www.naturalnews.com/2026-11-09-delivery-robot-collides-with-bus-injuring-nine.html",
+        "date": "2026-11-10",
+        "title": "음식 배달 로봇을 막아서선 캐롤린 마빈, 인류를 위한 저항이었다",
+        "url": "https://www.inquirer.com/opinion/delivery-robots-pedestrians-philadelphia-resistance-20261110.html",
         "cat": "정책"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "11월 10일 eMAG 인기 할인 상품 탑 10",
+        "url": "https://gadget.ro/top-10-oferte-emag-din-10-11-26-smartwatch-huawei-de-tip-best-buy-cu-evaluare-4-64-5-din-peste-200-de-review-uri-side-by-side-samsung-cu-capacitate-mare-659-litri-tableta-xiaomi-cu-raport-pret/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "로봇이 최초로 우주 공간에 구조물을 건설했으며 그 의미는 크다",
+        "url": "https://theprint.in/science/a-robot-has-built-a-structure-in-space-for-the-first-time-heres-why-it-matters/3095064/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "오늘의 탑 3 할인: 299유로 에코백스 로봇 청소기, 699유로 필립스 앰빌라이트 65인치 QLED TV, 949유로 맥 미니 M6",
+        "url": "https://www.generation-nt.com/actualites/aspirateur-robot-laveur-ecovacs-deebot-t50-pro-omni-gen3-tv-qled-4k-philips-ambilight-mac-mini-m6-apple-pas-cher-promos-2084253",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "75°C 고온수로 걸레를 소독하는 로봇 청소기, 50% 파격 할인",
+        "url": "https://www.smartworld.it/black-friday/lavapavimenti-roborock-qrevo-s-pro-panno-75-gradi-sconto-50.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "매일 하는 대걸레질과 쓸기와 작별: 25,000Pa 흡입력의 에코백스 로봇 청소기 50% 할인",
+        "url": "https://www.smartworld.it/black-friday/addio-mocio-scopa-robot-aspirapolvere-lavapavimenti-25000-pa-ecovacs-crolla-50.html",
+        "cat": "시장"
       }
     ],
     "global": [
       {
+        "date": "2026-11-10",
+        "title": "Exclusive: Startup Memories.ai launches platform for gig workers to make POV videos to train robots",
+        "url": "https://fortune.com/2026/11/10/exclusive-in-the-race-for-robot-training-data-ex-meta-researchers-startup-turns-to-gig-workers-with-cameras/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "Figure AI Is Hiring a Human to Babysit Humanoid Robots Overnight",
+        "url": "https://www.businessinsider.com/figure-ai-hiring-human-babysit-robots-overnight-2026-11",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "degree spinning jump on wheels instead of feet",
+        "url": "https://www.koreatimes.co.kr/business/tech-science/20261110/boston-dynamics-atlas-robot-pulls-off-360-degree-spinning-jump-on-wheels-instead-of-feet",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "Huayan Robotics to Showcase Flexible Automation Solutions at METALEX 2026 in Thailand",
+        "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/huayan-robotics-to-showcase-flexible-automation-solutions-at-metalex-2026-in-thailand/2465952",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "Claude Fable 5.2 and Mythos 5.2 launched: Anthropic claims breakthrough in coding, robotics and scientific research",
+        "url": "https://www.livemint.com/ai/claude-fable-5-2-and-mythos-5-2-launched-anthropic-claims-breakthrough-in-coding-robotics-and-scientific-research-11794280160509.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-10",
+        "title": "FF EAI Robotics Ecosystem (FFR) Announces Third Quarter 2026 Earnings Release Date and Conference Call Details to be Held on November 12, 2026",
+        "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/ff-eai-robotics-ecosystem-ffr-announces-third-quarter-2026-earnings-release-date-and-conference-call-details-to-be-held-on-november-12-2026/2465915",
+        "cat": "시장"
+      },
+      {
         "date": "2026-11-09",
-        "title": "ListEasier Launches AI Manufacturing Robotics Operations to Automate Product Listings",
-        "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/listeasier-launches-ai-manufacturing-robotics-operations-to-automate-product-listings/",
+        "title": "YYForce's Humanoid Robotics and VLA Training Workflow Featured on Mediacorp's Meeting AI",
+        "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/pr-newswire/yyforces-humanoid-robotics-and-vla-training-workflow-featured-on-mediacorps-meeting-ai/2465849",
         "cat": "기술"
       },
       {
         "date": "2026-11-09",
-        "title": "How Bain Capital’s Ajay Agarwal bet early on robots-and now sees a ‘golden era’ for physical AI",
-        "url": "https://fortune.com/2026/11/09/bain-capital-ajay-agarwal-invested-kiva-robots-amazon-acquisition-physical-ai/",
+        "title": "SoftBank faces AI-strategy scrutiny at earnings after tech selloff",
+        "url": "https://sainteur.com/article/softbank-faces-ai-strategy-scrutiny-at-earnings-after-tech-selloff",
         "cat": "시장"
       },
       {
         "date": "2026-11-09",
-        "title": "SoftBank faces questions on AI strategy ahead of earnings after selloff",
-        "url": "https://thenextweb.com/news/softbank-earnings-ai-strategy-selloff",
+        "title": "The STEM Behind the Flame",
+        "url": "https://www.europesays.com/3364065/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-09",
+        "title": "New automation training center, robotics lab open in central Pa.",
+        "url": "https://www.pennlive.com/business/2026/11/new-automation-training-center-robotics-lab-open-in-central-pa.html",
         "cat": "시장"
-      },
-      {
-        "date": "2026-11-09",
-        "title": "LINXAI Robotics Claims Gold and Two Bronzes at First CMG World Robot Mount Tai Competition",
-        "url": "https://www.prnewswire.co.uk/news-releases/linxai-robotics-claims-gold-and-two-bronzes-at-first-cmg-world-robot-mount-tai-competition-302933216.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-09",
-        "title": "Lisbon Web Summit 2026 opens with humanoid robot speakers and record Chinese delegation",
-        "url": "https://www.euronews.com/2026/11/09/lisbon-web-summit-2026-opens-with-humanoid-robot-speakers-and-record-chinese-delegation",
-        "cat": "경쟁"
       }
     ]
   }
