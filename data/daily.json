@@ -1,123 +1,141 @@
 {
-  "asOfDate": "2026.11.13",
+  "asOfDate": "2026.11.14",
   "fx": {
-    "usdkrw": 1334
+    "usdkrw": 1337
   },
   "briefing": {
-    "dateLabel": "2026.11.13 (금)",
-    "headline": "휴머노이드 로봇의 양산 전망과 완성차 업계의 전방위 투자로 로보틱스 산업이 급성장하고 있습니다.",
-    "summary": "글로벌 제조 기업들의 미래 로봇 분야 투자와 휴머노이드 상용화 기대감 속에서 배달 및 가정용 로봇 시장의 확산이 가속화되고 있습니다.",
+    "dateLabel": "2026.11.14 (토)",
+    "headline": "가정용 로봇의 대대적인 가격 할인 경쟁과 함께 교육 및 국방 등 공공 분야의 로봇 도입이 크게 가속화되고 있습니다.",
+    "summary": "주요 제조사들은 가격 인하와 기능 고도화를 통해 대중화에 박차를 가하고 있으며, 정부 기관들은 로봇 인프라 구축을 통한 미래 역량 강화에 집중하는 추세입니다.",
     "points": [
-      "토요타는 오는 2028년부터 인공지능과 로봇 공학 및 차세대 배터리 기술 개발에 역량을 집중할 계획입니다.",
-      "미국 솔트레이크시티 도심 거리가 무인 로봇을 활용한 음식 배달 서비스의 핵심 실증 시험장으로 활용되고 있습니다.",
-      "제이피모건은 산업 현장의 도입 확대로 미국의 휴머노이드 로봇 연간 생산량이 2030년까지 40만 대에 달할 것으로 전망했습니다."
+      "인도 육군이 국경 지대에 최첨단 사족보행 로봇을 전격 배치하며 군사 및 국방 분야의 로봇 활용을 본격화했습니다.",
+      "샤오미와 로보락 등 주요 로봇 청소기 제조사들이 대규모 가격 할인 행사를 펼치며 가정용 로봇 시장의 점유율 확대에 나섰습니다.",
+      "인도 오디샤 주정부가 800개가 넘는 공립학교에 인공지능과 코딩 교육을 위한 로봇 전용 연구실을 대규모로 조성합니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-12",
-        "title": "솔트레이크시티 거리, 로봇 음식 배달 서비스의 실증 시험장으로 활용",
-        "url": "https://www.sltrib.com/artsliving/food/2026/11/12/doordash-robot-slcs-streets/",
+        "date": "2026-11-13",
+        "title": "남극 울트라마라톤에 참가한 휴머노이드 로봇, 겨우 3km 주행 후 작동 멈춰",
+        "url": "https://www.tf1info.fr/international/un-robot-humanoide-participe-a-un-ultramarathon-en-antarctique-aux-cotes-de-coureurs-humains-il-a-rendu-l-ame-apres-seulement-trois-kilometres-2475618.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-12",
-        "title": "휴머노이드 로봇, 남극 마라톤 도전했으나 3km 만에 중도 포기",
-        "url": "https://www.detik.com/edu/detikpedia/d-8750200/robot-humanoid-ikut-maraton-di-antartika-baru-3-km-sudah-menyerah",
+        "date": "2026-11-13",
+        "title": "지역 뉴스 AI 리포터 로봇, 커네티컷주 엔필드를 북런던으로 오인하는 해프닝 발생",
+        "url": "https://pressgazette.co.uk/publishers/regional-newspapers/robot-local-news-reporter-confuses-enfield-connecticut-with-north-london/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-12",
-        "title": "링, 주거 및 상업 공간을 자율 순찰하는 로봇 감시 카메라 '드론 캄'과 '로버 캄' 출시",
-        "url": "https://www.mobilissimo.ro/stiri-diverse/ring-lanseaza-drone-cam-si-rover-cam-camere-de-supraveghere-robotizate-care-pot-patrula-autonom-prin-locuinte-si-spatii-comerciale",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-12",
-        "title": "토요타, 2028년부터 인공지능·로봇·전고체 배터리 분야에 본격 투자",
-        "url": "https://www.smartworld.it/mobilita/toyota-punta-ai-robot-batterie-solide-2028.html",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-12",
-        "title": "높이 8.95cm 슬림형 로봇 청소기, 가구 밑 청소 용이성 갖추고 29% 할인",
-        "url": "https://www.smartworld.it/black-friday/robot-aspirapolvere-lavapavimenti-dreame-l50-pro-ultra-crolla-29.html",
+        "date": "2026-11-13",
+        "title": "샤오미, 로봇 청소기 및 물걸레 제품 가격 200유로 대폭 인하하며 공격적 마케팅",
+        "url": "https://www.smartworld.it/black-friday/robot-xiaomi-aspirapolvere-6-rullo-acqua-calda-30000-pa-sconto.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-12",
-        "title": "4만 파스칼 흡입력의 에코백스 T90S 프로 로봇 청소기, 300유로 할인으로 역대 최저가 달성",
-        "url": "https://www.smartworld.it/black-friday/robot-aspirapolvere-lavapavimenti-ecovacs-t90s-pro-omni-40000-pa-sconto-300-euro.html",
+        "date": "2026-11-13",
+        "title": "카펫 적시지 않는 물걸레 로봇 청소기 200유로 미만으로 추락: 로보락 Q10 S5+ 55% 파격 할인",
+        "url": "https://www.smartworld.it/black-friday/robot-lava-pavimenti-senza-bagnare-tappeti-roborock-q10-s5-plus-sconto-55.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-12",
-        "title": "샤오미 로봇 청소기, 스마트 청소 기능과 최대 75일간 먼지통 비움 없는 편의성 제공",
-        "url": "https://olhardigital.com.br/2026/11/12/reviews/xiaomi-robot-vacuum-h50-pro/",
+        "date": "2026-11-13",
+        "title": "인도 육군, 파키스탄 국경 지대에 4족 보행 최첨단 '로봇 군인' 전격 배치",
+        "url": "https://hindi.webdunia.com/national-hindi-news/indian-army-deploys-robot-dogs-robotic-mules-pakistan-border-loc-surveillance-126111300056_1.html",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-13",
+        "title": "600유로 제품이 250유로 미만으로: 르판트 로봇 청소기 재고 처분 특가 판매",
+        "url": "https://4gnews.pt/de-600-por-menos-de-250-este-robot-aspirador-lefant-esta-a-preco-de-saldo/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-13",
+        "title": "자외선 라이트로 보이지 않는 먼지 감지하는 샤크 로봇 청소기 400유로 할인 진행",
+        "url": "https://actu.fr/guide-achat/maison/il-repere-les-taches-invisibles-grace-a-une-lumiere-uv-ce-robot-laveur-shark-profite-de-400-de-reduction_65050501.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-13",
+        "title": "토요타의 인공지능 혁명: 스마트 공장에서 시작되는 제조업의 새로운 도전",
+        "url": "https://www.lastampa.it/motori/2026/11/13/news/toyota_la_rivoluzione_dell_ai_la_sfida_parte_dalle_fabbriche-15797190/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-12",
-        "title": "샤오미 18 프로 시리즈 11월 17일 출시 확정: 스마트 홈 기기 4종 포함 발표",
-        "url": "https://www.livemint.com/technology/gadgets/xiaomi-18-pro-series-launch-on-november-17-watch-s5-smart-band-11-clip-tws-and-4-smart-home-devices-confirmed-11794481655788.html",
-        "cat": "경쟁"
+        "date": "2026-11-13",
+        "title": "아마존 11월 13일 최우수 할인 상품 15선: 로보락 등 최대 57% 파격 할인",
+        "url": "https://www.larazon.es/compras/15-mejores-ofertas-hoy-13-noviembre-amazon-57-descuento-roborock-tommy-hilfiger-mas-3v3r_202611136af645ad4196933d7edb39be.html",
+        "cat": "시장"
       },
       {
-        "date": "2026-11-12",
-        "title": "인도 푸두체리, 대형 로봇을 활용한 교통안전 캠페인으로 운전자들의 주목 받아",
-        "url": "https://www.dailythanthi.com/news/india/traffic-awareness-through-giant-robot-in-puducherry-motorists-are-surprised",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-12",
-        "title": "블랙프라이데이 시즌 맞아 에코백스 올인원 로봇 청소기 500유로 할인 진행",
-        "url": "https://www.parismatch.com/guide-shopping/black-friday-sabat-sur-aspirateur-robot-laveur-ecovacs-500-euros-saisir-sur-modele-tres-polyvalent-4miHZwa0k1cNNuCSEQMrFm",
+        "date": "2026-11-13",
+        "title": "90유로의 가성비: 스마트폰보다 저렴한 물걸레 겸용 로봇 청소기 출시",
+        "url": "https://www.20minutos.es/ofertas-descuentos/por-90-euros-por-que-no-este-robot-aspirador-tambien-friega-cuesta-menos-que-un-movil_7059352_0.html",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-11-12",
-        "title": "A cook, a cocktail bar owner and a ski racer: Meet Jensen Huang's children and son-in-law working at Nvidia",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/a-cook-a-cocktail-bar-owner-and-a-ski-racer-meet-jensen-huangs-children-and-son-in-law-working-at-nvidia/articleshow/135770322.cms",
-        "cat": "경쟁"
+        "date": "2026-11-13",
+        "title": "Zoomlion to Showcase AI-Powered Equipment and Robotics at bauma CHINA 2026",
+        "url": "https://www.prnewswire.co.uk/news-releases/zoomlion-to-showcase-ai-powered-equipment-and-robotics-at-bauma-china-2026-302938925.html",
+        "cat": "기술"
       },
       {
-        "date": "2026-11-12",
-        "title": "1Crowd Expands Healthcare Portfolio with Rymo Technologies",
-        "url": "https://www.tribuneindia.com/news/business/1crowd-expands-healthcare-portfolio-with-rymo-technologies-2-2/",
+        "date": "2026-11-13",
+        "title": "ABB India Q3 Profit Rises 8.2% To ₹442.5 Crore, Electrification Revenue Jumps 40%",
+        "url": "https://www.freepressjournal.in/business/abb-india-q3-profit-rises-82-to-4425-crore-electrification-revenue-jumps-40",
         "cat": "시장"
       },
       {
-        "date": "2026-11-12",
-        "title": "US humanoid robot production could hit 400,000 by 2030 as deployment ramps, JPMorgan says",
-        "url": "https://www.cnbctv18.com/technology/us-humanoid-robot-production-could-hit-400000-by-2030-as-deployment-ramps-jpmorgan-20032565.htm",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-12",
-        "title": "He Wants to Build America's Robotics Giant. Will Washington Help?",
-        "url": "https://www.businessinsider.com/he-wants-to-build-americas-robotics-giant-will-washington-help-2026-11",
+        "date": "2026-11-13",
+        "title": "Odisha Introduces Robotics Labs In 807 Schools To Promote AI And Coding Education",
+        "url": "https://www.ndtv.com/education/odisha-introduces-robotics-labs-in-807-schools-to-promote-ai-and-coding-education-12322332",
         "cat": "정책"
       },
       {
-        "date": "2026-11-12",
-        "title": "IPO listing: This robotics firm's shares jump 83% in exchange debut; 3 Indian stocks to watch",
-        "url": "https://www.livemint.com/market/stock-market-news/ipo-listing-this-robotics-firms-shares-jump-83-in-exchange-debut-3-indian-stocks-to-watch-returns-other-details-11794476907037.html",
-        "cat": "시장"
+        "date": "2026-11-13",
+        "title": "Odisha CM Launches Robotic Labs In 807 Govt Schools At Cost Of Rs 164 Crore",
+        "url": "https://www.timesnownews.com/education/odisha-cm-launches-robotic-labs-in-807-govt-schools-at-cost-of-rs-164-crore-article-156504436",
+        "cat": "정책"
       },
       {
-        "date": "2026-11-12",
-        "title": "US humanoid robot production could hit 400,000 by 2030 as deployment ramps, J.P. Morgan says",
-        "url": "https://www.reuters.com/business/us-humanoid-robot-production-could-hit-400000-by-2030-deployment-ramps-jp-morgan-2026-11-12/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-12",
-        "title": "AI Startup Pays Humans $45 An Hour To Babysit Robots On Night Shifts",
-        "url": "https://www.ndtv.com/artificial-intelligence/ai-startup-pays-humans-45-an-hour-to-babysit-robots-on-night-shifts-12316522",
+        "date": "2026-11-13",
+        "title": "SFO Technologies And Cochin Shipyard Jointly Develops India’s First Indigenous Hybrid Laser Arc Welding Technology",
+        "url": "https://www.outlookbusiness.com/spotlight/news-wire/sfo-technologies-and-cochin-shipyard-jointly-develops-indias-first-indigenous-hybrid-laser-arc-welding-technology",
         "cat": "기술"
+      },
+      {
+        "date": "2026-11-13",
+        "title": "Keralam Govt To Set Up Digital Squares In All Lower Primary Schools Under 100-Day Action Plan",
+        "url": "https://www.timesnownews.com/education/keralam-govt-to-set-up-digital-squares-in-all-lower-primary-schools-under-100-day-action-plan-article-156504081",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-13",
+        "title": "Odisha CM launches robotic labs in 807 schools",
+        "url": "https://www.hindustantimes.com/education/news/odisha-cm-launches-robotic-labs-in-807-schools-101794543121254.html",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-13",
+        "title": "Odisha CM unveils robotics labs in 807 schools, launches Nipun app",
+        "url": "https://www.newindianexpress.com/states/odisha/2026/Nov/13/odisha-cm-unveils-robotics-labs-in-807-schools-launches-nipun-app",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-13",
+        "title": "Over 800 Odisha government schools to get robotics labs for Classes 6 to 10",
+        "url": "https://www.indiatoday.in/education-today/news/story/odisha-robotics-labs-launched-807-government-schools-ai-coding-training-cm-mohan-majhi-nipun-app-3037792-2026-11-13",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-13",
+        "title": "Keralam to overhaul technical education curriculam to meet emerging technologies: Minister",
+        "url": "https://www.thehindu.com/news/national/kerala/keralam-to-overhaul-technical-education-curriculam-to-meet-emerging-technologies-minister/article71695075.ece",
+        "cat": "정책"
       }
     ]
   }
