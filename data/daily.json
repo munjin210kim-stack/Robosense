@@ -1,82 +1,112 @@
 {
-  "asOfDate": "2026.11.14",
+  "asOfDate": "2026.11.15",
   "fx": {
     "usdkrw": 1337
   },
   "briefing": {
-    "dateLabel": "2026.11.14 (토)",
-    "headline": "가정용 로봇의 대대적인 가격 할인 경쟁과 함께 교육 및 국방 등 공공 분야의 로봇 도입이 크게 가속화되고 있습니다.",
-    "summary": "주요 제조사들은 가격 인하와 기능 고도화를 통해 대중화에 박차를 가하고 있으며, 정부 기관들은 로봇 인프라 구축을 통한 미래 역량 강화에 집중하는 추세입니다.",
+    "dateLabel": "2026.11.15 (일)",
+    "headline": "우주 건설과 의료 현장 배치를 통한 로봇 실전 응용 확대 속에 기업들의 구조 개편이 가속화되고 있습니다.",
+    "summary": "휴머노이드 및 우주 기술의 발전이 이어지는 반면 일부 스타트업의 재정 난항과 주요 기업의 전담 조직 해체 등 시장 재편이 함께 진행 중입니다.",
     "points": [
-      "인도 육군이 국경 지대에 최첨단 사족보행 로봇을 전격 배치하며 군사 및 국방 분야의 로봇 활용을 본격화했습니다.",
-      "샤오미와 로보락 등 주요 로봇 청소기 제조사들이 대규모 가격 할인 행사를 펼치며 가정용 로봇 시장의 점유율 확대에 나섰습니다.",
-      "인도 오디샤 주정부가 800개가 넘는 공립학교에 인공지능과 코딩 교육을 위한 로봇 전용 연구실을 대규모로 조성합니다."
+      "보스턴 다이내믹스가 휴머노이드 로봇 아틀라스에 바퀴를 장착한 신규 모델을 선보였습니다.",
+      "우주 공간에서 로봇을 이용해 인공 구조물을 구축하는 작업이 역사상 처음으로 성공했습니다.",
+      "오픈에이아이는 범용 인공지능 모델이 직접 로봇을 제어함에 따라 기존 독립 로봇 팀을 해체했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-13",
-        "title": "남극 울트라마라톤에 참가한 휴머노이드 로봇, 겨우 3km 주행 후 작동 멈춰",
-        "url": "https://www.tf1info.fr/international/un-robot-humanoide-participe-a-un-ultramarathon-en-antarctique-aux-cotes-de-coureurs-humains-il-a-rendu-l-ame-apres-seulement-trois-kilometres-2475618.html",
+        "date": "2026-11-14",
+        "title": "NASA, 화성 부품 활용한 원자력 탐사 로봇 달 파견 계획",
+        "url": "https://www.infobae.com/tecno/2026/11/14/la-nasa-enviara-a-la-luna-un-robot-con-energia-nuclear-construido-con-piezas-de-repuesto-de-marte/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-13",
-        "title": "지역 뉴스 AI 리포터 로봇, 커네티컷주 엔필드를 북런던으로 오인하는 해프닝 발생",
-        "url": "https://pressgazette.co.uk/publishers/regional-newspapers/robot-local-news-reporter-confuses-enfield-connecticut-with-north-london/",
+        "date": "2026-11-14",
+        "title": "우주 공간에서 로봇을 이용한 첫 인공 구조물 건설 성공",
+        "url": "https://www.iflscience.com/a-robot-has-built-a-structure-in-space-for-the-first-time-ever-85189",
         "cat": "기술"
       },
       {
-        "date": "2026-11-13",
-        "title": "샤오미, 로봇 청소기 및 물걸레 제품 가격 200유로 대폭 인하하며 공격적 마케팅",
-        "url": "https://www.smartworld.it/black-friday/robot-xiaomi-aspirapolvere-6-rullo-acqua-calda-30000-pa-sconto.html",
+        "date": "2026-11-14",
+        "title": "보스턴 다이내믹스, 휴머노이드 로봇 '아틀라스'에 바퀴 탑재",
+        "url": "https://www.generation-nt.com/actualites/boston-dynamics-robot-atlas-roues-2084265",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-14",
+        "title": "파운데이션 로봇 스타트업, 창업자 대출로 인한 자금 고갈 위기",
+        "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-13",
-        "title": "카펫 적시지 않는 물걸레 로봇 청소기 200유로 미만으로 추락: 로보락 Q10 S5+ 55% 파격 할인",
-        "url": "https://www.smartworld.it/black-friday/robot-lava-pavimenti-senza-bagnare-tappeti-roborock-q10-s5-plus-sconto-55.html",
+        "date": "2026-11-14",
+        "title": "투자 유치 군용 로봇 스타트업, 창업자의 460만 달러 유용으로 임금 체불",
+        "url": "https://www.newsbreak.com/news/5006871767642-eric-trump-backed-robot-soldier-startup-can-t-pay-staff-after-founder-borrowed-4-6-million-from-company-to-buy-home",
         "cat": "시장"
       },
       {
-        "date": "2026-11-13",
-        "title": "인도 육군, 파키스탄 국경 지대에 4족 보행 최첨단 '로봇 군인' 전격 배치",
-        "url": "https://hindi.webdunia.com/national-hindi-news/indian-army-deploys-robot-dogs-robotic-mules-pakistan-border-loc-surveillance-126111300056_1.html",
+        "date": "2026-11-14",
+        "title": "블랙프라이데이 맞이 20% 할인 판매되는 잔디깎이 로봇 추천",
+        "url": "https://www.zdnet.com/home-and-office/mammotion-luba-mini-2-black-friday-deal/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-14",
+        "title": "빙상 선수 콕, 1014일 만에 500m 패배 후 \"나는 로봇이 아니다\"",
+        "url": "https://nos.nl/artikel/2639454-kok-na-1014-dagen-weer-eens-verslagen-op-500-meter-ben-geen-robot",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-14",
+        "title": "휴머노이드 로봇 '로비', 이탈리아 현지 병원 간호 보조로 투입",
+        "url": "https://www.ecodibergamo.it/stories/premium/economia/lumanoide-robee-diventa-infermiere-in-un-ospedale-orobico-o_3994514_11/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-14",
+        "title": "레드삭스, 리스크 감수하고 제이크 바우어스 영입 결정",
+        "url": "https://www.nytimes.com/athletic/7780390/2026/11/14/jake-bauers-red-sox-farm-system-brewers/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-14",
+        "title": "에코백스, 파격가 창문 청소 로봇 출시로 시장 가격 경쟁 심화",
+        "url": "https://www.parismatch.com/guide-shopping/fini-systeme-d-ecovacs-ridiculise-concurrence-avec-son-robot-laveur-vitres-prix-casse-1LUZzVfcr5F6HW5Ndn39fq",
+        "cat": "경쟁"
+      }
+    ],
+    "global": [
+      {
+        "date": "2026-11-14",
+        "title": "Europe must learn modern warfare from Ukraine - ARX Robotics CEO",
+        "url": "https://www.ukrinform.net/rubric-ato/4184567-europe-must-learn-modern-warfare-from-ukraine-arx-robotics-ceo.html",
         "cat": "정책"
       },
       {
         "date": "2026-11-13",
-        "title": "600유로 제품이 250유로 미만으로: 르판트 로봇 청소기 재고 처분 특가 판매",
-        "url": "https://4gnews.pt/de-600-por-menos-de-250-este-robot-aspirador-lefant-esta-a-preco-de-saldo/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "자외선 라이트로 보이지 않는 먼지 감지하는 샤크 로봇 청소기 400유로 할인 진행",
-        "url": "https://actu.fr/guide-achat/maison/il-repere-les-taches-invisibles-grace-a-une-lumiere-uv-ce-robot-laveur-shark-profite-de-400-de-reduction_65050501.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "토요타의 인공지능 혁명: 스마트 공장에서 시작되는 제조업의 새로운 도전",
-        "url": "https://www.lastampa.it/motori/2026/11/13/news/toyota_la_rivoluzione_dell_ai_la_sfida_parte_dalle_fabbriche-15797190/",
+        "title": "German Gereon ground robots equipped with Ukrainian Saber combat modules enter production and delivery",
+        "url": "https://www.ukrinform.net/rubric-defense/4184531-german-gereon-ground-robots-equipped-with-ukrainian-saber-combat-modules-enter-production-and-delivery.html",
         "cat": "기술"
       },
       {
         "date": "2026-11-13",
-        "title": "아마존 11월 13일 최우수 할인 상품 15선: 로보락 등 최대 57% 파격 할인",
-        "url": "https://www.larazon.es/compras/15-mejores-ofertas-hoy-13-noviembre-amazon-57-descuento-roborock-tommy-hilfiger-mas-3v3r_202611136af645ad4196933d7edb39be.html",
+        "title": "ARX Robotics and Roboneers deliver first batch of jointly produced Rys Pro ground robots to Ukraine",
+        "url": "https://www.ukrinform.net/rubric-defense/4184521-arx-robotics-and-roboneers-deliver-first-batch-of-jointly-produced-rys-pro-ground-robots-to-ukraine.html",
         "cat": "시장"
       },
       {
         "date": "2026-11-13",
-        "title": "90유로의 가성비: 스마트폰보다 저렴한 물걸레 겸용 로봇 청소기 출시",
-        "url": "https://www.20minutos.es/ofertas-descuentos/por-90-euros-por-que-no-este-robot-aspirador-tambien-friega-cuesta-menos-que-un-movil_7059352_0.html",
+        "title": "Eric Trump-backed humanoid robots eyed for Israel after Ukraine debut",
+        "url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones",
         "cat": "시장"
-      }
-    ],
-    "global": [
+      },
+      {
+        "date": "2026-11-13",
+        "title": "Exclusive: OpenAI disbands stand-alone robotics team as general AI models start running robots",
+        "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+        "cat": "기술"
+      },
       {
         "date": "2026-11-13",
         "title": "Zoomlion to Showcase AI-Powered Equipment and Robotics at bauma CHINA 2026",
@@ -106,36 +136,6 @@
         "title": "SFO Technologies And Cochin Shipyard Jointly Develops India’s First Indigenous Hybrid Laser Arc Welding Technology",
         "url": "https://www.outlookbusiness.com/spotlight/news-wire/sfo-technologies-and-cochin-shipyard-jointly-develops-indias-first-indigenous-hybrid-laser-arc-welding-technology",
         "cat": "기술"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "Keralam Govt To Set Up Digital Squares In All Lower Primary Schools Under 100-Day Action Plan",
-        "url": "https://www.timesnownews.com/education/keralam-govt-to-set-up-digital-squares-in-all-lower-primary-schools-under-100-day-action-plan-article-156504081",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "Odisha CM launches robotic labs in 807 schools",
-        "url": "https://www.hindustantimes.com/education/news/odisha-cm-launches-robotic-labs-in-807-schools-101794543121254.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "Odisha CM unveils robotics labs in 807 schools, launches Nipun app",
-        "url": "https://www.newindianexpress.com/states/odisha/2026/Nov/13/odisha-cm-unveils-robotics-labs-in-807-schools-launches-nipun-app",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "Over 800 Odisha government schools to get robotics labs for Classes 6 to 10",
-        "url": "https://www.indiatoday.in/education-today/news/story/odisha-robotics-labs-launched-807-government-schools-ai-coding-training-cm-mohan-majhi-nipun-app-3037792-2026-11-13",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "Keralam to overhaul technical education curriculam to meet emerging technologies: Minister",
-        "url": "https://www.thehindu.com/news/national/kerala/keralam-to-overhaul-technical-education-curriculam-to-meet-emerging-technologies-minister/article71695075.ece",
-        "cat": "정책"
       }
     ]
   }
