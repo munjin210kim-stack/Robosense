@@ -1,141 +1,141 @@
 {
-  "asOfDate": "2026.11.15",
+  "asOfDate": "2026.11.16",
   "fx": {
     "usdkrw": 1337
   },
   "briefing": {
-    "dateLabel": "2026.11.15 (일)",
-    "headline": "우주 건설과 의료 현장 배치를 통한 로봇 실전 응용 확대 속에 기업들의 구조 개편이 가속화되고 있습니다.",
-    "summary": "휴머노이드 및 우주 기술의 발전이 이어지는 반면 일부 스타트업의 재정 난항과 주요 기업의 전담 조직 해체 등 시장 재편이 함께 진행 중입니다.",
+    "dateLabel": "2026.11.16 (월)",
+    "headline": "우주 자율 건설 성공과 주요 빅테크 기업의 로보틱스 전담 조직 개편으로 기술 산업 지형이 변화하고 있습니다.",
+    "summary": "로봇 기술이 우주 구조물 자동 조립 등 최첨단 영역으로 확장되는 한편, 글로벌 빅테크 기업들은 인력 변동과 조직 재편을 겪으며 새로운 전략적 전환점을 맞이하고 있습니다.",
     "points": [
-      "보스턴 다이내믹스가 휴머노이드 로봇 아틀라스에 바퀴를 장착한 신규 모델을 선보였습니다.",
-      "우주 공간에서 로봇을 이용해 인공 구조물을 구축하는 작업이 역사상 처음으로 성공했습니다.",
-      "오픈에이아이는 범용 인공지능 모델이 직접 로봇을 제어함에 따라 기존 독립 로봇 팀을 해체했습니다."
+      "사상 최초로 로봇이 우주 공간에서 인간의 개입 없이 스스로 구조물을 완벽하게 건설하는 데 성공했습니다.",
+      "엔비디아의 핵심 로봇 연구 엔지니어가 경영진과의 소통 부재를 비판하며 사임하는 등 내부적인 변화와 진통이 나타났습니다.",
+      "오픈AI가 독립 로보틱스 전담 부서를 해체하고 관련 연구 인력을 다른 인공지능 부서로 흡수 통합하는 조직 개편을 단행했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-14",
-        "title": "NASA, 화성 부품 활용한 원자력 탐사 로봇 달 파견 계획",
-        "url": "https://www.infobae.com/tecno/2026/11/14/la-nasa-enviara-a-la-luna-un-robot-con-energia-nuclear-construido-con-piezas-de-repuesto-de-marte/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-14",
-        "title": "우주 공간에서 로봇을 이용한 첫 인공 구조물 건설 성공",
-        "url": "https://www.iflscience.com/a-robot-has-built-a-structure-in-space-for-the-first-time-ever-85189",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-14",
-        "title": "보스턴 다이내믹스, 휴머노이드 로봇 '아틀라스'에 바퀴 탑재",
-        "url": "https://www.generation-nt.com/actualites/boston-dynamics-robot-atlas-roues-2084265",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-14",
-        "title": "파운데이션 로봇 스타트업, 창업자 대출로 인한 자금 고갈 위기",
-        "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+        "date": "2026-11-15",
+        "title": "레오나르도 피에라치오니: \"인공지능? 내 딸이 더 좋아\"",
+        "url": "https://www.oggi.it/spettacoli/cinema/2026/11/15/leonardo-pieraccioni-intelligenza-artificiale-mi-garba-di-piu-mia-figlia/",
         "cat": "시장"
       },
       {
-        "date": "2026-11-14",
-        "title": "투자 유치 군용 로봇 스타트업, 창업자의 460만 달러 유용으로 임금 체불",
-        "url": "https://www.newsbreak.com/news/5006871767642-eric-trump-backed-robot-soldier-startup-can-t-pay-staff-after-founder-borrowed-4-6-million-from-company-to-buy-home",
+        "date": "2026-11-15",
+        "title": "300유로 미만 가격에 2만 5천 파스칼 흡입력과 자동 먼지비움 베이를 갖춘 가성비 로봇청소기",
+        "url": "https://www.larazon.es/tecnologia-consumo/hogar/no-entiendo-como-robot-aspirador-tan-bueno-puede-costar-menos-300-euros-25000-pascales-avanzada-base-autovaciado_202611156af6fe00ea8d8979978447ed.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-14",
-        "title": "블랙프라이데이 맞이 20% 할인 판매되는 잔디깎이 로봇 추천",
-        "url": "https://www.zdnet.com/home-and-office/mammotion-luba-mini-2-black-friday-deal/",
+        "date": "2026-11-15",
+        "title": "추운 날씨에 나가지 않고 잔디 관리: 최저가로 판매 중인 최고급 로봇 잔디깎이",
+        "url": "https://www.ouest-france.fr/shopping/maison-jardin/jardin/soccuper-du-gazon-oui-mais-sans-sortir-dans-le-froid-la-rolls-royce-des-robots-tondeuses-est-la-moins-chere-ici-e205c16a-dfbe-11f1-b029-43a761592972",
         "cat": "시장"
       },
       {
-        "date": "2026-11-14",
-        "title": "빙상 선수 콕, 1014일 만에 500m 패배 후 \"나는 로봇이 아니다\"",
-        "url": "https://nos.nl/artikel/2639454-kok-na-1014-dagen-weer-eens-verslagen-op-500-meter-ben-geen-robot",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-14",
-        "title": "휴머노이드 로봇 '로비', 이탈리아 현지 병원 간호 보조로 투입",
-        "url": "https://www.ecodibergamo.it/stories/premium/economia/lumanoide-robee-diventa-infermiere-in-un-ospedale-orobico-o_3994514_11/",
+        "date": "2026-11-15",
+        "title": "ASTRA, DARPA NOM4D 프로젝트용 1.4미터 안테나 베이를 우주에서 조립 성공",
+        "url": "https://www.newsbytesapp.com/news/science/astra-assembles-14-meter-antenna-bay-in-space-for-darpa-nom4d/tldr",
         "cat": "기술"
       },
       {
-        "date": "2026-11-14",
-        "title": "레드삭스, 리스크 감수하고 제이크 바우어스 영입 결정",
-        "url": "https://www.nytimes.com/athletic/7780390/2026/11/14/jake-bauers-red-sox-farm-system-brewers/",
+        "date": "2026-11-15",
+        "title": "로봇청소기 구매 시 흡입력보다 먼지비움 스테이션을 먼저 확인해야 하는 이유",
+        "url": "https://www.larazon.es/compras/hubiera-mirado-base-antes-que-pascales-habria-acabado-aclarando-mopa-robot-mano-3v3r_202611156af64fb003bbf30bb04a475e.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "사상 최초로 로봇이 우주에서 스스로 구조물을 건설하는 데 성공",
+        "url": "https://www.sciencealert.com/a-robot-just-built-a-structure-in-space-all-on-its-own-for-the-first-time-ever",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "성능에 감탄한 플래그십 드리미 X50 울트라 컴플리트 로봇청소기, 이월 블랙프라이데이 200달러 할인",
+        "url": "https://www.tomsguide.com/home/home-appliances/i-recently-tested-the-flagship-dreame-x50-ultra-complete-robot-vacuum-and-was-impressed-by-its-cleaning-capabilities-and-it-has-a-usd200-price-drop-in-the-early-black-friday-deals",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "엔비디아 로봇 연구원 대럴 다이 사직… 이사회에 젠슨 황 관련 엔지니어 목소리 무시 비판",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/darrell-dai-a-robot-research-engineer-at-nvidia-resigns-complains-to-nvidia-board-you-did-not-hear-engineers-working-in-the-company-on-jensen-huang-we-also-have-a-story-to-tell/articleshow/135850771.cms",
         "cat": "경쟁"
       },
       {
-        "date": "2026-11-14",
-        "title": "에코백스, 파격가 창문 청소 로봇 출시로 시장 가격 경쟁 심화",
-        "url": "https://www.parismatch.com/guide-shopping/fini-systeme-d-ecovacs-ridiculise-concurrence-avec-son-robot-laveur-vitres-prix-casse-1LUZzVfcr5F6HW5Ndn39fq",
-        "cat": "경쟁"
+        "date": "2026-11-15",
+        "title": "빛을 이용해 스스로 이동하는 로봇 개발",
+        "url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/le-robot-qui-se-deplace-grace-a-la-lumiere_8242270.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "'로봇이 아님을 증명하세요': 캡차 스캠이 사용자 컴퓨터를 악용하는 방법",
+        "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+        "cat": "정책"
       }
     ],
     "global": [
       {
+        "date": "2026-11-15",
+        "title": "NVIDIA robotics engineer quits over CEO Jensen Huang's exit",
+        "url": "https://www.newsbytesapp.com/news/science/nvidia-employee-resigns-over-ceo-jensen-huang-s-exit/story",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "‘Difficult to accept’: Nvidia engineer quits after Jensen Huang's exit, says why former CEO mattered to employees",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/difficult-to-accept-nvidia-engineer-quits-after-jensen-huangs-exit-says-why-former-ceo-mattered-to-employees/articleshow/135854310.cms",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "'Not felt heard': Nvidia engineer's resignation exposes unease over Jensen Huang scandal",
+        "url": "https://www.firstpost.com/world/not-felt-heard-nvidia-engineers-resignation-exposes-unease-over-jensen-huang-scandal-14060112.html",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "OpenAI disbands standalone robotics team, shifts researchers to other divisions",
+        "url": "https://www.newsbytesapp.com/news/science/openai-disbands-robotics-team-again-amid-restructuring/story",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "Darrell Dai, a robot research engineer at Nvidia resigns; complains to Nvidia board: You did not hear engineers working in the company on Jensen Huang, we also have a 'story to tell'",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/darrell-dai-a-robot-research-engineer-at-nvidia-resigns-complains-to-nvidia-board-you-did-not-hear-engineers-working-in-the-company-on-jensen-huang-we-also-have-a-story-to-tell/articleshow/135850771.cms",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "OpenAI folds robotics team into research and applied AI groups",
+        "url": "https://www.newsbytesapp.com/news/science/openai-folds-robotics-team-into-research-and-applied-ai-groups/tldr",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "OpenAi shuts down robot unit second time in six years, but wants everyone to know that the company is committed to …",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-shuts-down-robot-unit-second-time-in-six-years-but-wants-everyone-to-know-that-the-company-is-committed-to-/articleshow/135846511.cms",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-15",
+        "title": "‘Strategic management is more important because of AI, robotics’: Prof Bharat Bhasker",
+        "url": "https://www.theweek.in/theweek/cover/2026/11/14/strategic-management-is-more-important-because-of-ai-robotics-prof-bharat-bhasker.html",
+        "cat": "정책"
+      },
+      {
         "date": "2026-11-14",
-        "title": "Europe must learn modern warfare from Ukraine - ARX Robotics CEO",
-        "url": "https://www.ukrinform.net/rubric-ato/4184567-europe-must-learn-modern-warfare-from-ukraine-arx-robotics-ceo.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "German Gereon ground robots equipped with Ukrainian Saber combat modules enter production and delivery",
-        "url": "https://www.ukrinform.net/rubric-defense/4184531-german-gereon-ground-robots-equipped-with-ukrainian-saber-combat-modules-enter-production-and-delivery.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "ARX Robotics and Roboneers deliver first batch of jointly produced Rys Pro ground robots to Ukraine",
-        "url": "https://www.ukrinform.net/rubric-defense/4184521-arx-robotics-and-roboneers-deliver-first-batch-of-jointly-produced-rys-pro-ground-robots-to-ukraine.html",
+        "title": "San Jose deploys AI humanoid robot Sir Kit to promote city tourism",
+        "url": "https://nypost.com/2026/11/14/us-news/san-jose-deploys-ai-humanoid-robot-sir-kit-to-promote-city-tourism/",
         "cat": "시장"
       },
       {
-        "date": "2026-11-13",
-        "title": "Eric Trump-backed humanoid robots eyed for Israel after Ukraine debut",
-        "url": "https://www.foxnews.com/tech/eric-trump-partnered-robotics-ceo-addresses-terminator-fears-sends-combat-humanoids-warzones",
+        "date": "2026-11-14",
+        "title": "North Bay set to celebrate mining sector’s people and tech during CIM Mining Week",
+        "url": "https://www.baytoday.ca/local-news/north-bay-set-to-celebrate-mining-sectors-people-and-tech-during-cim-mining-week-13013041",
         "cat": "시장"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "Exclusive: OpenAI disbands stand-alone robotics team as general AI models start running robots",
-        "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "Zoomlion to Showcase AI-Powered Equipment and Robotics at bauma CHINA 2026",
-        "url": "https://www.prnewswire.co.uk/news-releases/zoomlion-to-showcase-ai-powered-equipment-and-robotics-at-bauma-china-2026-302938925.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "ABB India Q3 Profit Rises 8.2% To ₹442.5 Crore, Electrification Revenue Jumps 40%",
-        "url": "https://www.freepressjournal.in/business/abb-india-q3-profit-rises-82-to-4425-crore-electrification-revenue-jumps-40",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "Odisha Introduces Robotics Labs In 807 Schools To Promote AI And Coding Education",
-        "url": "https://www.ndtv.com/education/odisha-introduces-robotics-labs-in-807-schools-to-promote-ai-and-coding-education-12322332",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "Odisha CM Launches Robotic Labs In 807 Govt Schools At Cost Of Rs 164 Crore",
-        "url": "https://www.timesnownews.com/education/odisha-cm-launches-robotic-labs-in-807-govt-schools-at-cost-of-rs-164-crore-article-156504436",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-13",
-        "title": "SFO Technologies And Cochin Shipyard Jointly Develops India’s First Indigenous Hybrid Laser Arc Welding Technology",
-        "url": "https://www.outlookbusiness.com/spotlight/news-wire/sfo-technologies-and-cochin-shipyard-jointly-develops-indias-first-indigenous-hybrid-laser-arc-welding-technology",
-        "cat": "기술"
       }
     ]
   }
