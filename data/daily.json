@@ -1,141 +1,117 @@
 {
-  "asOfDate": "2026.11.16",
+  "asOfDate": "2026.11.17",
   "fx": {
-    "usdkrw": 1337
+    "usdkrw": 1335
   },
   "briefing": {
-    "dateLabel": "2026.11.16 (월)",
-    "headline": "우주 자율 건설 성공과 주요 빅테크 기업의 로보틱스 전담 조직 개편으로 기술 산업 지형이 변화하고 있습니다.",
-    "summary": "로봇 기술이 우주 구조물 자동 조립 등 최첨단 영역으로 확장되는 한편, 글로벌 빅테크 기업들은 인력 변동과 조직 재편을 겪으며 새로운 전략적 전환점을 맞이하고 있습니다.",
+    "dateLabel": "2026.11.17 (화)",
+    "headline": "우주 자율 조립 기술의 성공과 주요 산업 현장의 로봇 상용화가 가속화되고 있습니다.",
+    "summary": "우주 공간에서의 대형 구조물 자율 조립 실증과 함께 건설 및 의료 등 다양한 산업 현장에서 첨단 로봇 기술 적용이 크게 늘어나고 있습니다.",
     "points": [
-      "사상 최초로 로봇이 우주 공간에서 인간의 개입 없이 스스로 구조물을 완벽하게 건설하는 데 성공했습니다.",
-      "엔비디아의 핵심 로봇 연구 엔지니어가 경영진과의 소통 부재를 비판하며 사임하는 등 내부적인 변화와 진통이 나타났습니다.",
-      "오픈AI가 독립 로보틱스 전담 부서를 해체하고 관련 연구 인력을 다른 인공지능 부서로 흡수 통합하는 조직 개편을 단행했습니다."
+      "미국 국방부와 칼텍 연구진의 지원을 받은 로봇이 우주 공간에서 인간의 개입 없이 자율적으로 안테나 구조물을 조립하는 데 성공했습니다.",
+      "프랑스에서는 하루에 60제곱미터를 시공할 수 있는 건축용 벽돌 쌓기 로봇의 현장 실증 테스트가 진행되고 있습니다.",
+      "스위치봇이 음성 제어 기능을 탑재하여 스마트홈 연결성을 높인 새로운 통합 제어 장치를 출시했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-15",
-        "title": "레오나르도 피에라치오니: \"인공지능? 내 딸이 더 좋아\"",
-        "url": "https://www.oggi.it/spettacoli/cinema/2026/11/15/leonardo-pieraccioni-intelligenza-artificiale-mi-garba-di-piu-mia-figlia/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-15",
-        "title": "300유로 미만 가격에 2만 5천 파스칼 흡입력과 자동 먼지비움 베이를 갖춘 가성비 로봇청소기",
-        "url": "https://www.larazon.es/tecnologia-consumo/hogar/no-entiendo-como-robot-aspirador-tan-bueno-puede-costar-menos-300-euros-25000-pascales-avanzada-base-autovaciado_202611156af6fe00ea8d8979978447ed.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-15",
-        "title": "추운 날씨에 나가지 않고 잔디 관리: 최저가로 판매 중인 최고급 로봇 잔디깎이",
-        "url": "https://www.ouest-france.fr/shopping/maison-jardin/jardin/soccuper-du-gazon-oui-mais-sans-sortir-dans-le-froid-la-rolls-royce-des-robots-tondeuses-est-la-moins-chere-ici-e205c16a-dfbe-11f1-b029-43a761592972",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-15",
-        "title": "ASTRA, DARPA NOM4D 프로젝트용 1.4미터 안테나 베이를 우주에서 조립 성공",
-        "url": "https://www.newsbytesapp.com/news/science/astra-assembles-14-meter-antenna-bay-in-space-for-darpa-nom4d/tldr",
+        "date": "2026-11-16",
+        "title": "펜타곤 지원받은 로봇, 인간 도움 없이 우주에서 구조물 조립 성공",
+        "url": "https://www.numerama.com/sciences/2375541-ce-robot-finance-par-le-pentagone-a-assemble-une-structure-dans-lespace-sans-aide-humaine.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-15",
-        "title": "로봇청소기 구매 시 흡입력보다 먼지비움 스테이션을 먼저 확인해야 하는 이유",
-        "url": "https://www.larazon.es/compras/hubiera-mirado-base-antes-que-pascales-habria-acabado-aclarando-mopa-robot-mano-3v3r_202611156af64fb003bbf30bb04a475e.html",
+        "date": "2026-11-16",
+        "title": "아이로봇 룸바 플러스 575 콤보 리뷰: 기대 이상의 성능",
+        "url": "https://www.smartworld.it/recensioni/irobot-roomba-plus-575-combo",
         "cat": "시장"
       },
       {
-        "date": "2026-11-15",
-        "title": "사상 최초로 로봇이 우주에서 스스로 구조물을 건설하는 데 성공",
-        "url": "https://www.sciencealert.com/a-robot-just-built-a-structure-in-space-all-on-its-own-for-the-first-time-ever",
+        "date": "2026-11-16",
+        "title": "칼텍 로봇, 우주에서 최초로 안테나 부품 자율 조립하며 대형 궤도 구조물 건설 기틀 마련",
+        "url": "https://www.larazon.es/tecnologia-consumo/robots/robot-caltech-monta-primera-vez-forma-autonoma-parte-antena-espacio-paso-construccion-grandes-estructuras-orbita_202611166afafe60ea8d897997873287.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-15",
-        "title": "성능에 감탄한 플래그십 드리미 X50 울트라 컴플리트 로봇청소기, 이월 블랙프라이데이 200달러 할인",
-        "url": "https://www.tomsguide.com/home/home-appliances/i-recently-tested-the-flagship-dreame-x50-ultra-complete-robot-vacuum-and-was-impressed-by-its-cleaning-capabilities-and-it-has-a-usd200-price-drop-in-the-early-black-friday-deals",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-15",
-        "title": "엔비디아 로봇 연구원 대럴 다이 사직… 이사회에 젠슨 황 관련 엔지니어 목소리 무시 비판",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/darrell-dai-a-robot-research-engineer-at-nvidia-resigns-complains-to-nvidia-board-you-did-not-hear-engineers-working-in-the-company-on-jensen-huang-we-also-have-a-story-to-tell/articleshow/135850771.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-15",
-        "title": "빛을 이용해 스스로 이동하는 로봇 개발",
-        "url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/le-robot-qui-se-deplace-grace-a-la-lumiere_8242270.html",
+        "date": "2026-11-16",
+        "title": "ULSRA, 첫 로봇 수술 성공적 실시",
+        "url": "https://www.noticiasdeaveiro.pt/ulsra-realizou-as-primeiras-cirurgias-roboticas/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-15",
-        "title": "'로봇이 아님을 증명하세요': 캡차 스캠이 사용자 컴퓨터를 악용하는 방법",
-        "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+        "date": "2026-11-16",
+        "title": "\"더 늦기 전에 '킬러 로봇'의 개발과 운용을 막아야 한다\"",
+        "url": "https://www.cdt.ch/news/mondo/bisogna-fermare-i-robot-killer-prima-che-sia-troppo-tardi-444600",
         "cat": "정책"
+      },
+      {
+        "date": "2026-11-16",
+        "title": "프랑스 사르트 병원, 정밀 수술 로봇 도입으로 무릎 수술 지원",
+        "url": "https://actu.fr/pays-de-la-loire/le-mans_72181/dans-cet-hopital-de-la-sarthe-un-robot-de-haute-precision-vient-aider-les-chirurgiens-pour-les-operations-des-genoux_65060877.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-16",
+        "title": "\"앤트로픽의 상장은 인공지능 분야에 대한 금융 시장의 신뢰를 가늠할 대형 시험대\"",
+        "url": "https://www.lemonde.fr/idees/article/2026/11/16/l-entree-en-bourse-d-anthropic-est-un-test-de-confiance-xxl-des-marches-financiers-a-l-egard-du-secteur-de-l-ia_6811899_3232.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-16",
+        "title": "아마존: 벽면 청소 기능 갖춘 에코백스 로봇청소기, 블랙프라이데이 맞이 33% 할인",
+        "url": "https://www.leparisien.fr/guide-shopping/maison/electromenager/amazon-cet-aspirateur-robot-laveur-ecovacs-qui-nettoie-aussi-le-long-des-murs-est-a-33-pour-le-black-friday-16-11-2026-DS2TUFQIZBD7FHTBZK6CBXNEQI.php",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-16",
+        "title": "프랑스, 하루에 60제곱미터를 시공하는 벽돌공 로봇 실증 테스트 진행",
+        "url": "https://www.eleconomista.es/tecnologia/noticias/14028170/11/26/francia-prueba-un-robot-albanil-capaz-de-construir-60-metros-cuadrados-en-un-dia.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-16",
+        "title": "블랙프라이데이에 구매해야 할 로봇청소기: 놓치지 말아야 할 15가지 할인 혜택",
+        "url": "https://www.smartworld.it/black-friday/black-friday-robot-aspirapolvere-2026.html",
+        "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-11-15",
-        "title": "NVIDIA robotics engineer quits over CEO Jensen Huang's exit",
-        "url": "https://www.newsbytesapp.com/news/science/nvidia-employee-resigns-over-ceo-jensen-huang-s-exit/story",
+        "date": "2026-11-16",
+        "title": "SwitchBot Launches Hub 4 with Hello Kata Voice Control for a More Connected Home",
+        "url": "https://www.manilatimes.net/2026/11/16/tmt-newswire/pr-newswire/switchbot-launches-hub-4-with-hello-kata-voice-control-for-a-more-connected-home/2470876",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-16",
+        "title": "YYForce Sets Operating Priorities Across AI Workforce, Robotics and Facility Management",
+        "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/yyforce-sets-operating-priorities-across-ai-workforce-robotics-and-facility-management/",
         "cat": "경쟁"
       },
       {
-        "date": "2026-11-15",
-        "title": "‘Difficult to accept’: Nvidia engineer quits after Jensen Huang's exit, says why former CEO mattered to employees",
-        "url": "https://economictimes.indiatimes.com/news/international/world-news/difficult-to-accept-nvidia-engineer-quits-after-jensen-huangs-exit-says-why-former-ceo-mattered-to-employees/articleshow/135854310.cms",
+        "date": "2026-11-16",
+        "title": "Who Is Darrell Dai? The Nvidia Robotics Engineer Who Resigned After Jensen Huang's Exit",
+        "url": "https://www.freepressjournal.in/tech/who-is-darrell-dai-the-nvidia-robotics-engineer-who-resigned-after-jensen-huangs-exit",
         "cat": "경쟁"
       },
       {
-        "date": "2026-11-15",
-        "title": "'Not felt heard': Nvidia engineer's resignation exposes unease over Jensen Huang scandal",
-        "url": "https://www.firstpost.com/world/not-felt-heard-nvidia-engineers-resignation-exposes-unease-over-jensen-huang-scandal-14060112.html",
+        "date": "2026-11-16",
+        "title": "Nvidia Engineer Quits After Jensen Huang's Exit, Says He No Longer Feels Heard: 'I Leave With Sadness And Gratitude'",
+        "url": "https://www.news18.com/viral/nvidia-engineer-quits-after-jensen-huangs-exit-says-he-no-longer-feels-heard-i-leave-with-sadness-and-gratitude-10427797.html",
         "cat": "경쟁"
       },
       {
-        "date": "2026-11-15",
-        "title": "OpenAI disbands standalone robotics team, shifts researchers to other divisions",
-        "url": "https://www.newsbytesapp.com/news/science/openai-disbands-robotics-team-again-amid-restructuring/story",
-        "cat": "경쟁"
+        "date": "2026-11-16",
+        "title": "Bengaluru Tech Summit 2026 to open on Nov 17 with a focus on AI, deeptech, and robotics",
+        "url": "https://www.thenewsminute.com/karnataka/bengaluru-tech-summit-2026-to-open-on-nov-17-with-a-focus-on-ai-deeptech-and-robotics",
+        "cat": "시장"
       },
       {
-        "date": "2026-11-15",
-        "title": "Darrell Dai, a robot research engineer at Nvidia resigns; complains to Nvidia board: You did not hear engineers working in the company on Jensen Huang, we also have a 'story to tell'",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/darrell-dai-a-robot-research-engineer-at-nvidia-resigns-complains-to-nvidia-board-you-did-not-hear-engineers-working-in-the-company-on-jensen-huang-we-also-have-a-story-to-tell/articleshow/135850771.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-15",
-        "title": "OpenAI folds robotics team into research and applied AI groups",
-        "url": "https://www.newsbytesapp.com/news/science/openai-folds-robotics-team-into-research-and-applied-ai-groups/tldr",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-15",
-        "title": "OpenAi shuts down robot unit second time in six years, but wants everyone to know that the company is committed to …",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-shuts-down-robot-unit-second-time-in-six-years-but-wants-everyone-to-know-that-the-company-is-committed-to-/articleshow/135846511.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-15",
-        "title": "‘Strategic management is more important because of AI, robotics’: Prof Bharat Bhasker",
-        "url": "https://www.theweek.in/theweek/cover/2026/11/14/strategic-management-is-more-important-because-of-ai-robotics-prof-bharat-bhasker.html",
+        "date": "2026-11-16",
+        "title": "Conscious AI may be closer than we think, scientists say, and society needs a plan",
+        "url": "https://timesofindia.indiatimes.com/technology/aiq/conscious-ai-may-be-closer-than-we-think-scientists-say-and-society-needs-a-plan/articleshow/135882984.cms",
         "cat": "정책"
-      },
-      {
-        "date": "2026-11-14",
-        "title": "San Jose deploys AI humanoid robot Sir Kit to promote city tourism",
-        "url": "https://nypost.com/2026/11/14/us-news/san-jose-deploys-ai-humanoid-robot-sir-kit-to-promote-city-tourism/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-14",
-        "title": "North Bay set to celebrate mining sector’s people and tech during CIM Mining Week",
-        "url": "https://www.baytoday.ca/local-news/north-bay-set-to-celebrate-mining-sectors-people-and-tech-during-cim-mining-week-13013041",
-        "cat": "시장"
       }
     ]
   }
