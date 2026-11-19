@@ -1,135 +1,135 @@
 {
-  "asOfDate": "2026.11.18",
+  "asOfDate": "2026.11.19",
   "fx": {
-    "usdkrw": 1336
+    "usdkrw": 1332
   },
   "briefing": {
-    "dateLabel": "2026.11.18 (수)",
-    "headline": "글로벌 로보틱스 산업, 가전 시장의 혁신과 제조 경쟁력 강화를 위한 정책적 지원 가속화",
-    "summary": "로봇 기술이 가정용 가전부터 의료, 우주, 산업 제조 분야까지 광범위하게 적용되며 시장 규모와 정책적 중요성이 동시에 확대되고 있습니다.",
+    "dateLabel": "2026.11.19 (목)",
+    "headline": "글로벌 산업 현장에서 휴머노이드 로봇의 실전 투입이 가속화되는 가운데 로봇 훈련 인공지능 데이터 및 전용 특구에 대한 투자가 확산되고 있습니다.",
+    "summary": "제조 및 서비스 분야를 아우르는 로봇 실용화와 인프라 조성이 가속화되며 로보틱스 산업의 대중화와 고도화가 동시에 이루어지고 있습니다.",
     "points": [
-      "샤오미가 계단을 오르는 로봇 청소기를 포함한 신규 가전 라인업을 스페인 시장에 선보이며 스마트 홈 시장 공략을 강화하고 있습니다.",
-      "스페인의 푸블리오 코르돈 기념 병원이 다빈치 5 로봇을 도입해 심장 수술을 성공적으로 집도하며 의료 로봇의 정밀함을 입증했습니다.",
-      "인도 산업계는 제조 경쟁력 확보를 위해 정부에 로봇 자동화 및 배터리 부품 분야에 대한 생산 연계 인센티브(PLI) 정책 도입을 강력히 촉구하고 있습니다."
+      "보스턴 다이내믹스의 휴머노이드 로봇 아틀라스가 자동차 산업에 이어 글로벌파운드리스의 반도체 공장으로 적용 범위를 넓히고 있습니다.",
+      "휴민 랩스는 로봇의 인공지능 모델 훈련에 필요한 데이터 공급을 확대하기 위해 4천7백만 달러 규모의 투자를 성공적으로 유치했습니다.",
+      "인도 카르나타카 주정부는 벵갈루루 테크 서밋에서 인공지능 허브 구축 및 로봇 전용 구역 조성을 포함한 육성 계획을 공식 발표했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-17",
-        "title": "청소와 걸레질은 이제 그만: 390유로 미만의 로봇 청소기가 모든 것을 해결합니다",
-        "url": "https://www.bfmtv.com/pratique/maison/vous-n-avez-plus-besoin-de-passer-l-aspirateur-et-la-serpillere-cet-aspirateur-robot-sous-les-390-euros-s-occupe-de-tout_AB-202611170005.html",
+        "date": "2026-11-18",
+        "title": "가자 지구 상황에서 영감을 받은 노이다 학생들, 잔해 속 생존자 구조 돕는 뱀 로봇 개발",
+        "url": "https://theprint.in/feature/noida-students-develop-snake-robot-rescue-survivors/3102324/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-18",
+        "title": "자동차에 이어 보스턴 다이내믹스의 휴머노이드 로봇 아틀라스, 글로벌파운드리스 반도체 공장 투입",
+        "url": "https://www.generation-nt.com/actualites/boston-dynamics-atlas-robot-humanoide-usine-globalfoundries-2084734",
         "cat": "시장"
       },
       {
-        "date": "2026-11-17",
-        "title": "샤오미의 가전 공세: 3단 세탁건조기부터 계단을 오르는 로봇 청소기까지",
-        "url": "https://www.elespanol.com/omicrono/hardware/20261117/xiaomi-apuesta-fuerte-hogar-lavasecadora-tambores-robot-aspirador-sube-escalones/1003744459414_0.html",
+        "date": "2026-11-18",
+        "title": "말라가 출신 외과의, 이베리아 반도 최초로 다빈치 5 로봇 활용 승모판 수술 집도",
+        "url": "https://www.malagahoy.es/malaga/cirujano-malagueno-lidera-primeras-operaciones-valvula-mitral-da-vinci_0_2008534606.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-17",
-        "title": "샤오미, 스페인 가전 라인업 확대: 냉장고, 세탁기 및 신형 로봇 청소기 출시",
-        "url": "https://www.larazon.es/tecnologia-consumo/xiaomi/xiaomi-renueva-su-familia-electrodomesticos-espana-nevera-lavadora-nuevos-aspiradores_202611176afc16d621e74551e81c8c0a.html",
+        "date": "2026-11-18",
+        "title": "2026년 독자들이 가장 많이 구매한 인기 로봇 청소기 10선",
+        "url": "https://www.zdnet.com/home-and-office/kitchen-household/readers-most-popular-robot-vacuums-2026-black-friday/",
         "cat": "시장"
       },
       {
-        "date": "2026-11-17",
-        "title": "인도 카르나타카주, 클릭 한 번으로 토양 분석과 작물 조언을 제공하는 '크리시 로봇' 도입",
-        "url": "https://www.thehindu.com/news/national/karnataka/in-karnataka-krishi-robot-gives-farmers-soil-analysis-and-crop-advisory-with-just-a-click/article71712012.ece",
+        "date": "2026-11-18",
+        "title": "프랑스, 하루 60제곱미터를 시공할 수 있는 벽돌공 로봇 실증 테스트 진행",
+        "url": "https://www.eleconomista.es/galerias/eleconomista/25603/francia-prueba-un-robot-albanil-capaz-de-construir-60-metros-cuadrados-en-un-dia",
         "cat": "기술"
       },
       {
-        "date": "2026-11-17",
-        "title": "제너럴 오토노미의 4족 보행 로봇, 벵갈루루 테크 서밋 2026 로봇 경주 대회 우승",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/general-autonomys-quadruped-robot-wins-first-robot-race-at-bengaluru-tech-summit-2026/articleshow/135929640.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-17",
-        "title": "스페인 푸블리오 코르돈 기념 병원, 다빈치 5 로봇을 이용한 첫 심장 수술 성공",
-        "url": "https://www.elconfidencial.com/salud/2026-11-17/primeras-cirugias-cardiacas-de-espana-con-el-robot-da-vinci-5_4466842/",
+        "date": "2026-11-18",
+        "title": "다른 로봇들을 제어하고 훈련시키는 '슈퍼 로봇' 출시",
+        "url": "https://www.lanacion.com.ar/tecnologia/lanzan-un-super-robot-que-entrenara-a-otros-robots-para-controlarlos-nid18112026/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-17",
-        "title": "캐나다 투자자들, 토론토 로봇 기업에 투자",
-        "url": "https://financialpost.com/technology/canadian-investors-toronto-robotics-company-40-million/",
+        "date": "2026-11-18",
+        "title": "휴민 랩스, 로봇 훈련 데이터 구축 위해 4,700만 달러 투자 유치",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/humyn-labs-raises-47-mn-for-robot-training/articleshow/135964647.cms",
         "cat": "시장"
       },
       {
-        "date": "2026-11-17",
-        "title": "우주에서 로봇이 최초로 구조물 조립 성공, 비록 일부만 완성되었지만",
-        "url": "https://www.infobae.com/tecno/2026/11/17/un-robot-armo-por-primera-vez-una-estructura-en-orbita-sin-astronautas-aunque-solo-termino-una-parte/",
-        "cat": "기술"
+        "date": "2026-11-18",
+        "title": "아시아태평양경제협력체 정상회의 앞두고 선전에서 아이스크림·커피 배달 및 택배 로봇 본격 가동",
+        "url": "https://www.malaymail.com/news/tech-gadgets/2026/11/18/ice-cream-coffee-and-parcels-shenzhens-robots-clock-on-ahead-of-apec/243730",
+        "cat": "시장"
       },
       {
-        "date": "2026-11-17",
-        "title": "창문 청소 로봇 테스트: 이제는 정말 쓸만한 수준에 도달했다",
-        "url": "https://www.nettavisen.no/amedia-smb/smb/smb-hus-hjem-og-hage/test-av-vindusvaskerobot-na-begynner-det-a-bli-virkelig-bra/f/80-95-253658",
-        "cat": "기술"
+        "date": "2026-11-18",
+        "title": "샤오미의 인기 로봇 청소기, 최저가 할인 진행",
+        "url": "https://4gnews.pt/o-aspirador-robot-da-xiaomi-que-todos-queriamos-esta-agora-ao-melhor-preco/",
+        "cat": "시장"
       },
       {
-        "date": "2026-11-17",
-        "title": "53개의 손가락을 가진 로봇 '프라토', 인간 피아니스트와 쇼팽 연주 대결",
-        "url": "https://www.affaritaliani.it/cronache/prato-un-robot-con-53-dita-sfida-un-pianista-in-carne-e-ossa-il-duello-a-colpi-di-chopin-video.html",
-        "cat": "기술"
+        "date": "2026-11-18",
+        "title": "다이슨 R2 누로비 물걸레 겸용 로봇 청소기, 출시 직후 29% 파격 할인 실시",
+        "url": "https://www.smartworld.it/black-friday/robot-dyson-r2-nurovi-wash-dry-aspirapolvere-lavapavimenti-offerta-amazon.html",
+        "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-11-17",
-        "title": "The Hindu in School event held in Hassan; students exhibit working models from piezoelectric tiles to bluetooth-controlled robotic army tanker",
-        "url": "https://www.thehindu.com/news/national/karnataka/the-hindu-in-school-event-held-in-hassan-students-exhibit-working-models-from-piezoelectric-tiles-to-bluetooth-controlled-robotic-army-tanker/article71712267.ece",
+        "date": "2026-11-18",
+        "title": "WeTouch Technology Announces $25 Million Supply Agreement for Integrated Touchscreen Systems, Advancing Its Expansion Across Robotics and Smart Device Supply Chains",
+        "url": "https://www.manilatimes.net/2026/11/18/tmt-newswire/globenewswire/wetouch-technology-announces-25-million-supply-agreement-for-integrated-touchscreen-systems-advancing-its-expansion-across-robotics-and-smart-device-supply-chains/2473185",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-18",
+        "title": "Ice cream, coffee and parcels: Shenzhen’s robots clock on ahead of Apec",
+        "url": "https://www.malaymail.com/news/tech-gadgets/2026/11/18/ice-cream-coffee-and-parcels-shenzhens-robots-clock-on-ahead-of-apec/243730",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-18",
+        "title": "General Autonomy wins the race among three of India’s top quadrupedal robotics companies, with Strider Robotics and xTerra Robotics also competing",
+        "url": "https://www.tribuneindia.com/news/business/general-autonomy-wins-the-race-among-three-of-indias-top-quadrupedal-robotics-companies-with-strider-robotics-and-xterra-robotics-also-competing/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-18",
+        "title": "Humyn Labs raises $47M to bridge the gap between AI training and real",
+        "url": "https://siliconangle.com/2026/11/18/humyn-labs-raises-47m-to-bridge-the-gap-between-ai-training-and-real-world-robotics/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-18",
+        "title": "Karnataka Unveils AI Hub, Robotics Zone And Semiconductor Plans At Bengaluru Tech Summit",
+        "url": "https://www.news18.com/tech/karnataka-unveils-ai-hub-robotics-zone-and-semiconductor-plans-at-bengaluru-tech-summit-10431006.html",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-18",
+        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-18",
+        "title": "Dancing robots welcome world leaders ahead of APEC summit; watch",
+        "url": "https://indianexpress.com/shorts/trending/trending-globally/at-least-they-cant-take-robert-pattinsons-job-dancing-robots-welcome-world-leaders-ahead-of-apec-summit-10967864/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-17",
-        "title": "Karnataka unveils AI Hub, robotics zone as CM Shivakumar pitches state’s next tech leap",
-        "url": "https://economictimes.indiatimes.com/news/india/karnataka-unveils-ai-hub-robotics-zone-as-cm-shivakumar-pitches-states-next-tech-leap/articleshow/135927863.cms",
-        "cat": "정책"
+        "date": "2026-11-18",
+        "title": "Orbbec Showcases Data Collection Solutions for Physical AI at Bengaluru Tech Summit 2026",
+        "url": "https://www.tribuneindia.com/news/business/orbbec-showcases-data-collection-solutions-for-physical-ai-at-bengaluru-tech-summit-2026/",
+        "cat": "기술"
       },
       {
-        "date": "2026-11-17",
-        "title": "ASSOCHAM pitches dedicated PLI scheme for advanced manufacturing ahead of Union Budget 2027",
-        "url": "https://www.tribuneindia.com/news/business/assocham-pitches-dedicated-pli-scheme-for-advanced-manufacturing-ahead-of-union-budget-2027-28/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-17",
-        "title": "ASSOCHAM pitches dedicated PLI scheme for advanced manufacturing ahead of Union Budget 2027-28",
-        "url": "https://www.devdiscourse.com/article/business/4008332-assocham-pitches-dedicated-pli-scheme-for-advanced-manufacturing-ahead-of-union-budget-2027-28",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-17",
-        "title": "Canadian investors fund Toronto robot company",
-        "url": "https://financialpost.com/technology/canadian-investors-toronto-robotics-company-40-million/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-17",
-        "title": "Toronto’s Promise Robotics raises $40-million to automate more homebuilding",
-        "url": "https://www.theglobeandmail.com/business/technology/article-torontos-promise-robotics-raises-40-million-automate-homebuilding/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-17",
-        "title": "India's industry groups push PLIs for battery components robotics automation",
-        "url": "https://www.newsbytesapp.com/news/business/indias-industry-groups-push-plis-for-battery-components-robotics-automation/tldr",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-17",
-        "title": "Robotics PLI, R&D Tax Incentives Crucial for India's Manufacturing Growth: ASSOCHAM to Govt",
-        "url": "https://www.lokmattimes.com/technology/robotics-pli-rd-tax-incentives-crucial-for-indias-manufacturing-growth-assocham-to-govt-a001-w02/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-17",
-        "title": "Exclusive-GM plans 20% boost in robotics as factory costs rise",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/11/17/exclusive-gm-plans-20-boost-in-robotics-as-factory-costs-rise",
-        "cat": "경쟁"
+        "date": "2026-11-18",
+        "title": "Dancing humanoid robots welcome world leaders at APEC Summit in China",
+        "url": "https://www.cnbctv18.com/technology/dancing-humanoid-robots-welcome-world-leaders-at-apec-summit-in-china-watch-20036541.htm",
+        "cat": "기술"
       }
     ]
   }
