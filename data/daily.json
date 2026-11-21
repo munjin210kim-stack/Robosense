@@ -1,134 +1,134 @@
 {
-  "asOfDate": "2026.11.20",
+  "asOfDate": "2026.11.21",
   "fx": {
-    "usdkrw": 1328
+    "usdkrw": 1339
   },
   "briefing": {
-    "dateLabel": "2026.11.20 (금)",
-    "headline": "글로벌 로보틱스 시장이 무역 규제 강화 속에서도 신규 투자와 첨단 인공지능 기술 접목을 바탕으로 산업 적용을 가속화하고 있습니다.",
-    "summary": "로봇 산업은 미중 규제 갈등이라는 정책적 장애물 속에서도 대규모 기술 투자 유치와 가상 환경 학습을 기반으로 실생활 및 산업 현장 전반에 걸쳐 성장세를 이어가고 있습니다.",
+    "dateLabel": "2026.11.21 (토)",
+    "headline": "글로벌 기술 기업들의 로봇 전담 조직 개편과 독자적인 서비스 생태계 구축 움직임이 가속화되고 있습니다.",
+    "summary": "상업용 청소 및 케어 로봇의 신제품 출시가 이어지는 가운데, 주요 기업들이 로봇 사업 전담 체제를 강화하며 본격적인 시장 주도권 확보에 나서고 있습니다.",
     "points": [
-      "제네시스 인공지능 기업이 스마트 장갑 기반 로봇 기술 개발을 위해 5억 달러 규모의 대형 투자를 성공적으로 유치했습니다.",
-      "미국 당국의 외국산 로봇 규제와 비자 발급 거부 여파로 중국 로봇 제조사들의 미국 최대 가전 전시회 참가가 큰 난항을 겪고 있습니다.",
-      "첨단 로봇 공학 컨퍼런스를 통해 산업 현장 배치를 위한 피지컬 인공지능 도입 방안과 실무형 인간형 로봇의 활용 가능성이 집중 조명되었습니다."
+      "자율주행 배달 로봇 기업들이 기존 대형 배달 플랫폼 의존에서 벗어나 독자적인 서비스 인프라를 구축하고 있습니다.",
+      "비고가 북미 최대 상업용 박람회에서 신형 청소 로봇 'Mix1Pro'를 선보이며 글로벌 상업용 로봇 시장 진출을 본격화했습니다.",
+      "삼성전자가 노태문 사장을 모바일 사업부장에서 전환하여 로보틱스 신사업 분야에 전념하도록 전담 체제를 구축했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-19",
-        "title": "인간 연주자에 도전하는 53개 손가락의 피아니스트 로봇 '테오트로니코'를 소개합니다",
-        "url": "https://www.newsbytesapp.com/news/science/meet-teotronico-53-finger-robot-pianist-powered-by-google-s-gemini-ai/story",
+        "date": "2026-11-20",
+        "title": "고양이 얼굴 인식 기능이 탑재된 프랑스 반려동물 케어 로봇 '요미' 공개",
+        "url": "https://www.journaldugeek.com/2026/11/20/yomy-ce-robot-francais-sert-la-patee-de-votre-chat-sans-frigo-et-il-reconnait-meme-sa-tete/",
         "cat": "기술"
       },
       {
-        "date": "2026-11-19",
-        "title": "5분 만에 완충되는 1,500kW급 비야디(BYD) 충전소... 로봇이 직접 차량에 플러그 연결",
-        "url": "https://www.frandroid.com/marques/byd/3322293_on-a-vu-la-borne-byd-a-1-500-kw-un-robot-branche-votre-voiture-le-plein-prend-5-minutes",
+        "date": "2026-11-20",
+        "title": "파운데이션, 2세대 차세대 로봇 '팬텀 MKII' 전격 공개",
+        "url": "https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot",
         "cat": "기술"
       },
       {
-        "date": "2026-11-19",
-        "title": "얼리 블랙프라이데이 최고의 스마트홈 할인 상품 모음",
-        "url": "https://lifehacker.com/tech/the-best-smart-home-deals-early-black-friday-2026",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "아너, 부쿠레슈티 게이밍 위크 2026에서 로봇 폰 선보이며 모바일 게임 대회 개최",
-        "url": "https://www.mobilissimo.ro/stiri-diverse/honor-aduce-robot-phone-si-competitii-de-gaming-mobil-la-bucharest-gaming-week-2026",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "제네시스 AI, 스마트 장갑 기반 로봇 개발을 위해 5억 달러 투자 유치",
-        "url": "https://www.generation-nt.com/actualites/genesis-ai-robots-gants-connectes-2084752",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "로보락의 인기 바닥 청소 로봇 2종, 블랙프라이데이 맞아 대폭 할인 진행",
-        "url": "https://gizmodo.com/roborocks-dynamic-duo-of-floor-cleaning-are-both-marked-way-down-for-black-friday-2000838654",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "미국 FCC의 외국산 로봇 금지 조치에 이어 중국 로봇 업체들 비자 거부로 미국 최대 가전쇼 참가 난항",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-fcc-ban-on-foreign-robots-chinese-robot-makers-face-visa-denials-to-attend-americas-biggest-electronics-show-why-this-old-problem-is-troubling-companies-now/articleshow/135989451.cms",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "로봇청소기부터 제빵기까지 삶을 편하게 만들어 줄 5가지 가전 기기",
-        "url": "https://www.express.co.uk/partner-stories/travel/articles/2267256/5-gadgets-make-your-life",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "악수부터 점프까지 가능한 아이모가의 신형 로봇 '아르고스' 공개",
-        "url": "https://www.tribunnews.com/bisnis/7913774/robot-argos-besutan-aimoga-bisa-berjabat-tangan-hingga-melompat",
+        "date": "2026-11-20",
+        "title": "15분 만에 고압 전력선 보수 작업을 완료하는 특수 작업 로봇 기술",
+        "url": "https://interestingengineering.com/ai-robotics/china-robot-sleeves-live-power-line",
         "cat": "기술"
       },
       {
-        "date": "2026-11-19",
-        "title": "게임을 로봇 연구소로... 스타트업들이 'GTA 5' 가상 세계에서 로봇 학습 진행",
-        "url": "https://www.indiatoday.in/jobs/story/startup-using-video-games-to-train-robots-at-scale-worldwide-3042337-2026-11-19",
+        "date": "2026-11-20",
+        "title": "오대호 과학센터, 연휴 맞이 가족 대상 로봇 및 과학 체험 프로그램 운영",
+        "url": "https://www.cleveland.com/entertainment/2026/11/great-lakes-science-center-offers-holiday-weekend-programming-for-families.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "자율주행 배달 로봇 기업들이 우버 플랫폼을 이탈하는 이유",
+        "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "블랙 프라이데이 맞아 로보락 로봇청소기 최저가 할인 행사 진행",
+        "url": "https://www.ouest-france.fr/shopping/black-friday/black-friday-roborock-aspirateur-robot-ou-laveur-de-sol-equipez-vous-au-meilleur-prix-8232d5d2-e4bb-11f1-bd4e-6f30b8f49e21",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "흡입부터 물걸레 청소와 자동 관리까지 수행하는 '모바 Z60 울트라' 출시",
+        "url": "https://www.elperiodico.com/es/tecnologia/20261120/mova-z60-ultra-roller-complete-136655110",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "이제르 생클리닉, 수술용 로봇 도입으로 연간 1만 5천 건의 비뇨기과 진료 수행",
+        "url": "https://www.ledauphine.com/sante/2026/11/20/cancer-hypertrophie-robot-15-000-consultations-annuelles-d-urologie-a-la-clinique-saint-vincent-de-paul-a-bourgoin-jallieu",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "비고, ISSA 북미 2026에서 상업용 청소 로봇 'Mix1Pro' 전격 출시",
+        "url": "https://www.manilatimes.net/2026/11/20/tmt-newswire/pr-newswire/viggo-launches-mix1pro-commercial-cleaning-robot-at-issa-show-north-america-2026/2474878",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "달 표면에서 40년간 작동 상태를 유지했던 과거 소련 탐사 로봇의 기록",
+        "url": "https://www.eleconomista.es/tecnologia/noticias/14029417/11/26/en-2010-investigadores-descubrieron-un-robot-sovietico-que-llevaba-en-la-luna-40-anos-seguia-funcionando.html",
         "cat": "기술"
       }
     ],
     "global": [
       {
-        "date": "2026-11-19",
-        "title": "Neato expands exchange programme for customers across Europe",
-        "url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-neato-expands-exchange-programme-for-customers-across-europe-20261119133008.html",
-        "cat": "시장"
+        "date": "2026-11-20",
+        "title": "Phantom MKII: Foundation unveils 2nd",
+        "url": "https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot",
+        "cat": "기술"
       },
       {
-        "date": "2026-11-19",
-        "title": "Experience US High School Education from the Comfort of Your Home",
-        "url": "https://www.tribuneindia.com/news/business/experience-us-high-school-education-from-the-comfort-of-your-home/",
-        "cat": "시장"
+        "date": "2026-11-20",
+        "title": "Samsung co-CEO TM Roh steps down as mobile chief to focus on robotics, Galaxy S26 lead Won-Joon Choi takes over",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/samsung-co-ceo-tm-roh-steps-down-as-mobile-chief-to-focus-on-robotics-galaxy-s26-lead-won-joon-choi-takes-over/articleshow/136028747.cms",
+        "cat": "경쟁"
       },
       {
-        "date": "2026-11-19",
-        "title": "Months after FCC ban on foreign robots, Chinese robot makers face visa denials to attend America's biggest electronics show; why this 'old problem' is troubling companies now",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-fcc-ban-on-foreign-robots-chinese-robot-makers-face-visa-denials-to-attend-americas-biggest-electronics-show-why-this-old-problem-is-troubling-companies-now/articleshow/135989451.cms",
+        "date": "2026-11-20",
+        "title": "LEAF Awards $50,000 In St. Cloud School Grants",
+        "url": "https://kdhlradio.com/ixp/67/p/st-cloud-school-grants-awarded/",
         "cat": "정책"
       },
       {
-        "date": "2026-11-19",
-        "title": "Pune Youth Festival 2026: Defence tech, AI, job fair at Fergusson College",
-        "url": "https://indianexpress.com/article/cities/pune/pune-youth-festival-2026-fergusson-college-job-fair-defence-tech-10970028/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "Adhiraj Chauhan wins ‘Young AI Entrepreneur’ at the ET AI Awards 2026 for breakthroughs spanning mental healthcare to marine robotics",
-        "url": "https://economictimes.indiatimes.com/tech/technology/adhiraj-chauhan-wins-young-ai-entrepreneur-at-the-et-ai-awards-2026-for-breakthroughs-spanning-mental-healthcare-to-marine-robotics/articleshow/135987369.cms",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "ROBOTERA Invited to APEC CEO Summit for Second Consecutive Year, Showcases Real-World Humanoid Robot Applications",
-        "url": "https://www.prnewswire.co.uk/news-releases/robotera-invited-to-apec-ceo-summit-for-second-consecutive-year-showcases-real-world-humanoid-robot-applications-302945320.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "Advanced Robotics Conference 2026: FEV highlights pathways to industrial deployment of Physical AI",
-        "url": "https://www.europapress.es/comunicados/tic-00911/noticia-comunicado-advanced-robotics-conference-2026-fev-highlights-pathways-to-industrial-deployment-of-physical-ai-20261119110002.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-19",
-        "title": "What Will It Take to Keep India Polio-Free? A Question to Reflect on This World Polio Day",
-        "url": "https://www.newsx.com/business/what-will-it-take-to-keep-india-polio-free-a-question-to-reflect-on-this-world-polio-day-2-293544/",
+        "date": "2026-11-20",
+        "title": "India’s First Deep Tech Hub To Be Opened At IIT Kanpur's Noida Campus",
+        "url": "https://www.news18.com/education-career/indias-first-deep-tech-hub-to-be-opened-at-iit-kanpurs-noida-campus-ws-l-10434415.html",
         "cat": "정책"
       },
       {
-        "date": "2026-11-19",
-        "title": "GD Goenka Integrates Ramayan Teachings, Robotics and Experiential Learning in Primary Education",
-        "url": "https://www.newsx.com/nx-news/gd-goenka-integrates-ramayan-teachings-robotics-and-experiential-learning-in-primary-education-293527/",
+        "date": "2026-11-20",
+        "title": "Why the robots are ditching Uber",
+        "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "AGIBOT Launches Australian Cloud Node to Accelerate Market Expansion and Local Robotics Deployment Across Australia and New Zealand",
+        "url": "https://www.manilatimes.net/2026/11/20/tmt-newswire/pr-newswire/agibot-launches-australian-cloud-node-to-accelerate-market-expansion-and-local-robotics-deployment-across-australia-and-new-zealand/2474931",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "GenvenX Technologies Expands Its Vision Across AI, Cybersecurity, Robotics, and FinTech",
+        "url": "https://www.tribuneindia.com/news/business/genvenx-technologies-expands-its-vision-across-ai-cybersecurity-robotics-and-fintech/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "Anthropic Looks Beyond Claude Code After Blockbuster IPO",
+        "url": "https://www.businessinsider.com/anthropic-ipo-ai-coding-claude-biotech-cybersecurity-robotics-2026-11",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "AiMOGA Robotics Concludes Landmark Showcase at Smart Nation Expo 2026 in Malaysia",
+        "url": "https://www.manilatimes.net/2026/11/20/tmt-newswire/pr-newswire/aimoga-robotics-concludes-landmark-showcase-at-smart-nation-expo-2026-in-malaysia/2474811",
         "cat": "시장"
       }
     ]
