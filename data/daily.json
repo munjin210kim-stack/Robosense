@@ -1,135 +1,141 @@
 {
-  "asOfDate": "2026.11.21",
+  "asOfDate": "2026.11.22",
   "fx": {
     "usdkrw": 1339
   },
   "briefing": {
-    "dateLabel": "2026.11.21 (토)",
-    "headline": "글로벌 기술 기업들의 로봇 전담 조직 개편과 독자적인 서비스 생태계 구축 움직임이 가속화되고 있습니다.",
-    "summary": "상업용 청소 및 케어 로봇의 신제품 출시가 이어지는 가운데, 주요 기업들이 로봇 사업 전담 체제를 강화하며 본격적인 시장 주도권 확보에 나서고 있습니다.",
+    "dateLabel": "2026.11.22 (일)",
+    "headline": "대규모 투자를 통한 인공지능 로봇 도입 확산과 함께 연말 소비재 로봇 시장의 가격 경쟁이 본격화되고 있습니다.",
+    "summary": "산업 현장의 인공지능 로봇 적용 가속화 및 초고속 소프트 로봇 개발 등 기술 혁신이 이어지는 가운데 주요 로봇청소기 제조사들의 연말 할인 경쟁과 기업재편 움직임이 활발해지고 있습니다.",
     "points": [
-      "자율주행 배달 로봇 기업들이 기존 대형 배달 플랫폼 의존에서 벗어나 독자적인 서비스 인프라를 구축하고 있습니다.",
-      "비고가 북미 최대 상업용 박람회에서 신형 청소 로봇 'Mix1Pro'를 선보이며 글로벌 상업용 로봇 시장 진출을 본격화했습니다.",
-      "삼성전자가 노태문 사장을 모바일 사업부장에서 전환하여 로보틱스 신사업 분야에 전념하도록 전담 체제를 구축했습니다."
+      "5억 달러 규모의 대형 투자가 유치되면서 산업 현장 내 인공지능 기반 로봇 도입에 속도가 붙을 전망입니다.",
+      "기존 기술 대비 100배 빠르게 구동되는 역대 최속의 소프트 로봇이 개발되어 차세대 로봇 기술의 가능성을 열었습니다.",
+      "글로벌 기업 에이비비는 소프트뱅크로의 사업 매각이 불발될 경우 로봇 부문의 별도 상장을 추진하는 방안을 검토하고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-20",
-        "title": "고양이 얼굴 인식 기능이 탑재된 프랑스 반려동물 케어 로봇 '요미' 공개",
-        "url": "https://www.journaldugeek.com/2026/11/20/yomy-ce-robot-francais-sert-la-patee-de-votre-chat-sans-frigo-et-il-reconnait-meme-sa-tete/",
+        "date": "2026-11-21",
+        "title": "연구진, 기존 대비 100배 빠른 역대 최속의 소프트 로봇 개발",
+        "url": "https://gizmodo.com/this-squishy-little-robot-can-run-10-mph-without-electronics-2000842623",
         "cat": "기술"
       },
       {
-        "date": "2026-11-20",
-        "title": "파운데이션, 2세대 차세대 로봇 '팬텀 MKII' 전격 공개",
-        "url": "https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot",
+        "date": "2026-11-21",
+        "title": "플로리다주, 외래종 버마비단뱀 포획 위해 태양광 모방 로봇 토끼 실전 배치",
+        "url": "https://timesofindia.indiatimes.com/science/wildlife/florida-is-deploying-robot-rabbits-to-hunt-invasive-burmese-pythons-the-solar-powered-decoys-mimic-real-prey-using-heat-scent-and-movement-to-lure-the-giant-snakes-out-of-hiding/articleshow/136054673.cms",
         "cat": "기술"
       },
       {
-        "date": "2026-11-20",
-        "title": "15분 만에 고압 전력선 보수 작업을 완료하는 특수 작업 로봇 기술",
-        "url": "https://interestingengineering.com/ai-robotics/china-robot-sleeves-live-power-line",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "오대호 과학센터, 연휴 맞이 가족 대상 로봇 및 과학 체험 프로그램 운영",
-        "url": "https://www.cleveland.com/entertainment/2026/11/great-lakes-science-center-offers-holiday-weekend-programming-for-families.html",
+        "date": "2026-11-21",
+        "title": "출시 두 달 된 다이슨 R2 누로비 물걸레 로봇청소기, 블랙프라이데이 맞아 500유로 이하로 가격 인하",
+        "url": "https://www.frandroid.com/bons-plans/3329115_devoile-il-y-a-deux-mois-le-robot-aspirateur-dyson-r2-nurovi-washdry-avec-ses-serpillieres-triangulaires-chute-deja-sous-les-500-e-a-lapproche-du-black-friday",
         "cat": "시장"
       },
       {
-        "date": "2026-11-20",
-        "title": "자율주행 배달 로봇 기업들이 우버 플랫폼을 이탈하는 이유",
-        "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
+        "date": "2026-11-21",
+        "title": "5억 달러 규모 투자 유치로 작업 현장 내 AI 로봇 도입 가속화 전망",
+        "url": "https://www.foxnews.com/tech/500m-investment-bring-ai-robots-workplace",
         "cat": "시장"
       },
       {
-        "date": "2026-11-20",
-        "title": "블랙 프라이데이 맞아 로보락 로봇청소기 최저가 할인 행사 진행",
-        "url": "https://www.ouest-france.fr/shopping/black-friday/black-friday-roborock-aspirateur-robot-ou-laveur-de-sol-equipez-vous-au-meilleur-prix-8232d5d2-e4bb-11f1-bd4e-6f30b8f49e21",
+        "date": "2026-11-21",
+        "title": "에코백스 디봇 X12S 옴니사이클론, 블랙프라이데이 맞아 400달러 이상 대폭 할인",
+        "url": "https://gizmodo.com/ecovacs-deebot-x12s-omnicyclone-is-over-400-cheaper-for-black-friday-making-now-the-time-to-buy-before-stock-runs-out-2000842164",
         "cat": "시장"
       },
       {
-        "date": "2026-11-20",
-        "title": "흡입부터 물걸레 청소와 자동 관리까지 수행하는 '모바 Z60 울트라' 출시",
-        "url": "https://www.elperiodico.com/es/tecnologia/20261120/mova-z60-ultra-roller-complete-136655110",
+        "date": "2026-11-21",
+        "title": "인도 시장 내 삼성 추천 청소기 라인업: 비스포크 제트 펫 및 제트 봇+ 로봇청소기 등",
+        "url": "https://timesofindia.indiatimes.com/technology/appliances/best-samsung-vacuum-cleaners-in-india-bespoke-jet-pet-jet-bot-robot-vacuum-and-other-options/articleshow/136051815.cms",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-21",
+        "title": "샤오미, 거실 필수 가전 제품 대상 최대 65% 할인 행사 진행",
+        "url": "https://4gnews.pt/as-5-melhores-ofertas-da-xiaomi-que-toda-sala-deve-ter-com-descontos-ate-65/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-21",
+        "title": "외도한 아내를 로봇청소기로 몰래 녹음·촬영한 남편에게 징역형 선고",
+        "url": "https://www.hurriyet.com.tr/dunya/aldatan-esini-robot-supurgeyle-kaydeden-kocaya-hapis-cezasi-43386053",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-21",
+        "title": "5분 만에 유리창을 완벽하게 청소하는 로봇청소기 전용 액세서리 화제",
+        "url": "https://www.leparisien.fr/guide-shopping/black-friday/il-lave-vos-fenetres-en-5-minutes-voici-laccessoire-qui-va-rendre-vos-fenetres-parfaitement-propres-22-11-2026-CXFAKUJAIZE2BA6E5B4RCM6FLQ.php",
         "cat": "기술"
       },
       {
-        "date": "2026-11-20",
-        "title": "이제르 생클리닉, 수술용 로봇 도입으로 연간 1만 5천 건의 비뇨기과 진료 수행",
-        "url": "https://www.ledauphine.com/sante/2026/11/20/cancer-hypertrophie-robot-15-000-consultations-annuelles-d-urologie-a-la-clinique-saint-vincent-de-paul-a-bourgoin-jallieu",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "비고, ISSA 북미 2026에서 상업용 청소 로봇 'Mix1Pro' 전격 출시",
-        "url": "https://www.manilatimes.net/2026/11/20/tmt-newswire/pr-newswire/viggo-launches-mix1pro-commercial-cleaning-robot-at-issa-show-north-america-2026/2474878",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "달 표면에서 40년간 작동 상태를 유지했던 과거 소련 탐사 로봇의 기록",
-        "url": "https://www.eleconomista.es/tecnologia/noticias/14029417/11/26/en-2010-investigadores-descubrieron-un-robot-sovietico-que-llevaba-en-la-luna-40-anos-seguia-funcionando.html",
-        "cat": "기술"
+        "date": "2026-11-21",
+        "title": "메탈 로봇혼 '데스티니 건담 SpecII' 최종결전 컬러 버전 추첨 판매 진행",
+        "url": "https://www.inside-games.jp/article/2026/11/21/191377.html",
+        "cat": "시장"
       }
     ],
     "global": [
+      {
+        "date": "2026-11-21",
+        "title": "China wants to win the AI race and become self-reliant. What is its strategy?",
+        "url": "https://www.firstpost.com/business/china-ai-strategy-technological-self-reliance-industrial-policy-usa-rivalry-14061700.html",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-21",
+        "title": "Ahmad Zahid urges UniKL graduates to become technology creators, leaders of future industries",
+        "url": "https://www.thestar.com.my/news/nation/2026/11/21/ahmad-zahid-urges-unikl-graduates-to-become-technology-creators-leaders-of-future-industries",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-21",
+        "title": "Why The World Looks At Bengaluru: DK Shivakumar On Talent, AI And Karnataka's Growth",
+        "url": "https://www.timesnownews.com/india/why-the-world-looks-at-bengaluru-dk-shivakumar-on-talent-ai-and-karnatakas-growth-article-156545308",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-21",
+        "title": "Former No Name Restaurant to become marine robotics hub",
+        "url": "https://www.boston.com/news/local-news/2026/11/20/former-no-name-restaurant-to-become-marine-robotics-hub/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "Shivaji University Kolhapur to set up AI & robotics R&D centre, benefit 100 schools",
+        "url": "https://timesofindia.indiatimes.com/city/kolhapur/shivaji-university-kolhapur-to-set-up-ai-robotics-rd-centre-benefit-100-schools/articleshow/136036837.cms",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "NBP empowers future innovators with AI, robotics lab at Abbottabad Public School",
+        "url": "https://www.nation.com.pk/21-Nov-2026/nbp-empowers-future-innovators-ai-robotics-lab-abbottabad-public-school",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "Neato expands its customer compensation programme for customers across Europe",
+        "url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-neato-expands-its-customer-compensation-programme-for-customers-across-europe-20261120172949.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "EXCLUSIVE-ABB considers robotics listing if sale to SoftBank fails, sources say",
+        "url": "https://www.devdiscourse.com/article/international/4010076-exclusive-abb-considers-robotics-listing-if-sale-to-softbank-fails-sources-say",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-20",
+        "title": "The Next Phase of Robotics: From Technological Progress to Real-World Impact",
+        "url": "https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu",
+        "cat": "기술"
+      },
       {
         "date": "2026-11-20",
         "title": "Phantom MKII: Foundation unveils 2nd",
         "url": "https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot",
         "cat": "기술"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "Samsung co-CEO TM Roh steps down as mobile chief to focus on robotics, Galaxy S26 lead Won-Joon Choi takes over",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/samsung-co-ceo-tm-roh-steps-down-as-mobile-chief-to-focus-on-robotics-galaxy-s26-lead-won-joon-choi-takes-over/articleshow/136028747.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "LEAF Awards $50,000 In St. Cloud School Grants",
-        "url": "https://kdhlradio.com/ixp/67/p/st-cloud-school-grants-awarded/",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "India’s First Deep Tech Hub To Be Opened At IIT Kanpur's Noida Campus",
-        "url": "https://www.news18.com/education-career/indias-first-deep-tech-hub-to-be-opened-at-iit-kanpurs-noida-campus-ws-l-10434415.html",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "Why the robots are ditching Uber",
-        "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "AGIBOT Launches Australian Cloud Node to Accelerate Market Expansion and Local Robotics Deployment Across Australia and New Zealand",
-        "url": "https://www.manilatimes.net/2026/11/20/tmt-newswire/pr-newswire/agibot-launches-australian-cloud-node-to-accelerate-market-expansion-and-local-robotics-deployment-across-australia-and-new-zealand/2474931",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "GenvenX Technologies Expands Its Vision Across AI, Cybersecurity, Robotics, and FinTech",
-        "url": "https://www.tribuneindia.com/news/business/genvenx-technologies-expands-its-vision-across-ai-cybersecurity-robotics-and-fintech/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "Anthropic Looks Beyond Claude Code After Blockbuster IPO",
-        "url": "https://www.businessinsider.com/anthropic-ipo-ai-coding-claude-biotech-cybersecurity-robotics-2026-11",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "AiMOGA Robotics Concludes Landmark Showcase at Smart Nation Expo 2026 in Malaysia",
-        "url": "https://www.manilatimes.net/2026/11/20/tmt-newswire/pr-newswire/aimoga-robotics-concludes-landmark-showcase-at-smart-nation-expo-2026-in-malaysia/2474811",
-        "cat": "시장"
       }
     ]
   }
