@@ -1,87 +1,117 @@
 {
-  "asOfDate": "2026.11.22",
+  "asOfDate": "2026.11.23",
   "fx": {
     "usdkrw": 1339
   },
   "briefing": {
-    "dateLabel": "2026.11.22 (일)",
-    "headline": "대규모 투자를 통한 인공지능 로봇 도입 확산과 함께 연말 소비재 로봇 시장의 가격 경쟁이 본격화되고 있습니다.",
-    "summary": "산업 현장의 인공지능 로봇 적용 가속화 및 초고속 소프트 로봇 개발 등 기술 혁신이 이어지는 가운데 주요 로봇청소기 제조사들의 연말 할인 경쟁과 기업재편 움직임이 활발해지고 있습니다.",
+    "dateLabel": "2026.11.23 (월)",
+    "headline": "블랙 프라이데이 시즌을 맞은 서비스 로봇 시장의 흥행과 함께 휴머노이드 실전 시연 및 허위 광고 규제 등 다양한 산업 현안이 부각되고 있습니다.",
+    "summary": "로봇 청소기 중심의 소비재 시장이 활기를 띠는 가운데, 우천 등 실제 환경에서의 기술적 제과와 허위·과장 광고에 대한 당국의 강력한 규제 조치가 함께 나타나고 있습니다.",
     "points": [
-      "5억 달러 규모의 대형 투자가 유치되면서 산업 현장 내 인공지능 기반 로봇 도입에 속도가 붙을 전망입니다.",
-      "기존 기술 대비 100배 빠르게 구동되는 역대 최속의 소프트 로봇이 개발되어 차세대 로봇 기술의 가능성을 열었습니다.",
-      "글로벌 기업 에이비비는 소프트뱅크로의 사업 매각이 불발될 경우 로봇 부문의 별도 상장을 추진하는 방안을 검토하고 있습니다."
+      "블랙 프라이데이 특수를 맞아 에코백스와 드리미 등 주요 로봇 청소기 제조사들이 파격적인 가격 할인과 반려동물 케어 등 첨단 기능을 앞세워 시장 공략을 강화하고 있습니다.",
+      "밀라노 하프 마라톤에서 러너들과 대결을 펼칠 예정이던 휴머노이드 로봇 시연이 갑작스러운 빗줄기로 인해 취소되면서 실외 악천후 대응이 중요한 과제로 떠올랐습니다.",
+      "인도 중앙소비자보호당국이 온라인 마켓플레이스에서 안티드론 건을 허위·과장 광고해 판매한 로봇 기업에 과징금을 부과하며 로보틱스 장비에 대한 엄격한 법적 잣대를 적용했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-21",
-        "title": "연구진, 기존 대비 100배 빠른 역대 최속의 소프트 로봇 개발",
-        "url": "https://gizmodo.com/this-squishy-little-robot-can-run-10-mph-without-electronics-2000842623",
+        "date": "2026-11-22",
+        "title": "블랙 프라이데이 Cdiscount: 파격적인 가격에 판매되는 에코백스 로봇 청소기",
+        "url": "https://www.20minutes.fr/guide-achat/black-friday-guide-achat/4264100-20261122-black-friday-cdiscount-aspirateur-robot-ecovacs-chute-prix-inedit",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "신형 드리미 X60 프로 울트라 매트릭스가 반려동물을 케어하는 방식",
+        "url": "https://www.lasexta.com/tecnologia-tecnoxplora/gadgets/asi-cuida-tus-mascotas-nueva-dreame-x60-pro-ultra-matrix_202611226b02d956c0d5c85b96c478dd.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-21",
-        "title": "플로리다주, 외래종 버마비단뱀 포획 위해 태양광 모방 로봇 토끼 실전 배치",
-        "url": "https://timesofindia.indiatimes.com/science/wildlife/florida-is-deploying-robot-rabbits-to-hunt-invasive-burmese-pythons-the-solar-powered-decoys-mimic-real-prey-using-heat-scent-and-movement-to-lure-the-giant-snakes-out-of-hiding/articleshow/136054673.cms",
+        "date": "2026-11-22",
+        "title": "빗속에서도 2만 명이 참가해 열린 밀라노 하프 마라톤",
+        "url": "https://www.ilgiornaledivicenza.it/news/italia/milano-in-20mila-corrono-la-half-marathon-nonostante-la-pioggia-1.13191859",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "더 큰 작업을 위해 서로 연결되는 인치 크기의 유연한 로봇",
+        "url": "https://interestingengineering.com/ai-robotics/shape-shifting-robot-looks-like-real-transformer",
         "cat": "기술"
       },
       {
-        "date": "2026-11-21",
-        "title": "출시 두 달 된 다이슨 R2 누로비 물걸레 로봇청소기, 블랙프라이데이 맞아 500유로 이하로 가격 인하",
-        "url": "https://www.frandroid.com/bons-plans/3329115_devoile-il-y-a-deux-mois-le-robot-aspirateur-dyson-r2-nurovi-washdry-avec-ses-serpillieres-triangulaires-chute-deja-sous-les-500-e-a-lapproche-du-black-friday",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-21",
-        "title": "5억 달러 규모 투자 유치로 작업 현장 내 AI 로봇 도입 가속화 전망",
-        "url": "https://www.foxnews.com/tech/500m-investment-bring-ai-robots-workplace",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-21",
-        "title": "에코백스 디봇 X12S 옴니사이클론, 블랙프라이데이 맞아 400달러 이상 대폭 할인",
-        "url": "https://gizmodo.com/ecovacs-deebot-x12s-omnicyclone-is-over-400-cheaper-for-black-friday-making-now-the-time-to-buy-before-stock-runs-out-2000842164",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-21",
-        "title": "인도 시장 내 삼성 추천 청소기 라인업: 비스포크 제트 펫 및 제트 봇+ 로봇청소기 등",
-        "url": "https://timesofindia.indiatimes.com/technology/appliances/best-samsung-vacuum-cleaners-in-india-bespoke-jet-pet-jet-bot-robot-vacuum-and-other-options/articleshow/136051815.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-21",
-        "title": "샤오미, 거실 필수 가전 제품 대상 최대 65% 할인 행사 진행",
-        "url": "https://4gnews.pt/as-5-melhores-ofertas-da-xiaomi-que-toda-sala-deve-ter-com-descontos-ate-65/",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-21",
-        "title": "외도한 아내를 로봇청소기로 몰래 녹음·촬영한 남편에게 징역형 선고",
-        "url": "https://www.hurriyet.com.tr/dunya/aldatan-esini-robot-supurgeyle-kaydeden-kocaya-hapis-cezasi-43386053",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-21",
-        "title": "5분 만에 유리창을 완벽하게 청소하는 로봇청소기 전용 액세서리 화제",
-        "url": "https://www.leparisien.fr/guide-shopping/black-friday/il-lave-vos-fenetres-en-5-minutes-voici-laccessoire-qui-va-rendre-vos-fenetres-parfaitement-propres-22-11-2026-CXFAKUJAIZE2BA6E5B4RCM6FLQ.php",
+        "date": "2026-11-22",
+        "title": "밀라노 하프 마라톤에서 우천으로 취소된 수퍼 휴머노이드 아너 로봇 D1 플래시의 시연",
+        "url": "https://milano.corriere.it/notizie/cronaca/26_novembre_22/milano-alla-half-marathon-niente-show-del-super-umanoide-che-doveva-sfidare-i-runner-la-pioggia-ferma-honor-robot-d1-flash-bf2f571d-76d7-4667-b7c4-953d48a76xlk.shtml",
         "cat": "기술"
       },
       {
-        "date": "2026-11-21",
-        "title": "메탈 로봇혼 '데스티니 건담 SpecII' 최종결전 컬러 버전 추첨 판매 진행",
-        "url": "https://www.inside-games.jp/article/2026/11/21/191377.html",
+        "date": "2026-11-22",
+        "title": "일렉트로 데포에서 역대 최저가로 판매 중인 다기능 주방 로봇",
+        "url": "https://www.ladepeche.fr/2026/11/22/pas-derreur-possible-ce-robot-culinaire-multifonction-est-au-prix-le-plus-bas-sur-electro-depot-13661733.php",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "2010년, 40년 전 달에 착륙했던 소련 로봇 재발견: 여전히 작동 중이던 탐사선",
+        "url": "https://www.marca.com/tiramillas/ciencia/2026/11/22/2010-redescubrieron-robot-sovietico-habia-aterrizado-luna-40-anos-vehiculo-seguia-funcionando.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "블랙 프라이데이를 맞아 해당 카테고리에서 불티나게 팔리는 에코백스 로봇 청소기",
+        "url": "https://www.presse-citron.net/to-vente-de-sa-categorie-ce-robot-aspirateur-ecovacs-se-vend-a-la-pelle-au-black-friday/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "\"루카\"가 로봇 동료가 되었을 때",
+        "url": "https://www.ecodibergamo.it/stories/premium/economia/quando-luca-e-un-collega-robot-o_3999965_11/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "로봇 대회 참가 태국 학생들, 두 차례 항공편 취소 겪어",
+        "url": "https://www.bangkokpost.com/thailand/general/3359276/thai-students-at-robot-games-endure-twin-flight-cancellations",
         "cat": "시장"
       }
     ],
     "global": [
       {
+        "date": "2026-11-22",
+        "title": "AirOne Robotics Fined ₹10 Lakh for Misleading Anti",
+        "url": "https://www.lokmattimes.com/technology/airone-robotics-fined-rs10-lakh-for-misleading-anti-drone-gun-listing-on-indiamart-a001-w02/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "CCPA slaps ₹10 lakh fine on firm for selling ‘anti-drone gun’ on IndiaMART",
+        "url": "https://www.thehindu.com/news/national/ccpa-slaps-10-lakh-fine-on-firm-for-selling-anti-drone-gun-on-indiamart/article71731049.ece",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "CCPA slaps Rs 10 lakh fine on firm for selling 'anti-drone gun' on IndiaMART",
+        "url": "https://www.deccanherald.com/india/ccpa-slaps-rs-10-lakh-fine-on-firm-for-selling-anti-drone-gun-on-indiamart-4227342",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "DataBeyond Showcases AI Sorting Solutions for Circular Supply Chains at COP31",
+        "url": "https://www.manilatimes.net/2026/11/22/tmt-newswire/pr-newswire/databeyond-showcases-ai-sorting-solutions-for-circular-supply-chains-at-cop31/2475633",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-22",
+        "title": "17L UP youths trained under PM’s skill mission initiative: Yogi",
+        "url": "https://timesofindia.indiatimes.com/city/lucknow/17l-up-youths-trained-under-pms-skill-mission-initiative-yogi/articleshow/136062666.cms",
+        "cat": "정책"
+      },
+      {
         "date": "2026-11-21",
         "title": "China wants to win the AI race and become self-reliant. What is its strategy?",
         "url": "https://www.firstpost.com/business/china-ai-strategy-technological-self-reliance-industrial-policy-usa-rivalry-14061700.html",
-        "cat": "정책"
+        "cat": "경쟁"
       },
       {
         "date": "2026-11-21",
@@ -93,48 +123,18 @@
         "date": "2026-11-21",
         "title": "Why The World Looks At Bengaluru: DK Shivakumar On Talent, AI And Karnataka's Growth",
         "url": "https://www.timesnownews.com/india/why-the-world-looks-at-bengaluru-dk-shivakumar-on-talent-ai-and-karnatakas-growth-article-156545308",
-        "cat": "정책"
+        "cat": "경쟁"
       },
       {
         "date": "2026-11-21",
         "title": "Former No Name Restaurant to become marine robotics hub",
         "url": "https://www.boston.com/news/local-news/2026/11/20/former-no-name-restaurant-to-become-marine-robotics-hub/",
-        "cat": "시장"
+        "cat": "기술"
       },
       {
         "date": "2026-11-20",
         "title": "Shivaji University Kolhapur to set up AI & robotics R&D centre, benefit 100 schools",
         "url": "https://timesofindia.indiatimes.com/city/kolhapur/shivaji-university-kolhapur-to-set-up-ai-robotics-rd-centre-benefit-100-schools/articleshow/136036837.cms",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "NBP empowers future innovators with AI, robotics lab at Abbottabad Public School",
-        "url": "https://www.nation.com.pk/21-Nov-2026/nbp-empowers-future-innovators-ai-robotics-lab-abbottabad-public-school",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "Neato expands its customer compensation programme for customers across Europe",
-        "url": "https://www.europapress.es/comunicados/empresas-00908/noticia-comunicado-neato-expands-its-customer-compensation-programme-for-customers-across-europe-20261120172949.html",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "EXCLUSIVE-ABB considers robotics listing if sale to SoftBank fails, sources say",
-        "url": "https://www.devdiscourse.com/article/international/4010076-exclusive-abb-considers-robotics-listing-if-sale-to-softbank-fails-sources-say",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "The Next Phase of Robotics: From Technological Progress to Real-World Impact",
-        "url": "https://interestingengineering.com/ai-robotics/the-next-phase-of-robotics-pudu",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-20",
-        "title": "Phantom MKII: Foundation unveils 2nd",
-        "url": "https://interestingengineering.com/ai-robotics/us-foundation-phantom-mkii-humanoid-robot",
         "cat": "기술"
       }
     ]
