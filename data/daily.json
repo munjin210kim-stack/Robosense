@@ -1,92 +1,122 @@
 {
-  "asOfDate": "2026.11.25",
+  "asOfDate": "2026.11.27",
   "fx": {
     "usdkrw": 1345
   },
   "briefing": {
-    "dateLabel": "2026.11.25 (수)",
-    "headline": "블랙프라이데이 시즌을 맞이한 소비자용 로봇 시장의 확대와 함께 휴머노이드 및 피지컬 인공지능 분야의 기술 혁신이 가속화되고 있습니다.",
-    "summary": "에코백스 등 주요 브랜드의 대대적인 로봇 제품 할인으로 소비자 접근성이 높아지는 가운데, 호텔 컨시어지 휴머노이드 로봇 상용화와 피지컬 인공지능 전문 인재 양성 등 로봇 산업 생태계 전반이 빠르게 확장되고 있습니다.",
+    "dateLabel": "2026.11.27 (금)",
+    "headline": "엔비디아와 엑스펑 등 주요 기업의 휴머노이드 로봇 출시와 물리적 인공지능 혁신이 시장을 주도하고 있습니다.",
+    "summary": "호텔 서비스부터 가정용 분야까지 휴머노이드 로봇의 대중화가 가속화되는 가운데 물리적 인공지능 기술의 상용화 경쟁이 치열해지고 있습니다.",
     "points": [
-      "YYForce가 엔비디아 젯슨과 아이작 심 플랫폼을 활용하여 호텔 컨시어지 서비스를 수행하는 상용 휴머노이드 로봇을 공식 선보였습니다.",
-      "에코백스를 비롯한 주요 가전 브랜드들이 블랙프라이데이를 맞아 로봇청소기와 로봇 잔디깎이 라인업을 역대 최저가 수준으로 할인 판매하며 시장 점유율 확대에 나섰습니다.",
-      "인도 공과대학교가 로봇공학과 피지컬 인공지능 및 우주 기술 분야의 미래 전문 인력 양성을 위해 6천 명 규모의 신규 입학 정원 증원을 발표했습니다."
+      "와이와이포스가 엔비디아 젯슨과 아이작 심을 활용해 개발한 호텔 컨시어지 서비스 전용 휴머노이드 로봇을 공식 출시했습니다.",
+      "엑스펑이 보급형 전기차 수준의 가격 경쟁력을 갖춘 가정용 휴머노이드 로봇 보급 계획을 발표했습니다.",
+      "엑스펑이 튜링 피지컬 인공지능 아키텍처 버전 3.0과 함께 차세대 범용 휴머노이드 로봇 아이언을 최초 공개했습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-24",
-        "title": "해저 6km 심해구를 탐사하는 로봇이 폭발성 화산 가능성을 시사하는 기하학적 지형을 발견했다",
-        "url": "https://www.iflscience.com/robot-exploring-the-oceans-deepest-trench-finds-geometric-shapes-that-hint-at-the-impossible-explosive-volcanoes-6-kilometers-under-the-sea-85266",
+        "date": "2026-11-26",
+        "title": "YY포스, 엔비디아 젯슨 및 아이작 심 기반 호텔 컨시어지용 휴머노이드 로봇 출시",
+        "url": "https://www.manilatimes.net/2026/11/26/tmt-newswire/globenewswire/update-yyforce-nasdaq-yfor-launches-trained-humanoid-robot-for-hotel-concierge-service-using-nvidia-jetson-and-isaac-sim/2478679",
         "cat": "기술"
       },
       {
-        "date": "2026-11-24",
-        "title": "에코백스 라이다 프로 로봇 잔디깎이 3종, 블랙프라이데이 맞아 949달러부터 최저가 판매",
-        "url": "https://9to5toys.com/2026/11/24/ecovacs-lidar-pro-robot-lawn-mowers-black-friday/",
+        "date": "2026-11-26",
+        "title": "이번 주의 화제: 인공지능의 뒤를 이어 이제는 로봇의 시대인가?",
+        "url": "https://www.zonebourse.com/actualite-bourse/le-thread-de-la-semaine-apres-l-ia-place-aux-robots--ce7851d8d080f024",
         "cat": "시장"
       },
       {
-        "date": "2026-11-24",
-        "title": "인공지능: 대화형 로봇이란 무엇인가?",
-        "url": "https://www.ouest-france.fr/high-tech/intelligence-artificielle/intelligence-artificielle-cest-quoi-un-robot-conversationnel-220ddbae-e7f7-11f1-9b33-2f81462d3339",
+        "date": "2026-11-26",
+        "title": "허스크바나 로봇 잔디깎이, 최근까지 미국 내 사용 불법이었을 가능성 제기",
+        "url": "https://www.slashgear.com/2316532/fcc-lifes-bans-husqvarna-robot-mowers/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-26",
+        "title": "엑스펑, 전기차 가격 수준의 가정용 휴머노이드 로봇 선보일 예정",
+        "url": "https://www.journaldugeek.com/2026/11/26/fin-des-taches-menageres-xpeng-veut-proposer-un-robot-humanoide-qui-sen-occupe-au-prix-dune-voiture-electrique/",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-26",
+        "title": "장애인의 업무를 돕는 9인치 크기의 관광 가이드 로봇 개발",
+        "url": "https://www.diariocordoba.com/tendencias21/2026/11/26/robot-guia-turistico-9-pulgadas-136884104.html",
         "cat": "기술"
       },
       {
-        "date": "2026-11-24",
-        "title": "2026년 블랙프라이데이 특가: 에코백스 인기 로봇 X12S 옴니사이클론 400유로 할인 진행",
-        "url": "https://www.bfmtv.com/tech/bons-plans/bon-plan-black-friday-2026-le-robot-star-d-ecovacs-x12s-omni-cyclone-profite-d-une-reduction-de-400-euros_AB-202611240693.html",
+        "date": "2026-11-26",
+        "title": "블랙프라이데이를 기다릴 필요 없는 로봇청소기 파격 창고 방출 할인",
+        "url": "https://www.bfmtv.com/tech/bons-plans/destocke-par-palettes-cet-aspirateur-robot-se-vend-sans-scrupule-inutile-d-attendre-le-black-friday_AB-202611260099.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-24",
-        "title": "로봇 제어용 인공지능 프로그램 가동으로 로봇 분야의 혁명이 시작된다",
-        "url": "https://www.ecodibergamo.it/stories/premium/scienza-e-tecnologia/al-via-i-programmi-di-ia-per-controllare-i-robot-si-prepara-una-rivoluzione-o_4001373_11/",
-        "cat": "기술"
+        "date": "2026-11-26",
+        "title": "크리스마스 파티 호스트를 위한 비밀무기, 조리로봇 블랙프라이데이 할인 판매",
+        "url": "https://www.elespanol.com/imprescindibles/20261126/anfitrion-navidad-robot-cocina-secreto-mejor-guardado-descuento-black-friday/1003744473393_0.html",
+        "cat": "시장"
       },
       {
-        "date": "2026-11-24",
-        "title": "YYForce, 엔비디아 젯슨 및 아이작 심 기반의 호텔 컨시어지용 휴머노이드 로봇 출시",
-        "url": "https://www.manilatimes.net/2026/11/24/tmt-newswire/globenewswire/yyforce-nasdaq-yfor-launches-trained-humanoid-robot-for-hotel-concierge-service-using-nvidia-jetson-and-isaac-sim/2477101",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-24",
-        "title": "이번 블랙프라이데이 최고의 로봇청소기 할인: 다이슨, 로보락, 드림, 샤크 파격 할인가 판매",
-        "url": "https://www.techradar.com/seasonal-sales/black-friday-robot-vacuum-deals-2026-nov-23",
+        "date": "2026-11-26",
+        "title": "르판트 M210 프로 옴니 소형 물걸레 로봇청소기, 블랙프라이데이 맞이 183유로 특가 판매",
+        "url": "https://www.igen.fr/services/2026/11/lefant-m210-pro-omni-le-robot-laveur-compact-passe-183-eu-pour-le-black-friday-159335",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-11-24",
-        "title": "West Midlands teenager Suleymaan Khan beat 20,000 entries worldwide to win Alibaba's $200,000 CoCreate Pitch prize for SuleyNova Robotics, the coding kit brand he built after teaching himself to code",
-        "url": "https://timesofindia.indiatimes.com/world/uk/west-midlands-teenager-suleymaan-khan-beat-20000-entries-worldwide-to-win-alibabas-200000-cocreate-pitch-prize-for-suleynova-robotics-the-coding-kit-brand-he-built-after-teaching-himself-to-code/articleshow/136134855.cms",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-24",
-        "title": "FocalPoint extends S-GNSS® to physical AI platforms dependent on reliable positioning",
-        "url": "https://www.nugget.ca/press-releases/pr-newswire/focalpoint-extends-s-gnss-to-physical-ai-platforms-dependent-on-reliable-positioning/",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-24",
-        "title": "IIT Admissions 2027: 6,000 New Seats In Robotics, Physical AI And Space Technology Announced",
-        "url": "https://www.timesnownews.com/education/iit-admissions-2027-6000-new-seats-in-robotics-physical-ai-and-space-technology-announced-article-156559993",
-        "cat": "정책"
-      },
-      {
-        "date": "2026-11-24",
-        "title": "AssetBuilt Announces Major Two-Day Global Auction of Akebono Automotive Brake Manufacturing Equipment in Kentucky",
-        "url": "https://www.manilatimes.net/2026/11/24/tmt-newswire/globenewswire/assetbuilt-announces-major-two-day-global-auction-of-akebono-automotive-brake-manufacturing-equipment-in-kentucky/2477145",
+        "date": "2026-11-26",
+        "title": "Small caps to watch: Updates from Rogers Sugar, Blue Ant Media, Kraken Robotics, Adentra and more",
+        "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-small-caps-to-watch-updates-from-rogers-sugar-blue-ant-media-kraken/",
         "cat": "시장"
       },
       {
-        "date": "2026-11-24",
-        "title": "YYForce (NASDAQ: YFOR) Launches Trained Humanoid Robot for Hotel Concierge Service Using NVIDIA Jetson and Isaac Sim",
-        "url": "https://www.manilatimes.net/2026/11/24/tmt-newswire/globenewswire/yyforce-nasdaq-yfor-launches-trained-humanoid-robot-for-hotel-concierge-service-using-nvidia-jetson-and-isaac-sim/2477101",
+        "date": "2026-11-26",
+        "title": "UPDATE: YYForce (NASDAQ: YFOR) Launches Trained Humanoid Robot for Hotel Concierge Service Using NVIDIA Jetson and Isaac Sim",
+        "url": "https://www.manilatimes.net/2026/11/26/tmt-newswire/globenewswire/update-yyforce-nasdaq-yfor-launches-trained-humanoid-robot-for-hotel-concierge-service-using-nvidia-jetson-and-isaac-sim/2478679",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-26",
+        "title": "Jana Tian and Sam Dugan slept in a camper beside Canadian cornfields in 2024 to build fertilizer-saving robots; two years later, their startup has raised $7.5 million and has over 200 farms on its wai",
+        "url": "https://economictimes.indiatimes.com/world/business/jana-tian-and-sam-dugan-slept-in-a-camper-beside-canadian-cornfields-in-2024-to-build-fertilizer-saving-robots-two-years-later-their-startup-has-raised-7-5-million-and-has-over-200-farms-on-its-waitlist/articleshow/136193997.cms",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-26",
+        "title": "University of Hong Kong launches robotics engineering programme; Indian students with 93% in CBSE, ISC can apply",
+        "url": "https://indianexpress.com/article/education/study-abroad/university-of-hong-kongs-launches-robotics-engineering-programme-indian-students-with-93-in-cbse-isc-can-apply-10979193/",
+        "cat": "정책"
+      },
+      {
+        "date": "2026-11-26",
+        "title": "CIExpo 2026 Concludes Successfully with 33,000 Attendances Showcasing Innovation and Passing on Construction Excellence",
+        "url": "https://www.manilatimes.net/2026/11/26/tmt-newswire/pr-newswire/ciexpo-2026-concludes-successfully-with-33000-attendances-showcasing-innovation-and-passing-on-construction-excellence/2478498",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-26",
+        "title": "Humanoid robots do household chores",
+        "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-26",
+        "title": "XPENG Inc. Unveils Turing Physical AI Architecture VLA 3.0 And Debuts Advanced General-Purpose Humanoid Robot IRON",
+        "url": "https://www.marketscreener.com/news/xpeng-inc-unveils-turing-physical-ai-architecture-vla-3-0-and-debuts-advanced-general-purpose-human-ce7851d8df88f423",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-26",
+        "title": "RoboSense Reports Third Quarter 2026 Unaudited Financial Results, with Robotics LiDAR Sales Volume Ranking No. 1 Globally",
+        "url": "https://www.tribuneindia.com/news/business/robosense-reports-third-quarter-2026-unaudited-financial-results-with-robotics-lidar-sales-volume-ranking-no-1-globally/",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-26",
+        "title": "AUTOCRYPT to Showcase Security Solutions for the Physical AI Era at CES 2027",
+        "url": "https://www.tribuneindia.com/news/business/autocrypt-to-showcase-security-solutions-for-the-physical-ai-era-at-ces-2027/",
         "cat": "기술"
       }
     ]
