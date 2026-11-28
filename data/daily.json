@@ -1,123 +1,135 @@
 {
-  "asOfDate": "2026.11.27",
+  "asOfDate": "2026.11.28",
   "fx": {
-    "usdkrw": 1345
+    "usdkrw": 1335
   },
   "briefing": {
-    "dateLabel": "2026.11.27 (금)",
-    "headline": "엔비디아와 엑스펑 등 주요 기업의 휴머노이드 로봇 출시와 물리적 인공지능 혁신이 시장을 주도하고 있습니다.",
-    "summary": "호텔 서비스부터 가정용 분야까지 휴머노이드 로봇의 대중화가 가속화되는 가운데 물리적 인공지능 기술의 상용화 경쟁이 치열해지고 있습니다.",
+    "dateLabel": "2026.11.28 (토)",
+    "headline": "글로벌 로봇 산업이 대규모 실제 작동 데이터 기반의 학습 고도화와 핵심 부품 기업 인수를 바탕으로 상용화를 가속화하고 있습니다.",
+    "summary": "주요 기술 기업들이 실감형 인공지능 데이터 분석과 핵심 공급망 확보를 통해 차세대 로봇 시장 주도권 경쟁을 본격화하고 있습니다.",
     "points": [
-      "와이와이포스가 엔비디아 젯슨과 아이작 심을 활용해 개발한 호텔 컨시어지 서비스 전용 휴머노이드 로봇을 공식 출시했습니다.",
-      "엑스펑이 보급형 전기차 수준의 가격 경쟁력을 갖춘 가정용 휴머노이드 로봇 보급 계획을 발표했습니다.",
-      "엑스펑이 튜링 피지컬 인공지능 아키텍처 버전 3.0과 함께 차세대 범용 휴머노이드 로봇 아이언을 최초 공개했습니다."
+      "20만 시간 분량의 실제 로봇 작동 데이터를 분석하여 인공지능 로봇의 학습 효율성을 극대화하는 기술 연구 결과가 공개되었습니다.",
+      "중국 모바일 기업 아너가 카메라 구조 재설계 문제로 인해 개발 중이던 차세대 로봇 스마트폰의 출시를 연기했습니다.",
+      "테슬라가 휴머노이드 로봇 옵티머스의 완성도를 높이고 생산 체계를 확장하기 위해 독일의 로봇 제조 부품 기업 인수를 추진하고 있습니다."
     ]
   },
   "news": {
     "kr": [
       {
-        "date": "2026-11-26",
-        "title": "YY포스, 엔비디아 젯슨 및 아이작 심 기반 호텔 컨시어지용 휴머노이드 로봇 출시",
-        "url": "https://www.manilatimes.net/2026/11/26/tmt-newswire/globenewswire/update-yyforce-nasdaq-yfor-launches-trained-humanoid-robot-for-hotel-concierge-service-using-nvidia-jetson-and-isaac-sim/2478679",
+        "date": "2026-11-27",
+        "title": "아너, '로봇 폰 2' 출시 연기 및 카메라 포맷 변경 문제 직면",
+        "url": "https://www.mobilissimo.ro/stiri-telefoane/honor-are-probleme-cu-robot-phone-2-il-amana-si-schimba-formatul-de-camera",
         "cat": "기술"
       },
       {
-        "date": "2026-11-26",
-        "title": "이번 주의 화제: 인공지능의 뒤를 이어 이제는 로봇의 시대인가?",
-        "url": "https://www.zonebourse.com/actualite-bourse/le-thread-de-la-semaine-apres-l-ia-place-aux-robots--ce7851d8d080f024",
+        "date": "2026-11-27",
+        "title": "이번 주 출시 신제품: 하이센스 E7S 미니LED TV, HP 옴니북 울트라 16 등 5종",
+        "url": "https://www.indiatoday.in/technology/features/story/launched-this-week-hisense-e7s-hi-qled-miniled-tv-hp-omnibook-ultra-16-and-3-more-devices-3048487-2026-11-27",
         "cat": "시장"
       },
       {
-        "date": "2026-11-26",
-        "title": "허스크바나 로봇 잔디깎이, 최근까지 미국 내 사용 불법이었을 가능성 제기",
-        "url": "https://www.slashgear.com/2316532/fcc-lifes-bans-husqvarna-robot-mowers/",
+        "date": "2026-11-27",
+        "title": "20만 시간의 실제 로봇 데이터 분석: 효과적인 로봇 학습 경험의 조건",
+        "url": "https://techbullion.com/inside-200000-hours-of-real-robot-data-what-makes-experience-effective/",
+        "cat": "기술"
+      },
+      {
+        "date": "2026-11-27",
+        "title": "나는 어떤 정부 수반 후보와 닮았을까? 정치 성향 테스트와 로봇 몽타주",
+        "url": "https://www.eleconomista.es/actualidad/noticias/14031771/11/26/a-que-candidato-a-presidente-del-gobierno-te-pareces-mas-descubrelo-con-este-test-interactivo.html",
         "cat": "정책"
       },
       {
-        "date": "2026-11-26",
-        "title": "엑스펑, 전기차 가격 수준의 가정용 휴머노이드 로봇 선보일 예정",
-        "url": "https://www.journaldugeek.com/2026/11/26/fin-des-taches-menageres-xpeng-veut-proposer-un-robot-humanoide-qui-sen-occupe-au-prix-dune-voiture-electrique/",
-        "cat": "경쟁"
-      },
-      {
-        "date": "2026-11-26",
-        "title": "장애인의 업무를 돕는 9인치 크기의 관광 가이드 로봇 개발",
-        "url": "https://www.diariocordoba.com/tendencias21/2026/11/26/robot-guia-turistico-9-pulgadas-136884104.html",
-        "cat": "기술"
-      },
-      {
-        "date": "2026-11-26",
-        "title": "블랙프라이데이를 기다릴 필요 없는 로봇청소기 파격 창고 방출 할인",
-        "url": "https://www.bfmtv.com/tech/bons-plans/destocke-par-palettes-cet-aspirateur-robot-se-vend-sans-scrupule-inutile-d-attendre-le-black-friday_AB-202611260099.html",
+        "date": "2026-11-27",
+        "title": "걸레 세척·건조 자동 로봇청소기 300유로 미만 특가 판매 및 작동 원리",
+        "url": "https://www.corriere.it/offerte-recensioni/offerte/black-friday/26_novembre_27/il-robot-aspirapolvere-che-lava-e-asciuga-il-panno-da-solo-oggi-costa-meno-di-300-euro-come-funziona-24d9570d-0adb-455c-a0d4-15f2ff9ffxlk.shtml",
         "cat": "시장"
       },
       {
-        "date": "2026-11-26",
-        "title": "크리스마스 파티 호스트를 위한 비밀무기, 조리로봇 블랙프라이데이 할인 판매",
-        "url": "https://www.elespanol.com/imprescindibles/20261126/anfitrion-navidad-robot-cocina-secreto-mejor-guardado-descuento-black-friday/1003744473393_0.html",
+        "date": "2026-11-27",
+        "title": "소니의 반려견 로봇 '아이보', 정서적 교감과 정서 지원 기능 제공",
+        "url": "https://www.bnnbloomberg.ca/business/company-news/2026/11/27/sonys-dog-robot-cant-do-chores-but-offers-companionship/",
         "cat": "시장"
       },
       {
-        "date": "2026-11-26",
-        "title": "르판트 M210 프로 옴니 소형 물걸레 로봇청소기, 블랙프라이데이 맞이 183유로 특가 판매",
-        "url": "https://www.igen.fr/services/2026/11/lefant-m210-pro-omni-le-robot-laveur-compact-passe-183-eu-pour-le-black-friday-159335",
+        "date": "2026-11-27",
+        "title": "푸틴과 셀카 찍어 화제가 된 인도의 16세 'AI 신동' 라울 존 아주",
+        "url": "https://www.timesnownews.com/lifestyle/people/who-is-raul-john-aju-indias-16-year-old-ai-kid-whose-selfie-with-putin-has-put-him-in-the-global-spotlight-article-156575686",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-27",
+        "title": "로봇에 일상을 맡겨본 후 작성한 로봇 제품별 성능 순위",
+        "url": "https://www.businessinsider.com/robot-services-ranking-list-costs-humanoids-robotaxis-2026-11",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-27",
+        "title": "반려동물 털 제거에 강한 500파운드 로봇청소기, 블랙프라이데이 90파운드 이하 대폭 할인",
+        "url": "https://www.essexlive.news/whats-on/shopping/powerful-pet-hair-500-robot-11258230",
         "cat": "시장"
       }
     ],
     "global": [
       {
-        "date": "2026-11-26",
-        "title": "Small caps to watch: Updates from Rogers Sugar, Blue Ant Media, Kraken Robotics, Adentra and more",
-        "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-small-caps-to-watch-updates-from-rogers-sugar-blue-ant-media-kraken/",
+        "date": "2026-11-27",
+        "title": "Physical AI is the number one priority for labour-intensive enterprises like Sodexo",
+        "url": "https://www.thehindubusinessline.com/info-tech/physical-ai-is-the-number-one-priority-for-labour-intensive-enterprises-like-sodexo/article71751194.ece",
         "cat": "시장"
       },
       {
-        "date": "2026-11-26",
-        "title": "UPDATE: YYForce (NASDAQ: YFOR) Launches Trained Humanoid Robot for Hotel Concierge Service Using NVIDIA Jetson and Isaac Sim",
-        "url": "https://www.manilatimes.net/2026/11/26/tmt-newswire/globenewswire/update-yyforce-nasdaq-yfor-launches-trained-humanoid-robot-for-hotel-concierge-service-using-nvidia-jetson-and-isaac-sim/2478679",
-        "cat": "기술"
+        "date": "2026-11-27",
+        "title": "FF EAI Robotics Ecosystem (FFR) Announces parent company Faraday Future (FFAI) Ownership of Approximately $41 Million in FFR Equity",
+        "url": "https://www.manilatimes.net/2026/11/27/tmt-newswire/pr-newswire/ff-eai-robotics-ecosystem-ffr-announces-parent-company-faraday-future-ffai-ownership-of-approximately-41-million-in-ffr-equity/2479155",
+        "cat": "경쟁"
       },
       {
-        "date": "2026-11-26",
-        "title": "Jana Tian and Sam Dugan slept in a camper beside Canadian cornfields in 2024 to build fertilizer-saving robots; two years later, their startup has raised $7.5 million and has over 200 farms on its wai",
-        "url": "https://economictimes.indiatimes.com/world/business/jana-tian-and-sam-dugan-slept-in-a-camper-beside-canadian-cornfields-in-2024-to-build-fertilizer-saving-robots-two-years-later-their-startup-has-raised-7-5-million-and-has-over-200-farms-on-its-waitlist/articleshow/136193997.cms",
-        "cat": "시장"
-      },
-      {
-        "date": "2026-11-26",
-        "title": "University of Hong Kong launches robotics engineering programme; Indian students with 93% in CBSE, ISC can apply",
-        "url": "https://indianexpress.com/article/education/study-abroad/university-of-hong-kongs-launches-robotics-engineering-programme-indian-students-with-93-in-cbse-isc-can-apply-10979193/",
+        "date": "2026-11-27",
+        "title": "Maharashtra CM Devendra Fadnavis Invites German Industries To Set Up Manufacturing, R&D Centres",
+        "url": "https://www.freepressjournal.in/mumbai/maharashtra-cm-devendra-fadnavis-invites-german-industries-to-set-up-manufacturing-rd-centres",
         "cat": "정책"
       },
       {
-        "date": "2026-11-26",
-        "title": "CIExpo 2026 Concludes Successfully with 33,000 Attendances Showcasing Innovation and Passing on Construction Excellence",
-        "url": "https://www.manilatimes.net/2026/11/26/tmt-newswire/pr-newswire/ciexpo-2026-concludes-successfully-with-33000-attendances-showcasing-innovation-and-passing-on-construction-excellence/2478498",
+        "date": "2026-11-27",
+        "title": "Pudu Robotics Accelerates APAC and Middle East Expansion with 300% Growth and Strengthened Strategic Partnerships",
+        "url": "https://www.prnewswire.co.uk/news-releases/pudu-robotics-accelerates-apac-and-middle-east-expansion-with-300-growth-and-strengthened-strategic-partnerships-302951724.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-26",
-        "title": "Humanoid robots do household chores",
-        "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
-        "cat": "기술"
+        "date": "2026-11-27",
+        "title": "TM partners AGIBOT, Swancor to drive robotics adoption in Malaysia",
+        "url": "https://www.thestar.com.my/business/business-news/2026/11/27/tm-partners-agibot-swancor-to-drive-robotics-adoption-in-malaysia",
+        "cat": "경쟁"
       },
       {
-        "date": "2026-11-26",
-        "title": "XPENG Inc. Unveils Turing Physical AI Architecture VLA 3.0 And Debuts Advanced General-Purpose Humanoid Robot IRON",
-        "url": "https://www.marketscreener.com/news/xpeng-inc-unveils-turing-physical-ai-architecture-vla-3-0-and-debuts-advanced-general-purpose-human-ce7851d8df88f423",
-        "cat": "기술"
+        "date": "2026-11-27",
+        "title": "Tesla moves to acquire German robotics supplier EMAG to boost Optimus",
+        "url": "https://www.thenews.com.pk/latest/1425403-tesla-moves-to-acquire-german-robotics-supplier-emag-to-boost-optimus",
+        "cat": "경쟁"
       },
       {
-        "date": "2026-11-26",
-        "title": "RoboSense Reports Third Quarter 2026 Unaudited Financial Results, with Robotics LiDAR Sales Volume Ranking No. 1 Globally",
-        "url": "https://www.tribuneindia.com/news/business/robosense-reports-third-quarter-2026-unaudited-financial-results-with-robotics-lidar-sales-volume-ranking-no-1-globally/",
+        "date": "2026-11-27",
+        "title": "China’s humanoid robot investment to accelerate, commercial deployment likely in 2027: Morgan Stanley",
+        "url": "https://www.firstpost.com/business/chinas-humanoid-robot-investment-to-accelerate-commercial-deployment-likely-in-2027-morgan-stanley-14063112.html",
         "cat": "시장"
       },
       {
-        "date": "2026-11-26",
-        "title": "AUTOCRYPT to Showcase Security Solutions for the Physical AI Era at CES 2027",
-        "url": "https://www.tribuneindia.com/news/business/autocrypt-to-showcase-security-solutions-for-the-physical-ai-era-at-ces-2027/",
-        "cat": "기술"
+        "date": "2026-11-27",
+        "title": "Who is Raul John Aju? India’s ‘AI Kid’ who made his first video at 9 and clicked a selfie with Vladimir Putin",
+        "url": "https://www.livemint.com/news/india/who-is-raul-john-aju-india-s-ai-kid-who-made-his-first-video-at-9-and-clicked-a-selfie-vladimir-putin-11795773503554.html",
+        "cat": "시장"
+      },
+      {
+        "date": "2026-11-27",
+        "title": "Pudu Robotics and Khidmah Sign Agreement to Advance Collaboration in Smart Facility Management",
+        "url": "https://www.prnewswire.co.uk/news-releases/pudu-robotics-and-khidmah-sign-agreement-to-advance-collaboration-in-smart-facility-management-302951688.html",
+        "cat": "경쟁"
+      },
+      {
+        "date": "2026-11-27",
+        "title": "Meet 10 Robotics Companies That Raised the Most Money in 2026 (so Far)",
+        "url": "https://www.businessinsider.com/meet-10-robotics-companies-that-raised-most-money-2026-far-2026-11",
+        "cat": "시장"
       }
     ]
   }
